@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Generic news feed. The reader displays whatever this file contains.
+  Update rule:
+  - Prepend new <item> elements, newest first.
+  - Do not duplicate a <guid>.
+  - Put the newest <news:edition> first.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:news="urn:latest-news:1">
+  <channel>
+    <title>Latest</title>
+    <link>latest-news.xml</link>
+    <description>News of relevance. The 11 November 2026 edition, updated again in the evening, has eleven shorts and eleven videos. The latest reports are Meta Muse prices in India and TSMC's record October revenue. Earlier reports cover an Andhra Pradesh data-center approval, a tuberculosis-screening grant, Claude's workplace tools, a Signal proof, car exports, an education debate, and a security interview.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 11 Nov 2026 16:00:35 +0000</lastBuildDate>
+    <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-11">
+      <news:scannedAt>2026-11-11T16:00:35Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-11T21:30:35+05:30</news:scannedAtIst>
+      <news:longFormCount>11</news:longFormCount>
+      <news:shortCount>11</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="U5MyxbLgqh0" published="2026-11-11T15:30:26Z">TSMC posts a record October, and the chyron puts this year's capex at up to $64 billion</news:latestLongForm>
+      <news:method>Spoken captions were available for the three afternoon shorts, the Point Break debate, the Andhra Pradesh, Froncort, and Claude reports, and, on this later pass, the Meta Muse report. Those were summarized from the narration. Sampled frames supplied the lower thirds and the people on screen. For the new clips, maxresdefault.jpg is the poster the channel marks as made with AI assistance, and hq2.jpg and hq3.jpg are broadcast frames. The TSMC report could not be captioned from this network after a bot check, so that item uses the published description and the chyron on hq2.jpg. The Signal report, the car-export report, the Shukla interview, and both live broadcasts still have no caption track here. The evening live's player reported a length of 2 hours 9 minutes, and the title still said live. Promotional posters are not treated as footage. Full video files were not downloaded.</news:method>
+      <news:briefing><![CDATA[
+Later pass, Wednesday 11 November 2026, scanned at 21:30 IST. Since the 20:27 scan, AIM added two video reports and no new shorts. The shorts tab still opens on the insurance-regulator clip from 10:00 IST. One report prices Meta's Muse agent in rupees before an India launch. The other is TSMC's record October.
+
+The morning's through-line: The chip maker is posting a record month, Muse has a rupee price before it can pay in India, and the data center still has to show the jobs and the water.
+
+What was already on the desk at 20:27 IST. After the morning's eight shorts, AIM had posted three more shorts, five video reports of about four or five minutes, and four long shows: a morning Front Page live of 1 hour 37 minutes, a 50-minute Point Break debate, an interview whose chapter list runs to 58 minutes, and an evening Front Page live.
+
+The data-center bet. On Tuesday the Andhra Pradesh cabinet approved a 512-megawatt AI data center at 31,387 crore rupees. Reports put the jobs at about 1,000, roughly two jobs a megawatt. In April the state's IT minister said Google's 1-gigawatt hub in the same city, Visakhapatnam, would create at least two lakh jobs once it is running, and the narration also quotes him at 188,000 to 200,000 direct and indirect jobs, about 200 a megawatt. Experts quoted by The Federal put the Google figure at 20,000 to 30,000, much closer to the cabinet's own ratio on a project half that size. The same sitting approved a robotics and physical AI policy through 2036, a gaming and animation policy through 2031, and changes to the semiconductor fab policy, without incentives or targets in the reports the desk found. Two factory approvals are the comparison: 570 crore rupees and 2,565 jobs, and Ravali Spinners at 237 crore rupees and 1,569 jobs in the Godavari region. Together that is about 807 crore rupees and 4,134 jobs. The data center is about 39 times the money for under a quarter of the jobs. The state wants 6.5 gigawatts of data centers around Visakhapatnam. About six ventures were named, including Google, and Reliance received 25 acres at Bhogapuram. The city gets about 410 million litres of water a day against a demand of 480 million. The minister says data-center water will come from Polavaram on dedicated pipelines and that drinking water will not be touched. A former IAS officer wants an independent water audit. The power items beside the 512-megawatt project were biogas plants, a study of small nuclear reactors, and a 15-megawatt waste-to-energy plant. The desk's take is to publish jobs, power and water for every project already approved before clearing the next one.
+
+Where to send the health worker. Google.org is giving the Pune startup Froncort.AI 2.3 million dollars, plus 200,000 dollars in Google Cloud credits and technical support. The app, mAI-Netra, works offline and in local languages. It does not read a chest X-ray. It combines government health data with Google's Earth AI models and local factors such as settlement density, rainfall and flooding, then flags 300-metre zones so a health worker knows which households to visit. Tuberculosis is first. Malaria, dengue and cholera are among six diseases planned, across up to eight districts in three states and a potential reach of two to three million people. In a Maharashtra TB pilot, AI-guided teams screened 66,095 people and found 10 lab-confirmed cases. A standard campaign screened 177,322 and found 9. That is about 6,610 people screened per lab-confirmed case, against about 19,700. Froncort says the cost per confirmed case fell from about 27.6 lakh rupees to 9.3 lakh, and 92 percent of frontline workers reported a lighter workload. The comparison was not simultaneous, the standard campaign had a mobile X-ray van, and the counts are small. Counting every confirmed case, not only those checked by the same lab test, the AI arm found 15 against 32. The report's conclusion is that the tool may aim the search and has not been shown to find more patients. Froncort is one of 15 organizations in Google.org's 30 million dollar challenge for AI in government.
+
+Claude beside the spreadsheet. Anthropic shipped Claude Sheets, Claude Whiteboards and Claude Data. The example on air runs from a shared whiteboard to a sheet with owners, deadlines and a budget, then to a dashboard drawn from Snowflake or Salesforce, with the team editing the formulas and Claude carrying the context. Claude Meetings, which would join a call and update those documents, is described as coming soon. Adobe and Atlassian can place pieces of their own apps inside Claude. Anthropic's legal team built a Slack tool that flags draft edits against its playbook before a lawyer reads them, and the company says broad marketing reviews fell from three days to about 24 hours. The anchor's warning is that someone still has to notice when the budget adds up and leaves out the largest cost.
+
+Proofs and the export number. A separate report says Google DeepMind used AI to prove key protections in the Signal protocol and marked two existing bugs as insecure. The title puts the work at four weeks, and the evening live's rundown names AlphaProof. Preview frames of the report put two lines on screen: humans reviewed 1 percent of the generated code, and the proofs concern device-level message security. The spoken script for that report, and for the car-export report, could not be retrieved here. The export report, as published, says Indian car exports rose 1.3 percent between April and September, Maruti Suzuki grew 12 percent, and the rest of the industry fell 8 percent. Piyush Goyal wants the industry looking past the home market. The Bharat Mobility Global Expo 2026 is launched, and the chyron repeats a target of 25,000 international visitors.
+
+The long conversations. Point Break, hosted by Antara Gupta, runs 50 minutes with Vishwas Deoskar, CEO of the Indian Institute of Creative Technologies, and Prashant Pandit of Eros AIvidya. The host cites a NITI Aayog figure that 91 percent of graduates work outside their field of study, and later that only 8.25 percent work in roles aligned with their qualification. Deoskar says that gap is old, that the school curriculum was built for the IT boom, and that India graduates more than 3.75 lakh engineers. He will not say CBSE has already pushed AI into class 3, because he has not read that curriculum in detail. He does say teachers have to retrain, because the lecture is already on the student's phone. Pandit is talking to the Maharashtra board, which he puts at 1.4 crore students in classes 9 to 12. His sequence is to train the teachers, refresh the syllabus every six months, and open an Eros Universe app in the first week of December so students practice on characters and songs from a library he puts at 12,000 films. Eros still makes six to seven movies a year and teaches on those shoots. He says NSDC has accredited 37 six-month creative-media certificates, Miranda House will launch 15 courses with Eros from 1 January, and degree talks are on with Malla Reddy, DY Patil and others. He is also discussing an AI exam pipeline with two state boards: ten generated papers, a four-teacher review on camera, the chosen paper released about half an hour before the exam, scripts scanned to Chennai the same day, and mark sheets in seven days. He says internal tests with IIT Madras engineers reached 99.9 percent, and that a live pilot would still be marked by hand beside the machine. On smaller cities he cites an unnamed online platform with a turnover of almost 2,300 crore rupees, 60 percent of it IIT and IIM courses. Deoskar's answer on access is that more than 70 crore smartphones are in regular use, and that AI should be added to the curriculum rather than used as a reason to drop the basics.
+
+What the lives added. Sudhi Sachdev's interview with Sandeep Shukla, director of IIIT Hyderabad, is the long cut behind this morning's shorts on fundamentals, fresher hiring and threat models. The title and the chyron say AI agents reached live Indian systems with passwords and keys left in plain text, and that nobody noticed. The published chapters run from a CERT-In advisory through the DPDP Act, bug bounties, prompt injection, phishing, an NPCI agreement dated 24 October, and India's quantum mission. The caption track for that hour was blocked, so this edition does not fill in what he said chapter by chapter. A new short at 10:00 IST is Shukla on a framework for the insurance regulator that he says was finalized on Tuesday and will be released soon. Tier the application, test it, check the decision or the document, and own the mistake. He says the line is the same one he expects from the RBI: the buck stops at a human. The morning live, from 10:22 IST, lists stories that mostly became the morning shorts, plus four that did not: Microsoft stepping back from renting AI compute from Oracle and tightening oversight of neocloud projects, a five-year Hexaware contract with the European Bank for Reconstruction and Development, LTM and ServiceNow expanding agent deployments, and the launch of Claude Fable 5.2 and Mythos 5.2. Preview frames of that live land on the Shukla interview. The evening live, posted at 18:28 IST, uses the Visakhapatnam poster. On this pass the player reported a length of 2 hours 9 minutes and the title still said live. Captions were still unavailable. Its rundown includes Meta's Muse prices and TSMC's record October, both now posted as their own reports, and DeepMind's Gemini Robotics 2.5 in Mercedes-Benz factories, which still has no clip of its own. The live's published list states TSMC's October revenue as 17.8 billion dollars.
+
+Still in this file from the morning. The first eight shorts cover film teaching on live sets, why programming fundamentals still matter, AI threat models, the Starbase build, a machine-checked Fermat proof, Coforge's Grok rollout through Momentum Blue, the youth employment numbers, and Salesforce's small-business kit. The film, teacher and tier-city shorts are cuts from the Point Break debate. The Shukla shorts are cuts from the interview.
+      ]]></news:briefing>
+    </news:edition>
+
+
+    <item>
+      <title>TSMC posts a record October, and the chyron puts this year's capex at up to $64 billion</title>
+      <link>https://www.youtube.com/watch?v=U5MyxbLgqh0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=U5MyxbLgqh0</guid>
+      <pubDate>Wed, 11 Nov 2026 15:30:26 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>U5MyxbLgqh0</news:videoId>
+      <news:publishedIst>2026-11-11T21:00:26+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/U5MyxbLgqh0/hq2.jpg"/>
+      <description><![CDATA[
+<p>TSMC reported its highest monthly revenue in October 2026, the published report says: 587 billion Taiwan dollars, up nearly 60 percent in a year, with data-center chips named as the driver. The spoken script could not be retrieved from this network, so the figures below are the ones in the video's own description and on the chyron. A separate lower third says the company plans up to 64 billion dollars of capital spending.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The title and description say October revenue was 587 billion Taiwan dollars, the highest monthly revenue the company has reported, up nearly 60 percent from a year earlier.</li>
+<li>The description says the jump was fueled by demand for advanced silicon, and that data-center chips remain a main engine.</li>
+<li>Cumulative revenue for the first ten months of 2026 is given as 4.49 trillion Taiwan dollars. The description does not give the year-to-date growth rate.</li>
+<li>The evening live's published list states the same October as 17.8 billion dollars. That dollar figure is not in this clip's description.</li>
+<li>A broadcast frame's lower third reads "TSMC OCTOBER REVENUE HITS RECORD" and "TSMC PLANS UP TO $64 BILLION CAPEX." The capex line is on screen. It was not available as spoken narration here.</li>
+<li>The report is a Front Page briefing. Length was not available, because the player blocked the request that would have returned it.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>hq2.jpg shows a woman anchor at the desk beside a shot of the red TSMC logo on a building, under those two lower-third lines. hq3.jpg is the same anchor alone, with no lower third. The poster, which the channel marks as AI-assisted, shows a TSMC building, a wafer, an AI-chip graphic, and the line "TSMC OCTOBER REVENUE HITS RECORD." The portrait on that poster is not named in the description.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Meta lists Muse at 1,799 and 8,999 rupees in India before the launch</title>
+      <link>https://www.youtube.com/watch?v=TF6U7V58Xsg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=TF6U7V58Xsg</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:23 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>TF6U7V58Xsg</news:videoId>
+      <news:publishedIst>2026-11-11T20:30:23+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/TF6U7V58Xsg/hq2.jpg"/>
+      <description><![CDATA[
+<p>Meta has India prices up for its personal AI agent Muse even though Indian users cannot officially use it yet. The report, just under three minutes, says the useful test is not whether Muse can plan a trip. It is whether Muse can complete the booking, safely, and with permission. The prices come from The Hindu's reading of Meta's subscription page, and Meta has not confirmed them.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The narration says Indian users cannot officially access Muse as of this report. A lower third says the India launch date is still unknown. Users are still being placed on a wait list.</li>
+<li>According to The Hindu, Meta's Muse subscription page lists 1,799 rupees for the power tier and 8,999 rupees for the maximum tier. The anchor calls the top tier nearly 9,000 rupees.</li>
+<li>Subscriptions billed through Google Play or Apple may cost slightly more. Meta has not confirmed that the prices are final, and the billing period for the India amounts has not been specified. Meta did not respond to the newspaper's queries.</li>
+<li>Muse launched in September. It is built to take action, not only to answer questions: sending and managing email, planning travel, filling forms, and making bookings. People can use the Muse app or WhatsApp.</li>
+<li>Meta says Muse runs on a dedicated cloud computer, with controls so a user can review and approve important actions.</li>
+<li>The Hindu reports that Muse crossed 10 million downloads in its first two months.</li>
+<li>The agent cannot currently get authorization to make card payments for Indian users, because the payment-processor integrations are not available there. The narration says charging premium prices before local access and payments are in place could be difficult, and that WhatsApp is Meta's distribution advantage in India. India, it says, needs an agent that can get things done.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>hq2.jpg shows a male anchor in a white shirt and glasses at the desk. The lower third reads "META MUSE PRICES SURFACE IN INDIA" and "INDIA LAUNCH DATE STILL UNKNOWN." hq3.jpg is the same anchor alone, with no lower third. The poster, which the channel marks as AI-assisted, shows a Meta Muse logo, a mascot, a map of India, and the prices line. It is not treated as footage.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Andhra Pradesh clears a 512 MW AI data center, and the job math splits from the Google claim</title>
+      <link>https://www.youtube.com/watch?v=AppE_kyL4Ng</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=AppE_kyL4Ng</guid>
+      <pubDate>Wed, 11 Nov 2026 14:30:31 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>AppE_kyL4Ng</news:videoId>
+      <news:publishedIst>2026-11-11T20:00:31+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/AppE_kyL4Ng/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>On Tuesday the Andhra Pradesh cabinet approved a 512-megawatt AI data center costing 31,387 crore rupees. Reports put the jobs at about 1,000. The state's IT minister has said Google's 1-gigawatt hub in Visakhapatnam would create at least two lakh jobs. The report sets those claims side by side, then looks at water, power and the factory projects cleared in the same sitting. This is a five-minute Front Page report.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The cabinet cleared a 512-megawatt AI data center at 31,387 crore rupees. Reports put employment at about 1,000, which the narration works out to about two jobs a megawatt.</li>
+<li>In April the state's IT minister said Google's 1-gigawatt hub in the same city would create at least two lakh jobs. The narration also quotes a running figure of 188,000 to 200,000 direct and indirect jobs once the hub is operating, about 200 jobs a megawatt. Both numbers come from the same state.</li>
+<li>Experts quoted by The Federal put the Google jobs figure at 20,000 to 30,000. The cabinet's own number for a data center about half that size sits much closer to the experts than to two lakh.</li>
+<li>The same meeting approved a robotics and physical AI policy through 2036, a gaming and animation policy through 2031, and changes to the semiconductor fab policy. The reports the desk found did not include the incentives or the targets, so the narration calls the policies promises for now.</li>
+<li>Two factory approvals are the jobs comparison. One is 570 crore rupees and 2,565 jobs at Rambilli. Ravali Spinners is 237 crore rupees and 1,569 jobs in the Godavari region. That is about 22 lakh and 15 lakh rupees of investment per job. Together, about 807 crore rupees and 4,134 jobs. The data center is about 39 times the investment for under a quarter of the jobs.</li>
+<li>Land does not always become a factory. At Naidupeta, where a 4,000-crore advanced-materials plant was cleared, the cabinet took back land it had earlier given to Websol Renewables and Metro Decorative.</li>
+<li>The state wants 6.5 gigawatts of data centers around Visakhapatnam. About six ventures were named, including Google and Reliance. Reliance received 25 acres at Bhogapuram on Tuesday.</li>
+<li>The city gets about 410 million litres of water a day against a demand of 480 million litres. The minister says data-center water will come from Polavaram through dedicated pipelines and that drinking water will not be touched. A former IAS officer, whose name the caption did not render cleanly, wants an independent water audit.</li>
+<li>On power, the cabinet approved biogas plants, a study of small nuclear reactors, and a 15-megawatt waste-to-energy plant. The narration calls those sensible and small beside a 512-megawatt data center.</li>
+<li>The Front Page take: the state has moved faster than most on land and policy, and a bet this size needs honest numbers. Before the next project is cleared, publish the jobs, the power and the water for every project already approved.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>A sampled frame shows the anchor at the desk and a lower third reading "AP approves 31,387 cr data center" and "State targets 6.5 GW data center capacity," beside coastal footage with a Google mark. The published poster is a separate image. The channel says its thumbnails are made with AI assistance and are representational: this one places a portrait in front of a rendered Visakhapatnam data-center building labeled 31,387 crore and 512 MW. The portrait is not named on the poster.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>DeepMind says it proved key Signal protections, with humans reviewing 1 percent of the code</title>
+      <link>https://www.youtube.com/watch?v=SMzLXUDfHXY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=SMzLXUDfHXY</guid>
+      <pubDate>Wed, 11 Nov 2026 14:00:19 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>SMzLXUDfHXY</news:videoId>
+      <news:publishedIst>2026-11-11T19:30:19+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/SMzLXUDfHXY/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Google DeepMind says it used AI to prove key security properties of the Signal protocol and to mark two previously existing bugs as insecure. The title puts the work at four weeks. The spoken script could not be retrieved from this network, so the detail below is the published description plus the lines actually on screen.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The published description says researchers used AI to analyze the Signal protocol and identified two existing bugs as insecure. The claim is that automated formal verification can check that the code on a user's device provides the protections it is supposed to.</li>
+<li>The video title says the key protections were proved in four weeks.</li>
+<li>A lower third on a preview frame reads "DeepMind verifies Signal protocol code" and, under it, "Humans reviewed 1% of generated code."</li>
+<li>A second preview frame keeps the same headline and changes the second line to "Proofs verify device-level message security."</li>
+<li>The evening Front Page rundown names AlphaProof as the system used on Signal. That name is in the live broadcast's published description and on the AI-assisted poster. It is not something this scan could confirm from the narration.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The preview frames are a two-shot. The anchor is on the left with a laptop. A bald guest with glasses sits at a microphone on the right. He is not named in the frames that were available. The lower third carries the Signal lines above. The poster is the channel's AI-assisted thumbnail: a DeepMind building, a Signal phone, an AlphaProof graphic, and two boxes marked as historical bugs. Treat that poster as a graphic, not as a frame from the report.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Google.org puts $2.3 million into Froncort.AI to aim TB screening</title>
+      <link>https://www.youtube.com/watch?v=__BFU7udhD0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=__BFU7udhD0</guid>
+      <pubDate>Wed, 11 Nov 2026 13:00:12 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>__BFU7udhD0</news:videoId>
+      <news:publishedIst>2026-11-11T18:30:12+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/__BFU7udhD0/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Google.org is backing the Pune startup Froncort.AI with 2.3 million dollars so health workers can be sent to the neighborhoods where tuberculosis is more likely, instead of screening everyone. The report's own caveat is that the pilot has not shown the tool finds more patients. This is a four-minute Front Page report. The company name is Froncort.AI on the lower third. The automatic caption garbles it.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The grant is 2.3 million dollars from Google.org, plus 200,000 dollars in Google Cloud credits and technical support, to expand an AI disease-screening platform.</li>
+<li>The app is mAI-Netra. It is offline, in local languages, and built for frontline health workers. It tells them where to go rather than screening everyone.</li>
+<li>It combines government health data with Google's Earth AI models and local factors, including settlement density, rainfall and flooding, and flags high-risk zones of about 300 metres. It then plans household visits and routes.</li>
+<li>Tuberculosis comes first. Six diseases are planned, including malaria, dengue and cholera. The stated reach is up to eight districts in three states, potentially two to three million people.</li>
+<li>In a pilot with the Maharashtra state TB programme, AI-guided teams screened 66,095 people and found 10 lab-confirmed cases. A standard campaign screened 177,322 people and found 9. The anchor's ratios are about 6,610 people screened per lab-confirmed case, against about 19,700.</li>
+<li>Froncort says the cost per confirmed case fell from about 27.6 lakh rupees to 9.3 lakh rupees, and 92 percent of frontline workers reported a lighter workload.</li>
+<li>The catch, stated in the report: the two campaigns were not run at the same time, the standard campaign had a mobile chest X-ray van and the AI team did not, and the numbers are small. Counting every confirmed case, not only those verified by the same lab test, the AI arm found 15 against 32.</li>
+<li>The conclusion on air: AI may help target screening more efficiently, and it has not yet been shown to find more patients. A larger simultaneous trial is what the anchor says is needed.</li>
+<li>Froncort is one of 15 organizations in Google.org's 30 million dollar AI for government innovation challenge. Unlike tools that read chest X-rays, this one decides where to screen.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>One frame shows the anchor beside street footage of a small team walking, under the lines "Google.org backs Froncort.AI with $2.3M" and "Offline app built for frontline workers." A later frame is the anchor alone on "The Front Page take." The poster, which the channel marks as AI-assisted, shows a community health worker, a phone labeled mAI-NETRA, and a map of TB risk zones with cholera, dengue and malaria listed beside tuberculosis.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Evening Front Page live adds Muse prices, TSMC's record month, and Gemini Robotics</title>
+      <link>https://www.youtube.com/watch?v=fXdltWUxKgw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=fXdltWUxKgw</guid>
+      <pubDate>Wed, 11 Nov 2026 12:58:26 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>fXdltWUxKgw</news:videoId>
+      <news:publishedIst>2026-11-11T18:28:26+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/fXdltWUxKgw/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>The evening Front Page live went up at 18:28 IST under the Visakhapatnam data-center headline. Most of the rundown now has its own report. On this pass the player reported a length of 2 hours 9 minutes, the title still said live, and no caption track was available.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The broadcast's own list: the Andhra Pradesh data center, Piyush Goyal's call for the auto industry to look beyond the domestic market at the Bharat Mobility Global Expo, Google.org's 2.3 million dollars for Froncort.AI, reported Indian prices for Meta's Muse agent, TSMC's record October revenue of 17.8 billion dollars, Google DeepMind's Gemini Robotics 2.5 in Mercedes-Benz factories, Claude's sheets, whiteboards and dashboards, and DeepMind's AlphaProof work on the Signal protocol.</li>
+<li>Muse prices and the TSMC October report now have their own clips, summarized above. The live's list is the place that states the October figure as 17.8 billion dollars. The TSMC clip's own description gives 587 billion Taiwan dollars and does not print the dollar figure.</li>
+<li>Gemini Robotics 2.5 in Mercedes-Benz factories still has no separate clip. This scan has only that line from the live description. It does not have the factory detail.</li>
+<li>The other stories on the list are summarized from their own videos in this edition. The live description asks viewers to put questions in the chat.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The frame YouTube serves for this broadcast is the poster, not a shot of the anchor. It is the same AI-assisted Visakhapatnam image used for the 512-megawatt report: a coastal city marked Vizag, a data-center building labeled 31,387 crore rupees and 512 MW, and a portrait. The channel marks that thumbnail as representational. hq2.jpg and hq3.jpg were not published for this live. No caption track was available, so the spoken script is not in this item.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Anthropic ships Claude sheets, whiteboards and data, and asks what is left of the workbook</title>
+      <link>https://www.youtube.com/watch?v=VIwUIZaum-0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=VIwUIZaum-0</guid>
+      <pubDate>Wed, 11 Nov 2026 12:30:01 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>VIwUIZaum-0</news:videoId>
+      <news:publishedIst>2026-11-11T18:00:01+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/VIwUIZaum-0/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Anthropic has added Claude Sheets, Claude Whiteboards and Claude Data. The report's point is not that Excel died overnight. It is that a team can now start the work inside Claude and only later open the specialist app. This is a four-minute Front Page report. The anchor says Excel survived the night, and then asks why a person opens it in the first place.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The three tools named as shipped are Claude Sheets, Claude Whiteboards and Claude Data. Claude Meetings is described as coming soon. The idea there is that Claude joins a call, takes notes, and updates the documents the team is already working on.</li>
+<li>The product example: a team sketches a launch on a whiteboard. Claude turns the plan into a spreadsheet with owners, deadlines and a budget. When the numbers arrive, Claude Data can pull from sources such as Snowflake or Salesforce and help turn them into a dashboard.</li>
+<li>People can edit the sheet together, change formulas and move between tabs. Claude is supposed to carry the context from the original plan so nobody restates the whole project.</li>
+<li>Anthropic calls the wider move interactive connectors. Partners including Adobe and Atlassian can embed parts of their apps inside Claude. The records can stay in Atlassian while more of the work starts in Claude. The software still does the job. It may no longer be the first tab opened.</li>
+<li>For Microsoft, the test the anchor names is how often people reach for Claude to make a tracker or pull together a report. For a startup that sells one workflow as its whole product, the question is what a customer will still pay extra for if Claude does the basic version.</li>
+<li>Anthropic's own example is its legal team. They built a Slack tool that flags edits against the team's legal playbook before a lawyer reviews the draft. The company says broad marketing reviews fell from three days to about 24 hours.</li>
+<li>The Front Page take: Microsoft can keep the workbook and Atlassian can keep the project record. Claude wants to be the place where a plan becomes something the team can run. Someone still has to spot the case where Claude's budget adds up and leaves out the largest expense.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>A sampled frame shows the anchor at the desk and a lower third reading "Anthropic launches new workplace tools" and "Teams can co-edit AI-generated spreadsheets," with b-roll of people working on laptops at a shared table. The poster is a separate AI-assisted thumbnail of a sample Claude whiteboard, a pie-launch timeline with a prompt asking Claude to map the plan.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>India car exports rise 1.3 percent as Maruti grows 12 percent and the rest fall 8 percent</title>
+      <link>https://www.youtube.com/watch?v=utUQfvGyTSM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=utUQfvGyTSM</guid>
+      <pubDate>Wed, 11 Nov 2026 10:00:03 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>utUQfvGyTSM</news:videoId>
+      <news:publishedIst>2026-11-11T15:30:03+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/utUQfvGyTSM/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Indian car exports rose 1.3 percent between April and September, the published report says. Maruti Suzuki grew 12 percent and the rest of the industry fell 8 percent. Commerce minister Piyush Goyal is using the Bharat Mobility Global Expo to push manufacturers past the home market. The spoken script could not be retrieved here, so the figures are the ones in the video's own description and on the chyron.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Exports rose 1.3 percent between April and September. Maruti Suzuki reported 12 percent growth. The rest of the industry declined 8 percent. The description does not name the source table beyond those figures.</li>
+<li>Piyush Goyal has urged the auto industry to expand beyond the domestic market.</li>
+<li>The Bharat Mobility Global Expo 2026 has been launched. The lower third says the minister's target is 25,000 international visitors. The description states the same target.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>A preview frame shows the anchor and the lines "Bharat Mobility Global Expo 2026 launched" and "Minister targets 25,000 international visitors," beside footage of a worker on a production line. A later frame is the anchor alone at the desk. The poster, marked by the channel as AI-assisted, shows Piyush Goyal and places the expo at Bharat Mandapam, Pragati Maidan, New Delhi. That venue line is on the poster, not in the description this scan could read as narration.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Sandeep Shukla on AI agents that reached live Indian systems with plain-text keys</title>
+      <link>https://www.youtube.com/watch?v=rF_I3YZheQk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=rF_I3YZheQk</guid>
+      <pubDate>Wed, 11 Nov 2026 07:00:26 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>rF_I3YZheQk</news:videoId>
+      <news:publishedIst>2026-11-11T12:30:26+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/rF_I3YZheQk/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Sudhi Sachdev interviews Sandeep Shukla, director of IIIT Hyderabad, on a CERT-In report that AI agents reached live Indian systems using passwords and keys left in plain text. The morning shorts on fundamentals, fresher hiring and threat models are clips of this conversation. The caption track for the full interview was blocked, so the chapter list below is the video's published table of contents, not a summary of each answer. The chapters run to 58:33.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The title and the description state the news peg: CERT-In reported that AI agents reached live Indian systems using passwords and keys left in plain text. Shukla is there to explain the agent risk, prompt injection, phishing and the post-quantum threat.</li>
+<li>The lower third on the preview frames says "Agents in live systems, nobody noticed" and "AI exploits plain text secrecy keys."</li>
+<li>The description says his centre signed an agreement with NPCI on 24 October.</li>
+<li>Published chapters, in order: the CERT-In advisory and cyber hygiene, the DPDP Act and data risk, AI agents versus careless humans, bug-bounty culture in India, attackers and defenders using AI, prompt injection and defences, honey tokens and decoy credentials, threat modeling with AI, AI phishing and how to spot it, the NPCI partnership and UPI fraud, the human in the loop, who trains junior talent, India's quantum mission, and a final message.</li>
+<li>What he says inside those chapters is not repeated here, because the spoken track could not be retrieved. Two of the arguments are already in this morning's shorts, in his own words: students still need the fundamentals to criticize what a model writes, and a person still has to throw out a threat-model scenario the model invented.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The preview frames are a split screen. Sudhi Sachdev, labeled AIM, is on the left in a navy polo. Sandeep Shukla is on the right, labeled Director, IIIT Hyderabad. The lower third carries the plain-text-keys line. The poster is a separate AI-assisted graphic with a CERT-In sign, an "unauthorised access" panel and a quantum-security prop. It is not a frame from the interview.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Point Break asks if degrees still hold once AI enters the classroom</title>
+      <link>https://www.youtube.com/watch?v=OCZbzORarQU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=OCZbzORarQU</guid>
+      <pubDate>Wed, 11 Nov 2026 05:00:09 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>OCZbzORarQU</news:videoId>
+      <news:publishedIst>2026-11-11T10:30:09+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/OCZbzORarQU/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Antara Gupta hosts a 50-minute Point Break debate with Vishwas Deoskar, CEO of the Indian Institute of Creative Technologies, and Prashant Pandit, CEO of Eros Wellness and co-CEO of Eros AIvidya. The question is whether universities are preparing students for an AI-first economy or printing degrees. Three of this morning's shorts are cuts of this conversation: the film-school point, the teacher-retraining point, and the tier-2 cities point.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The host opens with a NITI Aayog figure: 91 percent of graduates end up in jobs unrelated to what they studied. Later she cites the same gap as only about 8.25 percent of graduates working in roles aligned with their qualification. Deoskar says the 8.25 percent figure is old news, not a new AI effect.</li>
+<li>Deoskar says the CBSE curriculum was built for an earlier IT and engineering demand. He works with NCERT, CBSE and IICT, and he says he has not read the AI curriculum in enough detail to confirm that AI has been laid on top of class 3. His line on teachers is that they have no choice but to retrain, because the classroom lecture is already on the student's phone. The foundation still matters. His example, which is also a short, is that smartphones retired the analog phone and the camera phone retired the film camera.</li>
+<li>Pandit says Eros is in talks with the Maharashtra SSC board. He puts that board at 1.4 crore students in classes 9 to 12. He is not trying to start at class 3. The chairman, whom he describes as an IAS officer, wants AI taught where students already use phones. The obstacles he names are schools without reliable internet and teachers who are not equipped.</li>
+<li>His school model has three steps. Train the teachers first. A 9th-standard course is four weeks, 10th is eight, then 16 and 32 weeks as the student moves up. Hand the schools a syllabus Eros says it will refresh every six months. Ship the Eros Universe app in the first week of December, where students make things from characters, songs and dialogue in a library he puts at 12,000 films.</li>
+<li>On why Eros entered education at all, Pandit repeats the point in this morning's film short. Directing, editing and cinematography cannot be taught from theory alone. The institute produces six to seven movies a year and teaches on those live projects.</li>
+<li>He says NSDC, which he describes as having a one-lakh-crore annual budget aimed at trades such as plumbing and electrical work, has now accredited 37 six-month creative-media certificates, including editor, cinematographer and sound engineer. Teachers include industry veterans, and students get time on shoots and on the app. Miranda House, which he says has ranked number one in NIRF for six years, will launch 15 creative-media courses with Eros from 1 January, and has made an exception so the courses are open to men and women. Each batch is also promised seven days abroad, with student exchanges at degree level.</li>
+<li>Degree and master's courses he lists: creative media with AI, OTT film and digital cinema, VFX animation and gaming, entertainment and media, and fashion design. Five degrees, with a four-year master's plus honors. Talks are with Malla Reddy in Hyderabad, DY Patil in Pune, and others including Miranda House. Eight semesters, and the last semester is a full internship. He says Eros chairman Kishore Lulla sat on the UCLA board for 17 years and that the gap he saw is what these courses are meant to close. Eros is also discussing one AI subject inside medicine, dentistry, nursing and pharmacy with Malla Reddy University. Pandit says he has spoken with 10 to 15 leading Indian universities and three or four abroad, and that they were receptive.</li>
+<li>Deoskar on the degree system: more than 3.75 lakh engineers graduate, and they do not all land in IT or manufacturing. He treats a change of track as normal, and he says the parental question is still "is my child a graduate?" IICT was set up by the Union Ministry of Information and Broadcasting, the Maharashtra government, CII and FICCI to feed the creative industry. He puts the global media and entertainment industry at 3.3 trillion dollars and India's revenue share at 2.3 percent. IICT has applied for UGC status as a distinct university. He says only six of those exist. It is also seeking INI status, which needs Parliament. He calls the faculty trainers, not teachers. He says this is his third university, after raising MIT in Pune and others. Practical work is 70 percent and theory 30 percent, judged as a portfolio plus a viva, because parents still want a number. He says IICT is priced at about a third of comparable outside rates because of the government backing, and that its Dolby Atmos theatre is being used for CBFC previews.</li>
+<li>The host cites a Deloitte India finding that 86 percent of surveyed organizations said AI or agentic AI is transforming recruitment, and 72 percent use AI to screen resumes. She also says she believes IIT Pune has made AI allowed by default in coursework. That last point is her statement, not a figure either guest confirmed.</li>
+<li>On exams, Pandit says paper leaks, including NEET, are the problem he is trying to design around, in talks with two state boards. One textbook, chapter-by-chapter mark weights, and his system generates ten papers. A four-teacher board reviews them in his office under CCTV, without phones. At 9:00 the board names which of the ten papers is used for an 11:00 exam. It is encrypted and sent to centers that print it, so the paper exists at the center for about half an hour. Answer sheets are scanned back by 17:00 the same day to a center in Chennai, checked by AI against the board's parameters, and mark sheets are promised in seven days. He wants the first pilot on two subjects, marked both by hand and by the system. He says tests already run with IIT Madras engineers were 99.9 percent successful, and he hopes that leaves a leakage window of about 0 to 1 percent. He says they have approached NEET and expects that conversation next year rather than this year.</li>
+<li>On tier-2 and tier-3 students, Pandit cites an unnamed online platform with a turnover of almost 2,300 crore rupees, 60 percent of it IIT and IIM certificate or degree courses, bought mostly by students who missed the entrance or the campus. He also cites edX at 8 million students last year. He thinks cheap internet and near-universal smartphones close the gap in four to five years if online keeps growing, and he also says the change will be visible in the next two to three years. Deoskar says he has been to Bastar, that more than 70 crore smartphones are in regular use, and that Jio is pushing rates down further. IICT already runs hybrid courses with a contact programme. His warning is that a film made in Bastar and put on YouTube for 500 rupees is not the goal. Treat AI as a tool the student learns to use. A doctor is still needed, and the basics of engineering stay. Revamp the curriculum. Do not throw it out. He says IIT took about 50 years to produce more than 500 CEOs worldwide, and that Japan and South Korea started the anime and manga pipeline about 30 years ago.</li>
+<li>Asked what they would change first if the system were rebuilt, Pandit says the syllabus, the curriculum and the management habit of treating AI as a competitor. A better prompt, he says, is the next step after search, and computers were not a threat in the 1980s either. Deoskar says the system has to stay inclusive: add AI to medicine and engineering, and do not block people who were never given the equipment or the research exposure.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>Sampled frames are a three-shot. Lower thirds name Prashant Pandit, host Antara Gupta, and Vishwas Deoskar. The banner reads "Are Indian schools preparing for AI?" and "CBSE introduces AI curriculum for schools." The poster is a separate AI-assisted image headlined "Is AI making degrees useless?" with an 8.25 percent qualification-aligned-jobs graphic, the figure the host cites, plus the Eros AIvidya and IICT marks.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Morning Front Page live on Microsoft, Oracle, and the stories cut into today's shorts</title>
+      <link>https://www.youtube.com/watch?v=iSH8Vj6GoCI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=iSH8Vj6GoCI</guid>
+      <pubDate>Wed, 11 Nov 2026 04:52:14 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>iSH8Vj6GoCI</news:videoId>
+      <news:publishedIst>2026-11-11T10:22:14+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/iSH8Vj6GoCI/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>The morning Front Page live ran 1 hour 37 minutes from 10:22 IST, under a Microsoft and Oracle headline. Several of the morning shorts are the clipped versions of stories on this broadcast. The spoken script of the live itself could not be retrieved, so the list below is the broadcast's published rundown, and the picture of what was on screen comes from preview frames.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The lead line in the description: Microsoft is winding down its agreement to rent AI computing capacity from Oracle, and it is tightening oversight of neocloud infrastructure projects. No size, date or remaining-capacity figure was available beyond that sentence.</li>
+<li>The rest of the published list: Salesforce positioning Slack as a work platform for Indian businesses, Hexaware's five-year AI contract with the European Bank for Reconstruction and Development, India's 11th place in the Ayre Index of youth AI readiness, Coforge joining SpaceX's AI partner network to deploy Grok, LTM and ServiceNow expanding AI agent deployments, Anthropic's launch of Claude Fable 5.2 and Mythos 5.2, and SemiAnalysis's estimate of SpaceX's data-centre buildout.</li>
+<li>Slack, the youth-readiness numbers, Coforge and Grok, the Fermat and Fable proof work, and the Starbase build are already summarized from this morning's shorts. The Hexaware contract, the LTM and ServiceNow expansion, the Fable 5.2 and Mythos 5.2 product launch, and the Microsoft and Oracle pullback are in the live's list and were not their own shorts in this scan.</li>
+<li>India's 11th place on the Ayre Index is in this live's description. The morning short on the same study gives the 30.4 percent and 85.8 percent figures and does not state the rank.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The poster is an AI-assisted graphic of a hand throwing a switch from on to off between Microsoft and Oracle server racks, with a portrait of Satya Nadella. The preview frames of the broadcast are a different picture. They show Sudhi Sachdev interviewing Sandeep Shukla under the same lower third as the security interview: "Agents in live systems, nobody noticed" and "AI exploits plain text secrecy keys." That conversation was on this live.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>A human has to own the AI outcome in a report for the insurance regulator</title>
+      <link>https://www.youtube.com/watch?v=x6ZVADfStgg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=x6ZVADfStgg</guid>
+      <pubDate>Wed, 11 Nov 2026 04:30:05 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>x6ZVADfStgg</news:videoId>
+      <news:publishedIst>2026-11-11T10:00:05+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/x6ZVADfStgg/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Sandeep Shukla says a report for the insurance regulator, finalized on Tuesday and due out soon, requires someone to own what an AI system produces. The application has to be tiered, tested, and checked after it generates a decision or a document. He says the buck stops at a human. This is a short of about 84 seconds, from the same conversation as this morning's clips.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>He says the report for the insurance regulator was finalized yesterday, relative to this short, and will be released soon. It is an AI governance framework.</li>
+<li>One part of it is tiering. Figure out which tier an AI application sits in, and govern it accordingly.</li>
+<li>Someone has to own the AI's outcomes. He rejects the answer that the AI created it and nobody knows how it happened.</li>
+<li>Ownership means thorough testing, and a thorough check after the system generates a decision, a piece of content, or an artifact, to see that it makes sense. The owner also carries the risk of mistakes.</li>
+<li>He says he is pretty sure the RBI has said the same thing, and that anyone writing an AI governance framework would say it too. The buck stops at a human, not a machine.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>Shukla is on a video call, named on the lower third as director of IIIT Hyderabad. Under him, a hand holds a tablet showing an "AI Verification Audit" graphic: 1,248 total checks, 98.6 percent passed, and a failed "Opportunity Gap" row circled in red. A caption fragment reads "investigation." Those audit numbers are on the graphic. He does not speak them in this short.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Teachers have to retrain when the old tools leave the classroom</title>
+      <link>https://www.youtube.com/watch?v=o0SlibekyGg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=o0SlibekyGg</guid>
+      <pubDate>Wed, 11 Nov 2026 04:00:01 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>o0SlibekyGg</news:videoId>
+      <news:publishedIst>2026-11-11T09:30:01+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/o0SlibekyGg/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Vishwas Deoskar's example, cut from this morning's Point Break debate, is that a new tool retires the old one, so teachers have to upgrade with it. The short is 48 seconds. He is not named on this frame. The words match his answer in the full debate.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>When smartphones arrived, analog phones went out. When phones carried three cameras, the film camera went out.</li>
+<li>Something has to leave because it no longer fits the technology in use.</li>
+<li>If people have to upgrade, teachers have to upgrade too. In the full debate he ties this to class 3, 4 and 5, and he says he has not himself read the CBSE AI curriculum in detail.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The frame is a wooden table with a film camera, its back open, a roll of 35mm film marked 200, and a phone face-down so the triple-camera array is visible. The on-screen caption is the single word "cameras."</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Online courses can bring tier-2 and tier-3 cities level with the metros</title>
+      <link>https://www.youtube.com/watch?v=9PAR5j1swOI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=9PAR5j1swOI</guid>
+      <pubDate>Wed, 11 Nov 2026 03:30:04 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>9PAR5j1swOI</news:videoId>
+      <news:publishedIst>2026-11-11T09:00:04+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/9PAR5j1swOI/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Prashant Pandit says online education will close the gap between tier-2 and tier-3 cities and Mumbai and Delhi. He will not name the company in his example. The short is about 95 seconds and is a cut of his answer in the Point Break debate. He is not named on this frame. The words match.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>He recently met a company he does not name. Its turnover is almost 2,300 crore rupees, entirely from online courses.</li>
+<li>About 60 percent of what it sells are IIT and IIM courses, certificates or degrees.</li>
+<li>Most of its students are from tier-2 and tier-3 cities, people who never had access to those campuses or who missed the entrance.</li>
+<li>He thinks the shift shows up in four to five years if online keeps growing at this pace, and he also says it will be visible in the next two to three years. Both timeframes are in the short.</li>
+<li>His reasons: India's internet rates are the cheapest in the world, and a smartphone is with almost everybody. The practical-exposure gap is what he thinks online can narrow, until those cities sit level with Mumbai and Delhi.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>A young man studies at a laptop in a bedroom, a handwritten notebook and a pen on the desk, a map on the wall. The screen is a linear-algebra lesson on eigenvalues. The caption fragment reads "Somebody who don't," from the line about students who do not have that campus exposure.</p>
+      ]]></description>
+    </item>
+    <item>
+      <title>Film courses need live projects, with 6 to 7 movies made each year</title>
+      <link>https://www.youtube.com/watch?v=oQubY4BwD-o</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=oQubY4BwD-o</guid>
+      <pubDate>Wed, 11 Nov 2026 03:00:06 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>oQubY4BwD-o</news:videoId>
+      <news:publishedIst>2026-11-11T08:30:06+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/oQubY4BwD-o/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>A guest argues that creative-media degrees fail when they stay in the classroom. Directing, editing and cinematography need theory and practice together, so the speaker's institute produces six to seven films a year and teaches students on those live projects.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The guest says there is still no formal path, theoretical and practical at once, for people who want to be directors, editors or cinematographers.</li>
+<li>Pure theory does not work in these courses. Editing, the guest says, cannot be taught only in a classroom. Students need practical exposure.</li>
+<li>That is why the institute went into education: every year it produces six to seven movies and uses those productions as the teaching material.</li>
+<li>Students are meant to leave with theoretical knowledge and a practical angle from real projects.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>The published frame is a classroom. A young man sits at a wooden desk with a notebook and a laptop, in front of a chalkboard laid out as a film-studies lesson: a film triangle linking text, creator and audience, modes of address, narrative structure, and montage. A caption on screen reads "editor in the classroom," which is the line the guest is saying. A small logo sits in the corner. The guest is not named on this frame.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Students who skip the fundamentals cannot check what AI writes</title>
+      <link>https://www.youtube.com/watch?v=5vRkhnqjm5I</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=5vRkhnqjm5I</guid>
+      <pubDate>Wed, 11 Nov 2026 02:30:30 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>5vRkhnqjm5I</news:videoId>
+      <news:publishedIst>2026-11-11T08:00:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/5vRkhnqjm5I/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Sandeep Shukla, Director of IIIT Hyderabad, says students who hand programming assignments to Claude Code are taking a shortcut that backfires. Fundamentals are what let a person use AI and criticize its output. He also says he has heard that many large multinational companies are not hiring freshers this year, and he calls that decision short-sighted.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Students are using Claude Code and similar tools to do programming assignments. Shukla says that shortcut is a mistake.</li>
+<li>The fear underneath the shortcut, as he describes it, is that nobody will hire them for programming anymore. He says that is not the case.</li>
+<li>You need the fundamentals to use AI at all. You cannot trust the model blindly. Someone has to be able to check the output and criticize it, and that takes knowledge the student still has to hold.</li>
+<li>On hiring, he says he has heard that a large number of MNCs are not hiring freshers this year. He calls the move short-sighted. The published description reports it the same way: many MNCs are reportedly not hiring freshers. Treat it as his account of what he has heard, not as a hiring census.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>Split screen. On top, Sandeep Shukla on a video call, with a lower third reading "SANDEEP SHUKLA" and "DIRECTOR, IIIT HYDERABAD." Below, the anchor in a navy polo, laptop open, city-and-server-room backdrop. A caption word "and" sits between them. The clip is a conversation, not a solo anchor read.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>AI can build threat models faster than humans, with a human to check</title>
+      <link>https://www.youtube.com/watch?v=txiRiVFixs8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=txiRiVFixs8</guid>
+      <pubDate>Wed, 11 Nov 2026 02:00:32 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>txiRiVFixs8</news:videoId>
+      <news:publishedIst>2026-11-11T07:30:32+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/txiRiVFixs8/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>The same guest, Sandeep Shukla, says threat models can now be drafted by AI much faster than by people, provided the model is given enough information. A human still has to reject scenarios the model invented. He anchors the point in the post-9/11 exercise that asked Hollywood producers to imagine attacks nobody in security had listed.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Before 9/11, passenger planes used as weapons were not in anyone's threat model: not air traffic control, not the military, and there was no Department of Homeland Security yet.</li>
+<li>After the attacks, Homeland Security brought in Hollywood producers to do a threat-modeling exercise, because the missing ingredient was extreme imagination. That scenario is now a standard threat model, and the airport controls people see today come from it.</li>
+<li>Known models already drive routine defenses. Ransomware is the example: backups, and isolating those backups.</li>
+<li>The failures are the models nobody wrote down. His example is an attacker reading source code to find a hidden API key. It was not in the threat model, so it was not defended.</li>
+<li>Given enough information, AI can produce these models faster than humans. A person still has to check that the team is not chasing a hallucinated scenario that cannot actually happen.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>Shukla is on the upper half again, same lower third, Director, IIIT Hyderabad, mid-gesture. The lower half cuts to an airport security lane: travelers loading bags onto a belt, officers beside a scanner marked Rapiscan 620DV. The on-screen caption reads "All the controls we," matching the line about airport controls that came out of that threat model.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>SpaceX went from cleared land to steel at Starbase in one month, images show</title>
+      <link>https://www.youtube.com/watch?v=WONBqciXiyM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WONBqciXiyM</guid>
+      <pubDate>Wed, 11 Nov 2026 02:00:13 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>WONBqciXiyM</news:videoId>
+      <news:publishedIst>2026-11-11T07:30:13+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/WONBqciXiyM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Satellite images are used from Starbase, Texas, where SpaceX builds and launches Starship. Land that was being cleared at the end of August had steel structures up by the end of September. SemiAnalysis estimates another site near Colossus 2 could go from an empty plot to a finished building in about four months. The clip's warning is that a finished shell is the easy photograph. The next milestone is the chips inside running around the clock.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Starbase, Texas, is where SpaceX builds and launches Starship.</li>
+<li>Satellite images at the end of August showed land being cleared. By the end of September, steel structures were going up.</li>
+<li>Near Colossus 2, SemiAnalysis estimates a separate site could go from empty plot to completed building in about four months.</li>
+<li>A finished building photographs well. The milestone the narration points to is when the chips in that building can run continuously.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>An anchor in a light blazer sits with a laptop in the server-room set. Above her, the frame shows an aerial site image with the SemiAnalysis credit on screen. The graphic is the satellite view the script is walking through.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Fable agents made a Fermat proof machine-checkable in 30 hours, not 11 days</title>
+      <link>https://www.youtube.com/watch?v=u4Im-DvAMfc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=u4Im-DvAMfc</guid>
+      <pubDate>Wed, 11 Nov 2026 01:30:37 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>u4Im-DvAMfc</news:videoId>
+      <news:publishedIst>2026-11-11T07:00:37+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/u4Im-DvAMfc/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The report corrects a circulating claim about Fermat's Last Theorem. Andrew Wiles proved it in the 1990s. What a thousand Fable agents did was rewrite that proof so a computer could check it step by step. Anthropic's earlier run of the same kind of work took 11 days. This one took 30 hours. The question the clip leaves for software teams is whether that speed makes it cheaper to verify that a program does what it is supposed to do.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>People have been saying Claude solved Fermat's Last Theorem. The short says that is the wrong reading. Wiles proved the theorem in the 1990s.</li>
+<li>A thousand Fable agents put the existing proof into a form a computer can check line by line.</li>
+<li>An earlier Anthropic effort on this took 11 days. The new run took 30 hours.</li>
+<li>The useful question is not the theorem. It is whether the same agent workflow lowers the cost of proving that software behaves as specified.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>The same anchor, white blazer and laptop, with a full-screen graphic of equations behind the line she is reading. A caption fragment, "That kind of work," matches the turn from the theorem to software verification.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Coforge will deploy Grok through Momentum Blue, its human and AI agent unit</title>
+      <link>https://www.youtube.com/watch?v=PLn64We72TQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PLn64We72TQ</guid>
+      <pubDate>Wed, 11 Nov 2026 01:00:21 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>PLn64We72TQ</news:videoId>
+      <news:publishedIst>2026-11-11T06:30:21+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/PLn64We72TQ/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Coforge has said how it will actually roll Grok out inside companies. Every enterprise deployment goes through Momentum Blue, the customer-facing engineering unit that embeds hybrid teams of human engineers and AI agents in the client and ties their output to agreed business targets. The technical bridge is Coforge's Neuron enterprise AI platform. Money terms were not disclosed.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Financial details of the partnership were not disclosed. The operating model was.</li>
+<li>All Grok enterprise deployments are handled exclusively through Momentum Blue.</li>
+<li>Momentum Blue is built to go past traditional IT sourcing. It places mixed teams of engineers and autonomous agents inside client organizations.</li>
+<li>Those teams are explicitly tied to agreed business targets, not to a staffing contract.</li>
+<li>Delivery leans on Coforge's existing AI-led modernization work, and specifically on the Neuron platform, which is supposed to connect Grok to legacy corporate software.</li>
+<li>Anup Nair, chief AI commercial officer, is quoted on screen and in the narration. The audible portion: "From software modernization and customer service to enterprise applications, we bring the industry context, engineering expertise, and adoption capabilities to turn Grok's technology into solutions." The captured narration cuts off as the sentence continues.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>Top half is a headshot of a man in a purple sweater, with a caption reading "AI Commercial Officer at," which is the role the narration assigns to Anup Nair. Bottom half is the anchor at the laptop, delivering the quote. The frame is a quote card, not a live two-shot.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>30.4 percent of young Indians are not in work, education or training, a study finds</title>
+      <link>https://www.youtube.com/watch?v=zAMsT1X5zH0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=zAMsT1X5zH0</guid>
+      <pubDate>Wed, 11 Nov 2026 00:30:20 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>zAMsT1X5zH0</news:videoId>
+      <news:publishedIst>2026-11-11T06:00:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/zAMsT1X5zH0/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>A youth AI-readiness study, as reported here, finds that turning readiness into jobs is the stuck part. About 30.4 percent of young Indians are not in employment, education or training, and 85.8 percent of young workers are in the informal sector. The government has started programs with Intel and has pledged to train 10 million young people in AI within a year. Calvin Ayer, founder of the Ayer think tank, says AI will change work, business and how wealth is created. The anchor adds that the wealth is gated by who has access.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>30.4 percent of young Indians are not in employment, education or training.</li>
+<li>85.8 percent of young workers are in the informal sector.</li>
+<li>The Indian government is trying to close the gap with Intel-linked programs and a pledge to train 10 million young people in AI inside one year.</li>
+<li>Calvin Ayer, founder of the Ayer think tank: "AI is going to change how we work, how we do business, and how wealth is created."</li>
+<li>The narration's addition: that wealth creation is strictly gated by access.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>A headshot of a grey-haired man sits above the anchor. The caption on the quote line reads "change how we work," the opening of Ayer's sentence. The portrait itself is not labeled with a name on this frame, so the identification comes from the narration, not from a lower third.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Salesforce bundles Agentforce, Slack and Tableau into an SMB kit bought by card</title>
+      <link>https://www.youtube.com/watch?v=DRywL__bLHU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DRywL__bLHU</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:04 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>DRywL__bLHU</news:videoId>
+      <news:publishedIst>2026-11-11T05:30:04+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/DRywL__bLHU/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Salesforce is aiming at India's small and mid-size businesses, which the clip calls its highest-revenue segment in the country. The offer is a plug-and-play growth kit that bundles Agentforce, Sales, Slack and Tableau, sold on a credit card so a buyer can skip a three-to-four-month enterprise rollout. The bet is autonomous agents rather than a price fight with Zoho.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The battleground named in the clip is small and medium businesses. SMBs are now the highest revenue-contributing segment for Salesforce in India.</li>
+<li>The SMB growth kit bundles Agentforce, Sales, Slack and Tableau into one platform.</li>
+<li>A small business can buy it with a credit card, bypassing the traditional three-to-four-month enterprise implementation.</li>
+<li>Salesforce is described as not trying to beat local players such as Zoho on price. The wager is the value of autonomous AI agents.</li>
+<li>Hunter is presented as an agentic sales-development representative that does the initial prospect outreach.</li>
+<li>An internal help agent, KC, has handled more than 5 million inbound customer conversations and resolved nearly 70 percent of queries with no human intervention.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>A studio portrait of a man in a navy suit sits above the anchor. The caption reads "Salesforce isn't trying to," the price-comparison line. The portrait has no name on this frame, so the summary does not attach the Zoho remark to a named executive beyond what the narration itself supports.</p>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
