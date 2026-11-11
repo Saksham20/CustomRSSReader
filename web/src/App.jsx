@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { clock, feedUrl, longDate, readFeed, splitKicker } from "./feed.js";
+import { clock, dayKey, feedUrl, longDate, readFeed, splitKicker } from "./feed.js";
 
 function useTheme() {
   const [theme, setTheme] = useState(
@@ -161,6 +161,8 @@ export function App() {
   });
   days.sort((a, b) => b.key.localeCompare(a.key));
   const latestLong = edition?.latestLongForm;
+  const latestDay = latestLong ? dayKey(latestLong.published) : "";
+  const latestIsThisEdition = Boolean(latestDay && latestDay === edition?.editionDate);
 
   return (
     <>
@@ -199,15 +201,20 @@ export function App() {
         <p className="skyline-inner">
           <span>{edition?.shortCount || feed.items.length} shorts</span>
           <span>{edition?.longFormCount || "0"} long videos</span>
-          {latestLong ? <span>Latest long video still {longDate(latestLong.published)}</span> : null}
+          {latestLong ? (
+            <span>
+              {latestIsThisEdition ? "Newest video" : "Latest long video still"}{" "}
+              {longDate(latestLong.published)}
+            </span>
+          ) : null}
           {edition?.videosTab ? <a href={edition.videosTab}>Videos</a> : null}
           {edition?.shortsTab ? <a href={edition.shortsTab}>Shorts</a> : null}
         </p>
       </div>
       <main className="sheet">
         <div className="top">
-          <section className="lead" aria-label="Morning briefing">
-            <p className="kicker">Morning edition</p>
+          <section className="lead" aria-label="Daily briefing">
+            <p className="kicker">Today's edition</p>
             {feed.headline ? <h1 className="display">{feed.headline}</h1> : <h1 className="display">{editionLabel}</h1>}
             {standfirst ? <p className="standfirst">{standfirst}</p> : null}
             {sections.length ? (
@@ -238,7 +245,9 @@ export function App() {
             <p className="rail-note">
               {edition?.longFormCount === "0" ? "No long-form upload in this scan. " : ""}
               {latestLong
-                ? `Newest long video is still “${latestLong.title},” posted ${longDate(latestLong.published)} at ${clock(latestLong.published)} IST.`
+                ? latestIsThisEdition
+                  ? `Newest video is “${latestLong.title},” posted ${longDate(latestLong.published)} at ${clock(latestLong.published)} IST.`
+                  : `Newest long video is still “${latestLong.title},” posted ${longDate(latestLong.published)} at ${clock(latestLong.published)} IST.`
                 : ""}
             </p>
             <nav className="index" aria-label="Stories in this edition">
