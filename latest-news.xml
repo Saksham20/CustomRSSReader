@@ -1,44 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  AIM Network daily news feed for CustomRSSReader.
-  Source channel: https://www.youtube.com/@aimmediahouse (UCAlwrsgeJavG1vw9qSFOUmA)
-
-  Update rule for later daily runs:
-  - Keep this file. Prepend new <item> elements (newest first).
-  - Do not duplicate a <guid>. The guid is the YouTube watch URL.
-  - Add a new <aim:edition> for each calendar day that is scanned.
-  - "Today" follows the Atom publish timestamp. For these uploads that
-    calendar day is the same in UTC and in India Standard Time.
-  - YouTube's on-screen date can read as the previous day because it is
-    rendered in US Pacific time. Do not use that label as the edition date.
-  - Leave items from earlier days in the file.
-  - The React reader in web/ loads this file in the browser. Put the newest
-    aim:edition first. GitHub Actions builds the site when this file is pushed.
+  Generic news feed. The reader displays whatever this file contains.
+  Update rule:
+  - Prepend new <item> elements, newest first.
+  - Do not duplicate a <guid>.
+  - Put the newest <news:edition> first.
 -->
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:aim="https://analyticsindiamag.com/ns/aim-daily">
+     xmlns:news="urn:latest-news:1">
   <channel>
-    <title>AIM Network Daily News</title>
-    <link>https://www.youtube.com/@aimmediahouse/videos</link>
-    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCAlwrsgeJavG1vw9qSFOUmA" rel="via" type="application/atom+xml"/>
-    <description>Daily briefing of Analytics India Magazine's AIM Network videos and shorts. The 11 November 2026 morning scan found eight Front Page shorts and no new long-form video. The shorts cover film education, why programming fundamentals still matter, AI threat modeling, SpaceX's Starbase build, a machine-checked Fermat proof, Coforge's Grok rollout, India's youth AI gap, and Salesforce's India SMB push.</description>
-    <language>en-in</language>
+    <title>Latest</title>
+    <link>latest-news.xml</link>
+    <description>News of relevance. The 11 November 2026 morning edition has eight short reports and no new long video. The reports cover film education, why programming fundamentals still matter, AI threat modeling, a Starbase build, a machine-checked Fermat proof, an enterprise AI rollout, a youth employment gap, and a small-business software kit.</description>
+    <language>en</language>
     <lastBuildDate>Wed, 11 Nov 2026 03:23:42 +0000</lastBuildDate>
-    <generator>AIM daily news reader</generator>
+    <generator>Latest news reader</generator>
 
-    <aim:edition date="2026-11-11">
-      <aim:scannedAt>2026-11-11T03:23:42Z</aim:scannedAt>
-      <aim:scannedAtIst>2026-11-11T08:53:42+05:30</aim:scannedAtIst>
-      <aim:videosTab>https://www.youtube.com/@aimmediahouse/videos</aim:videosTab>
-      <aim:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</aim:shortsTab>
-      <aim:longFormCount>0</aim:longFormCount>
-      <aim:shortCount>8</aim:shortCount>
-      <aim:latestLongForm videoId="w1Z74dFfwaw" published="2026-11-10T14:30:32Z">SemiAnalysis Finds SpaceX Has 3.6 GW Under Construction And 9 GW Identified</aim:latestLongForm>
-      <aim:method>Each short was matched to the channel Atom feed, then summarized from AIM's description and the spoken narration on the watch page. A multimodal read of each video's published frame added who was on screen and which captions or graphics were visible. Full playback of the video files was blocked by YouTube from this environment, so the visual notes are from those frames.</aim:method>
-      <aim:briefing><![CDATA[
-Morning edition, Wednesday 11 November 2026, scanned at 08:53 IST. AIM Network had not posted a long-form video or a live Front Page broadcast yet. The videos tab's newest long video is still Tuesday's SemiAnalysis piece on SpaceX power capacity (published 14:30 UTC on 10 November). Everything new today is a Front Page short, eight of them, posted on the half hour from 05:30 IST to 08:30 IST.
+    <news:edition date="2026-11-11">
+      <news:scannedAt>2026-11-11T03:23:42Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-11T08:53:42+05:30</news:scannedAtIst>
+      <news:longFormCount>0</news:longFormCount>
+      <news:shortCount>8</news:shortCount>
+      <news:latestLongForm videoId="w1Z74dFfwaw" published="2026-11-10T14:30:32Z">SemiAnalysis Finds SpaceX Has 3.6 GW Under Construction And 9 GW Identified</news:latestLongForm>
+      <news:method>Each short report was summarized from its published description and its spoken narration. A multimodal read of each video's published frame added who was on screen and which captions or graphics were visible. Full playback of the video files was blocked by YouTube from this environment, so the visual notes are from those frames.</news:method>
+      <news:briefing><![CDATA[
+Morning edition, Wednesday 11 November 2026, scanned at 08:53 IST. No long video was published for this edition. The newest long video is still Tuesday's report on SpaceX power capacity. Everything new is a short report, eight of them, posted on the half hour from 05:30 IST to 08:30 IST.
 
 The morning's through-line: AI is being handed real work, and the people on these clips keep putting a human check back in the loop.
 
@@ -49,8 +37,8 @@ Enterprise distribution in India. Coforge will run Grok enterprise deployments o
 Checks on the machines. Shukla, in a second clip, says AI can draft threat models faster than people if it is given enough information, and a person still has to throw out hallucinated scenarios. He uses the post-9/11 exercise, when Hollywood producers were asked to imagine new attacks, and the case of a hidden API key that nobody had put in the threat model. On the proof side, a thousand Fable agents put Andrew Wiles's proof of Fermat's Last Theorem into a form a computer could check, in 30 hours. An earlier attempt took 11 days. The clip's question for software teams is whether the same approach makes it cheaper to verify that a program does what it claims.
 
 Physical buildout. At Starbase, Texas, satellite images showed land cleared by the end of August and steel up near Colossus 2 by the end of September. SemiAnalysis estimates another site could go from an empty plot to a finished building in about four months. The narration's point is that a finished building is the photograph; the milestone that matters is the chips inside running around the clock.
-      ]]></aim:briefing>
-    </aim:edition>
+      ]]></news:briefing>
+    </news:edition>
 
     <item>
       <title>Film courses need live projects, with 6 to 7 movies made each year</title>
@@ -58,13 +46,12 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
       <guid isPermaLink="true">https://www.youtube.com/watch?v=oQubY4BwD-o</guid>
       <pubDate>Wed, 11 Nov 2026 03:00:06 +0000</pubDate>
       <category>Short</category>
-      <category>Front Page</category>
-      <aim:format>short</aim:format>
-      <aim:videoId>oQubY4BwD-o</aim:videoId>
-      <aim:publishedIst>2026-11-11T08:30:06+05:30</aim:publishedIst>
+      <news:format>short</news:format>
+      <news:videoId>oQubY4BwD-o</news:videoId>
+      <news:publishedIst>2026-11-11T08:30:06+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/oQubY4BwD-o/maxresdefault.jpg"/>
       <description><![CDATA[
-<p>A guest on Front Page argues that creative-media degrees fail when they stay in the classroom. Directing, editing and cinematography need theory and practice together, so the speaker's institute produces six to seven films a year and teaches students on those live projects.</p>
+<p>A guest argues that creative-media degrees fail when they stay in the classroom. Directing, editing and cinematography need theory and practice together, so the speaker's institute produces six to seven films a year and teaches students on those live projects.</p>
 <p><strong>Key points</strong></p>
 <ul>
 <li>The guest says there is still no formal path, theoretical and practical at once, for people who want to be directors, editors or cinematographers.</li>
@@ -73,7 +60,7 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
 <li>Students are meant to leave with theoretical knowledge and a practical angle from real projects.</li>
 </ul>
 <p><strong>From the video frame</strong></p>
-<p>The published frame is a classroom. A young man sits at a wooden desk with a notebook and a laptop, in front of a chalkboard laid out as a film-studies lesson: a film triangle linking text, creator and audience, modes of address, narrative structure, and montage. A caption on screen reads "editor in the classroom," which is the line the guest is saying. The AIM bug sits in the corner. The guest is not named on this frame.</p>
+<p>The published frame is a classroom. A young man sits at a wooden desk with a notebook and a laptop, in front of a chalkboard laid out as a film-studies lesson: a film triangle linking text, creator and audience, modes of address, narrative structure, and montage. A caption on screen reads "editor in the classroom," which is the line the guest is saying. A small logo sits in the corner. The guest is not named on this frame.</p>
       ]]></description>
     </item>
 
@@ -83,10 +70,9 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
       <guid isPermaLink="true">https://www.youtube.com/watch?v=5vRkhnqjm5I</guid>
       <pubDate>Wed, 11 Nov 2026 02:30:30 +0000</pubDate>
       <category>Short</category>
-      <category>Front Page</category>
-      <aim:format>short</aim:format>
-      <aim:videoId>5vRkhnqjm5I</aim:videoId>
-      <aim:publishedIst>2026-11-11T08:00:30+05:30</aim:publishedIst>
+      <news:format>short</news:format>
+      <news:videoId>5vRkhnqjm5I</news:videoId>
+      <news:publishedIst>2026-11-11T08:00:30+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/5vRkhnqjm5I/maxresdefault.jpg"/>
       <description><![CDATA[
 <p>Sandeep Shukla, Director of IIIT Hyderabad, says students who hand programming assignments to Claude Code are taking a shortcut that backfires. Fundamentals are what let a person use AI and criticize its output. He also says he has heard that many large multinational companies are not hiring freshers this year, and he calls that decision short-sighted.</p>
@@ -95,10 +81,10 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
 <li>Students are using Claude Code and similar tools to do programming assignments. Shukla says that shortcut is a mistake.</li>
 <li>The fear underneath the shortcut, as he describes it, is that nobody will hire them for programming anymore. He says that is not the case.</li>
 <li>You need the fundamentals to use AI at all. You cannot trust the model blindly. Someone has to be able to check the output and criticize it, and that takes knowledge the student still has to hold.</li>
-<li>On hiring, he says he has heard that a large number of MNCs are not hiring freshers this year. He calls the move short-sighted. AIM's own description reports it the same way: many MNCs are reportedly not hiring freshers. Treat it as his account of what he has heard, not as a hiring census.</li>
+<li>On hiring, he says he has heard that a large number of MNCs are not hiring freshers this year. He calls the move short-sighted. The published description reports it the same way: many MNCs are reportedly not hiring freshers. Treat it as his account of what he has heard, not as a hiring census.</li>
 </ul>
 <p><strong>From the video frame</strong></p>
-<p>Split screen. On top, Sandeep Shukla on a video call, with a lower third reading "SANDEEP SHUKLA" and "DIRECTOR, IIIT HYDERABAD." Below, the Front Page anchor in a navy polo, laptop open, city-and-server-room backdrop. A caption word "and" sits between them. The clip is a conversation, not a solo anchor read.</p>
+<p>Split screen. On top, Sandeep Shukla on a video call, with a lower third reading "SANDEEP SHUKLA" and "DIRECTOR, IIIT HYDERABAD." Below, the anchor in a navy polo, laptop open, city-and-server-room backdrop. A caption word "and" sits between them. The clip is a conversation, not a solo anchor read.</p>
       ]]></description>
     </item>
 
@@ -108,10 +94,9 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
       <guid isPermaLink="true">https://www.youtube.com/watch?v=txiRiVFixs8</guid>
       <pubDate>Wed, 11 Nov 2026 02:00:32 +0000</pubDate>
       <category>Short</category>
-      <category>Front Page</category>
-      <aim:format>short</aim:format>
-      <aim:videoId>txiRiVFixs8</aim:videoId>
-      <aim:publishedIst>2026-11-11T07:30:32+05:30</aim:publishedIst>
+      <news:format>short</news:format>
+      <news:videoId>txiRiVFixs8</news:videoId>
+      <news:publishedIst>2026-11-11T07:30:32+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/txiRiVFixs8/maxresdefault.jpg"/>
       <description><![CDATA[
 <p>The same guest, Sandeep Shukla, says threat models can now be drafted by AI much faster than by people, provided the model is given enough information. A human still has to reject scenarios the model invented. He anchors the point in the post-9/11 exercise that asked Hollywood producers to imagine attacks nobody in security had listed.</p>
@@ -134,13 +119,12 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
       <guid isPermaLink="true">https://www.youtube.com/watch?v=WONBqciXiyM</guid>
       <pubDate>Wed, 11 Nov 2026 02:00:13 +0000</pubDate>
       <category>Short</category>
-      <category>Front Page</category>
-      <aim:format>short</aim:format>
-      <aim:videoId>WONBqciXiyM</aim:videoId>
-      <aim:publishedIst>2026-11-11T07:30:13+05:30</aim:publishedIst>
+      <news:format>short</news:format>
+      <news:videoId>WONBqciXiyM</news:videoId>
+      <news:publishedIst>2026-11-11T07:30:13+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/WONBqciXiyM/hqdefault.jpg"/>
       <description><![CDATA[
-<p>Front Page uses satellite images from Starbase, Texas, where SpaceX builds and launches Starship. Land that was being cleared at the end of August had steel structures up by the end of September. SemiAnalysis estimates another site near Colossus 2 could go from an empty plot to a finished building in about four months. The clip's warning is that a finished shell is the easy photograph. The next milestone is the chips inside running around the clock.</p>
+<p>Satellite images are used from Starbase, Texas, where SpaceX builds and launches Starship. Land that was being cleared at the end of August had steel structures up by the end of September. SemiAnalysis estimates another site near Colossus 2 could go from an empty plot to a finished building in about four months. The clip's warning is that a finished shell is the easy photograph. The next milestone is the chips inside running around the clock.</p>
 <p><strong>Key points</strong></p>
 <ul>
 <li>Starbase, Texas, is where SpaceX builds and launches Starship.</li>
@@ -159,13 +143,12 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
       <guid isPermaLink="true">https://www.youtube.com/watch?v=u4Im-DvAMfc</guid>
       <pubDate>Wed, 11 Nov 2026 01:30:37 +0000</pubDate>
       <category>Short</category>
-      <category>Front Page</category>
-      <aim:format>short</aim:format>
-      <aim:videoId>u4Im-DvAMfc</aim:videoId>
-      <aim:publishedIst>2026-11-11T07:00:37+05:30</aim:publishedIst>
+      <news:format>short</news:format>
+      <news:videoId>u4Im-DvAMfc</news:videoId>
+      <news:publishedIst>2026-11-11T07:00:37+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/u4Im-DvAMfc/hqdefault.jpg"/>
       <description><![CDATA[
-<p>Front Page corrects a circulating claim about Fermat's Last Theorem. Andrew Wiles proved it in the 1990s. What a thousand Fable agents did was rewrite that proof so a computer could check it step by step. Anthropic's earlier run of the same kind of work took 11 days. This one took 30 hours. The question the clip leaves for software teams is whether that speed makes it cheaper to verify that a program does what it is supposed to do.</p>
+<p>The report corrects a circulating claim about Fermat's Last Theorem. Andrew Wiles proved it in the 1990s. What a thousand Fable agents did was rewrite that proof so a computer could check it step by step. Anthropic's earlier run of the same kind of work took 11 days. This one took 30 hours. The question the clip leaves for software teams is whether that speed makes it cheaper to verify that a program does what it is supposed to do.</p>
 <p><strong>Key points</strong></p>
 <ul>
 <li>People have been saying Claude solved Fermat's Last Theorem. The short says that is the wrong reading. Wiles proved the theorem in the 1990s.</li>
@@ -184,10 +167,9 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
       <guid isPermaLink="true">https://www.youtube.com/watch?v=PLn64We72TQ</guid>
       <pubDate>Wed, 11 Nov 2026 01:00:21 +0000</pubDate>
       <category>Short</category>
-      <category>Front Page</category>
-      <aim:format>short</aim:format>
-      <aim:videoId>PLn64We72TQ</aim:videoId>
-      <aim:publishedIst>2026-11-11T06:30:21+05:30</aim:publishedIst>
+      <news:format>short</news:format>
+      <news:videoId>PLn64We72TQ</news:videoId>
+      <news:publishedIst>2026-11-11T06:30:21+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/PLn64We72TQ/maxresdefault.jpg"/>
       <description><![CDATA[
 <p>Coforge has said how it will actually roll Grok out inside companies. Every enterprise deployment goes through Momentum Blue, the customer-facing engineering unit that embeds hybrid teams of human engineers and AI agents in the client and ties their output to agreed business targets. The technical bridge is Coforge's Neuron enterprise AI platform. Money terms were not disclosed.</p>
@@ -201,7 +183,7 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
 <li>Anup Nair, chief AI commercial officer, is quoted on screen and in the narration. The audible portion: "From software modernization and customer service to enterprise applications, we bring the industry context, engineering expertise, and adoption capabilities to turn Grok's technology into solutions." The captured narration cuts off as the sentence continues.</li>
 </ul>
 <p><strong>From the video frame</strong></p>
-<p>Top half is a headshot of a man in a purple sweater, with a caption reading "AI Commercial Officer at," which is the role the narration assigns to Anup Nair. Bottom half is the Front Page anchor at the laptop, delivering the quote. The frame is a quote card, not a live two-shot.</p>
+<p>Top half is a headshot of a man in a purple sweater, with a caption reading "AI Commercial Officer at," which is the role the narration assigns to Anup Nair. Bottom half is the anchor at the laptop, delivering the quote. The frame is a quote card, not a live two-shot.</p>
       ]]></description>
     </item>
 
@@ -211,13 +193,12 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
       <guid isPermaLink="true">https://www.youtube.com/watch?v=zAMsT1X5zH0</guid>
       <pubDate>Wed, 11 Nov 2026 00:30:20 +0000</pubDate>
       <category>Short</category>
-      <category>Front Page</category>
-      <aim:format>short</aim:format>
-      <aim:videoId>zAMsT1X5zH0</aim:videoId>
-      <aim:publishedIst>2026-11-11T06:00:20+05:30</aim:publishedIst>
+      <news:format>short</news:format>
+      <news:videoId>zAMsT1X5zH0</news:videoId>
+      <news:publishedIst>2026-11-11T06:00:20+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/zAMsT1X5zH0/maxresdefault.jpg"/>
       <description><![CDATA[
-<p>A youth AI-readiness study, as read on Front Page, finds that turning readiness into jobs is the stuck part. About 30.4 percent of young Indians are not in employment, education or training, and 85.8 percent of young workers are in the informal sector. The government has started programs with Intel and has pledged to train 10 million young people in AI within a year. Calvin Ayer, founder of the Ayer think tank, says AI will change work, business and how wealth is created. The anchor adds that the wealth is gated by who has access.</p>
+<p>A youth AI-readiness study, as reported here, finds that turning readiness into jobs is the stuck part. About 30.4 percent of young Indians are not in employment, education or training, and 85.8 percent of young workers are in the informal sector. The government has started programs with Intel and has pledged to train 10 million young people in AI within a year. Calvin Ayer, founder of the Ayer think tank, says AI will change work, business and how wealth is created. The anchor adds that the wealth is gated by who has access.</p>
 <p><strong>Key points</strong></p>
 <ul>
 <li>30.4 percent of young Indians are not in employment, education or training.</li>
@@ -237,10 +218,9 @@ Physical buildout. At Starbase, Texas, satellite images showed land cleared by t
       <guid isPermaLink="true">https://www.youtube.com/watch?v=DRywL__bLHU</guid>
       <pubDate>Wed, 11 Nov 2026 00:00:04 +0000</pubDate>
       <category>Short</category>
-      <category>Front Page</category>
-      <aim:format>short</aim:format>
-      <aim:videoId>DRywL__bLHU</aim:videoId>
-      <aim:publishedIst>2026-11-11T05:30:04+05:30</aim:publishedIst>
+      <news:format>short</news:format>
+      <news:videoId>DRywL__bLHU</news:videoId>
+      <news:publishedIst>2026-11-11T05:30:04+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/DRywL__bLHU/maxresdefault.jpg"/>
       <description><![CDATA[
 <p>Salesforce is aiming at India's small and mid-size businesses, which the clip calls its highest-revenue segment in the country. The offer is a plug-and-play growth kit that bundles Agentforce, Sales, Slack and Tableau, sold on a credit card so a buyer can skip a three-to-four-month enterprise rollout. The bet is autonomous agents rather than a price fight with Zoho.</p>

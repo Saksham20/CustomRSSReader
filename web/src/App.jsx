@@ -147,7 +147,8 @@ export function App() {
   const editionLabel = edition?.editionDate
     ? longDate(`${edition.editionDate}T12:00:00+05:30`)
     : "Today’s edition";
-  document.title = `AIM Front Page · ${editionLabel}`;
+  const publication = feed.channelTitle || "Latest";
+  document.title = `${publication} · ${editionLabel}`;
 
   const standfirst = feed.body[0] || "";
   const sections = feed.body.slice(1);
@@ -169,11 +170,11 @@ export function App() {
       <header className="mast">
         <div className="mast-inner">
           <div className="mark" aria-hidden="true">
-            AIM
+            L
           </div>
           <div className="mast-title">
-            <strong>Front Page</strong>
-            <span>AIM Network</span>
+            <strong>{publication}</strong>
+            <span>News of relevance</span>
           </div>
           <div className="mast-meta">
             <div>
@@ -284,7 +285,7 @@ export function App() {
           <footer className="colophon">
             <p>{edition.method}</p>
             <p>
-              This page reads <a href={feedUrl}>aim-daily-news.xml</a> when it loads. A new edition in that file
+              This page reads <a href={feedUrl}>latest-news.xml</a> when it loads. A new edition in that file
               appears here without a change to the page itself. GitHub Actions rebuilds the site when the file is
               pushed.
             </p>

@@ -1,9 +1,9 @@
-name: Build Front Page
+name: Build the news site
 
 on:
   push:
     paths:
-      - "aim-daily-news.xml"
+      - "latest-news.xml"
       - "web/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:

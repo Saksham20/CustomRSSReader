@@ -6,7 +6,7 @@ import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "vite";
 
 const root = dirname(fileURLToPath(import.meta.url));
-const feedPath = resolve(root, "../aim-daily-news.xml");
+const feedPath = resolve(root, "../latest-news.xml");
 const base = process.env.PAGES_BASE || "/";
 
 function newsFeed() {
@@ -15,8 +15,8 @@ function newsFeed() {
     configureServer(server) {
       server.middlewares.use((request, response, next) => {
         const path = request.url?.split("?")[0];
-        const feedUrl = `${base.endsWith("/") ? base : `${base}/`}aim-daily-news.xml`;
-        if (path !== feedUrl && path !== "/aim-daily-news.xml") {
+        const feedUrl = `${base.endsWith("/") ? base : `${base}/`}latest-news.xml`;
+        if (path !== feedUrl && path !== "/latest-news.xml") {
           next();
           return;
         }
@@ -27,7 +27,7 @@ function newsFeed() {
     closeBundle() {
       const dist = resolve(root, "dist");
       mkdirSync(dist, { recursive: true });
-      copyFileSync(feedPath, resolve(dist, "aim-daily-news.xml"));
+      copyFileSync(feedPath, resolve(dist, "latest-news.xml"));
       writeFileSync(resolve(dist, ".nojekyll"), "");
     },
   };

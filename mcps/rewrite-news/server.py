@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""MCP server that rewrites the AIM news XML through the Cursor Python SDK.
+"""MCP server that rewrites the news XML through the Cursor Python SDK.
 
 The key is never stored in this repository. Name the GitHub Actions secret
 CURSOR_API_KEY. Locally, export the same name before Cursor starts. The
@@ -19,7 +19,7 @@ from pathlib import Path
 from mcp.server.fastmcp import FastMCP
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
-DEFAULT_FEED = REPO_ROOT / "aim-daily-news.xml"
+DEFAULT_FEED = REPO_ROOT / "latest-news.xml"
 PLACEHOLDER_KEYS = {"", "YOUR_CURSOR_API_KEY", "placeholder"}
 MODEL = {
     "id": "gemini-3.8-flash",
@@ -175,10 +175,10 @@ def rewrite_with_gemini(xml_text: str) -> str:
 
 @mcp.tool()
 def rewrite_news_xml(xml_path: str = "", xml: str = "", output_path: str = "") -> str:
-    """Rewrite the AIM daily news XML in clearer language without dropping facts.
+    """Rewrite the news XML in clearer language without dropping facts.
 
     Pass xml_path to read a file, or xml to pass the document itself.
-    When both are empty, the repository file aim-daily-news.xml is used.
+    When both are empty, the repository file latest-news.xml is used.
     Set output_path to also save the rewritten document. The source file is left unchanged.
     """
     source, _ = load_xml(xml_path, xml)

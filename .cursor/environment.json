@@ -1,4 +1,4 @@
 {
-  "name": "AIM Front Page",
+  "name": "Latest",
   "install": "bash .cursor/install.sh"
 }

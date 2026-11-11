@@ -1,4 +1,4 @@
-const AIM = "https://analyticsindiamag.com/ns/aim-daily";
+const NEWS = "urn:latest-news:1";
 const MEDIA = "http://search.yahoo.com/mrss/";
 
 function nodeText(parent, ns, name) {
@@ -80,16 +80,16 @@ export function splitKicker(paragraph) {
 }
 
 function readEdition(edition) {
-  const latest = edition.getElementsByTagNameNS(AIM, "latestLongForm")[0];
+  const latest = edition.getElementsByTagNameNS(NEWS, "latestLongForm")[0];
   return {
-    briefing: nodeText(edition, AIM, "briefing"),
-    method: nodeText(edition, AIM, "method"),
-    scannedAtIst: nodeText(edition, AIM, "scannedAtIst"),
+    briefing: nodeText(edition, NEWS, "briefing"),
+    method: nodeText(edition, NEWS, "method"),
+    scannedAtIst: nodeText(edition, NEWS, "scannedAtIst"),
     editionDate: edition.getAttribute("date") || "",
-    longFormCount: nodeText(edition, AIM, "longFormCount"),
-    shortCount: nodeText(edition, AIM, "shortCount"),
-    videosTab: nodeText(edition, AIM, "videosTab") || "https://www.youtube.com/@aimmediahouse/videos",
-    shortsTab: nodeText(edition, AIM, "shortsTab") || "https://www.youtube.com/@aimmediahouse/shorts",
+    longFormCount: nodeText(edition, NEWS, "longFormCount"),
+    shortCount: nodeText(edition, NEWS, "shortCount"),
+    videosTab: nodeText(edition, NEWS, "videosTab"),
+    shortsTab: nodeText(edition, NEWS, "shortsTab"),
     latestLongForm: latest
       ? {
           title: latest.textContent.trim(),
@@ -106,7 +106,7 @@ export function readFeed(xml) {
     throw new Error("The news feed could not be read.");
   }
   const channel = doc.getElementsByTagName("channel")[0];
-  const editions = [...channel.getElementsByTagNameNS(AIM, "edition")]
+  const editions = [...channel.getElementsByTagNameNS(NEWS, "edition")]
     .map(readEdition)
     .sort((a, b) => b.editionDate.localeCompare(a.editionDate));
   const edition = editions[0] || null;
@@ -117,16 +117,22 @@ export function readFeed(xml) {
       id: `story-${index + 1}`,
       title: localText(item, "title"),
       link: localText(item, "link"),
-      publishedIst: nodeText(item, AIM, "publishedIst"),
-      day: dayKey(nodeText(item, AIM, "publishedIst")),
-      format: nodeText(item, AIM, "format") || categories[0] || "Video",
+      publishedIst: nodeText(item, NEWS, "publishedIst"),
+      day: dayKey(nodeText(item, NEWS, "publishedIst")),
+      format: nodeText(item, NEWS, "format") || categories[0] || "Video",
       categories,
       thumb: thumb ? thumb.getAttribute("url") : "",
       ...parseDescription(localText(item, "description")),
     };
   });
   const { headline, body } = splitBriefing(edition?.briefing || "");
-  return { edition, headline, body, items };
+  return {
+    channelTitle: localText(channel, "title") || "Latest",
+    edition,
+    headline,
+    body,
+    items,
+  };
 }
 
-export const feedUrl = `${import.meta.env.BASE_URL}aim-daily-news.xml`;
+export const feedUrl = `${import.meta.env.BASE_URL}latest-news.xml`;
