@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "hooks": {
+    "sessionStart": [
+      { "command": "otel-hook sessionStart" }
+    ],
+    "subagentStart": [
+      { "command": "otel-hook subagentStart" }
+    ],
+    "subagentStop": [
+      { "command": "otel-hook subagentStop" }
+    ],
+    "beforeMCPExecution": [
+      { "command": "otel-hook beforeMCPExecution" }
+    ],
+    "afterMCPExecution": [
+      { "command": "otel-hook afterMCPExecution" }
+    ],
+    "afterAgentResponse": [
+      { "command": "otel-hook afterAgentResponse" }
+    ],
+    "stop": [
+      { "command": "otel-hook stop" }
+    ]
+  }
+}
