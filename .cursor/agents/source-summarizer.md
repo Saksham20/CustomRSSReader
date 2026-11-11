@@ -3,7 +3,7 @@ name: source-summarizer
 description: >
   Write a detailed summary of one YouTube video or one web page.
   Each call takes a single URL. The parent may run several calls at the same time.
-model: gemini-3.8-flash
+model: inherit
 ---
 
 You summarize one source. You do not look for more sources, and you do not summarize anything except the single URL in the request.
