@@ -15,12 +15,12 @@
     <link>latest-news.xml</link>
     <description>News of relevance. The 11 November 2026 edition, updated late in the evening, has eleven shorts and twelve videos. The latest report is Gemini Robotics 2.5, which reached 96 percent on a Mercedes-Benz kitting pilot. Earlier reports cover TSMC's record October, Meta Muse prices in India, an Andhra Pradesh data-center approval, a tuberculosis-screening grant, Claude's workplace tools, a Signal proof, car exports, an education debate, and a security interview.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 16:47:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:08:03 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
     <news:edition date="2026-11-11">
-      <news:scannedAt>2026-11-11T16:47:16Z</news:scannedAt>
-      <news:scannedAtIst>2026-11-11T22:17:16+05:30</news:scannedAtIst>
+      <news:scannedAt>2026-11-11T17:08:03Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-11T22:38:03+05:30</news:scannedAtIst>
       <news:longFormCount>12</news:longFormCount>
       <news:shortCount>11</news:shortCount>
       <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
@@ -28,7 +28,7 @@
       <news:latestLongForm videoId="qst0LXZ_6rg" published="2026-11-11T16:00:40Z">Gemini Robotics 2.5 hits 96 percent on a Mercedes kitting pilot</news:latestLongForm>
       <news:method>On this pass the Gemini Robotics report's English caption track was retrieved and runs to 2 minutes 55 seconds. hq2.jpg and hq3.jpg for that clip are broadcast frames. maxresdefault.jpg is the poster the channel marks as made with AI assistance. The full video file was not downloaded after a bot check. The shorts playlist's newest entry is still the insurance-regulator clip from 10:00 IST. Earlier in the day, spoken captions were available for the three afternoon shorts, the Point Break debate, and the Andhra Pradesh, Froncort, Claude, and Meta Muse reports. The TSMC report could not be captioned from this network after a bot check, so that item uses the published description and the chyron on hq2.jpg. The Signal report, the car-export report, the Shukla interview, and both live broadcasts still have no caption track here. On the previous pass the evening live's player reported a length of 2 hours 9 minutes, and the title still said live. Promotional posters are not treated as footage.</news:method>
       <news:briefing><![CDATA[
-Later pass, Wednesday 11 November 2026, scanned at 22:17 IST. Since the 21:30 scan, AIM added one video report and no new shorts. The shorts tab still opens on the insurance-regulator clip from 10:00 IST. The new report is Gemini Robotics 2.5 on a Mercedes-Benz kitting line.
+Later pass, Wednesday 11 November 2026, scanned at 22:38 IST. Since the 22:17 scan, the channel feed and the shorts playlist have no new uploads. The newest video is still Gemini Robotics 2.5, published at 21:30 IST. The shorts tab still opens on the insurance-regulator clip from 10:00 IST.
 
 The morning's through-line: Gemini Robotics 2.5 posted 96 percent on a Mercedes kitting pilot, the chip maker posted a record October, and Muse has a rupee price before it can pay in India.
 
