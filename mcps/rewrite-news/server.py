@@ -8,12 +8,15 @@ project file .cursor/mcp.json passes it through as ${env:CURSOR_API_KEY}.
 
 from __future__ import annotations
 
+import fcntl
+import json
 import os
 import re
 import xml.etree.ElementTree as ElementTree
+from datetime import datetime, timezone
 from pathlib import Path
 
-from mcp.server.mcpserver import MCPServer
+from mcp.server.fastmcp import FastMCP
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_FEED = REPO_ROOT / "aim-daily-news.xml"
@@ -23,7 +26,16 @@ MODEL = {
     "params": [{"id": "reasoning_effort", "value": "low"}],
 }
 
-mcp = MCPServer("aim-news-rewrite")
+mcp = FastMCP("aim-news-rewrite")
+USAGE_PATH = REPO_ROOT / ".cursor" / "usage.json"
+TOKEN_FIELDS = (
+    "input_tokens",
+    "output_tokens",
+    "cache_read_tokens",
+    "cache_write_tokens",
+    "reasoning_tokens",
+    "total_tokens",
+)
 
 PROMPT = """Rewrite this news XML so the prose sounds clear and natural.
 
@@ -81,6 +93,56 @@ def load_xml(xml_path: str, xml: str) -> tuple[str, Path | None]:
     return path.read_text(encoding="utf-8"), path
 
 
+def empty_usage() -> dict[str, int]:
+    return {field: 0 for field in TOKEN_FIELDS}
+
+
+def usage_counts(usage: object) -> dict[str, int]:
+    counts = empty_usage()
+    if usage is None:
+        return counts
+    for field in TOKEN_FIELDS:
+        value = getattr(usage, field, 0)
+        counts[field] = int(value or 0)
+    return counts
+
+
+def record_usage(result: object, path: Path = USAGE_PATH) -> dict:
+    """Add one SDK run to the cumulative usage ledger and return the new totals."""
+    counts = usage_counts(getattr(result, "usage", None))
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("a+", encoding="utf-8") as handle:
+        fcntl.flock(handle.fileno(), fcntl.LOCK_EX)
+        handle.seek(0)
+        raw = handle.read()
+        try:
+            ledger = json.loads(raw) if raw.strip() else {}
+        except json.JSONDecodeError:
+            ledger = {}
+        totals = ledger.get("totals") if isinstance(ledger.get("totals"), dict) else empty_usage()
+        totals["calls"] = int(totals.get("calls") or 0) + 1
+        for field in TOKEN_FIELDS:
+            totals[field] = int(totals.get(field) or 0) + counts[field]
+        calls = ledger.get("calls") if isinstance(ledger.get("calls"), list) else []
+        calls.append(
+            {
+                "at": datetime.now(timezone.utc).isoformat(),
+                "run_id": getattr(result, "id", ""),
+                "status": getattr(result, "status", ""),
+                "model": MODEL,
+                **counts,
+            }
+        )
+        document = {"model": MODEL, "totals": totals, "calls": calls}
+        handle.seek(0)
+        handle.truncate()
+        json.dump(document, handle, indent=2)
+        handle.write("\n")
+        handle.flush()
+        fcntl.flock(handle.fileno(), fcntl.LOCK_UN)
+    return totals
+
+
 def rewrite_with_gemini(xml_text: str) -> str:
     api_key = os.environ.get("CURSOR_API_KEY", "").strip()
     if api_key in PLACEHOLDER_KEYS:
@@ -105,6 +167,7 @@ def rewrite_with_gemini(xml_text: str) -> str:
             tools=[],
         ),
     )
+    record_usage(result)
     if result.status != "finished" or not result.result:
         raise RuntimeError(f"The rewrite did not finish (status: {result.status}).")
     return validate_rewrite(xml_text, result.result)
