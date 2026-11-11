@@ -14,7 +14,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages-${{ github.ref }}
+  group: pages
   cancel-in-progress: true
 
 jobs:
@@ -38,13 +38,11 @@ jobs:
           PAGES_BASE: /CustomRSSReader/
 
       - name: Upload the Pages artifact
-        if: github.ref == 'refs/heads/master'
         uses: actions/upload-pages-artifact@v3
         with:
           path: web/dist
 
   deploy:
-    if: github.ref == 'refs/heads/master'
     needs: build
     runs-on: ubuntu-latest
     environment:

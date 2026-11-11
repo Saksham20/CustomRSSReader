@@ -1,4 +1,4 @@
-import { copyFileSync, mkdirSync, readFileSync } from "node:fs";
+import { copyFileSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { dirname, resolve } from "node:path";
 import { fileURLToPath } from "node:url";
 import react from "@vitejs/plugin-react";
@@ -28,6 +28,7 @@ function newsFeed() {
       const dist = resolve(root, "dist");
       mkdirSync(dist, { recursive: true });
       copyFileSync(feedPath, resolve(dist, "aim-daily-news.xml"));
+      writeFileSync(resolve(dist, ".nojekyll"), "");
     },
   };
 }
