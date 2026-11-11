@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""MCP server that rewrites the AIM news XML through the Gemini API.
+"""MCP server that rewrites the AIM news XML through the Cursor Python SDK.
 
 The key is never stored in this repository. Name the GitHub Actions secret
-GEMINI_API_KEY. Locally, export the same name before Cursor starts. The
-project file .cursor/mcp.json passes it through as ${env:GEMINI_API_KEY}.
+CURSOR_API_KEY. Locally, export the same name before Cursor starts. The
+project file .cursor/mcp.json passes it through as ${env:CURSOR_API_KEY}.
 """
 
 from __future__ import annotations
@@ -17,7 +17,11 @@ from mcp.server.mcpserver import MCPServer
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_FEED = REPO_ROOT / "aim-daily-news.xml"
-PLACEHOLDER_KEYS = {"", "YOUR_GEMINI_API_KEY", "placeholder"}
+PLACEHOLDER_KEYS = {"", "YOUR_CURSOR_API_KEY", "placeholder"}
+MODEL = {
+    "id": "gemini-3.8-flash",
+    "params": [{"id": "reasoning_effort", "value": "low"}],
+}
 
 mcp = MCPServer("aim-news-rewrite")
 
@@ -78,25 +82,25 @@ def load_xml(xml_path: str, xml: str) -> tuple[str, Path | None]:
 
 
 def rewrite_with_gemini(xml_text: str) -> str:
-    api_key = os.environ.get("GEMINI_API_KEY", "").strip()
+    api_key = os.environ.get("CURSOR_API_KEY", "").strip()
     if api_key in PLACEHOLDER_KEYS:
         raise RuntimeError(
-            "GEMINI_API_KEY is not set. Add it as a GitHub repository secret named "
-            "GEMINI_API_KEY, and export that same variable in the environment that launches Cursor."
+            "CURSOR_API_KEY is not set. Add it as a GitHub repository secret named "
+            "CURSOR_API_KEY, and export that same variable in the environment that launches Cursor."
         )
-    from google import genai
+    from cursor_sdk import Agent
 
-    model = os.environ.get("GEMINI_MODEL", "gemini-3.5-flash").strip() or "gemini-3.5-flash"
-    client = genai.Client(api_key=api_key)
-    response = client.models.generate_content(
-        model=model,
-        contents=f"{PROMPT}\n\n{xml_text}",
-        config={"temperature": 0.2},
+    result = Agent.prompt(
+        f"{PROMPT}\n\n{xml_text}",
+        {
+            "api_key": api_key,
+            "model": MODEL,
+            "local": {"cwd": str(REPO_ROOT), "tools": []},
+        },
     )
-    text = getattr(response, "text", None)
-    if not text:
-        raise RuntimeError("Gemini returned an empty rewrite.")
-    return validate_rewrite(xml_text, text)
+    if result.status != "finished" or not result.result:
+        raise RuntimeError(f"The rewrite did not finish (status: {result.status}).")
+    return validate_rewrite(xml_text, result.result)
 
 
 @mcp.tool()

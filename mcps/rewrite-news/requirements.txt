@@ -1,2 +1,2 @@
 mcp>=1.17
-google-genai>=1.47
+cursor-sdk>=1.0
