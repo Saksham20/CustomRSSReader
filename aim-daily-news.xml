@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  AIM Network daily news feed for CustomRSSReader.
+  Source channel: https://www.youtube.com/@aimmediahouse (UCAlwrsgeJavG1vw9qSFOUmA)
+
+  Update rule for later daily runs:
+  - Keep this file. Prepend new <item> elements (newest first).
+  - Do not duplicate a <guid>. The guid is the YouTube watch URL.
+  - Add a new <aim:edition> for each calendar day that is scanned.
+  - "Today" follows the Atom publish timestamp. For these uploads that
+    calendar day is the same in UTC and in India Standard Time.
+  - YouTube's on-screen date can read as the previous day because it is
+    rendered in US Pacific time. Do not use that label as the edition date.
+  - Leave items from earlier days in the file.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:aim="https://analyticsindiamag.com/ns/aim-daily">
+  <channel>
+    <title>AIM Network Daily News</title>
+    <link>https://www.youtube.com/@aimmediahouse/videos</link>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCAlwrsgeJavG1vw9qSFOUmA" rel="via" type="application/atom+xml"/>
+    <description>Daily briefing of Analytics India Magazine's AIM Network videos and shorts. The 11 November 2026 morning scan found eight Front Page shorts and no new long-form video. The shorts cover film education, why programming fundamentals still matter, AI threat modeling, SpaceX's Starbase build, a machine-checked Fermat proof, Coforge's Grok rollout, India's youth AI gap, and Salesforce's India SMB push.</description>
+    <language>en-in</language>
+    <lastBuildDate>Wed, 11 Nov 2026 03:23:42 +0000</lastBuildDate>
+    <generator>AIM daily news reader</generator>
+
+    <aim:edition date="2026-11-11">
+      <aim:scannedAt>2026-11-11T03:23:42Z</aim:scannedAt>
+      <aim:scannedAtIst>2026-11-11T08:53:42+05:30</aim:scannedAtIst>
+      <aim:videosTab>https://www.youtube.com/@aimmediahouse/videos</aim:videosTab>
+      <aim:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</aim:shortsTab>
+      <aim:longFormCount>0</aim:longFormCount>
+      <aim:shortCount>8</aim:shortCount>
+      <aim:latestLongForm videoId="w1Z74dFfwaw" published="2026-11-10T14:30:32Z">SemiAnalysis Finds SpaceX Has 3.6 GW Under Construction And 9 GW Identified</aim:latestLongForm>
+      <aim:method>Each short was matched to the channel Atom feed, then summarized from AIM's description and the spoken narration on the watch page. A multimodal read of each video's published frame added who was on screen and which captions or graphics were visible. Full playback of the video files was blocked by YouTube from this environment, so the visual notes are from those frames.</aim:method>
+      <aim:briefing><![CDATA[
+Morning edition, Wednesday 11 November 2026, scanned at 08:53 IST. AIM Network had not posted a long-form video or a live Front Page broadcast yet. The videos tab's newest long video is still Tuesday's SemiAnalysis piece on SpaceX power capacity (published 14:30 UTC on 10 November). Everything new today is a Front Page short, eight of them, posted on the half hour from 05:30 IST to 08:30 IST.
+
+The morning's through-line: AI is being handed real work, and the people on these clips keep putting a human check back in the loop.
+
+Education and jobs. A film-school guest says directing, editing and cinematography cannot be taught from theory, so the institute makes six to seven movies a year and teaches on those live projects. Sandeep Shukla, identified on screen as Director of IIIT Hyderabad, says students who turn programming assignments over to Claude Code still need the fundamentals, because they have to be able to criticize what the model writes. He also says he has heard that many multinational companies are not hiring freshers this year, and he calls that short-sighted. A separate youth-readiness short puts numbers on the gap: 30.4 percent of young Indians are not in employment, education or training, and 85.8 percent of young workers are in the informal sector. The government has Intel programs underway and a pledge to train 10 million young people in AI within a year. Calvin Ayer of the Ayer think tank is quoted that AI will change work, business and how wealth is created. The narration adds that this wealth is gated by access.
+
+Enterprise distribution in India. Coforge will run Grok enterprise deployments only through Momentum Blue, the unit that puts hybrid teams of engineers and AI agents inside client companies and ties the work to business targets. The bridge to old corporate software is Coforge's Neuron platform. Financial terms were not disclosed. Anup Nair, chief AI commercial officer, is quoted on turning Grok into industry solutions. Salesforce says small and mid-size businesses are now its highest-revenue segment in India. It is selling a credit-card kit that bundles Agentforce, Sales, Slack and Tableau and skips the usual three-to-four-month rollout. The clip says Salesforce is not trying to beat Zoho on price. It is betting on agents: Hunter does first-touch sales outreach, and an internal help agent called KC has handled more than 5 million inbound conversations and resolved nearly 70 percent with no human.
+
+Checks on the machines. Shukla, in a second clip, says AI can draft threat models faster than people if it is given enough information, and a person still has to throw out hallucinated scenarios. He uses the post-9/11 exercise, when Hollywood producers were asked to imagine new attacks, and the case of a hidden API key that nobody had put in the threat model. On the proof side, a thousand Fable agents put Andrew Wiles's proof of Fermat's Last Theorem into a form a computer could check, in 30 hours. An earlier attempt took 11 days. The clip's question for software teams is whether the same approach makes it cheaper to verify that a program does what it claims.
+
+Physical buildout. At Starbase, Texas, satellite images showed land cleared by the end of August and steel up near Colossus 2 by the end of September. SemiAnalysis estimates another site could go from an empty plot to a finished building in about four months. The narration's point is that a finished building is the photograph; the milestone that matters is the chips inside running around the clock.
+      ]]></aim:briefing>
+    </aim:edition>
+
+    <item>
+      <title>Film courses need live projects, with 6 to 7 movies made each year</title>
+      <link>https://www.youtube.com/watch?v=oQubY4BwD-o</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=oQubY4BwD-o</guid>
+      <pubDate>Wed, 11 Nov 2026 03:00:06 +0000</pubDate>
+      <category>Short</category>
+      <category>Front Page</category>
+      <aim:format>short</aim:format>
+      <aim:videoId>oQubY4BwD-o</aim:videoId>
+      <aim:publishedIst>2026-11-11T08:30:06+05:30</aim:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/oQubY4BwD-o/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>A guest on Front Page argues that creative-media degrees fail when they stay in the classroom. Directing, editing and cinematography need theory and practice together, so the speaker's institute produces six to seven films a year and teaches students on those live projects.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The guest says there is still no formal path, theoretical and practical at once, for people who want to be directors, editors or cinematographers.</li>
+<li>Pure theory does not work in these courses. Editing, the guest says, cannot be taught only in a classroom. Students need practical exposure.</li>
+<li>That is why the institute went into education: every year it produces six to seven movies and uses those productions as the teaching material.</li>
+<li>Students are meant to leave with theoretical knowledge and a practical angle from real projects.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>The published frame is a classroom. A young man sits at a wooden desk with a notebook and a laptop, in front of a chalkboard laid out as a film-studies lesson: a film triangle linking text, creator and audience, modes of address, narrative structure, and montage. A caption on screen reads "editor in the classroom," which is the line the guest is saying. The AIM bug sits in the corner. The guest is not named on this frame.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Students who skip the fundamentals cannot check what AI writes</title>
+      <link>https://www.youtube.com/watch?v=5vRkhnqjm5I</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=5vRkhnqjm5I</guid>
+      <pubDate>Wed, 11 Nov 2026 02:30:30 +0000</pubDate>
+      <category>Short</category>
+      <category>Front Page</category>
+      <aim:format>short</aim:format>
+      <aim:videoId>5vRkhnqjm5I</aim:videoId>
+      <aim:publishedIst>2026-11-11T08:00:30+05:30</aim:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/5vRkhnqjm5I/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Sandeep Shukla, Director of IIIT Hyderabad, says students who hand programming assignments to Claude Code are taking a shortcut that backfires. Fundamentals are what let a person use AI and criticize its output. He also says he has heard that many large multinational companies are not hiring freshers this year, and he calls that decision short-sighted.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Students are using Claude Code and similar tools to do programming assignments. Shukla says that shortcut is a mistake.</li>
+<li>The fear underneath the shortcut, as he describes it, is that nobody will hire them for programming anymore. He says that is not the case.</li>
+<li>You need the fundamentals to use AI at all. You cannot trust the model blindly. Someone has to be able to check the output and criticize it, and that takes knowledge the student still has to hold.</li>
+<li>On hiring, he says he has heard that a large number of MNCs are not hiring freshers this year. He calls the move short-sighted. AIM's own description reports it the same way: many MNCs are reportedly not hiring freshers. Treat it as his account of what he has heard, not as a hiring census.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>Split screen. On top, Sandeep Shukla on a video call, with a lower third reading "SANDEEP SHUKLA" and "DIRECTOR, IIIT HYDERABAD." Below, the Front Page anchor in a navy polo, laptop open, city-and-server-room backdrop. A caption word "and" sits between them. The clip is a conversation, not a solo anchor read.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>AI can build threat models faster than humans, with a human to check</title>
+      <link>https://www.youtube.com/watch?v=txiRiVFixs8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=txiRiVFixs8</guid>
+      <pubDate>Wed, 11 Nov 2026 02:00:32 +0000</pubDate>
+      <category>Short</category>
+      <category>Front Page</category>
+      <aim:format>short</aim:format>
+      <aim:videoId>txiRiVFixs8</aim:videoId>
+      <aim:publishedIst>2026-11-11T07:30:32+05:30</aim:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/txiRiVFixs8/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>The same guest, Sandeep Shukla, says threat models can now be drafted by AI much faster than by people, provided the model is given enough information. A human still has to reject scenarios the model invented. He anchors the point in the post-9/11 exercise that asked Hollywood producers to imagine attacks nobody in security had listed.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Before 9/11, passenger planes used as weapons were not in anyone's threat model: not air traffic control, not the military, and there was no Department of Homeland Security yet.</li>
+<li>After the attacks, Homeland Security brought in Hollywood producers to do a threat-modeling exercise, because the missing ingredient was extreme imagination. That scenario is now a standard threat model, and the airport controls people see today come from it.</li>
+<li>Known models already drive routine defenses. Ransomware is the example: backups, and isolating those backups.</li>
+<li>The failures are the models nobody wrote down. His example is an attacker reading source code to find a hidden API key. It was not in the threat model, so it was not defended.</li>
+<li>Given enough information, AI can produce these models faster than humans. A person still has to check that the team is not chasing a hallucinated scenario that cannot actually happen.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>Shukla is on the upper half again, same lower third, Director, IIIT Hyderabad, mid-gesture. The lower half cuts to an airport security lane: travelers loading bags onto a belt, officers beside a scanner marked Rapiscan 620DV. The on-screen caption reads "All the controls we," matching the line about airport controls that came out of that threat model.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>SpaceX went from cleared land to steel at Starbase in one month, images show</title>
+      <link>https://www.youtube.com/watch?v=WONBqciXiyM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WONBqciXiyM</guid>
+      <pubDate>Wed, 11 Nov 2026 02:00:13 +0000</pubDate>
+      <category>Short</category>
+      <category>Front Page</category>
+      <aim:format>short</aim:format>
+      <aim:videoId>WONBqciXiyM</aim:videoId>
+      <aim:publishedIst>2026-11-11T07:30:13+05:30</aim:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/WONBqciXiyM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Front Page uses satellite images from Starbase, Texas, where SpaceX builds and launches Starship. Land that was being cleared at the end of August had steel structures up by the end of September. SemiAnalysis estimates another site near Colossus 2 could go from an empty plot to a finished building in about four months. The clip's warning is that a finished shell is the easy photograph. The next milestone is the chips inside running around the clock.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Starbase, Texas, is where SpaceX builds and launches Starship.</li>
+<li>Satellite images at the end of August showed land being cleared. By the end of September, steel structures were going up.</li>
+<li>Near Colossus 2, SemiAnalysis estimates a separate site could go from empty plot to completed building in about four months.</li>
+<li>A finished building photographs well. The milestone the narration points to is when the chips in that building can run continuously.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>An anchor in a light blazer sits with a laptop in the server-room set. Above her, the frame shows an aerial site image with the SemiAnalysis credit on screen. The graphic is the satellite view the script is walking through.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Fable agents made a Fermat proof machine-checkable in 30 hours, not 11 days</title>
+      <link>https://www.youtube.com/watch?v=u4Im-DvAMfc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=u4Im-DvAMfc</guid>
+      <pubDate>Wed, 11 Nov 2026 01:30:37 +0000</pubDate>
+      <category>Short</category>
+      <category>Front Page</category>
+      <aim:format>short</aim:format>
+      <aim:videoId>u4Im-DvAMfc</aim:videoId>
+      <aim:publishedIst>2026-11-11T07:00:37+05:30</aim:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/u4Im-DvAMfc/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Front Page corrects a circulating claim about Fermat's Last Theorem. Andrew Wiles proved it in the 1990s. What a thousand Fable agents did was rewrite that proof so a computer could check it step by step. Anthropic's earlier run of the same kind of work took 11 days. This one took 30 hours. The question the clip leaves for software teams is whether that speed makes it cheaper to verify that a program does what it is supposed to do.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>People have been saying Claude solved Fermat's Last Theorem. The short says that is the wrong reading. Wiles proved the theorem in the 1990s.</li>
+<li>A thousand Fable agents put the existing proof into a form a computer can check line by line.</li>
+<li>An earlier Anthropic effort on this took 11 days. The new run took 30 hours.</li>
+<li>The useful question is not the theorem. It is whether the same agent workflow lowers the cost of proving that software behaves as specified.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>The same anchor, white blazer and laptop, with a full-screen graphic of equations behind the line she is reading. A caption fragment, "That kind of work," matches the turn from the theorem to software verification.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Coforge will deploy Grok through Momentum Blue, its human and AI agent unit</title>
+      <link>https://www.youtube.com/watch?v=PLn64We72TQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PLn64We72TQ</guid>
+      <pubDate>Wed, 11 Nov 2026 01:00:21 +0000</pubDate>
+      <category>Short</category>
+      <category>Front Page</category>
+      <aim:format>short</aim:format>
+      <aim:videoId>PLn64We72TQ</aim:videoId>
+      <aim:publishedIst>2026-11-11T06:30:21+05:30</aim:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/PLn64We72TQ/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Coforge has said how it will actually roll Grok out inside companies. Every enterprise deployment goes through Momentum Blue, the customer-facing engineering unit that embeds hybrid teams of human engineers and AI agents in the client and ties their output to agreed business targets. The technical bridge is Coforge's Neuron enterprise AI platform. Money terms were not disclosed.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Financial details of the partnership were not disclosed. The operating model was.</li>
+<li>All Grok enterprise deployments are handled exclusively through Momentum Blue.</li>
+<li>Momentum Blue is built to go past traditional IT sourcing. It places mixed teams of engineers and autonomous agents inside client organizations.</li>
+<li>Those teams are explicitly tied to agreed business targets, not to a staffing contract.</li>
+<li>Delivery leans on Coforge's existing AI-led modernization work, and specifically on the Neuron platform, which is supposed to connect Grok to legacy corporate software.</li>
+<li>Anup Nair, chief AI commercial officer, is quoted on screen and in the narration. The audible portion: "From software modernization and customer service to enterprise applications, we bring the industry context, engineering expertise, and adoption capabilities to turn Grok's technology into solutions." The captured narration cuts off as the sentence continues.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>Top half is a headshot of a man in a purple sweater, with a caption reading "AI Commercial Officer at," which is the role the narration assigns to Anup Nair. Bottom half is the Front Page anchor at the laptop, delivering the quote. The frame is a quote card, not a live two-shot.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>30.4 percent of young Indians are not in work, education or training, a study finds</title>
+      <link>https://www.youtube.com/watch?v=zAMsT1X5zH0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=zAMsT1X5zH0</guid>
+      <pubDate>Wed, 11 Nov 2026 00:30:20 +0000</pubDate>
+      <category>Short</category>
+      <category>Front Page</category>
+      <aim:format>short</aim:format>
+      <aim:videoId>zAMsT1X5zH0</aim:videoId>
+      <aim:publishedIst>2026-11-11T06:00:20+05:30</aim:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/zAMsT1X5zH0/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>A youth AI-readiness study, as read on Front Page, finds that turning readiness into jobs is the stuck part. About 30.4 percent of young Indians are not in employment, education or training, and 85.8 percent of young workers are in the informal sector. The government has started programs with Intel and has pledged to train 10 million young people in AI within a year. Calvin Ayer, founder of the Ayer think tank, says AI will change work, business and how wealth is created. The anchor adds that the wealth is gated by who has access.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>30.4 percent of young Indians are not in employment, education or training.</li>
+<li>85.8 percent of young workers are in the informal sector.</li>
+<li>The Indian government is trying to close the gap with Intel-linked programs and a pledge to train 10 million young people in AI inside one year.</li>
+<li>Calvin Ayer, founder of the Ayer think tank: "AI is going to change how we work, how we do business, and how wealth is created."</li>
+<li>The narration's addition: that wealth creation is strictly gated by access.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>A headshot of a grey-haired man sits above the anchor. The caption on the quote line reads "change how we work," the opening of Ayer's sentence. The portrait itself is not labeled with a name on this frame, so the identification comes from the narration, not from a lower third.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Salesforce bundles Agentforce, Slack and Tableau into an SMB kit bought by card</title>
+      <link>https://www.youtube.com/watch?v=DRywL__bLHU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DRywL__bLHU</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:04 +0000</pubDate>
+      <category>Short</category>
+      <category>Front Page</category>
+      <aim:format>short</aim:format>
+      <aim:videoId>DRywL__bLHU</aim:videoId>
+      <aim:publishedIst>2026-11-11T05:30:04+05:30</aim:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/DRywL__bLHU/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Salesforce is aiming at India's small and mid-size businesses, which the clip calls its highest-revenue segment in the country. The offer is a plug-and-play growth kit that bundles Agentforce, Sales, Slack and Tableau, sold on a credit card so a buyer can skip a three-to-four-month enterprise rollout. The bet is autonomous agents rather than a price fight with Zoho.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The battleground named in the clip is small and medium businesses. SMBs are now the highest revenue-contributing segment for Salesforce in India.</li>
+<li>The SMB growth kit bundles Agentforce, Sales, Slack and Tableau into one platform.</li>
+<li>A small business can buy it with a credit card, bypassing the traditional three-to-four-month enterprise implementation.</li>
+<li>Salesforce is described as not trying to beat local players such as Zoho on price. The wager is the value of autonomous AI agents.</li>
+<li>Hunter is presented as an agentic sales-development representative that does the initial prospect outreach.</li>
+<li>An internal help agent, KC, has handled more than 5 million inbound customer conversations and resolved nearly 70 percent of queries with no human intervention.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>A studio portrait of a man in a navy suit sits above the anchor. The caption reads "Salesforce isn't trying to," the price-comparison line. The portrait has no name on this frame, so the summary does not attach the Zoho remark to a named executive beyond what the narration itself supports.</p>
+      ]]></description>
+    </item>
+  </channel>
+</rss>
