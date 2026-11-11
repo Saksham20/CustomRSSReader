@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "aim-news-rewrite": {
+      "type": "stdio",
+      "command": "python3",
+      "args": ["${workspaceFolder}/mcps/rewrite-news/server.py"],
+      "env": {
+        "GEMINI_API_KEY": "${env:GEMINI_API_KEY}",
+        "GEMINI_MODEL": "gemini-3.5-flash"
+      }
+    }
+  }
+}
