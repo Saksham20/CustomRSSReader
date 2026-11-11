@@ -2,7 +2,7 @@
   "mcpServers": {
     "aim-news-rewrite": {
       "type": "stdio",
-      "command": "python3",
+      "command": "${workspaceFolder}/mcps/rewrite-news/.venv/bin/python",
       "args": ["${workspaceFolder}/mcps/rewrite-news/server.py"],
       "env": {
         "CURSOR_API_KEY": "${env:CURSOR_API_KEY}"

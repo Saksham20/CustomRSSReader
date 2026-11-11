@@ -88,15 +88,22 @@ def rewrite_with_gemini(xml_text: str) -> str:
             "CURSOR_API_KEY is not set. Add it as a GitHub repository secret named "
             "CURSOR_API_KEY, and export that same variable in the environment that launches Cursor."
         )
-    from cursor_sdk import Agent
+    from cursor_sdk import Agent, AgentOptions, LocalAgentOptions, ModelParameterValue, ModelSelection
 
     result = Agent.prompt(
         f"{PROMPT}\n\n{xml_text}",
-        {
-            "api_key": api_key,
-            "model": MODEL,
-            "local": {"cwd": str(REPO_ROOT), "tools": []},
-        },
+        AgentOptions(
+            api_key=api_key,
+            model=ModelSelection(
+                id=MODEL["id"],
+                params=[
+                    ModelParameterValue(id=parameter["id"], value=parameter["value"])
+                    for parameter in MODEL["params"]
+                ],
+            ),
+            local=LocalAgentOptions(cwd=str(REPO_ROOT)),
+            tools=[],
+        ),
     )
     if result.status != "finished" or not result.result:
         raise RuntimeError(f"The rewrite did not finish (status: {result.status}).")
