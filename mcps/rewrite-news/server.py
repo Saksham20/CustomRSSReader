@@ -18,13 +18,41 @@ from pathlib import Path
 
 from mcp.server.fastmcp import FastMCP
 
-REPO_ROOT = Path(__file__).resolve().parents[2]
-DEFAULT_FEED = REPO_ROOT / "latest-news.xml"
 PLACEHOLDER_KEYS = {"", "YOUR_CURSOR_API_KEY", "placeholder"}
 MODEL = {
     "id": "gemini-3.8-flash",
     "params": [{"id": "reasoning_effort", "value": "low"}],
 }
+
+
+def git_root(start: Path) -> Path | None:
+    """Walk up to the repository that contains this checkout."""
+    current = start.resolve()
+    if current.is_file():
+        current = current.parent
+    for candidate in (current, *current.parents):
+        if (candidate / ".git").exists():
+            return candidate
+    return None
+
+
+def repository_root() -> Path:
+    """Directory whose `.cursor/usage.json` is the committed usage ledger.
+
+    Prefer the repo that contains this file. A copy launched from the checkout
+    still records against that checkout, which is the process working directory.
+    """
+    from_server = git_root(Path(__file__))
+    if from_server is not None:
+        return from_server
+    from_cwd = git_root(Path.cwd())
+    if from_cwd is not None:
+        return from_cwd
+    return Path(__file__).resolve().parents[2]
+
+
+REPO_ROOT = repository_root()
+DEFAULT_FEED = REPO_ROOT / "latest-news.xml"
 
 mcp = FastMCP("aim-news-rewrite")
 USAGE_PATH = REPO_ROOT / ".cursor" / "usage.json"
