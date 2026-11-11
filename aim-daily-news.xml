@@ -12,6 +12,8 @@
   - YouTube's on-screen date can read as the previous day because it is
     rendered in US Pacific time. Do not use that label as the edition date.
   - Leave items from earlier days in the file.
+  - The React reader in web/ loads this file in the browser. Put the newest
+    aim:edition first. GitHub Actions builds the site when this file is pushed.
 -->
 <rss version="2.0"
      xmlns:atom="http://www.w3.org/2005/Atom"
