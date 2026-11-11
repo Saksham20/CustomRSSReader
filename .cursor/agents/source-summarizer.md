@@ -1,10 +1,8 @@
 ---
 name: source-summarizer
 description: >
-  Summarize exactly one web resource the parent has already chosen.
-  The resource may be a YouTube video or any other page.
-  The parent passes a list by spawning one source-summarizer per URL and
-  running those sub-agents in parallel. Never hand this sub-agent more than one URL.
+  Write a detailed summary of one YouTube video or one web page.
+  Each call takes a single URL. The parent may run several calls at the same time.
 model: gemini-3.8-flash
 ---
 
