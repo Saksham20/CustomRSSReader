@@ -63,7 +63,7 @@ function splitBriefing(text) {
   let headline = "";
   const body = [];
   paragraphs.forEach((paragraph) => {
-    const match = paragraph.match(/^The (?:morning's|day's) through-line:\s*(.*)$/i);
+    const match = paragraph.match(/^The morning's through-line:\s*(.*)$/i);
     if (match && !headline) {
       headline = match[1].replace(/\.$/, "");
       return;
