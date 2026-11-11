@@ -1,0 +1,11 @@
+{
+  "name": "aim-daily-reader",
+  "private": true,
+  "scripts": {
+    "build:css": "tailwindcss -i ./src/input.css -o ./styles.css --minify"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.17",
+    "tailwindcss": "^4.1.17"
+  }
+}

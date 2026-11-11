@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en-IN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AIM Front Page</title>
+    <meta
+      name="description"
+      content="A daily reader for Analytics India Magazine's AIM Network videos and shorts."
+    />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23f0c400'/%3E%3Ctext x='16' y='21' text-anchor='middle' font-family='Arial' font-size='11' font-weight='700' fill='%23141010'%3EAIM%3C/text%3E%3C/svg%3E" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500;0,9..144,620;1,9..144,520&family=Outfit:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="reader/styles.css" />
+  </head>
+  <body class="min-h-dvh antialiased">
+    <a class="skip" href="#stories">Skip to stories</a>
+    <div class="progress" aria-hidden="true"></div>
+    <header class="mast">
+      <div class="mast-inner">
+        <div class="mark" aria-hidden="true">AIM</div>
+        <div class="mast-name">
+          <strong>Front Page</strong>
+          <span>AIM Network daily reader</span>
+        </div>
+        <div class="mast-meta">
+          <div>
+            <div class="edition-date" id="edition-date">Today’s edition</div>
+            <span class="edition-sub" id="edition-sub">Loading the feed</span>
+          </div>
+          <button class="theme-btn" type="button" id="theme-toggle" aria-pressed="false">
+            Night
+          </button>
+        </div>
+      </div>
+    </header>
+    <main id="app">
+      <p class="status">Opening today’s edition…</p>
+    </main>
+    <script src="reader/main.js"></script>
+  </body>
+</html>
