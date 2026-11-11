@@ -1,26 +1,23 @@
 {
   "version": 1,
   "hooks": {
-    "sessionStart": [
-      { "command": "otel-hook sessionStart" }
-    ],
-    "subagentStart": [
-      { "command": "otel-hook subagentStart" }
-    ],
-    "subagentStop": [
-      { "command": "otel-hook subagentStop" }
-    ],
-    "beforeMCPExecution": [
-      { "command": "otel-hook beforeMCPExecution" }
-    ],
-    "afterMCPExecution": [
-      { "command": "otel-hook afterMCPExecution" }
-    ],
-    "afterAgentResponse": [
-      { "command": "otel-hook afterAgentResponse" }
-    ],
-    "stop": [
-      { "command": "otel-hook stop" }
-    ]
+    "sessionStart": [{ "command": ".cursor/hooks/otel.sh" }],
+    "sessionEnd": [{ "command": ".cursor/hooks/otel.sh" }],
+    "subagentStart": [{ "command": ".cursor/hooks/otel.sh" }],
+    "subagentStop": [{ "command": ".cursor/hooks/otel.sh" }],
+    "preToolUse": [{ "command": ".cursor/hooks/otel.sh" }],
+    "postToolUse": [{ "command": ".cursor/hooks/otel.sh" }],
+    "postToolUseFailure": [{ "command": ".cursor/hooks/otel.sh" }],
+    "beforeShellExecution": [{ "command": ".cursor/hooks/otel.sh" }],
+    "afterShellExecution": [{ "command": ".cursor/hooks/otel.sh" }],
+    "beforeMCPExecution": [{ "command": ".cursor/hooks/otel.sh" }],
+    "afterMCPExecution": [{ "command": ".cursor/hooks/otel.sh" }],
+    "beforeReadFile": [{ "command": ".cursor/hooks/otel.sh" }],
+    "afterFileEdit": [{ "command": ".cursor/hooks/otel.sh" }],
+    "beforeSubmitPrompt": [{ "command": ".cursor/hooks/otel.sh" }],
+    "stop": [{ "command": ".cursor/hooks/otel.sh" }],
+    "preCompact": [{ "command": ".cursor/hooks/otel.sh" }],
+    "afterAgentResponse": [{ "command": ".cursor/hooks/otel.sh" }],
+    "afterAgentThought": [{ "command": ".cursor/hooks/otel.sh" }]
   }
 }
