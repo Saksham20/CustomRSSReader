@@ -13,10 +13,39 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 11 November 2026 edition, updated late in the evening, has eleven shorts and twelve videos. The latest report is Gemini Robotics 2.5, which reached 96 percent on a Mercedes-Benz kitting pilot. Earlier reports cover TSMC's record October, Meta Muse prices in India, an Andhra Pradesh data-center approval, a tuberculosis-screening grant, Claude's workplace tools, a Signal proof, car exports, an education debate, and a security interview.</description>
+    <description>News of relevance. The 12 November 2026 edition has five shorts and no new long video. The newest short is Claude Sheets, Whiteboards and Data. Earlier shorts cover Gemini Robotics 2.5, Andhra Pradesh policies with no published incentives, a Google.org screening grant, and a US duty of up to 25 percent on Indian auto parts.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Nov 2026 17:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 02:23:36 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-12">
+      <news:scannedAt>2026-11-12T02:23:36Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-12T07:53:36+05:30</news:scannedAtIst>
+      <news:longFormCount>0</news:longFormCount>
+      <news:shortCount>5</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="qst0LXZ_6rg" published="2026-11-11T16:00:40Z">Gemini Robotics 2.5 hits 96 percent on a Mercedes kitting pilot</news:latestLongForm>
+      <news:method>The channel feed at 07:53 IST lists five shorts published on 12 November, from 05:30 to 07:30 IST, and then Wednesday night's Gemini Robotics report. The videos tab, checked at about 07:40 IST, still opened on that report and labeled it 10 hours old. No live was at the top of the tab. Spoken wording for the Claude, Andhra, Google.org and auto-parts shorts came from caption extracts. The Andhra player length was 59 seconds and the auto-parts player length was 46 seconds. The Gemini Robotics short's caption track did not come back, so that item uses the published description and the frames. Full video files were not downloaded after a bot check. The frames used are vertical broadcast frames from i.ytimg.com. hq3.jpg on the Andhra short is a broken yellow frame and was not used. YouTube's on-screen date for these morning shorts still read 11 November, which is the US Pacific label. The Atom publish time is the one used here.</news:method>
+      <news:briefing><![CDATA[
+Thursday 12 November 2026, scanned at 07:53 IST. Five shorts are up, half an hour apart from 05:30 to 07:30. No long video and no live have been posted since Wednesday night. The newest upload that is not a short is still the Gemini Robotics report from 21:30 IST.
+
+The morning's through-line: Claude now turns a whiteboard into the spreadsheet, Andhra's new tech policies still have no published incentives, and auto parts still face a US duty that has not been lifted.
+
+What the shorts are. Four of them are cuts of reports already in Wednesday's edition. The tariff short is the new fact. Two anchors appear. A woman with long dark hair, in a black top, reads the Claude short and the Gemini Robotics short. She is not named. A man in a white shirt and glasses reads the other three. He is not named either.
+
+The workbook moves inside Claude. Anthropic has shipped Claude Sheets, Claude Whiteboards and Claude Data. The example is a product launch sketched on a whiteboard. Claude turns the plan into a spreadsheet with owners, deadlines and a budget. When the numbers arrive, Claude Data can pull from Snowflake or Salesforce and help turn them into a dashboard. The team edits formulas and moves between tabs, and Claude is supposed to carry the context so nobody restates the project. Claude Meetings, which would join a call, take notes and update those documents during the conversation, is described as coming soon. Interactive connectors let partners including Adobe and Atlassian place pieces of their apps inside Claude, so the records can stay in Atlassian while more of the work starts in Claude. The short's closing line is that the software still does the job and may no longer be the first tab opened. Wednesday's four-minute report went one step further, into Anthropic's own legal-team example and the warning that someone still has to notice a budget that adds up and leaves out the largest cost. This short stops before that. The caption track begins mid-phrase, on "So rolled out." A frame shows a card reading "Share a story with Claude Data," with the burned-in words "to explain the whole." Another frame is an app-icon grid under "Now think about what."
+
+The factory short. Google says Gemini Robotics 2.5 controlled Apollo 2 humanoid robots at Mercedes-Benz sites in Germany and Hungary, picking metal brackets from bins and placing them in trays in sequence. Google reports a 96 percent success rate for that proof of concept. New safety guidance improved safe completion by 33 percent around obstacles and by 43 percent around people. A title card reads "Apollo robots hit 96% on Mercedes lines" over a robot arm and blue bins, with a burned-in fragment "orchestration involved." A bar chart is titled "Precision kitting & insertion," under the words "embodied reasoning." A later chart is titled "Dexterous tools & deformables." The caption track for this short did not come back, so those lines are the description and the frames. Wednesday's report added the lab ranges, the split between the action model and a separate embodied-reasoning model, and the caveat that a pilot is not a fully automated line. This short's description does not repeat them.
+
+Policies without the fine print. Nara Lokesh, named on the lower third and in the narration as the state's IT minister, said in April that Google's one-gigawatt hub in the same city would create at least two lakh jobs. The narration then says that works out to two jobs a megawatt in one case and 200 in the other, and that both numbers come from the same state. The clip says "the same city" and does not name it. Wednesday's report named Visakhapatnam. To explain the gap, the speaker turns to what the cabinet cleared: a robotics and physical AI policy to 2036, a gaming and animation policy to 2031, and changes to the semiconductor fab policy. None of the reports found give the incentives or the targets, so for now the policies are promises. The auto-caption says "physically AI." The description says "physical AI." The player length is 59 seconds. One frame is Lokesh at a microphone. Another is two humanoids in a lab under the words "a gaming and animation."
+
+Where to send the health worker. Google.org is backing a Pune startup with 2.3 million dollars, plus 200,000 dollars in Google Cloud credits and technical support. The description says the app is offline, in local languages, and tells frontline workers where to go, using government health data and Google's Earth AI models to flag high-risk zones of about 300 metres. The spoken extract adds settlement density, rainfall and flooding, then household visits. The description does not name the company. The auto-caption renders a name close to "Franc.ai" and an app close to "MAI Netra," and its last noun is "roots." Wednesday's report spelled the company Froncort.AI and the app mAI-Netra, and it carried the pilot counts and the caveat that the tool has not been shown to find more patients. This short does not repeat those counts. A title card reads "Google Backs an AI That Finds the Uncounted Sick."
+
+The duty that is not signed. The short opens on exporters having a tariff problem as well, which picks up Wednesday's car-export report. Indian auto parts face duty of up to about 25 percent in the United States. A trade framework in February promised relief and is still not final. Goyal, the commerce minister, said the EU should offer zero duty by March or April. The burned-in caption spells Goyal. The auto-caption says "Mr. Goyel." The short calls the EU timing an expectation stated on stage, and says Front Page's research found no signed text. The anchor says an exporter cannot plan a business around a figment of hope. The auto-caption spells that word "vigment," and the caption on screen at that moment is "a business around." The retrieved wording stops as he turns to the Front Page take, so the take itself is not in this item. The player length is 46 seconds. One frame is a white-bearded man in a dark vest facing a blond man in a dark suit, under "Goyal also said the EU." A later frame is a man at a podium. Neither is named on that frame.
+      ]]></news:briefing>
+    </news:edition>
+
 
     <news:edition date="2026-11-11">
       <news:scannedAt>2026-11-11T17:08:03Z</news:scannedAt>
@@ -53,6 +82,135 @@ Still in this file from the morning. The first eight shorts cover film teaching 
       ]]></news:briefing>
     </news:edition>
 
+
+    <item>
+      <title>Claude turns a whiteboard plan into the spreadsheet, with meetings still to come</title>
+      <link>https://www.youtube.com/watch?v=O3x0bVFs-X4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=O3x0bVFs-X4</guid>
+      <pubDate>Thu, 12 Nov 2026 02:00:05 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>O3x0bVFs-X4</news:videoId>
+      <news:publishedIst>2026-11-12T07:30:05+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/O3x0bVFs-X4/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Anthropic has shipped Claude Sheets, Claude Whiteboards and Claude Data. The short walks through a launch planned on a whiteboard that becomes a spreadsheet, then a dashboard. Claude Meetings is described as coming soon. This is a cut of Wednesday's longer workplace-tools report, and it stops before that report's legal-team example and its warning about a budget that leaves out the largest cost.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The tools named as shipped are Claude Sheets, Claude Whiteboards and Claude Data. The caption track begins mid-phrase, on "So rolled out."</li>
+<li>The example is a team planning a product launch. They sketch the plan on a whiteboard. Claude turns it into a spreadsheet with owners, deadlines and a budget.</li>
+<li>When the numbers come in, Claude Data can pull from sources such as Snowflake or Salesforce and help turn them into a dashboard.</li>
+<li>The team can work on the sheet together, edit formulas and move between tabs. Claude is supposed to carry the context from the original plan so nobody has to explain the whole project again.</li>
+<li>Anthropic says Claude Meetings is coming soon. The idea is that Claude joins a call, takes notes, and updates the documents the team is already working on during the conversation.</li>
+<li>The wider move is what Anthropic calls interactive connectors. Partners including Adobe and Atlassian can embed parts of their apps inside Claude. A company can keep its project records in Atlassian while employees start more of the work in Claude.</li>
+<li>The short's closing line: the software still does the job. It may no longer be the first tab people open.</li>
+<li>Wednesday's four-minute report on the same announcement added Anthropic's legal team, a Slack tool that flags draft edits against a playbook, a claim that broad marketing reviews fell from three days to about 24 hours, and a warning that someone still has to notice when a budget adds up and leaves out the largest cost. None of that is in this short's retrieved wording.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The anchor is a woman with long dark hair in a black embroidered top, at a laptop, with a city skyline behind her. She is not named on screen or in the narration. maxresdefault.jpg shows a card reading "Share a story with Claude Data" above her, with the burned-in words "to explain the whole." hq1.jpg is a screen recording of a product demo above her, with the burned-in words "into a dashboard." hq3.jpg is an app-icon grid under "Now think about what," which is the line in the narration about interactive connectors. The icons are not named in the narration beyond Adobe and Atlassian, so this item does not attach other company names to that grid. The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Gemini Robotics 2.5's 96 percent Mercedes pilot is now a short</title>
+      <link>https://www.youtube.com/watch?v=X0IX1dCOzAU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=X0IX1dCOzAU</guid>
+      <pubDate>Thu, 12 Nov 2026 01:30:08 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>X0IX1dCOzAU</news:videoId>
+      <news:publishedIst>2026-11-12T07:00:08+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/X0IX1dCOzAU/hq1.jpg"/>
+      <description><![CDATA[
+<p>Google says Gemini Robotics 2.5 ran Apollo 2 humanoids through a Mercedes-Benz kitting job at 96 percent. This short restates the factory result from Wednesday night's report. The caption track did not come back, so the figures below are the published description and the words on the frames.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The description says Google says Gemini Robotics 2.5 controlled Apollo 2 humanoid robots at Mercedes-Benz sites in Germany and Hungary.</li>
+<li>The job was picking metal brackets from bins and placing them in trays in sequence. Google reports a 96 percent success rate for that proof of concept.</li>
+<li>The description says new safety guidance improved safe completion around obstacles by 33 percent and around people by 43 percent.</li>
+<li>A title card on a broadcast frame reads "Apollo robots hit 96% on Mercedes lines" and "Gemini Robotics 2.5," over a robot arm working above blue bins. The burned-in caption fragment at that moment is "orchestration involved."</li>
+<li>Another frame is a bar chart titled "Precision kitting & insertion," with the burned-in words "embodied reasoning." A later chart is titled "Dexterous tools & deformables," with the fragment "improved." The small labels on those charts were not clear enough to quote task by task.</li>
+<li>Wednesday's longer report added Google's evaluation on more than 200 tasks, the 30 to 100 percent and 20 to 30 percent lab ranges, the split between the action model and a separate embodied-reasoning model, and the caveat that a successful pilot is not a fully automated line. This short's description does not repeat those points. It also does not name the robot maker or the factory cities.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The anchor is a woman with long dark hair in a black embroidered top, at a laptop, with a city skyline behind her. She is not named. hq1.jpg is the 96 percent title card over the factory shot. maxresdefault.jpg is the kitting chart. hq3.jpg is the dexterous-tools chart. These are broadcast frames, not the channel's AI-assisted poster. The full video file was not downloaded, and the spoken track was not retrieved.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Andhra's robotics and gaming policies still publish no incentives</title>
+      <link>https://www.youtube.com/watch?v=63GGIRf8ooU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=63GGIRf8ooU</guid>
+      <pubDate>Thu, 12 Nov 2026 01:00:19 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>63GGIRf8ooU</news:videoId>
+      <news:publishedIst>2026-11-12T06:30:19+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/63GGIRf8ooU/hq1.jpg"/>
+      <description><![CDATA[
+<p>Nara Lokesh's jobs claim for Google's one-gigawatt hub and the cabinet's own ratio still do not match, and the robotics, gaming and semiconductor policies cleared beside them still have no published incentives. The player length is 59 seconds. This is a cut of Wednesday's Andhra Pradesh report, and this clip names the minister.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The narration names the state's IT minister as Mr. Nara Lokesh. A lower third on a broadcast frame reads "Nara Lokesh." He said in April that Google's one-gigawatt hub in the same city would create at least two lakh jobs. The description is the line that supplies the word jobs. The narration says "at least two lakh" and then the comparison.</li>
+<li>The speaker's comparison: two jobs a megawatt in one case and 200 in the other, and both numbers come from the same state. The clip says "the same city" and does not name it. Wednesday's report named Visakhapatnam and set the cabinet's data-center approval, about two jobs a megawatt, against the Google claim of about 200.</li>
+<li>The cabinet cleared a robotics and physical AI policy to 2036, a gaming and animation policy to 2031, and changes to the semiconductor fab policy. The auto-caption says "physically AI." The title and the description say "physical AI."</li>
+<li>None of the reports found give the incentives or the targets. The narration's line is that for now the policies are promises.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>hq1.jpg shows Nara Lokesh at a table with a microphone, named on the lower third, above the anchor. The anchor is a man with glasses in a white shirt, at a laptop, with a city skyline behind him. He is not named. maxresdefault.jpg and hq2.jpg show two humanoid robots in a lab under the burned-in words "a gaming and animation," with the same anchor. hq3.jpg is a broken yellow frame and was not used. The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Google.org's $2.3 million screening grant, cut down to a short</title>
+      <link>https://www.youtube.com/watch?v=ONJvRKfwUEw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ONJvRKfwUEw</guid>
+      <pubDate>Thu, 12 Nov 2026 00:30:12 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>ONJvRKfwUEw</news:videoId>
+      <news:publishedIst>2026-11-12T06:00:12+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/ONJvRKfwUEw/hq1.jpg"/>
+      <description><![CDATA[
+<p>Google.org is putting 2.3 million dollars into a Pune startup so health workers can be sent to high-risk neighborhoods instead of screening everyone. The short gives the grant and the method. It does not repeat the tuberculosis pilot counts from Wednesday's longer report, and its description does not print the company name.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The grant is 2.3 million dollars from Google.org, plus 200,000 dollars in Google Cloud credits and technical support, to expand an AI disease-screening platform.</li>
+<li>The description says the app is offline, in local languages, and built for frontline health workers. It tells them where to go. It uses government health data and Google's Earth AI models to flag high-risk zones of about 300 metres.</li>
+<li>The spoken extract adds local factors: settlement density, rainfall and flooding. It then says the app plans household visits. The auto-caption's last noun is "roots," which is not a clean word.</li>
+<li>The description calls it "a Pune startup" and does not name it. The auto-caption renders a name close to "Franc.ai" and an app close to "MAI Netra." Wednesday's report spelled the company Froncort.AI on the lower third and the app mAI-Netra, and the automatic caption of that report garbled the company name. This short does not show the spelling.</li>
+<li>Wednesday's report also gave the Maharashtra tuberculosis comparison, the cost figures, and the caveat that the tool has not been shown to find more patients. Those numbers are not in this short.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The anchor is the same unnamed man in a white shirt and glasses, at a laptop against the skyline. hq1.jpg puts a title card over a glass building with a Google mark. The card reads "Google Backs an AI That Finds the Uncounted Sick." The burned-in fragment is "Pune startup that wants." maxresdefault.jpg is an aerial view of turquoise water under "AI models and local." hq3.jpg is a view of Earth from orbit under "factors like." The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Auto parts face up to 25 percent US duty, and the EU zero-duty line has no signed text</title>
+      <link>https://www.youtube.com/watch?v=Dxt1SwFlkYA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Dxt1SwFlkYA</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:32 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>Dxt1SwFlkYA</news:videoId>
+      <news:publishedIst>2026-11-12T05:30:32+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/Dxt1SwFlkYA/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Indian auto parts face duty of up to about 25 percent in the United States, a February framework that promised relief is still not final, and a commerce-minister line on zero EU duty by March or April has no signed text behind it. The player length is 46 seconds. The opening line picks up Wednesday's car-export report. The Front Page take at the end was not in the wording that came back.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The narration opens with exporters having a tariff problem as well. Indian auto parts face duty of up to about 25 percent in the United States.</li>
+<li>A trade framework in February promised relief. It is still not final. A burned-in caption reads "in February promised."</li>
+<li>The commerce minister said the EU should offer zero duty by March or April. The description calls him the commerce minister. The burned-in caption spells the name Goyal, in the line "Goyal also said the EU." The auto-caption says "Mr. Goyel." Wednesday's export report named Piyush Goyal.</li>
+<li>The short calls that EU timing an expectation stated on stage. It says Front Page's research has not found any signed text for the claim.</li>
+<li>The anchor says an exporter cannot plan a business around a figment of hope. The auto-caption spells that word "vigment." The caption on screen at that moment is "a business around."</li>
+<li>The retrieved wording ends as he turns to the Front Page take. The take itself was not in the text that came back, so it is not summarized here.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The anchor is the same unnamed man in a white shirt and glasses. maxresdefault.jpg shows a white-bearded man in a dark vest facing a blond man in a dark suit, under "Goyal also said the EU." hq1.jpg is the same meeting under "in February promised." hq3.jpg is a man with glasses in a light shirt and dark vest at a podium, under "a business around." Neither man in the upper frame is named on that frame. The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
 
     <item>
       <title>Gemini Robotics 2.5 hits 96 percent on a Mercedes kitting pilot</title>
