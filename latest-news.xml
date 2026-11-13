@@ -13,10 +13,49 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 12 November 2026 edition, read again by 10:11 IST, has nine shorts and no new long video. Four shorts listed above the 07:30 Claude short discuss phones and access, a Claude agent and Hugging Face, patient capital for research, and why India has no DeepMind. Their pages did not give a clock time. The earlier shorts cover Claude's whiteboard tools, Gemini Robotics 2.5, Andhra Pradesh policies with no published incentives, a Google.org screening grant, and a US duty of up to 25 percent on Indian auto parts.</description>
+    <description>News of relevance. The 13 November 2026 edition, retrieved at 16:21 IST, covers Hyderabad's planned AI police station, Cognizant's Claude team, a public-hospital voice scribe, Nvidia's share fall and succession search, OpenAI's Control Room, forged court orders used to block 129 betting sites, Meta's Muse Ember, an Oracle and AstraZeneca trial-matching partnership, India's AI regulation debate, and Elon Musk's claim about SoftBank and Tesla.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Nov 2026 04:41:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 10:51:04 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
+
+
+    <news:edition date="2026-11-13">
+      <news:scannedAt>2026-11-13T10:51:04Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-13T16:21:04+05:30</news:scannedAtIst>
+      <news:longFormCount>4</news:longFormCount>
+      <news:shortCount>10</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="wBFxbzSfEkA" published="2026-11-13T02:15:37Z">Hyderabad police prepare an AI station at Punjagutta to draft case papers</news:latestLongForm>
+      <news:method>Retrieved at 16:21 IST on 13 November 2026. The window is the 24 hours ending 10:51 UTC. Fifteen uploads came back with titles, descriptions, and publication times. Spoken captions did not come back, so nothing here depends on hearing the broadcasts. A scheduled live had not started, and its lineup was left out. Fourteen uploads are in this edition. Four run longer than three minutes and ten fall inside that cutoff, which is only a way to sort them.</news:method>
+      <news:briefing><![CDATA[
+Friday 13 November 2026, retrieved at 16:21 IST. Hyderabad police are preparing an AI police station that drafts case papers. Public hospitals have been assigned a voice scribe in more than 15 Indian languages. Nvidia shares fell more than 8 percent after reports of a possible removal of Jensen Huang, while an earlier report says the board still has full confidence in him and is searching for a successor.
+
+The morning's through-line: Hyderabad is preparing an AI police station that drafts case papers, public hospitals are getting a voice scribe in more than 15 languages, and Nvidia's shares fell on reports of a possible removal of Jensen Huang that an earlier report does not treat as a departure.
+
+The police station. Hyderabad police are preparing to launch India's first AI-powered police station at Punjagutta, with AI built into drafting FIRs, case diaries and charge sheets. Police have already used AI for complaints. In May they launched a copywriter that records, transcribes and translates complaints in 10 Indian languages. In September they added a kiosk where people file complaints, receive acknowledgements and track grievances. The Punjagutta station is the step that takes AI into the investigation workflow. It is not described as open. An earlier report spells the neighbourhood Panjagutta and the writing tool AI-copwriters. It says the facility will use those tools for translation and digital kiosks for complaints, and that the aim is to change police processing by December 2026. That report's headline says the station is to draft FIRs and case diaries. Its body names translation and complaint kiosks, and paperwork, and calls the pilot a precedent for later stations.
+
+Cognizant and Claude. Cognizant is described as having a 25,000-person Claude delivery team. The same report also says Cognizant commits 25,000 to Claude. No contract value, start date, or description of the work is given beyond those two wordings.
+
+The share fall. Nvidia shares fell more than 8 percent in extended trading after reports of a possible removal of chief executive Jensen Huang. Those reports raise a founder-succession question. Huang's leadership is tied to Nvidia's technology roadmap and its developer ecosystem. The next quarterly results are due on 17 November. A removal is not reported as a decision already taken.
+
+The succession search. An earlier report says Nvidia is searching for chief executive successors while the board maintains full confidence in Jensen Huang. The board has engaged an outside firm, which is not named, to identify candidates. An interim chief is discussed as a possibility while the board maps a longer strategy. The report calls Nvidia the world's most valuable semiconductor firm. No candidate and no departure date are given. The fall of more than 8 percent is in that report's headline and is not repeated in its body. Neither report describes a resignation or a national-security case.
+
+The voice scribe. The National Health Authority has selected EkaCare, spelled Ekacare in one headline, to put an ambient AI voice scribe in public health facilities. It turns doctor-patient conversations into structured notes covering symptoms, medical history, medicines, diagnosis and treatment plans, in more than 15 Indian languages, so doctors spend less time on documentation. The longer report places the work inside the Ayushman Bharat Digital Mission and says the notes are captured automatically to reduce the administrative burden on clinicians. No facility count and no start date are given.
+
+Control Room. OpenAI's Control Room tracks research workloads, including model training, experiments, evaluations and large-scale data processing. Every research job gets a unique ID. Once a researcher or an automated safety monitor gives a stop instruction, the next request for model output is rejected within a maximum of 35 seconds. If Control Room goes offline, requests are denied until it recovers. An earlier report calls the system a way to monitor and halt unauthorized model behavior, assigns a unique ID to every job, and says researchers can intervene when a model acts outside its authorized parameters. Its headline says a suspicious training job can be cut off within 35 seconds. That timing is not repeated in the earlier body. Suspicious is not defined, and no customer is named.
+
+Forged court orders. India's Department of Telecommunications issued two website-blocking directions this year on forged orders impersonating the Allahabad and Rajasthan High Courts. The first, on 21 July, covered 34 sites. The second, on 2 September, covered 95. Together that is 129 betting websites. Both orders carried official-looking seals, the national emblem and QR codes. Police have started an investigation into alleged forgery and cheating. No arrests have been made. A morning report attributes the investigation to Reuters. The report that gives the dates and the counts does not name Reuters.
+
+Muse Ember. Meta's Muse Ember costs 14 cents a task for routine automation. The published score is 37.8 percent on an automation bench, and the report says the model leads AutomationBench. It can take audio and video as well as text. Pulling records and updating software are examples of the work, not measured case studies. A morning report says Muse Ember is beating rival models on an automation benchmark. It does not name the rivals or repeat the 37.8 percent.
+
+Clinical trials. Oracle and AstraZeneca are using AI to match patients to clinical trials faster and to cut the cost of drug development. Oracle Health is pushing healthcare AI from patient portals to Fusion Claw agents, which let customers build their own agents. Amit Raja Naik of AIM spoke with Seema Verma, executive vice president and general manager of Oracle Health and Life Sciences, at Oracle AI World in Las Vegas. The conversation is about the AstraZeneca partnership, where Oracle's healthcare business goes next, electronic health records, drug discovery, hospital operations, and hospitals in India. What Verma said is not established beyond those subjects.
+
+The regulation debate. India is weighing an AI governance framework covering deepfakes, data security and algorithmic accountability. The open question is whether strict compliance would price early-stage startups out of the market. Antara Gupta spoke with Rahul Agarwalla, managing partner at SenseAI Ventures, Rohit Kumar, founding partner at The Quantum Hub, and Vishal Ranjan, founder of Claight, about regulation, startup compliance costs, and who is liable when AI agents go wrong. The discussion is framed as graded rules rather than a blanket rule, a possible split of liability between model makers and application builders, lessons from the EU AI Act and GDPR, and whether India should chase frontier models. Other named subjects are watermarking, the online gaming ban, hallucinations, rogue agents, copyright and training data, and safe harbors for startups. No speaker's conclusion is established.
+
+SoftBank and Tesla. Elon Musk says SoftBank could have had a quarter of Tesla for 12 billion dollars in 2017. SoftBank funded WeWork instead. The account sets that failed buyout against WeWork's rise and collapse under Adam Neumann, from a peak valuation of 47 billion dollars to bankruptcy proceedings in 2023. Musk is not quoted. The year of the 47 billion dollar peak is given only as a peak.
+      ]]></news:briefing>
+    </news:edition>
 
     <news:edition date="2026-11-12">
       <news:scannedAt>2026-11-12T04:41:45Z</news:scannedAt>
@@ -90,6 +129,325 @@ Still in this file from the morning. The first eight shorts cover film teaching 
       ]]></news:briefing>
     </news:edition>
 
+
+
+    <item>
+      <title>Hyderabad police prepare an AI station at Punjagutta to draft case papers</title>
+      <link>https://www.youtube.com/watch?v=wBFxbzSfEkA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=wBFxbzSfEkA</guid>
+      <pubDate>Fri, 13 Nov 2026 02:15:37 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>wBFxbzSfEkA</news:videoId>
+      <news:publishedIst>2026-11-13T07:45:37+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/wBFxbzSfEkA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Hyderabad police are preparing to launch India's first AI-powered police station at Punjagutta, with AI built into drafting FIRs, case diaries and charge sheets. Cognizant is described as having a 25,000-person Claude delivery team, and the same report also says Cognizant commits 25,000 to Claude. Reuters is cited for an investigation into 129 betting websites blocked on forged High Court orders.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Hyderabad police are preparing to launch India's first AI-powered police station at Punjagutta.</li>
+<li>AI is being built into drafting FIRs, case diaries and charge sheets.</li>
+<li>Cognizant is described both as a 25,000-person Claude delivery team and as committing 25,000 to Claude. No contract value or start date is given.</li>
+<li>Reuters is cited for the investigation into 129 betting websites blocked on forged High Court orders.</li>
+<li>Also named, without further detail: the National Health Authority's selection of EkaCare for an AI voice scribe in public facilities, OpenAI's Control Room for internal research, Elon Musk's claim about SoftBank's missed Tesla investment, Nvidia's search for a chief executive successor, and Meta's Muse Ember beating rival models on an automation benchmark.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Nvidia shares fall more than 8 percent on reports of a possible Huang removal</title>
+      <link>https://www.youtube.com/watch?v=cifn242rSYU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=cifn242rSYU</guid>
+      <pubDate>Fri, 13 Nov 2026 02:00:21 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>cifn242rSYU</news:videoId>
+      <news:publishedIst>2026-11-13T07:30:21+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/cifn242rSYU/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Nvidia shares fell more than 8 percent in extended trading after reports of a possible removal of chief executive Jensen Huang. The reports raise a founder-succession question. Huang's leadership is tied to the technology roadmap and the developer ecosystem. The next quarterly results are due on 17 November. A removal is not reported as a decision already taken.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Nvidia shares fell more than 8 percent in extended trading.</li>
+<li>The fall followed reports of a possible removal of chief executive Jensen Huang. The reports do not say a removal has occurred.</li>
+<li>The reports raise a founder-succession question at the company described as the center of the AI boom.</li>
+<li>Huang's leadership is tied to Nvidia's technology roadmap and developer ecosystem.</li>
+<li>Nvidia's next quarterly results are due on 17 November.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>OpenAI's Control Room rejects the next model output within 35 seconds of a stop</title>
+      <link>https://www.youtube.com/watch?v=qB1i-kz7new</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qB1i-kz7new</guid>
+      <pubDate>Fri, 13 Nov 2026 01:30:22 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>qB1i-kz7new</news:videoId>
+      <news:publishedIst>2026-11-13T07:00:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/qB1i-kz7new/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>OpenAI's Control Room tracks AI workloads across its research infrastructure, including model training, experiments, evaluations and large-scale data processing. Every research job gets a unique ID. Once a researcher or an automated safety monitor gives a stop instruction, the next request for model output is rejected within a maximum of 35 seconds. If Control Room goes offline, requests are denied until it recovers.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Control Room is a central system for OpenAI's research workloads: training, experiments, evaluations and large-scale data processing.</li>
+<li>Every research job gets a unique ID.</li>
+<li>After a stop instruction from a researcher or an automated safety monitor, the next request for model output is rejected within a maximum of 35 seconds.</li>
+<li>If Control Room is offline, requests are denied until it recovers.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>The National Health Authority picks Ekacare to scribe public-hospital visits</title>
+      <link>https://www.youtube.com/watch?v=hjFbXZyhgRw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=hjFbXZyhgRw</guid>
+      <pubDate>Fri, 13 Nov 2026 01:00:09 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>hjFbXZyhgRw</news:videoId>
+      <news:publishedIst>2026-11-13T06:30:09+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/hjFbXZyhgRw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India's National Health Authority has selected Ekacare to implement an ambient AI voice scribe in public health facilities. It converts doctor-patient conversations into structured clinical notes covering symptoms, medical history, medicines, diagnosis and treatment plans, and it supports more than 15 Indian languages. The stated aim is that doctors spend less time on documentation and more time treating patients.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The National Health Authority has selected Ekacare, spelled that way here, for public health facilities.</li>
+<li>The scribe turns doctor-patient conversations into notes on symptoms, medical history, medicines, diagnosis and treatment plans.</li>
+<li>It supports more than 15 Indian languages.</li>
+<li>The aim is less documentation time for doctors. No facility count or start date is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Hyderabad's complaint tools now reach the investigation itself</title>
+      <link>https://www.youtube.com/watch?v=bMAnWCuX4Rg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bMAnWCuX4Rg</guid>
+      <pubDate>Fri, 13 Nov 2026 00:30:22 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>bMAnWCuX4Rg</news:videoId>
+      <news:publishedIst>2026-11-13T06:00:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/bMAnWCuX4Rg/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Hyderabad police have already used AI for complaints. In May they launched an AI copywriter that records, transcribes and translates complaints in 10 Indian languages. In September an AI kiosk at a police station let citizens file complaints, get acknowledgements and track grievances. The new AI police station at Punjagutta takes AI into the investigation workflow itself.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>In May, Hyderabad police launched an AI copywriter that records, transcribes and translates complaints in 10 Indian languages.</li>
+<li>In September, an AI kiosk let people file complaints, receive acknowledgements and track grievances.</li>
+<li>The new station at Punjagutta is described as bringing AI into the investigation workflow. It is not described as already open.</li>
+<li>FIRs, case diaries and charge sheets are not named in this report.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Forged high court orders were used to block 129 betting websites</title>
+      <link>https://www.youtube.com/watch?v=z6crPz42iKM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=z6crPz42iKM</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:28 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>z6crPz42iKM</news:videoId>
+      <news:publishedIst>2026-11-13T05:30:28+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/z6crPz42iKM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India's Department of Telecommunications issued two website-blocking directions this year on forged orders impersonating the Allahabad and Rajasthan High Courts. The first, on 21 July, covered 34 sites. The second, on 2 September, covered 95. The total is 129 betting websites. Both orders carried official-looking seals, the national emblem and QR codes. Police have started an investigation into alleged forgery and cheating, and no arrests have been made.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The Department of Telecommunications issued two blocking directions based on forged orders impersonating the Allahabad and Rajasthan High Courts.</li>
+<li>The 21 July direction covered 34 sites. The 2 September direction covered 95 sites. The total is 129 betting websites.</li>
+<li>Both orders carried official-looking seals, the national emblem and QR codes.</li>
+<li>Police are investigating alleged forgery and cheating. No arrests have been made.</li>
+<li>This report does not name Reuters.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>India weighs an AI rulebook against the compliance cost for startups</title>
+      <link>https://www.youtube.com/watch?v=uL6RJgdkUhQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=uL6RJgdkUhQ</guid>
+      <pubDate>Thu, 12 Nov 2026 15:30:07 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>uL6RJgdkUhQ</news:videoId>
+      <news:publishedIst>2026-11-12T21:00:07+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/uL6RJgdkUhQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India is weighing an AI governance framework covering deepfakes, data security and algorithmic accountability, including whether strict compliance would price early-stage startups out of the market. Antara Gupta of AIM spoke with Rahul Agarwalla, managing partner at SenseAI Ventures, Rohit Kumar, founding partner at The Quantum Hub, and Vishal Ranjan, founder of Claight. The discussion is framed around graded rules rather than a blanket rule, how liability could be split between model makers and application builders, what the EU AI Act and GDPR teach India, and whether India should chase frontier models. No speaker's conclusion is established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>India is weighing a framework covering deepfakes, data security and algorithmic accountability.</li>
+<li>The open question is whether strict compliance would price early-stage AI startups out of the market.</li>
+<li>Antara Gupta spoke with Rahul Agarwalla of SenseAI Ventures, Rohit Kumar of The Quantum Hub, and Vishal Ranjan of Claight.</li>
+<li>The subjects include who is liable when AI agents go wrong, graded rules, a split between model makers and application builders, the EU AI Act and GDPR, and whether India should chase frontier models.</li>
+<li>Further named subjects, without recorded conclusions, are watermarking, the online gaming ban, hallucinations, rogue agents, copyright and training data, safe harbors for startups, and enterprise AI.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Oracle and AstraZeneca use AI to match patients to clinical trials</title>
+      <link>https://www.youtube.com/watch?v=8ddX0vLGl4o</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=8ddX0vLGl4o</guid>
+      <pubDate>Thu, 12 Nov 2026 15:00:36 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>8ddX0vLGl4o</news:videoId>
+      <news:publishedIst>2026-11-12T20:30:36+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/8ddX0vLGl4o/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Oracle and AstraZeneca are using AI to match patients to clinical trials faster and to cut the cost of drug development. Oracle Health is pushing healthcare AI from patient portals to Fusion Claw agents, which let customers build their own agents. Amit Raja Naik, senior editorial producer for live shows at AIM, spoke with Seema Verma, executive vice president and general manager of Oracle Health and Life Sciences, at Oracle AI World in Las Vegas. What Verma said is not established beyond the subjects of that conversation.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Oracle and AstraZeneca are using AI to match patients to clinical trials faster and to cut drug-development cost.</li>
+<li>Oracle Health's stated range runs from patient portals to Fusion Claw agents that customers can build themselves.</li>
+<li>Amit Raja Naik spoke with Seema Verma at Oracle AI World in Las Vegas about the AstraZeneca partnership and where Oracle's healthcare business goes next.</li>
+<li>The named subjects also include electronic health records, drug discovery, hospital operations, and hospitals in India.</li>
+<li>No remarks by Seema Verma are established beyond those subjects.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>EkaCare's voice scribe is headed to public hospitals under Ayushman Bharat</title>
+      <link>https://www.youtube.com/watch?v=QBGe_jfXLwg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=QBGe_jfXLwg</guid>
+      <pubDate>Thu, 12 Nov 2026 14:45:35 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>QBGe_jfXLwg</news:videoId>
+      <news:publishedIst>2026-11-12T20:15:35+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/QBGe_jfXLwg/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The National Health Authority has selected EkaCare to implement an AI scribe in India's public healthcare system. The company will deploy an ambient voice scribe that turns doctor-patient conversations into structured records by capturing symptoms, medical history, diagnoses and treatment plans, with the aim of cutting the administrative burden on clinicians. The work is part of bringing modern tools into the Ayushman Bharat Digital Mission. The scribe supports more than 15 Indian languages. The headline spells the company Ekacare.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The National Health Authority has selected EkaCare for an AI scribe in public healthcare, including public hospitals.</li>
+<li>The body spells the company EkaCare. The headline spells it Ekacare.</li>
+<li>The scribe captures symptoms, medical history, diagnoses and treatment plans from the conversation.</li>
+<li>The deployment is described as part of the Ayushman Bharat Digital Mission.</li>
+<li>Support is for more than 15 Indian languages. No facility count or start date is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Meta prices Muse Ember at 14 cents a task and publishes a 37.8 percent score</title>
+      <link>https://www.youtube.com/watch?v=p1_j276a1LE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=p1_j276a1LE</guid>
+      <pubDate>Thu, 12 Nov 2026 14:30:29 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>p1_j276a1LE</news:videoId>
+      <news:publishedIst>2026-11-12T20:00:29+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/p1_j276a1LE/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Meta's Muse Ember is a model for routine automation, priced at 14 cents a task. The published score is 37.8 percent on an automation bench, and the report says Ember leads AutomationBench. It can process audio and video as well as text. Pulling records and updating software are examples of the intended work, not reported measurements. No rival model is named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Muse Ember is Meta's model for routine business automation.</li>
+<li>The price given is 14 cents a task.</li>
+<li>The published automation-bench score is 37.8 percent. The report says Ember leads AutomationBench.</li>
+<li>Ember can take audio and video inputs as well as text.</li>
+<li>Pulling records and updating software are examples, not measured case studies. No rival is named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Nvidia's board looks for a successor and says it still has confidence in Huang</title>
+      <link>https://www.youtube.com/watch?v=CR58r1RPI7I</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=CR58r1RPI7I</guid>
+      <pubDate>Thu, 12 Nov 2026 14:00:34 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>CR58r1RPI7I</news:videoId>
+      <news:publishedIst>2026-11-12T19:30:34+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/CR58r1RPI7I/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Nvidia is searching for chief executive successors while the board maintains full confidence in Jensen Huang. The board has engaged an outside firm, which is not named, to identify candidates. An interim chief is discussed as a possibility while the board maps a longer strategy. The report calls Nvidia the world's most valuable semiconductor firm. The headline also says shares fell more than 8 percent. No candidate and no departure date are given, and the body does not repeat the share move.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The board is searching for chief executive successors and is described as maintaining full confidence in Jensen Huang.</li>
+<li>An unnamed outside firm is identifying candidates. An interim chief is a possibility, not an appointment.</li>
+<li>No candidate, firm name, or departure date is given.</li>
+<li>The headline says shares fell more than 8 percent. The body does not restate that figure.</li>
+<li>The report does not describe a resignation or a national-security case.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Musk says SoftBank could have bought a quarter of Tesla for 12 billion dollars</title>
+      <link>https://www.youtube.com/watch?v=qiQ4cIsOkk0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qiQ4cIsOkk0</guid>
+      <pubDate>Thu, 12 Nov 2026 13:00:15 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>qiQ4cIsOkk0</news:videoId>
+      <news:publishedIst>2026-11-12T18:30:15+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/qiQ4cIsOkk0/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Elon Musk says SoftBank could have had a quarter of Tesla for 12 billion dollars in 2017. SoftBank funded WeWork instead of the carmaker. The failed buyout is set against WeWork's rise and collapse under Adam Neumann, from a peak valuation of 47 billion dollars to bankruptcy proceedings in 2023. Musk is not quoted, and the year of that peak is given only as a peak.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Musk's claim, as published, is that SoftBank could have had a quarter of Tesla for 12 billion dollars in 2017.</li>
+<li>SoftBank funded WeWork instead. The 2017 Tesla buyout bid is described as failed.</li>
+<li>Adam Neumann's company is traced from a peak valuation of 47 billion dollars to bankruptcy proceedings in 2023.</li>
+<li>Musk's words are not quoted. The year of the 47 billion dollar peak is not given beyond the word peak.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>OpenAI's Control Room is meant to stop a job that leaves its authorized bounds</title>
+      <link>https://www.youtube.com/watch?v=cgZ9l2dQbtQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=cgZ9l2dQbtQ</guid>
+      <pubDate>Thu, 12 Nov 2026 12:30:32 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>cgZ9l2dQbtQ</news:videoId>
+      <news:publishedIst>2026-11-12T18:00:32+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/cgZ9l2dQbtQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>OpenAI's Control Room is a system for managing risk by monitoring and halting unauthorized model behavior. It tracks AI workloads, assigns a unique ID to every job, and lets researchers intervene when a model acts outside its authorized parameters. Stop instructions are the safeguard against unpredictable actions. The headline says a suspicious training job can be cut off within 35 seconds. That timing is not repeated in the body, and suspicious is not defined.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Control Room monitors and halts unauthorized AI model behavior.</li>
+<li>Every job gets a unique ID. Researchers can intervene when a model acts outside authorized parameters.</li>
+<li>Stop instructions are described as the safeguard.</li>
+<li>The headline says a suspicious training job can be cut off within 35 seconds. The body does not restate the 35 seconds.</li>
+<li>No customer and no date are named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Hyderabad aims to change police paperwork at Panjagutta by December 2026</title>
+      <link>https://www.youtube.com/watch?v=MOovjktslNY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=MOovjktslNY</guid>
+      <pubDate>Thu, 12 Nov 2026 11:00:20 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>MOovjktslNY</news:videoId>
+      <news:publishedIst>2026-11-12T16:30:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/MOovjktslNY/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Hyderabad is launching India's first AI police station at Panjagutta, the spelling used here. The facility will use AI-copwriters for translation and digital kiosks for complaint filing. The systems are described as handling paperwork and documentation. The aim is to shift police processing to that model by December 2026, and the pilot is presented as a precedent for later stations. The headline says the station is to draft FIRs and case diaries. The body does not repeat those two documents, and it does not say the station is already open.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The place is spelled Panjagutta in this report. Later reports spell it Punjagutta.</li>
+<li>The writing tool is spelled AI-copwriters and is described as assisting with translation.</li>
+<li>Digital kiosks are for complaint filing. The systems handle paperwork and documentation.</li>
+<li>The aim is a technology-driven processing model by December 2026.</li>
+<li>The headline says the station will draft FIRs and case diaries. The body does not name those documents.</li>
+</ul>
+      ]]></description>
+    </item>
 
     <item>
       <title>India's gap is phones and access, not only capital</title>
