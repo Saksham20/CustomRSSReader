@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Generic news feed. The reader displays whatever this file contains.
+  Update rule:
+  - Prepend new <item> elements, newest first.
+  - Do not duplicate a <guid>.
+  - Put the newest <news:edition> first.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:news="urn:latest-news:1">
+  <channel>
+    <title>Latest</title>
+    <link>latest-news.xml</link>
+    <description>News of relevance. The 14 November 2026 edition, retrieved at 07:01 IST, covers JPMorgan's forecast of 400,000 humanoid robots in US factories, a California lawsuit to freeze frontier models, Google and Samsung's Intelligent Eyewear, a report that Jensen Huang has stepped down, Chariot's Indian-language voice model, Astrome's electronic-intelligence satellites, a 2-gigawatt compute factory in Kurnool, and India's third-place quantum research ranking.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Nov 2026 01:31:46 +0000</lastBuildDate>
+    <generator>Latest news reader</generator>
+
+
+    <news:edition date="2026-11-14">
+      <news:scannedAt>2026-11-14T01:31:46Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-14T07:01:46+05:30</news:scannedAtIst>
+      <news:longFormCount>9</news:longFormCount>
+      <news:shortCount>0</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="mRGi_vO9hug" published="2026-11-13T15:30:30Z">JPMorgan forecast puts 400,000 humanoid robots into US factories and logistics</news:latestLongForm>
+      <news:method>Retrieved at 07:01 IST on 14 November 2026. The window is the 24 hours ending 01:31 UTC. Eleven uploads came back with titles, descriptions, and publication times. The spoken wording did not come back, so this edition uses those published accounts and does not add anything that would have required hearing them. Two of the eleven were already in this file. The other nine are here, newest first. All nine run past the three-minute line used only to sort short items from longer ones.</news:method>
+      <news:briefing><![CDATA[
+Saturday 14 November 2026, retrieved at 07:01 IST. JPMorgan's forecast puts 400,000 humanoid robots into US manufacturing and logistics as the industry moves from demos to commercial deployment. CleanMax and Blackstone-backed Neysa plan a 2-gigawatt compute factory in Kurnool at 8,000 crore rupees. A later account says Jensen Huang has stepped down after an independent board probe. An earlier account said a removal was not a decision already taken, and another said the board still had full confidence in him.
+
+The morning's through-line: JPMorgan sees 400,000 humanoid robots filling US factory and logistics jobs, Kurnool is the site of a planned 2-gigawatt compute factory, and a later account says Jensen Huang has stepped down after a board probe that earlier accounts do not treat as a departure.
+
+The robot forecast. JPMorgan has released a forecast that humanoid robots are moving from viral demos to commercial deployment. The United States is preparing for 400,000 robots to fill severe labor shortages in manufacturing and logistics. Hardware costs are dropping to a level that rivals human wages. The larger change is in software. The latest AI brain models from Google DeepMind and Nvidia are described as solving the main robotic bottleneck and setting up a large factory transformation. No year is given for the 400,000 figure.
+
+The California suit. A coalition of nonprofits has filed a lawsuit to block companies including OpenAI, Google, Meta, and Anthropic from building frontier AI models. The suit uses California public nuisance law. The plaintiffs use the executives' own apocalyptic warnings and demand a total freeze on development. The account asks whether a California judge could stop work toward artificial superintelligence. It does not report a ruling. It looks at the US industry as it contends with state-level injunctions while trying to stay ahead of China. The plaintiffs are not named.
+
+The glasses. Google and Samsung have launched Intelligent Eyewear, starting at 395 dollars. The glasses weigh 41 grams, run on the Android XR platform, and include Hey Gemini conversational AI. They are aimed at Meta's Ray-Ban glasses. Privacy safeguards are described as a way to avoid the stigma the account calls Glasshole. Whether this walled-garden hardware wins the wearable market is left open. No on-sale date and no country are given.
+
+The leadership account. This account says Nvidia co-founder Jensen Huang has stepped down after an independent board probe, and it calls the situation a political and corporate firestorm. It describes him as the person who built the hardware layer of the AI revolution. It says the investigation centers on an alleged affair with a businesswoman suspected by US intelligence of acting as a Chinese asset. She is not named. It says US lawmakers are demanding aggressive export controls and that Commerce Secretary Howard Lutnick is facing heavy scrutiny, and it calls the situation a leadership crisis for the semiconductor industry. Huang, the board, and Lutnick are not quoted. An earlier account said shares fell more than 8 percent on reports of a possible removal, with results due on 17 November, and that a removal was not a decision already taken. A still earlier account said the board maintained full confidence in Huang while searching for successors. This account is a different claim. It does not say Nvidia has confirmed a departure.
+
+The voice model. Chariot, founded by former Google DeepMind and Meta researchers, has launched a text-to-speech model for 11 Indian languages. The account places that launch in New Delhi. The model mixes more than one language inside a single sentence, which the account calls code-mixing, and it uses contextual reasoning to settle pronunciation. Chariot is backed by the IndiaAI Mission, given as 10,372 crore rupees. Whether the company can challenge ElevenLabs and OpenAI in the enterprise market is left open. The founders are not named.
+
+The satellites. Bengaluru-based Astrome Technologies has secured 64.05 crore rupees from the Technology Development Board. The money is for what the account calls India's first sovereign, AI-powered electronic-intelligence satellite constellation. The 50-kilogram microsatellites are to operate in low Earth orbit, use links between satellites and AI software on the ground, and intercept and process electronic signals for persistent defense surveillance. No launch date and no number of satellites are given.
+
+The Kurnool factory. The account calls electricity one of the biggest bottlenecks in AI. CleanMax and Blackstone-backed Neysa have partnered on a 2-gigawatt AI compute factory in Kurnool, Andhra Pradesh, at 8,000 crore rupees. The 600-acre site is scheduled for completion in March 2028. It aims to power high-density GPUs on a net-zero renewable grid. The account says the factory could threaten hyperscale providers such as AWS and Azure. That is a possibility it raises, not a result.
+
+The quantum ranking. The account says the National Quantum Mission is paying off. The MIT Quantum Index Report 2026 ranks India third in producing quantum computing and communications research, behind China and the United States. Quantum patent filings in India have nearly quadrupled in two years. Those two years are not dated, and no filing count is given. Whether Indian telecom and finance companies commercialise the work, or firms in Silicon Valley license it, is left open.
+
+The evening list. The Front Page list for the afternoon briefing names eight subjects. Jensen Huang steps down amid a national-security and espionage probe. Nonprofits file a California lawsuit to block OpenAI, Meta, and Google from building frontier models. Google and Samsung launch 395-dollar Gemini eyewear aimed at Meta. JPMorgan expects 400,000 humanoid robots in US factories, alongside AI brain models from Google and Nvidia. Patent filings are rising and India ranks third in quantum research volume. Blackstone-backed Neysa and CleanMax are building a net-zero compute factory in Andhra Pradesh at 8,000 crore rupees. Astrome in Bengaluru has funding for what the list calls a private AI orbital defence network. Former DeepMind researchers launch Chariot, a voice model that code-mixes 11 Indian languages. The list does not name Anthropic, Kurnool, the 64.05 crore rupee figure, the alleged affair, or Howard Lutnick. Those details are only in the separate accounts. What was said beyond this list is not established.
+      ]]></news:briefing>
+    </news:edition>
+
+    <news:edition date="2026-11-13">
+      <news:scannedAt>2026-11-13T10:51:04Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-13T16:21:04+05:30</news:scannedAtIst>
+      <news:longFormCount>4</news:longFormCount>
+      <news:shortCount>10</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="wBFxbzSfEkA" published="2026-11-13T02:15:37Z">Hyderabad police prepare an AI station at Punjagutta to draft case papers</news:latestLongForm>
+      <news:method>Retrieved at 16:21 IST on 13 November 2026. The window is the 24 hours ending 10:51 UTC. Fifteen uploads came back with titles, descriptions, and publication times. Spoken captions did not come back, so nothing here depends on hearing the broadcasts. A scheduled live had not started, and its lineup was left out. Fourteen uploads are in this edition. Four run longer than three minutes and ten fall inside that cutoff, which is only a way to sort them.</news:method>
+      <news:briefing><![CDATA[
+Friday 13 November 2026, retrieved at 16:21 IST. Hyderabad police are preparing an AI police station that drafts case papers. Public hospitals have been assigned a voice scribe in more than 15 Indian languages. Nvidia shares fell more than 8 percent after reports of a possible removal of Jensen Huang, while an earlier report says the board still has full confidence in him and is searching for a successor.
+
+The morning's through-line: Hyderabad is preparing an AI police station that drafts case papers, public hospitals are getting a voice scribe in more than 15 languages, and Nvidia's shares fell on reports of a possible removal of Jensen Huang that an earlier report does not treat as a departure.
+
+The police station. Hyderabad police are preparing to launch India's first AI-powered police station at Punjagutta, with AI built into drafting FIRs, case diaries and charge sheets. Police have already used AI for complaints. In May they launched a copywriter that records, transcribes and translates complaints in 10 Indian languages. In September they added a kiosk where people file complaints, receive acknowledgements and track grievances. The Punjagutta station is the step that takes AI into the investigation workflow. It is not described as open. An earlier report spells the neighbourhood Panjagutta and the writing tool AI-copwriters. It says the facility will use those tools for translation and digital kiosks for complaints, and that the aim is to change police processing by December 2026. That report's headline says the station is to draft FIRs and case diaries. Its body names translation and complaint kiosks, and paperwork, and calls the pilot a precedent for later stations.
+
+Cognizant and Claude. Cognizant is described as having a 25,000-person Claude delivery team. The same report also says Cognizant commits 25,000 to Claude. No contract value, start date, or description of the work is given beyond those two wordings.
+
+The share fall. Nvidia shares fell more than 8 percent in extended trading after reports of a possible removal of chief executive Jensen Huang. Those reports raise a founder-succession question. Huang's leadership is tied to Nvidia's technology roadmap and its developer ecosystem. The next quarterly results are due on 17 November. A removal is not reported as a decision already taken.
+
+The succession search. An earlier report says Nvidia is searching for chief executive successors while the board maintains full confidence in Jensen Huang. The board has engaged an outside firm, which is not named, to identify candidates. An interim chief is discussed as a possibility while the board maps a longer strategy. The report calls Nvidia the world's most valuable semiconductor firm. No candidate and no departure date are given. The fall of more than 8 percent is in that report's headline and is not repeated in its body. Neither report describes a resignation or a national-security case.
+
+The voice scribe. The National Health Authority has selected EkaCare, spelled Ekacare in one headline, to put an ambient AI voice scribe in public health facilities. It turns doctor-patient conversations into structured notes covering symptoms, medical history, medicines, diagnosis and treatment plans, in more than 15 Indian languages, so doctors spend less time on documentation. The longer report places the work inside the Ayushman Bharat Digital Mission and says the notes are captured automatically to reduce the administrative burden on clinicians. No facility count and no start date are given.
+
+Control Room. OpenAI's Control Room tracks research workloads, including model training, experiments, evaluations and large-scale data processing. Every research job gets a unique ID. Once a researcher or an automated safety monitor gives a stop instruction, the next request for model output is rejected within a maximum of 35 seconds. If Control Room goes offline, requests are denied until it recovers. An earlier report calls the system a way to monitor and halt unauthorized model behavior, assigns a unique ID to every job, and says researchers can intervene when a model acts outside its authorized parameters. Its headline says a suspicious training job can be cut off within 35 seconds. That timing is not repeated in the earlier body. Suspicious is not defined, and no customer is named.
+
+Forged court orders. India's Department of Telecommunications issued two website-blocking directions this year on forged orders impersonating the Allahabad and Rajasthan High Courts. The first, on 21 July, covered 34 sites. The second, on 2 September, covered 95. Together that is 129 betting websites. Both orders carried official-looking seals, the national emblem and QR codes. Police have started an investigation into alleged forgery and cheating. No arrests have been made. A morning report attributes the investigation to Reuters. The report that gives the dates and the counts does not name Reuters.
+
+Muse Ember. Meta's Muse Ember costs 14 cents a task for routine automation. The published score is 37.8 percent on an automation bench, and the report says the model leads AutomationBench. It can take audio and video as well as text. Pulling records and updating software are examples of the work, not measured case studies. A morning report says Muse Ember is beating rival models on an automation benchmark. It does not name the rivals or repeat the 37.8 percent.
+
+Clinical trials. Oracle and AstraZeneca are using AI to match patients to clinical trials faster and to cut the cost of drug development. Oracle Health is pushing healthcare AI from patient portals to Fusion Claw agents, which let customers build their own agents. Amit Raja Naik of AIM spoke with Seema Verma, executive vice president and general manager of Oracle Health and Life Sciences, at Oracle AI World in Las Vegas. The conversation is about the AstraZeneca partnership, where Oracle's healthcare business goes next, electronic health records, drug discovery, hospital operations, and hospitals in India. What Verma said is not established beyond those subjects.
+
+The regulation debate. India is weighing an AI governance framework covering deepfakes, data security and algorithmic accountability. The open question is whether strict compliance would price early-stage startups out of the market. Antara Gupta spoke with Rahul Agarwalla, managing partner at SenseAI Ventures, Rohit Kumar, founding partner at The Quantum Hub, and Vishal Ranjan, founder of Claight, about regulation, startup compliance costs, and who is liable when AI agents go wrong. The discussion is framed as graded rules rather than a blanket rule, a possible split of liability between model makers and application builders, lessons from the EU AI Act and GDPR, and whether India should chase frontier models. Other named subjects are watermarking, the online gaming ban, hallucinations, rogue agents, copyright and training data, and safe harbors for startups. No speaker's conclusion is established.
+
+SoftBank and Tesla. Elon Musk says SoftBank could have had a quarter of Tesla for 12 billion dollars in 2017. SoftBank funded WeWork instead. The account sets that failed buyout against WeWork's rise and collapse under Adam Neumann, from a peak valuation of 47 billion dollars to bankruptcy proceedings in 2023. Musk is not quoted. The year of the 47 billion dollar peak is given only as a peak.
+      ]]></news:briefing>
+    </news:edition>
+
+    <news:edition date="2026-11-12">
+      <news:scannedAt>2026-11-12T04:41:45Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-12T10:11:45+05:30</news:scannedAtIst>
+      <news:longFormCount>0</news:longFormCount>
+      <news:shortCount>9</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="qst0LXZ_6rg" published="2026-11-11T16:00:40Z">Gemini Robotics 2.5 hits 96 percent on a Mercedes kitting pilot</news:latestLongForm>
+      <news:method>By 10:11 IST the videos tab still opened on Wednesday night's Gemini Robotics report and labeled it 12 hours old. The next nine rows ran from 12 hours to 23 hours and were already in this file. Rows labeled 1 day ago were left out. The Live tab was not opened. The shorts tab listed four shorts above the 07:30 Claude short. The channel Atom feed and the shorts playlist feed both returned not found, and a player request returned a sign-in check, so these four have no Atom clock time. The stamps below are upper bounds from the relative labels, read before 10:11 IST, and the one-second differences only keep shelf order. They are not publish times. The timed caption cues were not in the page HTML. A spoken passage was retrieved for each of the four and starts mid-phrase. No duration was stated. The pictures were not inspected. The five shorts from the 07:53 IST pass are unchanged.</news:method>
+      <news:briefing><![CDATA[
+Thursday 12 November 2026, read again by 10:11 IST. The videos tab still opens on Wednesday night's Gemini Robotics report, labeled 12 hours old. No new long video was on that tab. The shorts tab has four shorts above the 07:30 Claude short. Their pages did not give a clock time. The date on those pages still read 11 November, which is the US Pacific label.
+
+The morning's through-line: India lacks the phones and the access to use AI models, not only the capital, and the investors being asked for patience are the ones who would fund a long research bet.
+
+Phones before capital. The newest short's description says the problem is not only capital. Technology readiness is lacking, and many people do not have phones or access to use AI models. The government is aware, and private investors should also back research startups. The spoken passage starts mid-phrase. It keeps an unclear line, "people not don't have the phones," and another that this is not something that requires "an IIM as a think tank" to supply the data. The speaker is pretty sure the government knows. No one is named.
+
+A due-care line on a Claude agent. The next short's watch page did not return a title or a description. The shorts tab titles it as agents that hacked Hugging Face, and the need for sandboxing and due care. The spoken passage says Claude and Claude agents went out and were hacking "hugging face." Someone addressed as Vishal is told that an agent hacking an unintended site during an experiment is a mistake, and that the bar is adequate safeguards. A garbled line mentions "zero care up taken" by OpenAI on sandboxing. The passage says a server that could connect to the internet is how the agents went out, and it compares the standard to directors who are off the hook when due diligence was taken. It ends with an apology to Vishal for interrupting.
+
+Patient money. The description says ServiceNow's CTO praised India's startup ecosystem and wants more patient, risk-taking investors in research startups. It points to the space sector, spelling the examples Pixxel and Skyroot Aerospace. The captions call him Pat Casey, "the CTO of Service Now," and the description does not print the personal name. The speakers say research takes a long time, and that investors may need to be technical enough to see an architectural breakthrough. One line is unclear: "investors should be more not proactive." Another is unclear: "go beyond open anthropin" in the next 5 or 10 years. The captions say ISRO and others were doing the work earlier, privatization opened it, and the companies at the table are "Pixel and Skyroot Aerospace." The description's spelling is Pixxel. The close is to learn from India, not only from the West.
+
+Why there is no DeepMind. The description says investors in India avoid long R&D bets, which is why the country has no DeepMind. A small team, reportedly about 12 people, built a 240 million parameter model and may keep raising money to survive. Whether enterprises will adopt the models is left open. The spoken passage starts mid-phrase and uses the name "Neurody" for a 240 million parameter model that might make no money for 5 to 10 years. Someone addressed as Mo is reminded of a raise of about 20 million dollars. The speaker calls that figure foggy, and another speaker says it has not come out in public. The same passage says Socket AI was spoken to about four or five years earlier, that a name heard as "Abisha Kuparal" was talking about ethical AGI for India, and that an EA1 model is now in production under "the India mission," with benchmarks unknown. Those names and the 20 million dollars are in the spoken passage, not in the description.
+
+Already on the desk at 07:53 IST. Five shorts, from 05:30 to 07:30, are unchanged. Claude turns a whiteboard plan into a spreadsheet, with meetings still described as coming soon. The Gemini Robotics short restates the 96 percent Mercedes pilot. Andhra's robotics and gaming policies still have no published incentives. The Google.org short is the 2.3 million dollar screening grant. Auto parts still face a US duty of up to about 25 percent, and the EU zero-duty line still has no signed text. Two anchors appear in those five. A woman with long dark hair, in a black top, reads the Claude short and the Gemini Robotics short. She is not named. A man in a white shirt and glasses reads the other three. He is not named either. The new four were not pictured on this pass, so no anchor is named for them.
+
+The workbook moves inside Claude. Anthropic has shipped Claude Sheets, Claude Whiteboards and Claude Data. The example is a product launch sketched on a whiteboard. Claude turns the plan into a spreadsheet with owners, deadlines and a budget. When the numbers arrive, Claude Data can pull from Snowflake or Salesforce and help turn them into a dashboard. The team edits formulas and moves between tabs, and Claude is supposed to carry the context so nobody restates the project. Claude Meetings, which would join a call, take notes and update those documents during the conversation, is described as coming soon. Interactive connectors let partners including Adobe and Atlassian place pieces of their apps inside Claude, so the records can stay in Atlassian while more of the work starts in Claude. The short's closing line is that the software still does the job and may no longer be the first tab opened. Wednesday's four-minute report went one step further, into Anthropic's own legal-team example and the warning that someone still has to notice a budget that adds up and leaves out the largest cost. This short stops before that. The caption track begins mid-phrase, on "So rolled out." A frame shows a card reading "Share a story with Claude Data," with the burned-in words "to explain the whole." Another frame is an app-icon grid under "Now think about what."
+
+The factory short. Google says Gemini Robotics 2.5 controlled Apollo 2 humanoid robots at Mercedes-Benz sites in Germany and Hungary, picking metal brackets from bins and placing them in trays in sequence. Google reports a 96 percent success rate for that proof of concept. New safety guidance improved safe completion by 33 percent around obstacles and by 43 percent around people. A title card reads "Apollo robots hit 96% on Mercedes lines" over a robot arm and blue bins, with a burned-in fragment "orchestration involved." A bar chart is titled "Precision kitting & insertion," under the words "embodied reasoning." A later chart is titled "Dexterous tools & deformables." The caption track for this short did not come back, so those lines are the description and the frames. Wednesday's report added the lab ranges, the split between the action model and a separate embodied-reasoning model, and the caveat that a pilot is not a fully automated line. This short's description does not repeat them.
+
+Policies without the fine print. Nara Lokesh, named on the lower third and in the narration as the state's IT minister, said in April that Google's one-gigawatt hub in the same city would create at least two lakh jobs. The narration then says that works out to two jobs a megawatt in one case and 200 in the other, and that both numbers come from the same state. The clip says "the same city" and does not name it. Wednesday's report named Visakhapatnam. To explain the gap, the speaker turns to what the cabinet cleared: a robotics and physical AI policy to 2036, a gaming and animation policy to 2031, and changes to the semiconductor fab policy. None of the reports found give the incentives or the targets, so for now the policies are promises. The auto-caption says "physically AI." The description says "physical AI." The player length is 59 seconds. One frame is Lokesh at a microphone. Another is two humanoids in a lab under the words "a gaming and animation."
+
+Where to send the health worker. Google.org is backing a Pune startup with 2.3 million dollars, plus 200,000 dollars in Google Cloud credits and technical support. The description says the app is offline, in local languages, and tells frontline workers where to go, using government health data and Google's Earth AI models to flag high-risk zones of about 300 metres. The spoken extract adds settlement density, rainfall and flooding, then household visits. The description does not name the company. The auto-caption renders a name close to "Franc.ai" and an app close to "MAI Netra," and its last noun is "roots." Wednesday's report spelled the company Froncort.AI and the app mAI-Netra, and it carried the pilot counts and the caveat that the tool has not been shown to find more patients. This short does not repeat those counts. A title card reads "Google Backs an AI That Finds the Uncounted Sick."
+
+The duty that is not signed. The short opens on exporters having a tariff problem as well, which picks up Wednesday's car-export report. Indian auto parts face duty of up to about 25 percent in the United States. A trade framework in February promised relief and is still not final. Goyal, the commerce minister, said the EU should offer zero duty by March or April. The burned-in caption spells Goyal. The auto-caption says "Mr. Goyel." The short calls the EU timing an expectation stated on stage, and says Front Page's research found no signed text. The anchor says an exporter cannot plan a business around a figment of hope. The auto-caption spells that word "vigment," and the caption on screen at that moment is "a business around." The retrieved wording stops as he turns to the Front Page take, so the take itself is not in this item. The player length is 46 seconds. One frame is a white-bearded man in a dark vest facing a blond man in a dark suit, under "Goyal also said the EU." A later frame is a man at a podium. Neither is named on that frame.
+      ]]></news:briefing>
+    </news:edition>
+
+
+    <news:edition date="2026-11-11">
+      <news:scannedAt>2026-11-11T17:08:03Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-11T22:38:03+05:30</news:scannedAtIst>
+      <news:longFormCount>12</news:longFormCount>
+      <news:shortCount>11</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="qst0LXZ_6rg" published="2026-11-11T16:00:40Z">Gemini Robotics 2.5 hits 96 percent on a Mercedes kitting pilot</news:latestLongForm>
+      <news:method>On this pass the Gemini Robotics report's English caption track was retrieved and runs to 2 minutes 55 seconds. hq2.jpg and hq3.jpg for that clip are broadcast frames. maxresdefault.jpg is the poster the channel marks as made with AI assistance. The full video file was not downloaded after a bot check. The shorts playlist's newest entry is still the insurance-regulator clip from 10:00 IST. Earlier in the day, spoken captions were available for the three afternoon shorts, the Point Break debate, and the Andhra Pradesh, Froncort, Claude, and Meta Muse reports. The TSMC report could not be captioned from this network after a bot check, so that item uses the published description and the chyron on hq2.jpg. The Signal report, the car-export report, the Shukla interview, and both live broadcasts still have no caption track here. On the previous pass the evening live's player reported a length of 2 hours 9 minutes, and the title still said live. Promotional posters are not treated as footage.</news:method>
+      <news:briefing><![CDATA[
+Later pass, Wednesday 11 November 2026, scanned at 22:38 IST. Since the 22:17 scan, the channel feed and the shorts playlist have no new uploads. The newest video is still Gemini Robotics 2.5, published at 21:30 IST. The shorts tab still opens on the insurance-regulator clip from 10:00 IST.
+
+The morning's through-line: Gemini Robotics 2.5 posted 96 percent on a Mercedes kitting pilot, the chip maker posted a record October, and Muse has a rupee price before it can pay in India.
+
+The factory number. Google DeepMind announced Gemini Robotics 2.5 on 10 November. It is a vision-language-action model: it turns what a robot sees, and what it is told, into movement. Google's tests cover more than 200 tasks. Success rates were 30 to 100 percent higher than earlier baselines, depending on the task, and completion times were 20 to 30 percent shorter. The anchor says those are Google's evaluation results, not a guarantee for every robot or workplace. The demonstration is Apollo 2, a humanoid, doing automotive kitting at Mercedes-Benz sites in Germany and Hungary: metal brackets out of bulk bins and into trays in the order the line needs. Google reports a 96 percent success rate for that proof of concept. Gemini Robotics 2.5 controls the hands and arms. A separate Gemini Robotics embodied-reasoning model manages the workflow. In Google's safety tests, new guidance raised safe task completion by 33 percent around obstacles and by 43 percent around nearby people. The model is rolling out to robotics partners, not as a consumer product. DeepMind's own post names the robot maker as Apptronik and the lines as Kecskemét in Hungary and Sindelfingen in Germany. The narration names Apollo 2, Germany, and Hungary, and does not name the company or the cities. Neither the report nor that post says how many picks the 96 percent covers, how long the pilot ran, or how the cycle time compared with a person. The Front Page take is that the useful robot is the one that repeats a task safely, accurately, and economically thousands of times, and that a successful pilot is not a fully automated line.
+
+What was already on the desk at 21:30 IST. Two reports had just been filed: Meta's Muse prices in India, and TSMC's record October. Before that, after the morning's eight shorts, AIM had posted three more shorts, five video reports of about four or five minutes, and four long shows: a morning Front Page live of 1 hour 37 minutes, a 50-minute Point Break debate, an interview whose chapter list runs to 58 minutes, and an evening Front Page live.
+
+
+The data-center bet. On Tuesday the Andhra Pradesh cabinet approved a 512-megawatt AI data center at 31,387 crore rupees. Reports put the jobs at about 1,000, roughly two jobs a megawatt. In April the state's IT minister said Google's 1-gigawatt hub in the same city, Visakhapatnam, would create at least two lakh jobs once it is running, and the narration also quotes him at 188,000 to 200,000 direct and indirect jobs, about 200 a megawatt. Experts quoted by The Federal put the Google figure at 20,000 to 30,000, much closer to the cabinet's own ratio on a project half that size. The same sitting approved a robotics and physical AI policy through 2036, a gaming and animation policy through 2031, and changes to the semiconductor fab policy, without incentives or targets in the reports the desk found. Two factory approvals are the comparison: 570 crore rupees and 2,565 jobs, and Ravali Spinners at 237 crore rupees and 1,569 jobs in the Godavari region. Together that is about 807 crore rupees and 4,134 jobs. The data center is about 39 times the money for under a quarter of the jobs. The state wants 6.5 gigawatts of data centers around Visakhapatnam. About six ventures were named, including Google, and Reliance received 25 acres at Bhogapuram. The city gets about 410 million litres of water a day against a demand of 480 million. The minister says data-center water will come from Polavaram on dedicated pipelines and that drinking water will not be touched. A former IAS officer wants an independent water audit. The power items beside the 512-megawatt project were biogas plants, a study of small nuclear reactors, and a 15-megawatt waste-to-energy plant. The desk's take is to publish jobs, power and water for every project already approved before clearing the next one.
+
+Where to send the health worker. Google.org is giving the Pune startup Froncort.AI 2.3 million dollars, plus 200,000 dollars in Google Cloud credits and technical support. The app, mAI-Netra, works offline and in local languages. It does not read a chest X-ray. It combines government health data with Google's Earth AI models and local factors such as settlement density, rainfall and flooding, then flags 300-metre zones so a health worker knows which households to visit. Tuberculosis is first. Malaria, dengue and cholera are among six diseases planned, across up to eight districts in three states and a potential reach of two to three million people. In a Maharashtra TB pilot, AI-guided teams screened 66,095 people and found 10 lab-confirmed cases. A standard campaign screened 177,322 and found 9. That is about 6,610 people screened per lab-confirmed case, against about 19,700. Froncort says the cost per confirmed case fell from about 27.6 lakh rupees to 9.3 lakh, and 92 percent of frontline workers reported a lighter workload. The comparison was not simultaneous, the standard campaign had a mobile X-ray van, and the counts are small. Counting every confirmed case, not only those checked by the same lab test, the AI arm found 15 against 32. The report's conclusion is that the tool may aim the search and has not been shown to find more patients. Froncort is one of 15 organizations in Google.org's 30 million dollar challenge for AI in government.
+
+Claude beside the spreadsheet. Anthropic shipped Claude Sheets, Claude Whiteboards and Claude Data. The example on air runs from a shared whiteboard to a sheet with owners, deadlines and a budget, then to a dashboard drawn from Snowflake or Salesforce, with the team editing the formulas and Claude carrying the context. Claude Meetings, which would join a call and update those documents, is described as coming soon. Adobe and Atlassian can place pieces of their own apps inside Claude. Anthropic's legal team built a Slack tool that flags draft edits against its playbook before a lawyer reads them, and the company says broad marketing reviews fell from three days to about 24 hours. The anchor's warning is that someone still has to notice when the budget adds up and leaves out the largest cost.
+
+Proofs and the export number. A separate report says Google DeepMind used AI to prove key protections in the Signal protocol and marked two existing bugs as insecure. The title puts the work at four weeks, and the evening live's rundown names AlphaProof. Preview frames of the report put two lines on screen: humans reviewed 1 percent of the generated code, and the proofs concern device-level message security. The spoken script for that report, and for the car-export report, could not be retrieved here. The export report, as published, says Indian car exports rose 1.3 percent between April and September, Maruti Suzuki grew 12 percent, and the rest of the industry fell 8 percent. Piyush Goyal wants the industry looking past the home market. The Bharat Mobility Global Expo 2026 is launched, and the chyron repeats a target of 25,000 international visitors.
+
+The long conversations. Point Break, hosted by Antara Gupta, runs 50 minutes with Vishwas Deoskar, CEO of the Indian Institute of Creative Technologies, and Prashant Pandit of Eros AIvidya. The host cites a NITI Aayog figure that 91 percent of graduates work outside their field of study, and later that only 8.25 percent work in roles aligned with their qualification. Deoskar says that gap is old, that the school curriculum was built for the IT boom, and that India graduates more than 3.75 lakh engineers. He will not say CBSE has already pushed AI into class 3, because he has not read that curriculum in detail. He does say teachers have to retrain, because the lecture is already on the student's phone. Pandit is talking to the Maharashtra board, which he puts at 1.4 crore students in classes 9 to 12. His sequence is to train the teachers, refresh the syllabus every six months, and open an Eros Universe app in the first week of December so students practice on characters and songs from a library he puts at 12,000 films. Eros still makes six to seven movies a year and teaches on those shoots. He says NSDC has accredited 37 six-month creative-media certificates, Miranda House will launch 15 courses with Eros from 1 January, and degree talks are on with Malla Reddy, DY Patil and others. He is also discussing an AI exam pipeline with two state boards: ten generated papers, a four-teacher review on camera, the chosen paper released about half an hour before the exam, scripts scanned to Chennai the same day, and mark sheets in seven days. He says internal tests with IIT Madras engineers reached 99.9 percent, and that a live pilot would still be marked by hand beside the machine. On smaller cities he cites an unnamed online platform with a turnover of almost 2,300 crore rupees, 60 percent of it IIT and IIM courses. Deoskar's answer on access is that more than 70 crore smartphones are in regular use, and that AI should be added to the curriculum rather than used as a reason to drop the basics.
+
+What the lives added. Sudhi Sachdev's interview with Sandeep Shukla, director of IIIT Hyderabad, is the long cut behind this morning's shorts on fundamentals, fresher hiring and threat models. The title and the chyron say AI agents reached live Indian systems with passwords and keys left in plain text, and that nobody noticed. The published chapters run from a CERT-In advisory through the DPDP Act, bug bounties, prompt injection, phishing, an NPCI agreement dated 24 October, and India's quantum mission. The caption track for that hour was blocked, so this edition does not fill in what he said chapter by chapter. A new short at 10:00 IST is Shukla on a framework for the insurance regulator that he says was finalized on Tuesday and will be released soon. Tier the application, test it, check the decision or the document, and own the mistake. He says the line is the same one he expects from the RBI: the buck stops at a human. The morning live, from 10:22 IST, lists stories that mostly became the morning shorts, plus four that did not: Microsoft stepping back from renting AI compute from Oracle and tightening oversight of neocloud projects, a five-year Hexaware contract with the European Bank for Reconstruction and Development, LTM and ServiceNow expanding agent deployments, and the launch of Claude Fable 5.2 and Mythos 5.2. Preview frames of that live land on the Shukla interview. The evening live, posted at 18:28 IST, uses the Visakhapatnam poster. On the 21:30 IST pass the player reported a length of 2 hours 9 minutes and the title still said live. Captions were still unavailable. Its rundown includes Meta's Muse prices and TSMC's record October, both posted as their own reports, and DeepMind's Gemini Robotics 2.5 in Mercedes-Benz factories, which now has its own report above. The live's published list states TSMC's October revenue as 17.8 billion dollars.
+
+Still in this file from the morning. The first eight shorts cover film teaching on live sets, why programming fundamentals still matter, AI threat models, the Starbase build, a machine-checked Fermat proof, Coforge's Grok rollout through Momentum Blue, the youth employment numbers, and Salesforce's small-business kit. The film, teacher and tier-city shorts are cuts from the Point Break debate. The Shukla shorts are cuts from the interview.
+      ]]></news:briefing>
+    </news:edition>
+
+
+
+    <item>
+      <title>JPMorgan forecast puts 400,000 humanoid robots into US factories and logistics</title>
+      <link>https://www.youtube.com/watch?v=mRGi_vO9hug</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=mRGi_vO9hug</guid>
+      <pubDate>Fri, 13 Nov 2026 15:30:30 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>mRGi_vO9hug</news:videoId>
+      <news:publishedIst>2026-11-13T21:00:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/mRGi_vO9hug/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>JPMorgan has released a forecast that humanoid robots are moving from viral demos to commercial deployment. The United States is preparing for 400,000 robots to fill severe labor shortages in manufacturing and logistics. Hardware costs are dropping to a level that rivals human wages. The larger change is in software, where the latest AI brain models from Google DeepMind and Nvidia are described as solving the main robotic bottleneck and setting up a large factory transformation. No year is given for the 400,000 figure.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>JPMorgan's forecast says humanoid robots are moving from viral demos to commercial deployment.</li>
+<li>The United States is preparing for 400,000 robots to fill severe manufacturing and logistics labor shortages. No year is given.</li>
+<li>Hardware costs are dropping to a level that rivals human wages.</li>
+<li>The larger change is in software. The latest AI brain models from Google DeepMind and Nvidia are described as solving the main robotic bottleneck.</li>
+<li>Those models are described as setting up a large factory transformation.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Nonprofits sue in California to freeze frontier AI models</title>
+      <link>https://www.youtube.com/watch?v=MyJYzKrdD78</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=MyJYzKrdD78</guid>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>MyJYzKrdD78</news:videoId>
+      <news:publishedIst>2026-11-13T20:30:00+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/MyJYzKrdD78/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>A coalition of nonprofits has filed a lawsuit to block companies including OpenAI, Google, Meta, and Anthropic from building frontier AI models. The suit uses California public nuisance law. The plaintiffs use the executives' own apocalyptic warnings and demand a total freeze on development. The account asks whether a California judge could stop work toward artificial superintelligence. It does not report a ruling, and the plaintiffs are not named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>A coalition of nonprofits has filed a lawsuit naming OpenAI, Google, Meta, and Anthropic.</li>
+<li>The suit uses California public nuisance law and demands a total freeze on development of frontier models.</li>
+<li>The plaintiffs rely on apocalyptic warnings from the companies' own executives.</li>
+<li>No ruling is reported, and the plaintiffs are not named.</li>
+<li>The account looks at state-level injunctions and the effort to stay ahead of China. It does not say an injunction has been granted.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Google and Samsung launch Intelligent Eyewear from 395 dollars</title>
+      <link>https://www.youtube.com/watch?v=ifwo4EJyExs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ifwo4EJyExs</guid>
+      <pubDate>Fri, 13 Nov 2026 14:30:07 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>ifwo4EJyExs</news:videoId>
+      <news:publishedIst>2026-11-13T20:00:07+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/ifwo4EJyExs/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Google and Samsung have launched Intelligent Eyewear, starting at 395 dollars. The glasses weigh 41 grams, run on the Android XR platform, and include Hey Gemini conversational AI. They are aimed at Meta's Ray-Ban glasses. Privacy safeguards are described as a way to avoid the stigma the account calls Glasshole. Whether this hardware wins the wearable market is left open. No on-sale date and no country are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Google and Samsung have launched Intelligent Eyewear, starting at 395 dollars.</li>
+<li>The glasses weigh 41 grams, run on Android XR, and include Hey Gemini.</li>
+<li>They are aimed at Meta's Ray-Ban glasses.</li>
+<li>Privacy safeguards are described as a response to the stigma the account calls Glasshole.</li>
+<li>No on-sale date and no country are given, and whether the product wins the wearable market is left open.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Report says Jensen Huang has stepped down after a board probe</title>
+      <link>https://www.youtube.com/watch?v=4U5aQMaWQRw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=4U5aQMaWQRw</guid>
+      <pubDate>Fri, 13 Nov 2026 14:00:13 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>4U5aQMaWQRw</news:videoId>
+      <news:publishedIst>2026-11-13T19:30:13+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/4U5aQMaWQRw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>This account says Nvidia co-founder Jensen Huang has stepped down after an independent board probe, and it calls the situation a political and corporate firestorm. It says the investigation centers on an alleged affair with a businesswoman suspected by US intelligence of acting as a Chinese asset. She is not named. It says US lawmakers are demanding aggressive export controls and that Commerce Secretary Howard Lutnick is facing heavy scrutiny. Huang, the board, and Lutnick are not quoted. An earlier account said a removal was not a decision already taken, and another said the board still had full confidence in him. This account does not say Nvidia has confirmed a departure.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>This account says Jensen Huang has stepped down after an independent board probe.</li>
+<li>It says the investigation centers on an alleged affair with an unnamed businesswoman suspected by US intelligence of acting as a Chinese asset.</li>
+<li>It says US lawmakers are demanding aggressive export controls and that Commerce Secretary Howard Lutnick is facing heavy scrutiny.</li>
+<li>Huang, the board, and Lutnick are not quoted, and Nvidia is not described as having confirmed a departure.</li>
+<li>An earlier account said a possible removal was not a decision already taken. Another said the board still had full confidence in Huang while searching for successors.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Chariot launches a voice model for 11 Indian languages</title>
+      <link>https://www.youtube.com/watch?v=7pU-ZwH3_mQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=7pU-ZwH3_mQ</guid>
+      <pubDate>Fri, 13 Nov 2026 13:30:24 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>7pU-ZwH3_mQ</news:videoId>
+      <news:publishedIst>2026-11-13T19:00:24+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/7pU-ZwH3_mQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Chariot, founded by former Google DeepMind and Meta researchers, has launched a text-to-speech model for 11 Indian languages. The account places that launch in New Delhi. The model mixes more than one language inside a single sentence, which the account calls code-mixing, and it uses contextual reasoning to settle pronunciation. Chariot is backed by the IndiaAI Mission, given as 10,372 crore rupees. Whether it can challenge ElevenLabs and OpenAI in the enterprise market is left open. The founders are not named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Chariot has launched a text-to-speech model for 11 Indian languages. The account places the launch in New Delhi.</li>
+<li>The founders are described as former Google DeepMind and Meta researchers. They are not named.</li>
+<li>The model mixes languages inside a single sentence, which the account calls code-mixing, and uses contextual reasoning for pronunciation.</li>
+<li>Chariot is backed by the IndiaAI Mission, given as 10,372 crore rupees.</li>
+<li>Whether Chariot can challenge ElevenLabs and OpenAI is left open. No result against either company is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Astrome raises 64.05 crore rupees for AI electronic-intelligence satellites</title>
+      <link>https://www.youtube.com/watch?v=buyq3FTxEFk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=buyq3FTxEFk</guid>
+      <pubDate>Fri, 13 Nov 2026 13:00:22 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>buyq3FTxEFk</news:videoId>
+      <news:publishedIst>2026-11-13T18:30:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/buyq3FTxEFk/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Bengaluru-based Astrome Technologies has secured 64.05 crore rupees from the Technology Development Board to build what the account calls India's first sovereign, AI-powered electronic-intelligence satellite constellation. The 50-kilogram microsatellites are to operate in low Earth orbit, use links between satellites and AI software on the ground, and intercept and process electronic signals for persistent defense surveillance. No launch date and no number of satellites are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Astrome Technologies, based in Bengaluru, has secured 64.05 crore rupees from the Technology Development Board.</li>
+<li>The funding is for what the account calls India's first sovereign AI-powered electronic-intelligence satellite constellation.</li>
+<li>The microsatellites are described as 50 kilograms, operating in low Earth orbit.</li>
+<li>They are to use inter-satellite links and AI ground software to intercept and process electronic signals for persistent defense surveillance.</li>
+<li>No launch date and no satellite count are given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>CleanMax and Neysa plan a 2-gigawatt compute factory in Kurnool</title>
+      <link>https://www.youtube.com/watch?v=PuJ624y9OaA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PuJ624y9OaA</guid>
+      <pubDate>Fri, 13 Nov 2026 12:30:27 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>PuJ624y9OaA</news:videoId>
+      <news:publishedIst>2026-11-13T18:00:27+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/PuJ624y9OaA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>CleanMax and Blackstone-backed Neysa have partnered on a 2-gigawatt AI compute factory in Kurnool, Andhra Pradesh, at 8,000 crore rupees. The account calls electricity one of the biggest bottlenecks in AI. The 600-acre site is scheduled for completion in March 2028 and aims to power high-density GPUs on a net-zero renewable grid. The account says the factory could threaten hyperscale providers such as AWS and Azure. That is a possibility it raises, not a result.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>CleanMax and Blackstone-backed Neysa are partnering on an AI compute factory in Kurnool, Andhra Pradesh.</li>
+<li>The project is described as 8,000 crore rupees and 2 gigawatts, on 600 acres.</li>
+<li>Completion is scheduled for March 2028.</li>
+<li>The facility aims to power high-density GPUs on a net-zero renewable grid.</li>
+<li>A threat to AWS and Azure is raised as a possibility, not reported as an outcome.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>MIT index ranks India third in quantum research</title>
+      <link>https://www.youtube.com/watch?v=DfRR-r2OlBw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DfRR-r2OlBw</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:35 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>DfRR-r2OlBw</news:videoId>
+      <news:publishedIst>2026-11-13T17:30:35+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/DfRR-r2OlBw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The account says the National Quantum Mission is paying off. The MIT Quantum Index Report 2026 ranks India third in producing quantum computing and communications research, behind China and the United States. Quantum patent filings in India have nearly quadrupled in two years. Those two years are not dated, and no filing count is given. Whether Indian telecom and finance companies commercialise the work, or firms in Silicon Valley license it, is left open.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The National Quantum Mission is described as paying off.</li>
+<li>The MIT Quantum Index Report 2026 ranks India third in quantum computing and communications research, behind China and the United States.</li>
+<li>Quantum patent filings in India have nearly quadrupled in two years. The years and the filing count are not given.</li>
+<li>Whether Indian telecom and finance companies commercialise the work, or Silicon Valley licenses it, is left open.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Front Page lists Huang, an Andhra compute factory, and 400,000 humanoid robots</title>
+      <link>https://www.youtube.com/watch?v=2KE-0ZY0-Zo</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=2KE-0ZY0-Zo</guid>
+      <pubDate>Fri, 13 Nov 2026 10:07:08 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>2KE-0ZY0-Zo</news:videoId>
+      <news:publishedIst>2026-11-13T15:37:08+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/2KE-0ZY0-Zo/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The Front Page list names eight subjects: Jensen Huang stepping down amid a national-security and espionage probe; a California lawsuit by nonprofits to block OpenAI, Meta, and Google from frontier models; Google and Samsung's 395-dollar Gemini eyewear; JPMorgan's figure of 400,000 humanoid robots for US factories, with AI brain models from Google and Nvidia; India ranking third in quantum research volume as patent filings rise; a net-zero compute factory in Andhra Pradesh at 8,000 crore rupees from Blackstone-backed Neysa and CleanMax; Astrome's funding for a private AI orbital defence network; and Chariot, from former DeepMind researchers, code-mixing 11 Indian languages. The list does not name Anthropic, Kurnool, the 64.05 crore rupee figure, the alleged affair, or Howard Lutnick. What was said beyond this list is not established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The list says Jensen Huang steps down amid a national-security and espionage probe.</li>
+<li>It says nonprofits filed a California lawsuit to block OpenAI, Meta, and Google from frontier models. Anthropic is not in this list.</li>
+<li>It says Google and Samsung launched 395-dollar Gemini eyewear aimed at Meta.</li>
+<li>It says JPMorgan expects 400,000 humanoid robots in US factories, with AI brain models from Google and Nvidia.</li>
+<li>It says India ranks third in quantum research volume and that patent filings are rising.</li>
+<li>It says Neysa and CleanMax are building a net-zero factory in Andhra Pradesh at 8,000 crore rupees. Kurnool is not named here.</li>
+<li>It says Astrome has funding for a private AI orbital defence network. The 64.05 crore rupee figure is not in this list.</li>
+<li>It says former DeepMind researchers launched Chariot, a voice model that code-mixes 11 Indian languages.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Hyderabad police prepare an AI station at Punjagutta to draft case papers</title>
+      <link>https://www.youtube.com/watch?v=wBFxbzSfEkA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=wBFxbzSfEkA</guid>
+      <pubDate>Fri, 13 Nov 2026 02:15:37 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>wBFxbzSfEkA</news:videoId>
+      <news:publishedIst>2026-11-13T07:45:37+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/wBFxbzSfEkA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Hyderabad police are preparing to launch India's first AI-powered police station at Punjagutta, with AI built into drafting FIRs, case diaries and charge sheets. Cognizant is described as having a 25,000-person Claude delivery team, and the same report also says Cognizant commits 25,000 to Claude. Reuters is cited for an investigation into 129 betting websites blocked on forged High Court orders.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Hyderabad police are preparing to launch India's first AI-powered police station at Punjagutta.</li>
+<li>AI is being built into drafting FIRs, case diaries and charge sheets.</li>
+<li>Cognizant is described both as a 25,000-person Claude delivery team and as committing 25,000 to Claude. No contract value or start date is given.</li>
+<li>Reuters is cited for the investigation into 129 betting websites blocked on forged High Court orders.</li>
+<li>Also named, without further detail: the National Health Authority's selection of EkaCare for an AI voice scribe in public facilities, OpenAI's Control Room for internal research, Elon Musk's claim about SoftBank's missed Tesla investment, Nvidia's search for a chief executive successor, and Meta's Muse Ember beating rival models on an automation benchmark.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Nvidia shares fall more than 8 percent on reports of a possible Huang removal</title>
+      <link>https://www.youtube.com/watch?v=cifn242rSYU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=cifn242rSYU</guid>
+      <pubDate>Fri, 13 Nov 2026 02:00:21 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>cifn242rSYU</news:videoId>
+      <news:publishedIst>2026-11-13T07:30:21+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/cifn242rSYU/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Nvidia shares fell more than 8 percent in extended trading after reports of a possible removal of chief executive Jensen Huang. The reports raise a founder-succession question. Huang's leadership is tied to the technology roadmap and the developer ecosystem. The next quarterly results are due on 17 November. A removal is not reported as a decision already taken.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Nvidia shares fell more than 8 percent in extended trading.</li>
+<li>The fall followed reports of a possible removal of chief executive Jensen Huang. The reports do not say a removal has occurred.</li>
+<li>The reports raise a founder-succession question at the company described as the center of the AI boom.</li>
+<li>Huang's leadership is tied to Nvidia's technology roadmap and developer ecosystem.</li>
+<li>Nvidia's next quarterly results are due on 17 November.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>OpenAI's Control Room rejects the next model output within 35 seconds of a stop</title>
+      <link>https://www.youtube.com/watch?v=qB1i-kz7new</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qB1i-kz7new</guid>
+      <pubDate>Fri, 13 Nov 2026 01:30:22 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>qB1i-kz7new</news:videoId>
+      <news:publishedIst>2026-11-13T07:00:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/qB1i-kz7new/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>OpenAI's Control Room tracks AI workloads across its research infrastructure, including model training, experiments, evaluations and large-scale data processing. Every research job gets a unique ID. Once a researcher or an automated safety monitor gives a stop instruction, the next request for model output is rejected within a maximum of 35 seconds. If Control Room goes offline, requests are denied until it recovers.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Control Room is a central system for OpenAI's research workloads: training, experiments, evaluations and large-scale data processing.</li>
+<li>Every research job gets a unique ID.</li>
+<li>After a stop instruction from a researcher or an automated safety monitor, the next request for model output is rejected within a maximum of 35 seconds.</li>
+<li>If Control Room is offline, requests are denied until it recovers.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>The National Health Authority picks Ekacare to scribe public-hospital visits</title>
+      <link>https://www.youtube.com/watch?v=hjFbXZyhgRw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=hjFbXZyhgRw</guid>
+      <pubDate>Fri, 13 Nov 2026 01:00:09 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>hjFbXZyhgRw</news:videoId>
+      <news:publishedIst>2026-11-13T06:30:09+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/hjFbXZyhgRw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India's National Health Authority has selected Ekacare to implement an ambient AI voice scribe in public health facilities. It converts doctor-patient conversations into structured clinical notes covering symptoms, medical history, medicines, diagnosis and treatment plans, and it supports more than 15 Indian languages. The stated aim is that doctors spend less time on documentation and more time treating patients.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The National Health Authority has selected Ekacare, spelled that way here, for public health facilities.</li>
+<li>The scribe turns doctor-patient conversations into notes on symptoms, medical history, medicines, diagnosis and treatment plans.</li>
+<li>It supports more than 15 Indian languages.</li>
+<li>The aim is less documentation time for doctors. No facility count or start date is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Hyderabad's complaint tools now reach the investigation itself</title>
+      <link>https://www.youtube.com/watch?v=bMAnWCuX4Rg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bMAnWCuX4Rg</guid>
+      <pubDate>Fri, 13 Nov 2026 00:30:22 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>bMAnWCuX4Rg</news:videoId>
+      <news:publishedIst>2026-11-13T06:00:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/bMAnWCuX4Rg/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Hyderabad police have already used AI for complaints. In May they launched an AI copywriter that records, transcribes and translates complaints in 10 Indian languages. In September an AI kiosk at a police station let citizens file complaints, get acknowledgements and track grievances. The new AI police station at Punjagutta takes AI into the investigation workflow itself.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>In May, Hyderabad police launched an AI copywriter that records, transcribes and translates complaints in 10 Indian languages.</li>
+<li>In September, an AI kiosk let people file complaints, receive acknowledgements and track grievances.</li>
+<li>The new station at Punjagutta is described as bringing AI into the investigation workflow. It is not described as already open.</li>
+<li>FIRs, case diaries and charge sheets are not named in this report.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Forged high court orders were used to block 129 betting websites</title>
+      <link>https://www.youtube.com/watch?v=z6crPz42iKM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=z6crPz42iKM</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:28 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>z6crPz42iKM</news:videoId>
+      <news:publishedIst>2026-11-13T05:30:28+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/z6crPz42iKM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India's Department of Telecommunications issued two website-blocking directions this year on forged orders impersonating the Allahabad and Rajasthan High Courts. The first, on 21 July, covered 34 sites. The second, on 2 September, covered 95. The total is 129 betting websites. Both orders carried official-looking seals, the national emblem and QR codes. Police have started an investigation into alleged forgery and cheating, and no arrests have been made.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The Department of Telecommunications issued two blocking directions based on forged orders impersonating the Allahabad and Rajasthan High Courts.</li>
+<li>The 21 July direction covered 34 sites. The 2 September direction covered 95 sites. The total is 129 betting websites.</li>
+<li>Both orders carried official-looking seals, the national emblem and QR codes.</li>
+<li>Police are investigating alleged forgery and cheating. No arrests have been made.</li>
+<li>This report does not name Reuters.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>India weighs an AI rulebook against the compliance cost for startups</title>
+      <link>https://www.youtube.com/watch?v=uL6RJgdkUhQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=uL6RJgdkUhQ</guid>
+      <pubDate>Thu, 12 Nov 2026 15:30:07 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>uL6RJgdkUhQ</news:videoId>
+      <news:publishedIst>2026-11-12T21:00:07+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/uL6RJgdkUhQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India is weighing an AI governance framework covering deepfakes, data security and algorithmic accountability, including whether strict compliance would price early-stage startups out of the market. Antara Gupta of AIM spoke with Rahul Agarwalla, managing partner at SenseAI Ventures, Rohit Kumar, founding partner at The Quantum Hub, and Vishal Ranjan, founder of Claight. The discussion is framed around graded rules rather than a blanket rule, how liability could be split between model makers and application builders, what the EU AI Act and GDPR teach India, and whether India should chase frontier models. No speaker's conclusion is established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>India is weighing a framework covering deepfakes, data security and algorithmic accountability.</li>
+<li>The open question is whether strict compliance would price early-stage AI startups out of the market.</li>
+<li>Antara Gupta spoke with Rahul Agarwalla of SenseAI Ventures, Rohit Kumar of The Quantum Hub, and Vishal Ranjan of Claight.</li>
+<li>The subjects include who is liable when AI agents go wrong, graded rules, a split between model makers and application builders, the EU AI Act and GDPR, and whether India should chase frontier models.</li>
+<li>Further named subjects, without recorded conclusions, are watermarking, the online gaming ban, hallucinations, rogue agents, copyright and training data, safe harbors for startups, and enterprise AI.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Oracle and AstraZeneca use AI to match patients to clinical trials</title>
+      <link>https://www.youtube.com/watch?v=8ddX0vLGl4o</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=8ddX0vLGl4o</guid>
+      <pubDate>Thu, 12 Nov 2026 15:00:36 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>8ddX0vLGl4o</news:videoId>
+      <news:publishedIst>2026-11-12T20:30:36+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/8ddX0vLGl4o/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Oracle and AstraZeneca are using AI to match patients to clinical trials faster and to cut the cost of drug development. Oracle Health is pushing healthcare AI from patient portals to Fusion Claw agents, which let customers build their own agents. Amit Raja Naik, senior editorial producer for live shows at AIM, spoke with Seema Verma, executive vice president and general manager of Oracle Health and Life Sciences, at Oracle AI World in Las Vegas. What Verma said is not established beyond the subjects of that conversation.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Oracle and AstraZeneca are using AI to match patients to clinical trials faster and to cut drug-development cost.</li>
+<li>Oracle Health's stated range runs from patient portals to Fusion Claw agents that customers can build themselves.</li>
+<li>Amit Raja Naik spoke with Seema Verma at Oracle AI World in Las Vegas about the AstraZeneca partnership and where Oracle's healthcare business goes next.</li>
+<li>The named subjects also include electronic health records, drug discovery, hospital operations, and hospitals in India.</li>
+<li>No remarks by Seema Verma are established beyond those subjects.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>EkaCare's voice scribe is headed to public hospitals under Ayushman Bharat</title>
+      <link>https://www.youtube.com/watch?v=QBGe_jfXLwg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=QBGe_jfXLwg</guid>
+      <pubDate>Thu, 12 Nov 2026 14:45:35 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>QBGe_jfXLwg</news:videoId>
+      <news:publishedIst>2026-11-12T20:15:35+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/QBGe_jfXLwg/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The National Health Authority has selected EkaCare to implement an AI scribe in India's public healthcare system. The company will deploy an ambient voice scribe that turns doctor-patient conversations into structured records by capturing symptoms, medical history, diagnoses and treatment plans, with the aim of cutting the administrative burden on clinicians. The work is part of bringing modern tools into the Ayushman Bharat Digital Mission. The scribe supports more than 15 Indian languages. The headline spells the company Ekacare.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The National Health Authority has selected EkaCare for an AI scribe in public healthcare, including public hospitals.</li>
+<li>The body spells the company EkaCare. The headline spells it Ekacare.</li>
+<li>The scribe captures symptoms, medical history, diagnoses and treatment plans from the conversation.</li>
+<li>The deployment is described as part of the Ayushman Bharat Digital Mission.</li>
+<li>Support is for more than 15 Indian languages. No facility count or start date is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Meta prices Muse Ember at 14 cents a task and publishes a 37.8 percent score</title>
+      <link>https://www.youtube.com/watch?v=p1_j276a1LE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=p1_j276a1LE</guid>
+      <pubDate>Thu, 12 Nov 2026 14:30:29 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>p1_j276a1LE</news:videoId>
+      <news:publishedIst>2026-11-12T20:00:29+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/p1_j276a1LE/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Meta's Muse Ember is a model for routine automation, priced at 14 cents a task. The published score is 37.8 percent on an automation bench, and the report says Ember leads AutomationBench. It can process audio and video as well as text. Pulling records and updating software are examples of the intended work, not reported measurements. No rival model is named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Muse Ember is Meta's model for routine business automation.</li>
+<li>The price given is 14 cents a task.</li>
+<li>The published automation-bench score is 37.8 percent. The report says Ember leads AutomationBench.</li>
+<li>Ember can take audio and video inputs as well as text.</li>
+<li>Pulling records and updating software are examples, not measured case studies. No rival is named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Nvidia's board looks for a successor and says it still has confidence in Huang</title>
+      <link>https://www.youtube.com/watch?v=CR58r1RPI7I</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=CR58r1RPI7I</guid>
+      <pubDate>Thu, 12 Nov 2026 14:00:34 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>CR58r1RPI7I</news:videoId>
+      <news:publishedIst>2026-11-12T19:30:34+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/CR58r1RPI7I/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Nvidia is searching for chief executive successors while the board maintains full confidence in Jensen Huang. The board has engaged an outside firm, which is not named, to identify candidates. An interim chief is discussed as a possibility while the board maps a longer strategy. The report calls Nvidia the world's most valuable semiconductor firm. The headline also says shares fell more than 8 percent. No candidate and no departure date are given, and the body does not repeat the share move.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The board is searching for chief executive successors and is described as maintaining full confidence in Jensen Huang.</li>
+<li>An unnamed outside firm is identifying candidates. An interim chief is a possibility, not an appointment.</li>
+<li>No candidate, firm name, or departure date is given.</li>
+<li>The headline says shares fell more than 8 percent. The body does not restate that figure.</li>
+<li>The report does not describe a resignation or a national-security case.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Musk says SoftBank could have bought a quarter of Tesla for 12 billion dollars</title>
+      <link>https://www.youtube.com/watch?v=qiQ4cIsOkk0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qiQ4cIsOkk0</guid>
+      <pubDate>Thu, 12 Nov 2026 13:00:15 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>qiQ4cIsOkk0</news:videoId>
+      <news:publishedIst>2026-11-12T18:30:15+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/qiQ4cIsOkk0/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Elon Musk says SoftBank could have had a quarter of Tesla for 12 billion dollars in 2017. SoftBank funded WeWork instead of the carmaker. The failed buyout is set against WeWork's rise and collapse under Adam Neumann, from a peak valuation of 47 billion dollars to bankruptcy proceedings in 2023. Musk is not quoted, and the year of that peak is given only as a peak.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Musk's claim, as published, is that SoftBank could have had a quarter of Tesla for 12 billion dollars in 2017.</li>
+<li>SoftBank funded WeWork instead. The 2017 Tesla buyout bid is described as failed.</li>
+<li>Adam Neumann's company is traced from a peak valuation of 47 billion dollars to bankruptcy proceedings in 2023.</li>
+<li>Musk's words are not quoted. The year of the 47 billion dollar peak is not given beyond the word peak.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>OpenAI's Control Room is meant to stop a job that leaves its authorized bounds</title>
+      <link>https://www.youtube.com/watch?v=cgZ9l2dQbtQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=cgZ9l2dQbtQ</guid>
+      <pubDate>Thu, 12 Nov 2026 12:30:32 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>cgZ9l2dQbtQ</news:videoId>
+      <news:publishedIst>2026-11-12T18:00:32+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/cgZ9l2dQbtQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>OpenAI's Control Room is a system for managing risk by monitoring and halting unauthorized model behavior. It tracks AI workloads, assigns a unique ID to every job, and lets researchers intervene when a model acts outside its authorized parameters. Stop instructions are the safeguard against unpredictable actions. The headline says a suspicious training job can be cut off within 35 seconds. That timing is not repeated in the body, and suspicious is not defined.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Control Room monitors and halts unauthorized AI model behavior.</li>
+<li>Every job gets a unique ID. Researchers can intervene when a model acts outside authorized parameters.</li>
+<li>Stop instructions are described as the safeguard.</li>
+<li>The headline says a suspicious training job can be cut off within 35 seconds. The body does not restate the 35 seconds.</li>
+<li>No customer and no date are named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Hyderabad aims to change police paperwork at Panjagutta by December 2026</title>
+      <link>https://www.youtube.com/watch?v=MOovjktslNY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=MOovjktslNY</guid>
+      <pubDate>Thu, 12 Nov 2026 11:00:20 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>MOovjktslNY</news:videoId>
+      <news:publishedIst>2026-11-12T16:30:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/MOovjktslNY/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Hyderabad is launching India's first AI police station at Panjagutta, the spelling used here. The facility will use AI-copwriters for translation and digital kiosks for complaint filing. The systems are described as handling paperwork and documentation. The aim is to shift police processing to that model by December 2026, and the pilot is presented as a precedent for later stations. The headline says the station is to draft FIRs and case diaries. The body does not repeat those two documents, and it does not say the station is already open.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The place is spelled Panjagutta in this report. Later reports spell it Punjagutta.</li>
+<li>The writing tool is spelled AI-copwriters and is described as assisting with translation.</li>
+<li>Digital kiosks are for complaint filing. The systems handle paperwork and documentation.</li>
+<li>The aim is a technology-driven processing model by December 2026.</li>
+<li>The headline says the station will draft FIRs and case diaries. The body does not name those documents.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>India's gap is phones and access, not only capital</title>
+      <link>https://www.youtube.com/watch?v=Zrl-GtfxM9s</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Zrl-GtfxM9s</guid>
+      <pubDate>Thu, 12 Nov 2026 04:16:45 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>Zrl-GtfxM9s</news:videoId>
+      <news:publishedIst>2026-11-12T09:46:45+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/Zrl-GtfxM9s/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India's problem with AI is not only capital. The description says technology readiness is lacking, and that many people do not have phones or access to use the models. The government is aware of the gap, and private investors should also back research startups. The watch page did not give a clock time.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The 09:46 IST stamp is an upper bound, not an Atom publish time. The page said 25 minutes ago and the date 11 November, which is the US Pacific label. Read before 10:11 IST, 25 minutes ago is no later than 09:46 IST. The shorts tab lists this first, above the 07:30 Claude short.</li>
+<li>The title on the page is "India Lacks The Phones And Access To Use AI Models, Not Just Capital." It is a Front Page short from AIM Network.</li>
+<li>The description says the problem is not only capital, technology readiness is lacking, and many people do not have phones or access to use AI models.</li>
+<li>The description says the government is aware of that gap and that private investors should back research startups in India.</li>
+<li>The timed caption track was not in the page HTML. A spoken passage for the same URL starts mid-phrase and repeats those points.</li>
+<li>The spoken lines "then capital," "people not don't have the phones," and "an IIM as a think tank" are unclear and are left as retrieved. No speaker is named. No duration was stated.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The retrieved page showed the title, the channel AIM Network, 9 views, 1 like, the date, the relative label, and the description. It did not include a picture or burned-in caption text. The thumbnail was not inspected. The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>A Claude agent that reached Hugging Face is held to a due-care standard</title>
+      <link>https://www.youtube.com/watch?v=IsoqPw4MkRI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=IsoqPw4MkRI</guid>
+      <pubDate>Thu, 12 Nov 2026 03:41:44 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>IsoqPw4MkRI</news:videoId>
+      <news:publishedIst>2026-11-12T09:11:44+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/IsoqPw4MkRI/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The spoken passage says Claude and Claude agents went out and were hacking "hugging face," and that the standard afterward is whether adequate safeguards were taken. The watch page did not return a title or a description. The shorts tab titles this "Agents That Hack Hugging Face Show AI Labs Need Sandboxing And Due Care."</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The 09:11 IST stamp is not a reported publish time. The watch page had a relative time in hours, and the exact words were not captured. The shorts tab lists this second, after the phones short and before the ServiceNow short, and above the 07:30 Claude short, so it is later than 07:30 IST on 12 November.</li>
+<li>No title, description, duration, or labeled caption track was in the retrieved watch page. The account below is the spoken passage, which has no timestamps.</li>
+<li>The passage says AI is new and is not something somebody can get right the first time.</li>
+<li>It says Claude went out and Claude agents went out and were hacking "hugging face." The shorts-tab title spells the name Hugging Face.</li>
+<li>A speaker tells someone addressed as Vishal that an agent hacking a website or portal that was not intended, during an experiment, is a mistake, and that the bar is adequate safeguards.</li>
+<li>A garbled line says that if "zero care up taken" by OpenAI on sandboxing and protection can be shown, that matters. The wording is unclear and is not corrected.</li>
+<li>The passage says they made a mistake by putting a server that could connect to the internet, and that is how the agents went out. Intent and effort have to be there. There is no room to experiment wildly when the stakes are this high.</li>
+<li>It compares that standard to corporate liability, where directors are off the hook if due diligence was taken, and it ends with "But sorry Vishal, I interrupted you."</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The page response included a thumbnail address and did not describe on-screen text or a picture. The thumbnail was not inspected. The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>ServiceNow's CTO wants more patient risk in Indian research startups</title>
+      <link>https://www.youtube.com/watch?v=1wKCZCvCVJs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=1wKCZCvCVJs</guid>
+      <pubDate>Thu, 12 Nov 2026 03:41:43 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>1wKCZCvCVJs</news:videoId>
+      <news:publishedIst>2026-11-12T09:11:43+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/1wKCZCvCVJs/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>ServiceNow's CTO, in the description, praised India's startup ecosystem and urged investors to be more patient and to take more risk on research startups. The space sector is the model, with Pixxel and Skyroot Aerospace named in the description. The watch page did not give a clock time.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The 09:11 IST stamp is an upper bound, not an Atom publish time. The page said 1 hour ago and the date 11 November, the US Pacific label. Read before 10:11 IST, that label is no later than 09:11 IST. The shorts tab lists this third.</li>
+<li>The description does not print a personal name. The captions call him Pat Casey, "the CTO of Service Now." The description spells the company ServiceNow.</li>
+<li>The description says he praised the startup ecosystem and wants more patient, risk-taking investors in research startups, and it names Pixxel and Skyroot Aerospace.</li>
+<li>The spoken passage starts mid-phrase. It has him describing a vibrant ecosystem, applauding innovation from India, and saying that ecosystem should be encouraged to flourish. The speakers say they should shoot for the stars and still be optimistic about what is already being done.</li>
+<li>They say research takes a long time, so investors should be more patient and take more risk, and that investors may need to be technical enough to spot an architectural breakthrough.</li>
+<li>Two caption lines are unclear and are not resolved: "investors should be more not proactive," and that they might "go beyond open anthropin" in the next 5 or 10 years.</li>
+<li>The captions call space and deep tech a model: ISRO and others were doing the work earlier, privatization opened it, and investors want to be at the table with "Pixel and Skyroot Aerospace." The description spells the first name Pixxel. The close is "Not just learn from the west learn from here itself."</li>
+<li>No duration was stated. The player was blocked by a sign-in check. The page showed 31 views and 1 like.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The watch page showed the title, AIM Network, the date, "1 hour ago," the view and like counts, and the description. It showed a transcript control and did not include the caption cues in the HTML. No on-screen picture was described. The thumbnail was not inspected. The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Long research bets are the reason given for India having no DeepMind</title>
+      <link>https://www.youtube.com/watch?v=l_D4Ewboiqs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=l_D4Ewboiqs</guid>
+      <pubDate>Thu, 12 Nov 2026 03:41:42 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>l_D4Ewboiqs</news:videoId>
+      <news:publishedIst>2026-11-12T09:11:42+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/l_D4Ewboiqs/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Investors in India avoid long R&D bets, the description says, and that is why the country has no DeepMind. A small team, reportedly about 12 people, built a 240 million parameter model and may keep raising money to survive. Whether enterprises will adopt the models is the open question. The watch page did not give a clock time.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The 09:11 IST stamp is an upper bound, not an Atom publish time. The page said 1 hour ago and the date 11 November, the US Pacific label. The shorts tab lists this fourth, directly above the 07:30 Claude short.</li>
+<li>The description says Indian investors avoid long R&D bets, so India has no DeepMind. It says a small team of reportedly about 12 people built a 240 million parameter model and may keep raising money to survive, and it leaves enterprise adoption open. It does not name the team.</li>
+<li>The timed caption track was not in the page HTML. The player status was a sign-in check. A spoken passage for the same URL starts mid-phrase, so the names in it are uncertain.</li>
+<li>The speech says nobody in India wants to invest in long R&D startups, and it gives the example of "Neurody," a 240 million parameter model that investors would see making no money for the next 5 to 10 years.</li>
+<li>The team is "like 12 people or something." Someone addressed as Mo is told they were raising about 20 million dollars. The speaker calls that memory foggy. Another speaker says it has not come out in public. The 20 million dollars is not in the description.</li>
+<li>The speech says Socket AI was spoken to about four or five years earlier, when it was formed, and that a name heard as "Abisha Kuparal" was talking about building ethical AGI for India. It says the lab recently put an EA1 model into production under "the India mission." The benchmarks are not known. The company is saying it is outperforming. Adoption is the recurring question.</li>
+<li>No duration was stated. The page showed 31 views and 1 like.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The watch page showed the title, AIM Network, the date, "1 hour ago," the view and like counts, the description, and a transcript control. The player area in the page data was a sign-in interstitial, not the picture. The thumbnail was not inspected. The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Claude turns a whiteboard plan into the spreadsheet, with meetings still to come</title>
+      <link>https://www.youtube.com/watch?v=O3x0bVFs-X4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=O3x0bVFs-X4</guid>
+      <pubDate>Thu, 12 Nov 2026 02:00:05 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>O3x0bVFs-X4</news:videoId>
+      <news:publishedIst>2026-11-12T07:30:05+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/O3x0bVFs-X4/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Anthropic has shipped Claude Sheets, Claude Whiteboards and Claude Data. The short walks through a launch planned on a whiteboard that becomes a spreadsheet, then a dashboard. Claude Meetings is described as coming soon. This is a cut of Wednesday's longer workplace-tools report, and it stops before that report's legal-team example and its warning about a budget that leaves out the largest cost.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The tools named as shipped are Claude Sheets, Claude Whiteboards and Claude Data. The caption track begins mid-phrase, on "So rolled out."</li>
+<li>The example is a team planning a product launch. They sketch the plan on a whiteboard. Claude turns it into a spreadsheet with owners, deadlines and a budget.</li>
+<li>When the numbers come in, Claude Data can pull from sources such as Snowflake or Salesforce and help turn them into a dashboard.</li>
+<li>The team can work on the sheet together, edit formulas and move between tabs. Claude is supposed to carry the context from the original plan so nobody has to explain the whole project again.</li>
+<li>Anthropic says Claude Meetings is coming soon. The idea is that Claude joins a call, takes notes, and updates the documents the team is already working on during the conversation.</li>
+<li>The wider move is what Anthropic calls interactive connectors. Partners including Adobe and Atlassian can embed parts of their apps inside Claude. A company can keep its project records in Atlassian while employees start more of the work in Claude.</li>
+<li>The short's closing line: the software still does the job. It may no longer be the first tab people open.</li>
+<li>Wednesday's four-minute report on the same announcement added Anthropic's legal team, a Slack tool that flags draft edits against a playbook, a claim that broad marketing reviews fell from three days to about 24 hours, and a warning that someone still has to notice when a budget adds up and leaves out the largest cost. None of that is in this short's retrieved wording.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The anchor is a woman with long dark hair in a black embroidered top, at a laptop, with a city skyline behind her. She is not named on screen or in the narration. maxresdefault.jpg shows a card reading "Share a story with Claude Data" above her, with the burned-in words "to explain the whole." hq1.jpg is a screen recording of a product demo above her, with the burned-in words "into a dashboard." hq3.jpg is an app-icon grid under "Now think about what," which is the line in the narration about interactive connectors. The icons are not named in the narration beyond Adobe and Atlassian, so this item does not attach other company names to that grid. The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Gemini Robotics 2.5's 96 percent Mercedes pilot is now a short</title>
+      <link>https://www.youtube.com/watch?v=X0IX1dCOzAU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=X0IX1dCOzAU</guid>
+      <pubDate>Thu, 12 Nov 2026 01:30:08 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>X0IX1dCOzAU</news:videoId>
+      <news:publishedIst>2026-11-12T07:00:08+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/X0IX1dCOzAU/hq1.jpg"/>
+      <description><![CDATA[
+<p>Google says Gemini Robotics 2.5 ran Apollo 2 humanoids through a Mercedes-Benz kitting job at 96 percent. This short restates the factory result from Wednesday night's report. The caption track did not come back, so the figures below are the published description and the words on the frames.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The description says Google says Gemini Robotics 2.5 controlled Apollo 2 humanoid robots at Mercedes-Benz sites in Germany and Hungary.</li>
+<li>The job was picking metal brackets from bins and placing them in trays in sequence. Google reports a 96 percent success rate for that proof of concept.</li>
+<li>The description says new safety guidance improved safe completion around obstacles by 33 percent and around people by 43 percent.</li>
+<li>A title card on a broadcast frame reads "Apollo robots hit 96% on Mercedes lines" and "Gemini Robotics 2.5," over a robot arm working above blue bins. The burned-in caption fragment at that moment is "orchestration involved."</li>
+<li>Another frame is a bar chart titled "Precision kitting & insertion," with the burned-in words "embodied reasoning." A later chart is titled "Dexterous tools & deformables," with the fragment "improved." The small labels on those charts were not clear enough to quote task by task.</li>
+<li>Wednesday's longer report added Google's evaluation on more than 200 tasks, the 30 to 100 percent and 20 to 30 percent lab ranges, the split between the action model and a separate embodied-reasoning model, and the caveat that a successful pilot is not a fully automated line. This short's description does not repeat those points. It also does not name the robot maker or the factory cities.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The anchor is a woman with long dark hair in a black embroidered top, at a laptop, with a city skyline behind her. She is not named. hq1.jpg is the 96 percent title card over the factory shot. maxresdefault.jpg is the kitting chart. hq3.jpg is the dexterous-tools chart. These are broadcast frames, not the channel's AI-assisted poster. The full video file was not downloaded, and the spoken track was not retrieved.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Andhra's robotics and gaming policies still publish no incentives</title>
+      <link>https://www.youtube.com/watch?v=63GGIRf8ooU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=63GGIRf8ooU</guid>
+      <pubDate>Thu, 12 Nov 2026 01:00:19 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>63GGIRf8ooU</news:videoId>
+      <news:publishedIst>2026-11-12T06:30:19+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/63GGIRf8ooU/hq1.jpg"/>
+      <description><![CDATA[
+<p>Nara Lokesh's jobs claim for Google's one-gigawatt hub and the cabinet's own ratio still do not match, and the robotics, gaming and semiconductor policies cleared beside them still have no published incentives. The player length is 59 seconds. This is a cut of Wednesday's Andhra Pradesh report, and this clip names the minister.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The narration names the state's IT minister as Mr. Nara Lokesh. A lower third on a broadcast frame reads "Nara Lokesh." He said in April that Google's one-gigawatt hub in the same city would create at least two lakh jobs. The description is the line that supplies the word jobs. The narration says "at least two lakh" and then the comparison.</li>
+<li>The speaker's comparison: two jobs a megawatt in one case and 200 in the other, and both numbers come from the same state. The clip says "the same city" and does not name it. Wednesday's report named Visakhapatnam and set the cabinet's data-center approval, about two jobs a megawatt, against the Google claim of about 200.</li>
+<li>The cabinet cleared a robotics and physical AI policy to 2036, a gaming and animation policy to 2031, and changes to the semiconductor fab policy. The auto-caption says "physically AI." The title and the description say "physical AI."</li>
+<li>None of the reports found give the incentives or the targets. The narration's line is that for now the policies are promises.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>hq1.jpg shows Nara Lokesh at a table with a microphone, named on the lower third, above the anchor. The anchor is a man with glasses in a white shirt, at a laptop, with a city skyline behind him. He is not named. maxresdefault.jpg and hq2.jpg show two humanoid robots in a lab under the burned-in words "a gaming and animation," with the same anchor. hq3.jpg is a broken yellow frame and was not used. The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Google.org's $2.3 million screening grant, cut down to a short</title>
+      <link>https://www.youtube.com/watch?v=ONJvRKfwUEw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ONJvRKfwUEw</guid>
+      <pubDate>Thu, 12 Nov 2026 00:30:12 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>ONJvRKfwUEw</news:videoId>
+      <news:publishedIst>2026-11-12T06:00:12+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/ONJvRKfwUEw/hq1.jpg"/>
+      <description><![CDATA[
+<p>Google.org is putting 2.3 million dollars into a Pune startup so health workers can be sent to high-risk neighborhoods instead of screening everyone. The short gives the grant and the method. It does not repeat the tuberculosis pilot counts from Wednesday's longer report, and its description does not print the company name.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The grant is 2.3 million dollars from Google.org, plus 200,000 dollars in Google Cloud credits and technical support, to expand an AI disease-screening platform.</li>
+<li>The description says the app is offline, in local languages, and built for frontline health workers. It tells them where to go. It uses government health data and Google's Earth AI models to flag high-risk zones of about 300 metres.</li>
+<li>The spoken extract adds local factors: settlement density, rainfall and flooding. It then says the app plans household visits. The auto-caption's last noun is "roots," which is not a clean word.</li>
+<li>The description calls it "a Pune startup" and does not name it. The auto-caption renders a name close to "Franc.ai" and an app close to "MAI Netra." Wednesday's report spelled the company Froncort.AI on the lower third and the app mAI-Netra, and the automatic caption of that report garbled the company name. This short does not show the spelling.</li>
+<li>Wednesday's report also gave the Maharashtra tuberculosis comparison, the cost figures, and the caveat that the tool has not been shown to find more patients. Those numbers are not in this short.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The anchor is the same unnamed man in a white shirt and glasses, at a laptop against the skyline. hq1.jpg puts a title card over a glass building with a Google mark. The card reads "Google Backs an AI That Finds the Uncounted Sick." The burned-in fragment is "Pune startup that wants." maxresdefault.jpg is an aerial view of turquoise water under "AI models and local." hq3.jpg is a view of Earth from orbit under "factors like." The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Auto parts face up to 25 percent US duty, and the EU zero-duty line has no signed text</title>
+      <link>https://www.youtube.com/watch?v=Dxt1SwFlkYA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Dxt1SwFlkYA</guid>
+      <pubDate>Thu, 12 Nov 2026 00:00:32 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>Dxt1SwFlkYA</news:videoId>
+      <news:publishedIst>2026-11-12T05:30:32+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/Dxt1SwFlkYA/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Indian auto parts face duty of up to about 25 percent in the United States, a February framework that promised relief is still not final, and a commerce-minister line on zero EU duty by March or April has no signed text behind it. The player length is 46 seconds. The opening line picks up Wednesday's car-export report. The Front Page take at the end was not in the wording that came back.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The narration opens with exporters having a tariff problem as well. Indian auto parts face duty of up to about 25 percent in the United States.</li>
+<li>A trade framework in February promised relief. It is still not final. A burned-in caption reads "in February promised."</li>
+<li>The commerce minister said the EU should offer zero duty by March or April. The description calls him the commerce minister. The burned-in caption spells the name Goyal, in the line "Goyal also said the EU." The auto-caption says "Mr. Goyel." Wednesday's export report named Piyush Goyal.</li>
+<li>The short calls that EU timing an expectation stated on stage. It says Front Page's research has not found any signed text for the claim.</li>
+<li>The anchor says an exporter cannot plan a business around a figment of hope. The auto-caption spells that word "vigment." The caption on screen at that moment is "a business around."</li>
+<li>The retrieved wording ends as he turns to the Front Page take. The take itself was not in the text that came back, so it is not summarized here.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The anchor is the same unnamed man in a white shirt and glasses. maxresdefault.jpg shows a white-bearded man in a dark vest facing a blond man in a dark suit, under "Goyal also said the EU." hq1.jpg is the same meeting under "in February promised." hq3.jpg is a man with glasses in a light shirt and dark vest at a podium, under "a business around." Neither man in the upper frame is named on that frame. The full video file was not downloaded.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Gemini Robotics 2.5 hits 96 percent on a Mercedes kitting pilot</title>
+      <link>https://www.youtube.com/watch?v=qst0LXZ_6rg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qst0LXZ_6rg</guid>
+      <pubDate>Wed, 11 Nov 2026 16:00:40 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>qst0LXZ_6rg</news:videoId>
+      <news:publishedIst>2026-11-11T21:30:40+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/qst0LXZ_6rg/hq2.jpg"/>
+      <description><![CDATA[
+<p>Google DeepMind says Gemini Robotics 2.5, announced on 10 November, got a humanoid through a Mercedes-Benz kitting job at 96 percent. This is a Front Page report. The caption track runs to 2 minutes 55 seconds. The anchor's caveat is that a factory pilot is not a fully automated line, and that Google's lab numbers are not a guarantee for every robot or workplace.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Gemini Robotics 2.5 is a vision-language-action model. The narration says it turns what a robot sees, and what it is told, into physical movement.</li>
+<li>Google evaluated it on more than 200 tasks, including delicate objects, tool use, and sorting components. The company says success rates rose 30 to 100 percent over previous baselines, depending on the task, and completion times fell 20 to 30 percent. The anchor says those are Google's evaluation results, not a guarantee for every robot or workplace.</li>
+<li>The factory test used Apollo 2 humanoid robots at Mercedes-Benz production sites in Germany and Hungary. The job was automotive kitting: pick metal brackets out of bulk bins and place them in trays in the sequence the line needs. Google reports a 96 percent success rate for that proof of concept.</li>
+<li>Two models split the work. Gemini Robotics 2.5 controls the hands and arms. A separate Gemini Robotics embodied-reasoning model manages the workflow.</li>
+<li>On safety, Google says new guidance raised safe task completion by 33 percent around obstacles and by 43 percent around nearby people, in its own evaluations.</li>
+<li>The model is rolling out to Google's robotics partners. It is not being released as a general consumer product.</li>
+<li>DeepMind's 10 November post, which this report is summarizing, names the robot maker as Apptronik and the lines as Kecskemét in Hungary and Sindelfingen in Germany. The narration names Apollo 2, Germany, and Hungary, and does not name the company or the cities. The same post does not say how many picks the 96 percent covers, how long the pilot ran, or how the cycle time compared with a person. The AIM report does not say that either.</li>
+<li>The Front Page take: the breakthrough is a robot that can repeat a task safely, accurately, and economically thousands of times. This is a meaningful step. A successful pilot is not the same as a fully automated production line.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The caption track was retrieved and runs to 2 minutes 55 seconds. hq2.jpg is a broadcast frame: a woman anchor at a laptop, with a humanoid beside blue bins and a Mercedes-Benz sign, under the lines "GOOGLE UNVEILS GEMINI ROBOTICS 2.5" and "96% SUCCESS IN FACTORY PILOT." hq3.jpg is the same anchor alone, under "THE FRONT PAGE TAKE." She is not named on screen or in the narration. maxresdefault.jpg is the poster the channel marks as made with AI assistance. It shows a bald man with glasses beside a humanoid, with DeepMind and Google marks. That portrait is not named, and the poster is not treated as footage. The full video file could not be downloaded after a bot check, so the frames and the caption track are the video record used here.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>TSMC posts a record October, and the chyron puts this year's capex at up to $64 billion</title>
+      <link>https://www.youtube.com/watch?v=U5MyxbLgqh0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=U5MyxbLgqh0</guid>
+      <pubDate>Wed, 11 Nov 2026 15:30:26 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>U5MyxbLgqh0</news:videoId>
+      <news:publishedIst>2026-11-11T21:00:26+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/U5MyxbLgqh0/hq2.jpg"/>
+      <description><![CDATA[
+<p>TSMC reported its highest monthly revenue in October 2026, the published report says: 587 billion Taiwan dollars, up nearly 60 percent in a year, with data-center chips named as the driver. The spoken script could not be retrieved from this network, so the figures below are the ones in the video's own description and on the chyron. A separate lower third says the company plans up to 64 billion dollars of capital spending.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The title and description say October revenue was 587 billion Taiwan dollars, the highest monthly revenue the company has reported, up nearly 60 percent from a year earlier.</li>
+<li>The description says the jump was fueled by demand for advanced silicon, and that data-center chips remain a main engine.</li>
+<li>Cumulative revenue for the first ten months of 2026 is given as 4.49 trillion Taiwan dollars. The description does not give the year-to-date growth rate.</li>
+<li>The evening live's published list states the same October as 17.8 billion dollars. That dollar figure is not in this clip's description.</li>
+<li>A broadcast frame's lower third reads "TSMC OCTOBER REVENUE HITS RECORD" and "TSMC PLANS UP TO $64 BILLION CAPEX." The capex line is on screen. It was not available as spoken narration here.</li>
+<li>The report is a Front Page briefing. Length was not available, because the player blocked the request that would have returned it.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>hq2.jpg shows a woman anchor at the desk beside a shot of the red TSMC logo on a building, under those two lower-third lines. hq3.jpg is the same anchor alone, with no lower third. The poster, which the channel marks as AI-assisted, shows a TSMC building, a wafer, an AI-chip graphic, and the line "TSMC OCTOBER REVENUE HITS RECORD." The portrait on that poster is not named in the description.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Meta lists Muse at 1,799 and 8,999 rupees in India before the launch</title>
+      <link>https://www.youtube.com/watch?v=TF6U7V58Xsg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=TF6U7V58Xsg</guid>
+      <pubDate>Wed, 11 Nov 2026 15:00:23 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>TF6U7V58Xsg</news:videoId>
+      <news:publishedIst>2026-11-11T20:30:23+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/TF6U7V58Xsg/hq2.jpg"/>
+      <description><![CDATA[
+<p>Meta has India prices up for its personal AI agent Muse even though Indian users cannot officially use it yet. The report, just under three minutes, says the useful test is not whether Muse can plan a trip. It is whether Muse can complete the booking, safely, and with permission. The prices come from The Hindu's reading of Meta's subscription page, and Meta has not confirmed them.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The narration says Indian users cannot officially access Muse as of this report. A lower third says the India launch date is still unknown. Users are still being placed on a wait list.</li>
+<li>According to The Hindu, Meta's Muse subscription page lists 1,799 rupees for the power tier and 8,999 rupees for the maximum tier. The anchor calls the top tier nearly 9,000 rupees.</li>
+<li>Subscriptions billed through Google Play or Apple may cost slightly more. Meta has not confirmed that the prices are final, and the billing period for the India amounts has not been specified. Meta did not respond to the newspaper's queries.</li>
+<li>Muse launched in September. It is built to take action, not only to answer questions: sending and managing email, planning travel, filling forms, and making bookings. People can use the Muse app or WhatsApp.</li>
+<li>Meta says Muse runs on a dedicated cloud computer, with controls so a user can review and approve important actions.</li>
+<li>The Hindu reports that Muse crossed 10 million downloads in its first two months.</li>
+<li>The agent cannot currently get authorization to make card payments for Indian users, because the payment-processor integrations are not available there. The narration says charging premium prices before local access and payments are in place could be difficult, and that WhatsApp is Meta's distribution advantage in India. India, it says, needs an agent that can get things done.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>hq2.jpg shows a male anchor in a white shirt and glasses at the desk. The lower third reads "META MUSE PRICES SURFACE IN INDIA" and "INDIA LAUNCH DATE STILL UNKNOWN." hq3.jpg is the same anchor alone, with no lower third. The poster, which the channel marks as AI-assisted, shows a Meta Muse logo, a mascot, a map of India, and the prices line. It is not treated as footage.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Andhra Pradesh clears a 512 MW AI data center, and the job math splits from the Google claim</title>
+      <link>https://www.youtube.com/watch?v=AppE_kyL4Ng</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=AppE_kyL4Ng</guid>
+      <pubDate>Wed, 11 Nov 2026 14:30:31 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>AppE_kyL4Ng</news:videoId>
+      <news:publishedIst>2026-11-11T20:00:31+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/AppE_kyL4Ng/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>On Tuesday the Andhra Pradesh cabinet approved a 512-megawatt AI data center costing 31,387 crore rupees. Reports put the jobs at about 1,000. The state's IT minister has said Google's 1-gigawatt hub in Visakhapatnam would create at least two lakh jobs. The report sets those claims side by side, then looks at water, power and the factory projects cleared in the same sitting. This is a five-minute Front Page report.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The cabinet cleared a 512-megawatt AI data center at 31,387 crore rupees. Reports put employment at about 1,000, which the narration works out to about two jobs a megawatt.</li>
+<li>In April the state's IT minister said Google's 1-gigawatt hub in the same city would create at least two lakh jobs. The narration also quotes a running figure of 188,000 to 200,000 direct and indirect jobs once the hub is operating, about 200 jobs a megawatt. Both numbers come from the same state.</li>
+<li>Experts quoted by The Federal put the Google jobs figure at 20,000 to 30,000. The cabinet's own number for a data center about half that size sits much closer to the experts than to two lakh.</li>
+<li>The same meeting approved a robotics and physical AI policy through 2036, a gaming and animation policy through 2031, and changes to the semiconductor fab policy. The reports the desk found did not include the incentives or the targets, so the narration calls the policies promises for now.</li>
+<li>Two factory approvals are the jobs comparison. One is 570 crore rupees and 2,565 jobs at Rambilli. Ravali Spinners is 237 crore rupees and 1,569 jobs in the Godavari region. That is about 22 lakh and 15 lakh rupees of investment per job. Together, about 807 crore rupees and 4,134 jobs. The data center is about 39 times the investment for under a quarter of the jobs.</li>
+<li>Land does not always become a factory. At Naidupeta, where a 4,000-crore advanced-materials plant was cleared, the cabinet took back land it had earlier given to Websol Renewables and Metro Decorative.</li>
+<li>The state wants 6.5 gigawatts of data centers around Visakhapatnam. About six ventures were named, including Google and Reliance. Reliance received 25 acres at Bhogapuram on Tuesday.</li>
+<li>The city gets about 410 million litres of water a day against a demand of 480 million litres. The minister says data-center water will come from Polavaram through dedicated pipelines and that drinking water will not be touched. A former IAS officer, whose name the caption did not render cleanly, wants an independent water audit.</li>
+<li>On power, the cabinet approved biogas plants, a study of small nuclear reactors, and a 15-megawatt waste-to-energy plant. The narration calls those sensible and small beside a 512-megawatt data center.</li>
+<li>The Front Page take: the state has moved faster than most on land and policy, and a bet this size needs honest numbers. Before the next project is cleared, publish the jobs, the power and the water for every project already approved.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>A sampled frame shows the anchor at the desk and a lower third reading "AP approves 31,387 cr data center" and "State targets 6.5 GW data center capacity," beside coastal footage with a Google mark. The published poster is a separate image. The channel says its thumbnails are made with AI assistance and are representational: this one places a portrait in front of a rendered Visakhapatnam data-center building labeled 31,387 crore and 512 MW. The portrait is not named on the poster.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>DeepMind says it proved key Signal protections, with humans reviewing 1 percent of the code</title>
+      <link>https://www.youtube.com/watch?v=SMzLXUDfHXY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=SMzLXUDfHXY</guid>
+      <pubDate>Wed, 11 Nov 2026 14:00:19 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>SMzLXUDfHXY</news:videoId>
+      <news:publishedIst>2026-11-11T19:30:19+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/SMzLXUDfHXY/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Google DeepMind says it used AI to prove key security properties of the Signal protocol and to mark two previously existing bugs as insecure. The title puts the work at four weeks. The spoken script could not be retrieved from this network, so the detail below is the published description plus the lines actually on screen.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The published description says researchers used AI to analyze the Signal protocol and identified two existing bugs as insecure. The claim is that automated formal verification can check that the code on a user's device provides the protections it is supposed to.</li>
+<li>The video title says the key protections were proved in four weeks.</li>
+<li>A lower third on a preview frame reads "DeepMind verifies Signal protocol code" and, under it, "Humans reviewed 1% of generated code."</li>
+<li>A second preview frame keeps the same headline and changes the second line to "Proofs verify device-level message security."</li>
+<li>The evening Front Page rundown names AlphaProof as the system used on Signal. That name is in the live broadcast's published description and on the AI-assisted poster. It is not something this scan could confirm from the narration.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The preview frames are a two-shot. The anchor is on the left with a laptop. A bald guest with glasses sits at a microphone on the right. He is not named in the frames that were available. The lower third carries the Signal lines above. The poster is the channel's AI-assisted thumbnail: a DeepMind building, a Signal phone, an AlphaProof graphic, and two boxes marked as historical bugs. Treat that poster as a graphic, not as a frame from the report.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Google.org puts $2.3 million into Froncort.AI to aim TB screening</title>
+      <link>https://www.youtube.com/watch?v=__BFU7udhD0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=__BFU7udhD0</guid>
+      <pubDate>Wed, 11 Nov 2026 13:00:12 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>__BFU7udhD0</news:videoId>
+      <news:publishedIst>2026-11-11T18:30:12+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/__BFU7udhD0/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Google.org is backing the Pune startup Froncort.AI with 2.3 million dollars so health workers can be sent to the neighborhoods where tuberculosis is more likely, instead of screening everyone. The report's own caveat is that the pilot has not shown the tool finds more patients. This is a four-minute Front Page report. The company name is Froncort.AI on the lower third. The automatic caption garbles it.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The grant is 2.3 million dollars from Google.org, plus 200,000 dollars in Google Cloud credits and technical support, to expand an AI disease-screening platform.</li>
+<li>The app is mAI-Netra. It is offline, in local languages, and built for frontline health workers. It tells them where to go rather than screening everyone.</li>
+<li>It combines government health data with Google's Earth AI models and local factors, including settlement density, rainfall and flooding, and flags high-risk zones of about 300 metres. It then plans household visits and routes.</li>
+<li>Tuberculosis comes first. Six diseases are planned, including malaria, dengue and cholera. The stated reach is up to eight districts in three states, potentially two to three million people.</li>
+<li>In a pilot with the Maharashtra state TB programme, AI-guided teams screened 66,095 people and found 10 lab-confirmed cases. A standard campaign screened 177,322 people and found 9. The anchor's ratios are about 6,610 people screened per lab-confirmed case, against about 19,700.</li>
+<li>Froncort says the cost per confirmed case fell from about 27.6 lakh rupees to 9.3 lakh rupees, and 92 percent of frontline workers reported a lighter workload.</li>
+<li>The catch, stated in the report: the two campaigns were not run at the same time, the standard campaign had a mobile chest X-ray van and the AI team did not, and the numbers are small. Counting every confirmed case, not only those verified by the same lab test, the AI arm found 15 against 32.</li>
+<li>The conclusion on air: AI may help target screening more efficiently, and it has not yet been shown to find more patients. A larger simultaneous trial is what the anchor says is needed.</li>
+<li>Froncort is one of 15 organizations in Google.org's 30 million dollar AI for government innovation challenge. Unlike tools that read chest X-rays, this one decides where to screen.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>One frame shows the anchor beside street footage of a small team walking, under the lines "Google.org backs Froncort.AI with $2.3M" and "Offline app built for frontline workers." A later frame is the anchor alone on "The Front Page take." The poster, which the channel marks as AI-assisted, shows a community health worker, a phone labeled mAI-NETRA, and a map of TB risk zones with cholera, dengue and malaria listed beside tuberculosis.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Evening Front Page live adds Muse prices, TSMC's record month, and Gemini Robotics</title>
+      <link>https://www.youtube.com/watch?v=fXdltWUxKgw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=fXdltWUxKgw</guid>
+      <pubDate>Wed, 11 Nov 2026 12:58:26 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>fXdltWUxKgw</news:videoId>
+      <news:publishedIst>2026-11-11T18:28:26+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/fXdltWUxKgw/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>The evening Front Page live went up at 18:28 IST under the Visakhapatnam data-center headline. The rundown now has its own reports, including the Gemini Robotics clip filed after 21:30 IST. On the 21:30 IST pass the player reported a length of 2 hours 9 minutes, the title still said live, and no caption track was available.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The broadcast's own list: the Andhra Pradesh data center, Piyush Goyal's call for the auto industry to look beyond the domestic market at the Bharat Mobility Global Expo, Google.org's 2.3 million dollars for Froncort.AI, reported Indian prices for Meta's Muse agent, TSMC's record October revenue of 17.8 billion dollars, Google DeepMind's Gemini Robotics 2.5 in Mercedes-Benz factories, Claude's sheets, whiteboards and dashboards, and DeepMind's AlphaProof work on the Signal protocol.</li>
+<li>Muse prices and the TSMC October report now have their own clips, summarized above. The live's list is the place that states the October figure as 17.8 billion dollars. The TSMC clip's own description gives 587 billion Taiwan dollars and does not print the dollar figure.</li>
+<li>Gemini Robotics 2.5 now has its own clip, summarized above. On the 21:30 IST pass this live still had only the rundown line, with no factory detail of its own.</li>
+<li>The other stories on the list are summarized from their own videos in this edition. The live description asks viewers to put questions in the chat.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The frame YouTube serves for this broadcast is the poster, not a shot of the anchor. It is the same AI-assisted Visakhapatnam image used for the 512-megawatt report: a coastal city marked Vizag, a data-center building labeled 31,387 crore rupees and 512 MW, and a portrait. The channel marks that thumbnail as representational. hq2.jpg and hq3.jpg were not published for this live. No caption track was available, so the spoken script is not in this item.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Anthropic ships Claude sheets, whiteboards and data, and asks what is left of the workbook</title>
+      <link>https://www.youtube.com/watch?v=VIwUIZaum-0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=VIwUIZaum-0</guid>
+      <pubDate>Wed, 11 Nov 2026 12:30:01 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>VIwUIZaum-0</news:videoId>
+      <news:publishedIst>2026-11-11T18:00:01+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/VIwUIZaum-0/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Anthropic has added Claude Sheets, Claude Whiteboards and Claude Data. The report's point is not that Excel died overnight. It is that a team can now start the work inside Claude and only later open the specialist app. This is a four-minute Front Page report. The anchor says Excel survived the night, and then asks why a person opens it in the first place.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The three tools named as shipped are Claude Sheets, Claude Whiteboards and Claude Data. Claude Meetings is described as coming soon. The idea there is that Claude joins a call, takes notes, and updates the documents the team is already working on.</li>
+<li>The product example: a team sketches a launch on a whiteboard. Claude turns the plan into a spreadsheet with owners, deadlines and a budget. When the numbers arrive, Claude Data can pull from sources such as Snowflake or Salesforce and help turn them into a dashboard.</li>
+<li>People can edit the sheet together, change formulas and move between tabs. Claude is supposed to carry the context from the original plan so nobody restates the whole project.</li>
+<li>Anthropic calls the wider move interactive connectors. Partners including Adobe and Atlassian can embed parts of their apps inside Claude. The records can stay in Atlassian while more of the work starts in Claude. The software still does the job. It may no longer be the first tab opened.</li>
+<li>For Microsoft, the test the anchor names is how often people reach for Claude to make a tracker or pull together a report. For a startup that sells one workflow as its whole product, the question is what a customer will still pay extra for if Claude does the basic version.</li>
+<li>Anthropic's own example is its legal team. They built a Slack tool that flags edits against the team's legal playbook before a lawyer reviews the draft. The company says broad marketing reviews fell from three days to about 24 hours.</li>
+<li>The Front Page take: Microsoft can keep the workbook and Atlassian can keep the project record. Claude wants to be the place where a plan becomes something the team can run. Someone still has to spot the case where Claude's budget adds up and leaves out the largest expense.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>A sampled frame shows the anchor at the desk and a lower third reading "Anthropic launches new workplace tools" and "Teams can co-edit AI-generated spreadsheets," with b-roll of people working on laptops at a shared table. The poster is a separate AI-assisted thumbnail of a sample Claude whiteboard, a pie-launch timeline with a prompt asking Claude to map the plan.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>India car exports rise 1.3 percent as Maruti grows 12 percent and the rest fall 8 percent</title>
+      <link>https://www.youtube.com/watch?v=utUQfvGyTSM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=utUQfvGyTSM</guid>
+      <pubDate>Wed, 11 Nov 2026 10:00:03 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>utUQfvGyTSM</news:videoId>
+      <news:publishedIst>2026-11-11T15:30:03+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/utUQfvGyTSM/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Indian car exports rose 1.3 percent between April and September, the published report says. Maruti Suzuki grew 12 percent and the rest of the industry fell 8 percent. Commerce minister Piyush Goyal is using the Bharat Mobility Global Expo to push manufacturers past the home market. The spoken script could not be retrieved here, so the figures are the ones in the video's own description and on the chyron.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Exports rose 1.3 percent between April and September. Maruti Suzuki reported 12 percent growth. The rest of the industry declined 8 percent. The description does not name the source table beyond those figures.</li>
+<li>Piyush Goyal has urged the auto industry to expand beyond the domestic market.</li>
+<li>The Bharat Mobility Global Expo 2026 has been launched. The lower third says the minister's target is 25,000 international visitors. The description states the same target.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>A preview frame shows the anchor and the lines "Bharat Mobility Global Expo 2026 launched" and "Minister targets 25,000 international visitors," beside footage of a worker on a production line. A later frame is the anchor alone at the desk. The poster, marked by the channel as AI-assisted, shows Piyush Goyal and places the expo at Bharat Mandapam, Pragati Maidan, New Delhi. That venue line is on the poster, not in the description this scan could read as narration.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Sandeep Shukla on AI agents that reached live Indian systems with plain-text keys</title>
+      <link>https://www.youtube.com/watch?v=rF_I3YZheQk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=rF_I3YZheQk</guid>
+      <pubDate>Wed, 11 Nov 2026 07:00:26 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>rF_I3YZheQk</news:videoId>
+      <news:publishedIst>2026-11-11T12:30:26+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/rF_I3YZheQk/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Sudhi Sachdev interviews Sandeep Shukla, director of IIIT Hyderabad, on a CERT-In report that AI agents reached live Indian systems using passwords and keys left in plain text. The morning shorts on fundamentals, fresher hiring and threat models are clips of this conversation. The caption track for the full interview was blocked, so the chapter list below is the video's published table of contents, not a summary of each answer. The chapters run to 58:33.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The title and the description state the news peg: CERT-In reported that AI agents reached live Indian systems using passwords and keys left in plain text. Shukla is there to explain the agent risk, prompt injection, phishing and the post-quantum threat.</li>
+<li>The lower third on the preview frames says "Agents in live systems, nobody noticed" and "AI exploits plain text secrecy keys."</li>
+<li>The description says his centre signed an agreement with NPCI on 24 October.</li>
+<li>Published chapters, in order: the CERT-In advisory and cyber hygiene, the DPDP Act and data risk, AI agents versus careless humans, bug-bounty culture in India, attackers and defenders using AI, prompt injection and defences, honey tokens and decoy credentials, threat modeling with AI, AI phishing and how to spot it, the NPCI partnership and UPI fraud, the human in the loop, who trains junior talent, India's quantum mission, and a final message.</li>
+<li>What he says inside those chapters is not repeated here, because the spoken track could not be retrieved. Two of the arguments are already in this morning's shorts, in his own words: students still need the fundamentals to criticize what a model writes, and a person still has to throw out a threat-model scenario the model invented.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The preview frames are a split screen. Sudhi Sachdev, labeled AIM, is on the left in a navy polo. Sandeep Shukla is on the right, labeled Director, IIIT Hyderabad. The lower third carries the plain-text-keys line. The poster is a separate AI-assisted graphic with a CERT-In sign, an "unauthorised access" panel and a quantum-security prop. It is not a frame from the interview.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Point Break asks if degrees still hold once AI enters the classroom</title>
+      <link>https://www.youtube.com/watch?v=OCZbzORarQU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=OCZbzORarQU</guid>
+      <pubDate>Wed, 11 Nov 2026 05:00:09 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>OCZbzORarQU</news:videoId>
+      <news:publishedIst>2026-11-11T10:30:09+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/OCZbzORarQU/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Antara Gupta hosts a 50-minute Point Break debate with Vishwas Deoskar, CEO of the Indian Institute of Creative Technologies, and Prashant Pandit, CEO of Eros Wellness and co-CEO of Eros AIvidya. The question is whether universities are preparing students for an AI-first economy or printing degrees. Three of this morning's shorts are cuts of this conversation: the film-school point, the teacher-retraining point, and the tier-2 cities point.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The host opens with a NITI Aayog figure: 91 percent of graduates end up in jobs unrelated to what they studied. Later she cites the same gap as only about 8.25 percent of graduates working in roles aligned with their qualification. Deoskar says the 8.25 percent figure is old news, not a new AI effect.</li>
+<li>Deoskar says the CBSE curriculum was built for an earlier IT and engineering demand. He works with NCERT, CBSE and IICT, and he says he has not read the AI curriculum in enough detail to confirm that AI has been laid on top of class 3. His line on teachers is that they have no choice but to retrain, because the classroom lecture is already on the student's phone. The foundation still matters. His example, which is also a short, is that smartphones retired the analog phone and the camera phone retired the film camera.</li>
+<li>Pandit says Eros is in talks with the Maharashtra SSC board. He puts that board at 1.4 crore students in classes 9 to 12. He is not trying to start at class 3. The chairman, whom he describes as an IAS officer, wants AI taught where students already use phones. The obstacles he names are schools without reliable internet and teachers who are not equipped.</li>
+<li>His school model has three steps. Train the teachers first. A 9th-standard course is four weeks, 10th is eight, then 16 and 32 weeks as the student moves up. Hand the schools a syllabus Eros says it will refresh every six months. Ship the Eros Universe app in the first week of December, where students make things from characters, songs and dialogue in a library he puts at 12,000 films.</li>
+<li>On why Eros entered education at all, Pandit repeats the point in this morning's film short. Directing, editing and cinematography cannot be taught from theory alone. The institute produces six to seven movies a year and teaches on those live projects.</li>
+<li>He says NSDC, which he describes as having a one-lakh-crore annual budget aimed at trades such as plumbing and electrical work, has now accredited 37 six-month creative-media certificates, including editor, cinematographer and sound engineer. Teachers include industry veterans, and students get time on shoots and on the app. Miranda House, which he says has ranked number one in NIRF for six years, will launch 15 creative-media courses with Eros from 1 January, and has made an exception so the courses are open to men and women. Each batch is also promised seven days abroad, with student exchanges at degree level.</li>
+<li>Degree and master's courses he lists: creative media with AI, OTT film and digital cinema, VFX animation and gaming, entertainment and media, and fashion design. Five degrees, with a four-year master's plus honors. Talks are with Malla Reddy in Hyderabad, DY Patil in Pune, and others including Miranda House. Eight semesters, and the last semester is a full internship. He says Eros chairman Kishore Lulla sat on the UCLA board for 17 years and that the gap he saw is what these courses are meant to close. Eros is also discussing one AI subject inside medicine, dentistry, nursing and pharmacy with Malla Reddy University. Pandit says he has spoken with 10 to 15 leading Indian universities and three or four abroad, and that they were receptive.</li>
+<li>Deoskar on the degree system: more than 3.75 lakh engineers graduate, and they do not all land in IT or manufacturing. He treats a change of track as normal, and he says the parental question is still "is my child a graduate?" IICT was set up by the Union Ministry of Information and Broadcasting, the Maharashtra government, CII and FICCI to feed the creative industry. He puts the global media and entertainment industry at 3.3 trillion dollars and India's revenue share at 2.3 percent. IICT has applied for UGC status as a distinct university. He says only six of those exist. It is also seeking INI status, which needs Parliament. He calls the faculty trainers, not teachers. He says this is his third university, after raising MIT in Pune and others. Practical work is 70 percent and theory 30 percent, judged as a portfolio plus a viva, because parents still want a number. He says IICT is priced at about a third of comparable outside rates because of the government backing, and that its Dolby Atmos theatre is being used for CBFC previews.</li>
+<li>The host cites a Deloitte India finding that 86 percent of surveyed organizations said AI or agentic AI is transforming recruitment, and 72 percent use AI to screen resumes. She also says she believes IIT Pune has made AI allowed by default in coursework. That last point is her statement, not a figure either guest confirmed.</li>
+<li>On exams, Pandit says paper leaks, including NEET, are the problem he is trying to design around, in talks with two state boards. One textbook, chapter-by-chapter mark weights, and his system generates ten papers. A four-teacher board reviews them in his office under CCTV, without phones. At 9:00 the board names which of the ten papers is used for an 11:00 exam. It is encrypted and sent to centers that print it, so the paper exists at the center for about half an hour. Answer sheets are scanned back by 17:00 the same day to a center in Chennai, checked by AI against the board's parameters, and mark sheets are promised in seven days. He wants the first pilot on two subjects, marked both by hand and by the system. He says tests already run with IIT Madras engineers were 99.9 percent successful, and he hopes that leaves a leakage window of about 0 to 1 percent. He says they have approached NEET and expects that conversation next year rather than this year.</li>
+<li>On tier-2 and tier-3 students, Pandit cites an unnamed online platform with a turnover of almost 2,300 crore rupees, 60 percent of it IIT and IIM certificate or degree courses, bought mostly by students who missed the entrance or the campus. He also cites edX at 8 million students last year. He thinks cheap internet and near-universal smartphones close the gap in four to five years if online keeps growing, and he also says the change will be visible in the next two to three years. Deoskar says he has been to Bastar, that more than 70 crore smartphones are in regular use, and that Jio is pushing rates down further. IICT already runs hybrid courses with a contact programme. His warning is that a film made in Bastar and put on YouTube for 500 rupees is not the goal. Treat AI as a tool the student learns to use. A doctor is still needed, and the basics of engineering stay. Revamp the curriculum. Do not throw it out. He says IIT took about 50 years to produce more than 500 CEOs worldwide, and that Japan and South Korea started the anime and manga pipeline about 30 years ago.</li>
+<li>Asked what they would change first if the system were rebuilt, Pandit says the syllabus, the curriculum and the management habit of treating AI as a competitor. A better prompt, he says, is the next step after search, and computers were not a threat in the 1980s either. Deoskar says the system has to stay inclusive: add AI to medicine and engineering, and do not block people who were never given the equipment or the research exposure.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>Sampled frames are a three-shot. Lower thirds name Prashant Pandit, host Antara Gupta, and Vishwas Deoskar. The banner reads "Are Indian schools preparing for AI?" and "CBSE introduces AI curriculum for schools." The poster is a separate AI-assisted image headlined "Is AI making degrees useless?" with an 8.25 percent qualification-aligned-jobs graphic, the figure the host cites, plus the Eros AIvidya and IICT marks.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Morning Front Page live on Microsoft, Oracle, and the stories cut into today's shorts</title>
+      <link>https://www.youtube.com/watch?v=iSH8Vj6GoCI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=iSH8Vj6GoCI</guid>
+      <pubDate>Wed, 11 Nov 2026 04:52:14 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>iSH8Vj6GoCI</news:videoId>
+      <news:publishedIst>2026-11-11T10:22:14+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/iSH8Vj6GoCI/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>The morning Front Page live ran 1 hour 37 minutes from 10:22 IST, under a Microsoft and Oracle headline. Several of the morning shorts are the clipped versions of stories on this broadcast. The spoken script of the live itself could not be retrieved, so the list below is the broadcast's published rundown, and the picture of what was on screen comes from preview frames.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The lead line in the description: Microsoft is winding down its agreement to rent AI computing capacity from Oracle, and it is tightening oversight of neocloud infrastructure projects. No size, date or remaining-capacity figure was available beyond that sentence.</li>
+<li>The rest of the published list: Salesforce positioning Slack as a work platform for Indian businesses, Hexaware's five-year AI contract with the European Bank for Reconstruction and Development, India's 11th place in the Ayre Index of youth AI readiness, Coforge joining SpaceX's AI partner network to deploy Grok, LTM and ServiceNow expanding AI agent deployments, Anthropic's launch of Claude Fable 5.2 and Mythos 5.2, and SemiAnalysis's estimate of SpaceX's data-centre buildout.</li>
+<li>Slack, the youth-readiness numbers, Coforge and Grok, the Fermat and Fable proof work, and the Starbase build are already summarized from this morning's shorts. The Hexaware contract, the LTM and ServiceNow expansion, the Fable 5.2 and Mythos 5.2 product launch, and the Microsoft and Oracle pullback are in the live's list and were not their own shorts in this scan.</li>
+<li>India's 11th place on the Ayre Index is in this live's description. The morning short on the same study gives the 30.4 percent and 85.8 percent figures and does not state the rank.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The poster is an AI-assisted graphic of a hand throwing a switch from on to off between Microsoft and Oracle server racks, with a portrait of Satya Nadella. The preview frames of the broadcast are a different picture. They show Sudhi Sachdev interviewing Sandeep Shukla under the same lower third as the security interview: "Agents in live systems, nobody noticed" and "AI exploits plain text secrecy keys." That conversation was on this live.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>A human has to own the AI outcome in a report for the insurance regulator</title>
+      <link>https://www.youtube.com/watch?v=x6ZVADfStgg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=x6ZVADfStgg</guid>
+      <pubDate>Wed, 11 Nov 2026 04:30:05 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>x6ZVADfStgg</news:videoId>
+      <news:publishedIst>2026-11-11T10:00:05+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/x6ZVADfStgg/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Sandeep Shukla says a report for the insurance regulator, finalized on Tuesday and due out soon, requires someone to own what an AI system produces. The application has to be tiered, tested, and checked after it generates a decision or a document. He says the buck stops at a human. This is a short of about 84 seconds, from the same conversation as this morning's clips.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>He says the report for the insurance regulator was finalized yesterday, relative to this short, and will be released soon. It is an AI governance framework.</li>
+<li>One part of it is tiering. Figure out which tier an AI application sits in, and govern it accordingly.</li>
+<li>Someone has to own the AI's outcomes. He rejects the answer that the AI created it and nobody knows how it happened.</li>
+<li>Ownership means thorough testing, and a thorough check after the system generates a decision, a piece of content, or an artifact, to see that it makes sense. The owner also carries the risk of mistakes.</li>
+<li>He says he is pretty sure the RBI has said the same thing, and that anyone writing an AI governance framework would say it too. The buck stops at a human, not a machine.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>Shukla is on a video call, named on the lower third as director of IIIT Hyderabad. Under him, a hand holds a tablet showing an "AI Verification Audit" graphic: 1,248 total checks, 98.6 percent passed, and a failed "Opportunity Gap" row circled in red. A caption fragment reads "investigation." Those audit numbers are on the graphic. He does not speak them in this short.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Teachers have to retrain when the old tools leave the classroom</title>
+      <link>https://www.youtube.com/watch?v=o0SlibekyGg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=o0SlibekyGg</guid>
+      <pubDate>Wed, 11 Nov 2026 04:00:01 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>o0SlibekyGg</news:videoId>
+      <news:publishedIst>2026-11-11T09:30:01+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/o0SlibekyGg/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Vishwas Deoskar's example, cut from this morning's Point Break debate, is that a new tool retires the old one, so teachers have to upgrade with it. The short is 48 seconds. He is not named on this frame. The words match his answer in the full debate.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>When smartphones arrived, analog phones went out. When phones carried three cameras, the film camera went out.</li>
+<li>Something has to leave because it no longer fits the technology in use.</li>
+<li>If people have to upgrade, teachers have to upgrade too. In the full debate he ties this to class 3, 4 and 5, and he says he has not himself read the CBSE AI curriculum in detail.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>The frame is a wooden table with a film camera, its back open, a roll of 35mm film marked 200, and a phone face-down so the triple-camera array is visible. The on-screen caption is the single word "cameras."</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Online courses can bring tier-2 and tier-3 cities level with the metros</title>
+      <link>https://www.youtube.com/watch?v=9PAR5j1swOI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=9PAR5j1swOI</guid>
+      <pubDate>Wed, 11 Nov 2026 03:30:04 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>9PAR5j1swOI</news:videoId>
+      <news:publishedIst>2026-11-11T09:00:04+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/9PAR5j1swOI/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Prashant Pandit says online education will close the gap between tier-2 and tier-3 cities and Mumbai and Delhi. He will not name the company in his example. The short is about 95 seconds and is a cut of his answer in the Point Break debate. He is not named on this frame. The words match.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>He recently met a company he does not name. Its turnover is almost 2,300 crore rupees, entirely from online courses.</li>
+<li>About 60 percent of what it sells are IIT and IIM courses, certificates or degrees.</li>
+<li>Most of its students are from tier-2 and tier-3 cities, people who never had access to those campuses or who missed the entrance.</li>
+<li>He thinks the shift shows up in four to five years if online keeps growing at this pace, and he also says it will be visible in the next two to three years. Both timeframes are in the short.</li>
+<li>His reasons: India's internet rates are the cheapest in the world, and a smartphone is with almost everybody. The practical-exposure gap is what he thinks online can narrow, until those cities sit level with Mumbai and Delhi.</li>
+</ul>
+<p><strong>From the video</strong></p>
+<p>A young man studies at a laptop in a bedroom, a handwritten notebook and a pen on the desk, a map on the wall. The screen is a linear-algebra lesson on eigenvalues. The caption fragment reads "Somebody who don't," from the line about students who do not have that campus exposure.</p>
+      ]]></description>
+    </item>
+    <item>
+      <title>Film courses need live projects, with 6 to 7 movies made each year</title>
+      <link>https://www.youtube.com/watch?v=oQubY4BwD-o</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=oQubY4BwD-o</guid>
+      <pubDate>Wed, 11 Nov 2026 03:00:06 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>oQubY4BwD-o</news:videoId>
+      <news:publishedIst>2026-11-11T08:30:06+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/oQubY4BwD-o/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>A guest argues that creative-media degrees fail when they stay in the classroom. Directing, editing and cinematography need theory and practice together, so the speaker's institute produces six to seven films a year and teaches students on those live projects.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The guest says there is still no formal path, theoretical and practical at once, for people who want to be directors, editors or cinematographers.</li>
+<li>Pure theory does not work in these courses. Editing, the guest says, cannot be taught only in a classroom. Students need practical exposure.</li>
+<li>That is why the institute went into education: every year it produces six to seven movies and uses those productions as the teaching material.</li>
+<li>Students are meant to leave with theoretical knowledge and a practical angle from real projects.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>The published frame is a classroom. A young man sits at a wooden desk with a notebook and a laptop, in front of a chalkboard laid out as a film-studies lesson: a film triangle linking text, creator and audience, modes of address, narrative structure, and montage. A caption on screen reads "editor in the classroom," which is the line the guest is saying. A small logo sits in the corner. The guest is not named on this frame.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Students who skip the fundamentals cannot check what AI writes</title>
+      <link>https://www.youtube.com/watch?v=5vRkhnqjm5I</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=5vRkhnqjm5I</guid>
+      <pubDate>Wed, 11 Nov 2026 02:30:30 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>5vRkhnqjm5I</news:videoId>
+      <news:publishedIst>2026-11-11T08:00:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/5vRkhnqjm5I/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Sandeep Shukla, Director of IIIT Hyderabad, says students who hand programming assignments to Claude Code are taking a shortcut that backfires. Fundamentals are what let a person use AI and criticize its output. He also says he has heard that many large multinational companies are not hiring freshers this year, and he calls that decision short-sighted.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Students are using Claude Code and similar tools to do programming assignments. Shukla says that shortcut is a mistake.</li>
+<li>The fear underneath the shortcut, as he describes it, is that nobody will hire them for programming anymore. He says that is not the case.</li>
+<li>You need the fundamentals to use AI at all. You cannot trust the model blindly. Someone has to be able to check the output and criticize it, and that takes knowledge the student still has to hold.</li>
+<li>On hiring, he says he has heard that a large number of MNCs are not hiring freshers this year. He calls the move short-sighted. The published description reports it the same way: many MNCs are reportedly not hiring freshers. Treat it as his account of what he has heard, not as a hiring census.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>Split screen. On top, Sandeep Shukla on a video call, with a lower third reading "SANDEEP SHUKLA" and "DIRECTOR, IIIT HYDERABAD." Below, the anchor in a navy polo, laptop open, city-and-server-room backdrop. A caption word "and" sits between them. The clip is a conversation, not a solo anchor read.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>AI can build threat models faster than humans, with a human to check</title>
+      <link>https://www.youtube.com/watch?v=txiRiVFixs8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=txiRiVFixs8</guid>
+      <pubDate>Wed, 11 Nov 2026 02:00:32 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>txiRiVFixs8</news:videoId>
+      <news:publishedIst>2026-11-11T07:30:32+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/txiRiVFixs8/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>The same guest, Sandeep Shukla, says threat models can now be drafted by AI much faster than by people, provided the model is given enough information. A human still has to reject scenarios the model invented. He anchors the point in the post-9/11 exercise that asked Hollywood producers to imagine attacks nobody in security had listed.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Before 9/11, passenger planes used as weapons were not in anyone's threat model: not air traffic control, not the military, and there was no Department of Homeland Security yet.</li>
+<li>After the attacks, Homeland Security brought in Hollywood producers to do a threat-modeling exercise, because the missing ingredient was extreme imagination. That scenario is now a standard threat model, and the airport controls people see today come from it.</li>
+<li>Known models already drive routine defenses. Ransomware is the example: backups, and isolating those backups.</li>
+<li>The failures are the models nobody wrote down. His example is an attacker reading source code to find a hidden API key. It was not in the threat model, so it was not defended.</li>
+<li>Given enough information, AI can produce these models faster than humans. A person still has to check that the team is not chasing a hallucinated scenario that cannot actually happen.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>Shukla is on the upper half again, same lower third, Director, IIIT Hyderabad, mid-gesture. The lower half cuts to an airport security lane: travelers loading bags onto a belt, officers beside a scanner marked Rapiscan 620DV. The on-screen caption reads "All the controls we," matching the line about airport controls that came out of that threat model.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>SpaceX went from cleared land to steel at Starbase in one month, images show</title>
+      <link>https://www.youtube.com/watch?v=WONBqciXiyM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WONBqciXiyM</guid>
+      <pubDate>Wed, 11 Nov 2026 02:00:13 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>WONBqciXiyM</news:videoId>
+      <news:publishedIst>2026-11-11T07:30:13+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/WONBqciXiyM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Satellite images are used from Starbase, Texas, where SpaceX builds and launches Starship. Land that was being cleared at the end of August had steel structures up by the end of September. SemiAnalysis estimates another site near Colossus 2 could go from an empty plot to a finished building in about four months. The clip's warning is that a finished shell is the easy photograph. The next milestone is the chips inside running around the clock.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Starbase, Texas, is where SpaceX builds and launches Starship.</li>
+<li>Satellite images at the end of August showed land being cleared. By the end of September, steel structures were going up.</li>
+<li>Near Colossus 2, SemiAnalysis estimates a separate site could go from empty plot to completed building in about four months.</li>
+<li>A finished building photographs well. The milestone the narration points to is when the chips in that building can run continuously.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>An anchor in a light blazer sits with a laptop in the server-room set. Above her, the frame shows an aerial site image with the SemiAnalysis credit on screen. The graphic is the satellite view the script is walking through.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Fable agents made a Fermat proof machine-checkable in 30 hours, not 11 days</title>
+      <link>https://www.youtube.com/watch?v=u4Im-DvAMfc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=u4Im-DvAMfc</guid>
+      <pubDate>Wed, 11 Nov 2026 01:30:37 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>u4Im-DvAMfc</news:videoId>
+      <news:publishedIst>2026-11-11T07:00:37+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/u4Im-DvAMfc/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The report corrects a circulating claim about Fermat's Last Theorem. Andrew Wiles proved it in the 1990s. What a thousand Fable agents did was rewrite that proof so a computer could check it step by step. Anthropic's earlier run of the same kind of work took 11 days. This one took 30 hours. The question the clip leaves for software teams is whether that speed makes it cheaper to verify that a program does what it is supposed to do.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>People have been saying Claude solved Fermat's Last Theorem. The short says that is the wrong reading. Wiles proved the theorem in the 1990s.</li>
+<li>A thousand Fable agents put the existing proof into a form a computer can check line by line.</li>
+<li>An earlier Anthropic effort on this took 11 days. The new run took 30 hours.</li>
+<li>The useful question is not the theorem. It is whether the same agent workflow lowers the cost of proving that software behaves as specified.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>The same anchor, white blazer and laptop, with a full-screen graphic of equations behind the line she is reading. A caption fragment, "That kind of work," matches the turn from the theorem to software verification.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Coforge will deploy Grok through Momentum Blue, its human and AI agent unit</title>
+      <link>https://www.youtube.com/watch?v=PLn64We72TQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PLn64We72TQ</guid>
+      <pubDate>Wed, 11 Nov 2026 01:00:21 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>PLn64We72TQ</news:videoId>
+      <news:publishedIst>2026-11-11T06:30:21+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/PLn64We72TQ/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Coforge has said how it will actually roll Grok out inside companies. Every enterprise deployment goes through Momentum Blue, the customer-facing engineering unit that embeds hybrid teams of human engineers and AI agents in the client and ties their output to agreed business targets. The technical bridge is Coforge's Neuron enterprise AI platform. Money terms were not disclosed.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Financial details of the partnership were not disclosed. The operating model was.</li>
+<li>All Grok enterprise deployments are handled exclusively through Momentum Blue.</li>
+<li>Momentum Blue is built to go past traditional IT sourcing. It places mixed teams of engineers and autonomous agents inside client organizations.</li>
+<li>Those teams are explicitly tied to agreed business targets, not to a staffing contract.</li>
+<li>Delivery leans on Coforge's existing AI-led modernization work, and specifically on the Neuron platform, which is supposed to connect Grok to legacy corporate software.</li>
+<li>Anup Nair, chief AI commercial officer, is quoted on screen and in the narration. The audible portion: "From software modernization and customer service to enterprise applications, we bring the industry context, engineering expertise, and adoption capabilities to turn Grok's technology into solutions." The captured narration cuts off as the sentence continues.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>Top half is a headshot of a man in a purple sweater, with a caption reading "AI Commercial Officer at," which is the role the narration assigns to Anup Nair. Bottom half is the anchor at the laptop, delivering the quote. The frame is a quote card, not a live two-shot.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>30.4 percent of young Indians are not in work, education or training, a study finds</title>
+      <link>https://www.youtube.com/watch?v=zAMsT1X5zH0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=zAMsT1X5zH0</guid>
+      <pubDate>Wed, 11 Nov 2026 00:30:20 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>zAMsT1X5zH0</news:videoId>
+      <news:publishedIst>2026-11-11T06:00:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/zAMsT1X5zH0/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>A youth AI-readiness study, as reported here, finds that turning readiness into jobs is the stuck part. About 30.4 percent of young Indians are not in employment, education or training, and 85.8 percent of young workers are in the informal sector. The government has started programs with Intel and has pledged to train 10 million young people in AI within a year. Calvin Ayer, founder of the Ayer think tank, says AI will change work, business and how wealth is created. The anchor adds that the wealth is gated by who has access.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>30.4 percent of young Indians are not in employment, education or training.</li>
+<li>85.8 percent of young workers are in the informal sector.</li>
+<li>The Indian government is trying to close the gap with Intel-linked programs and a pledge to train 10 million young people in AI inside one year.</li>
+<li>Calvin Ayer, founder of the Ayer think tank: "AI is going to change how we work, how we do business, and how wealth is created."</li>
+<li>The narration's addition: that wealth creation is strictly gated by access.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>A headshot of a grey-haired man sits above the anchor. The caption on the quote line reads "change how we work," the opening of Ayer's sentence. The portrait itself is not labeled with a name on this frame, so the identification comes from the narration, not from a lower third.</p>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Salesforce bundles Agentforce, Slack and Tableau into an SMB kit bought by card</title>
+      <link>https://www.youtube.com/watch?v=DRywL__bLHU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DRywL__bLHU</guid>
+      <pubDate>Wed, 11 Nov 2026 00:00:04 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>DRywL__bLHU</news:videoId>
+      <news:publishedIst>2026-11-11T05:30:04+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/DRywL__bLHU/maxresdefault.jpg"/>
+      <description><![CDATA[
+<p>Salesforce is aiming at India's small and mid-size businesses, which the clip calls its highest-revenue segment in the country. The offer is a plug-and-play growth kit that bundles Agentforce, Sales, Slack and Tableau, sold on a credit card so a buyer can skip a three-to-four-month enterprise rollout. The bet is autonomous agents rather than a price fight with Zoho.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The battleground named in the clip is small and medium businesses. SMBs are now the highest revenue-contributing segment for Salesforce in India.</li>
+<li>The SMB growth kit bundles Agentforce, Sales, Slack and Tableau into one platform.</li>
+<li>A small business can buy it with a credit card, bypassing the traditional three-to-four-month enterprise implementation.</li>
+<li>Salesforce is described as not trying to beat local players such as Zoho on price. The wager is the value of autonomous AI agents.</li>
+<li>Hunter is presented as an agentic sales-development representative that does the initial prospect outreach.</li>
+<li>An internal help agent, KC, has handled more than 5 million inbound customer conversations and resolved nearly 70 percent of queries with no human intervention.</li>
+</ul>
+<p><strong>From the video frame</strong></p>
+<p>A studio portrait of a man in a navy suit sits above the anchor. The caption reads "Salesforce isn't trying to," the price-comparison line. The portrait has no name on this frame, so the summary does not attach the Zoho remark to a named executive beyond what the narration itself supports.</p>
+      ]]></description>
+    </item>
+  </channel>
+</rss>

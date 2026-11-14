@@ -1,0 +1,4 @@
+{
+  "name": "Latest",
+  "install": "bash .cursor/install.sh"
+}
