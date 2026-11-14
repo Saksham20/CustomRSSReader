@@ -13,11 +13,45 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 13 November 2026 edition, retrieved at 16:21 IST, covers Hyderabad's planned AI police station, Cognizant's Claude team, a public-hospital voice scribe, Nvidia's share fall and succession search, OpenAI's Control Room, forged court orders used to block 129 betting sites, Meta's Muse Ember, an Oracle and AstraZeneca trial-matching partnership, India's AI regulation debate, and Elon Musk's claim about SoftBank and Tesla.</description>
+    <description>News of relevance. The 14 November 2026 edition, retrieved at 07:01 IST, covers JPMorgan's forecast of 400,000 humanoid robots in US factories, a California lawsuit to freeze frontier models, Google and Samsung's Intelligent Eyewear, a report that Jensen Huang has stepped down, Chariot's Indian-language voice model, Astrome's electronic-intelligence satellites, a 2-gigawatt compute factory in Kurnool, and India's third-place quantum research ranking.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Nov 2026 10:51:04 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 01:31:46 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
+
+    <news:edition date="2026-11-14">
+      <news:scannedAt>2026-11-14T01:31:46Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-14T07:01:46+05:30</news:scannedAtIst>
+      <news:longFormCount>9</news:longFormCount>
+      <news:shortCount>0</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="mRGi_vO9hug" published="2026-11-13T15:30:30Z">JPMorgan forecast puts 400,000 humanoid robots into US factories and logistics</news:latestLongForm>
+      <news:method>Retrieved at 07:01 IST on 14 November 2026. The window is the 24 hours ending 01:31 UTC. Eleven uploads came back with titles, descriptions, and publication times. The spoken wording did not come back, so this edition uses those published accounts and does not add anything that would have required hearing them. Two of the eleven were already in this file. The other nine are here, newest first. All nine run past the three-minute line used only to sort short items from longer ones.</news:method>
+      <news:briefing><![CDATA[
+Saturday 14 November 2026, retrieved at 07:01 IST. JPMorgan's forecast puts 400,000 humanoid robots into US manufacturing and logistics as the industry moves from demos to commercial deployment. CleanMax and Blackstone-backed Neysa plan a 2-gigawatt compute factory in Kurnool at 8,000 crore rupees. A later account says Jensen Huang has stepped down after an independent board probe. An earlier account said a removal was not a decision already taken, and another said the board still had full confidence in him.
+
+The morning's through-line: JPMorgan sees 400,000 humanoid robots filling US factory and logistics jobs, Kurnool is the site of a planned 2-gigawatt compute factory, and a later account says Jensen Huang has stepped down after a board probe that earlier accounts do not treat as a departure.
+
+The robot forecast. JPMorgan has released a forecast that humanoid robots are moving from viral demos to commercial deployment. The United States is preparing for 400,000 robots to fill severe labor shortages in manufacturing and logistics. Hardware costs are dropping to a level that rivals human wages. The larger change is in software. The latest AI brain models from Google DeepMind and Nvidia are described as solving the main robotic bottleneck and setting up a large factory transformation. No year is given for the 400,000 figure.
+
+The California suit. A coalition of nonprofits has filed a lawsuit to block companies including OpenAI, Google, Meta, and Anthropic from building frontier AI models. The suit uses California public nuisance law. The plaintiffs use the executives' own apocalyptic warnings and demand a total freeze on development. The account asks whether a California judge could stop work toward artificial superintelligence. It does not report a ruling. It looks at the US industry as it contends with state-level injunctions while trying to stay ahead of China. The plaintiffs are not named.
+
+The glasses. Google and Samsung have launched Intelligent Eyewear, starting at 395 dollars. The glasses weigh 41 grams, run on the Android XR platform, and include Hey Gemini conversational AI. They are aimed at Meta's Ray-Ban glasses. Privacy safeguards are described as a way to avoid the stigma the account calls Glasshole. Whether this walled-garden hardware wins the wearable market is left open. No on-sale date and no country are given.
+
+The leadership account. This account says Nvidia co-founder Jensen Huang has stepped down after an independent board probe, and it calls the situation a political and corporate firestorm. It describes him as the person who built the hardware layer of the AI revolution. It says the investigation centers on an alleged affair with a businesswoman suspected by US intelligence of acting as a Chinese asset. She is not named. It says US lawmakers are demanding aggressive export controls and that Commerce Secretary Howard Lutnick is facing heavy scrutiny, and it calls the situation a leadership crisis for the semiconductor industry. Huang, the board, and Lutnick are not quoted. An earlier account said shares fell more than 8 percent on reports of a possible removal, with results due on 17 November, and that a removal was not a decision already taken. A still earlier account said the board maintained full confidence in Huang while searching for successors. This account is a different claim. It does not say Nvidia has confirmed a departure.
+
+The voice model. Chariot, founded by former Google DeepMind and Meta researchers, has launched a text-to-speech model for 11 Indian languages. The account places that launch in New Delhi. The model mixes more than one language inside a single sentence, which the account calls code-mixing, and it uses contextual reasoning to settle pronunciation. Chariot is backed by the IndiaAI Mission, given as 10,372 crore rupees. Whether the company can challenge ElevenLabs and OpenAI in the enterprise market is left open. The founders are not named.
+
+The satellites. Bengaluru-based Astrome Technologies has secured 64.05 crore rupees from the Technology Development Board. The money is for what the account calls India's first sovereign, AI-powered electronic-intelligence satellite constellation. The 50-kilogram microsatellites are to operate in low Earth orbit, use links between satellites and AI software on the ground, and intercept and process electronic signals for persistent defense surveillance. No launch date and no number of satellites are given.
+
+The Kurnool factory. The account calls electricity one of the biggest bottlenecks in AI. CleanMax and Blackstone-backed Neysa have partnered on a 2-gigawatt AI compute factory in Kurnool, Andhra Pradesh, at 8,000 crore rupees. The 600-acre site is scheduled for completion in March 2028. It aims to power high-density GPUs on a net-zero renewable grid. The account says the factory could threaten hyperscale providers such as AWS and Azure. That is a possibility it raises, not a result.
+
+The quantum ranking. The account says the National Quantum Mission is paying off. The MIT Quantum Index Report 2026 ranks India third in producing quantum computing and communications research, behind China and the United States. Quantum patent filings in India have nearly quadrupled in two years. Those two years are not dated, and no filing count is given. Whether Indian telecom and finance companies commercialise the work, or firms in Silicon Valley license it, is left open.
+
+The evening list. The Front Page list for the afternoon briefing names eight subjects. Jensen Huang steps down amid a national-security and espionage probe. Nonprofits file a California lawsuit to block OpenAI, Meta, and Google from building frontier models. Google and Samsung launch 395-dollar Gemini eyewear aimed at Meta. JPMorgan expects 400,000 humanoid robots in US factories, alongside AI brain models from Google and Nvidia. Patent filings are rising and India ranks third in quantum research volume. Blackstone-backed Neysa and CleanMax are building a net-zero compute factory in Andhra Pradesh at 8,000 crore rupees. Astrome in Bengaluru has funding for what the list calls a private AI orbital defence network. Former DeepMind researchers launch Chariot, a voice model that code-mixes 11 Indian languages. The list does not name Anthropic, Kurnool, the 64.05 crore rupee figure, the alleged affair, or Howard Lutnick. Those details are only in the separate accounts. What was said beyond this list is not established.
+      ]]></news:briefing>
+    </news:edition>
 
     <news:edition date="2026-11-13">
       <news:scannedAt>2026-11-13T10:51:04Z</news:scannedAt>
@@ -130,6 +164,215 @@ Still in this file from the morning. The first eight shorts cover film teaching 
     </news:edition>
 
 
+
+    <item>
+      <title>JPMorgan forecast puts 400,000 humanoid robots into US factories and logistics</title>
+      <link>https://www.youtube.com/watch?v=mRGi_vO9hug</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=mRGi_vO9hug</guid>
+      <pubDate>Fri, 13 Nov 2026 15:30:30 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>mRGi_vO9hug</news:videoId>
+      <news:publishedIst>2026-11-13T21:00:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/mRGi_vO9hug/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>JPMorgan has released a forecast that humanoid robots are moving from viral demos to commercial deployment. The United States is preparing for 400,000 robots to fill severe labor shortages in manufacturing and logistics. Hardware costs are dropping to a level that rivals human wages. The larger change is in software, where the latest AI brain models from Google DeepMind and Nvidia are described as solving the main robotic bottleneck and setting up a large factory transformation. No year is given for the 400,000 figure.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>JPMorgan's forecast says humanoid robots are moving from viral demos to commercial deployment.</li>
+<li>The United States is preparing for 400,000 robots to fill severe manufacturing and logistics labor shortages. No year is given.</li>
+<li>Hardware costs are dropping to a level that rivals human wages.</li>
+<li>The larger change is in software. The latest AI brain models from Google DeepMind and Nvidia are described as solving the main robotic bottleneck.</li>
+<li>Those models are described as setting up a large factory transformation.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Nonprofits sue in California to freeze frontier AI models</title>
+      <link>https://www.youtube.com/watch?v=MyJYzKrdD78</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=MyJYzKrdD78</guid>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>MyJYzKrdD78</news:videoId>
+      <news:publishedIst>2026-11-13T20:30:00+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/MyJYzKrdD78/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>A coalition of nonprofits has filed a lawsuit to block companies including OpenAI, Google, Meta, and Anthropic from building frontier AI models. The suit uses California public nuisance law. The plaintiffs use the executives' own apocalyptic warnings and demand a total freeze on development. The account asks whether a California judge could stop work toward artificial superintelligence. It does not report a ruling, and the plaintiffs are not named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>A coalition of nonprofits has filed a lawsuit naming OpenAI, Google, Meta, and Anthropic.</li>
+<li>The suit uses California public nuisance law and demands a total freeze on development of frontier models.</li>
+<li>The plaintiffs rely on apocalyptic warnings from the companies' own executives.</li>
+<li>No ruling is reported, and the plaintiffs are not named.</li>
+<li>The account looks at state-level injunctions and the effort to stay ahead of China. It does not say an injunction has been granted.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Google and Samsung launch Intelligent Eyewear from 395 dollars</title>
+      <link>https://www.youtube.com/watch?v=ifwo4EJyExs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ifwo4EJyExs</guid>
+      <pubDate>Fri, 13 Nov 2026 14:30:07 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>ifwo4EJyExs</news:videoId>
+      <news:publishedIst>2026-11-13T20:00:07+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/ifwo4EJyExs/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Google and Samsung have launched Intelligent Eyewear, starting at 395 dollars. The glasses weigh 41 grams, run on the Android XR platform, and include Hey Gemini conversational AI. They are aimed at Meta's Ray-Ban glasses. Privacy safeguards are described as a way to avoid the stigma the account calls Glasshole. Whether this hardware wins the wearable market is left open. No on-sale date and no country are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Google and Samsung have launched Intelligent Eyewear, starting at 395 dollars.</li>
+<li>The glasses weigh 41 grams, run on Android XR, and include Hey Gemini.</li>
+<li>They are aimed at Meta's Ray-Ban glasses.</li>
+<li>Privacy safeguards are described as a response to the stigma the account calls Glasshole.</li>
+<li>No on-sale date and no country are given, and whether the product wins the wearable market is left open.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Report says Jensen Huang has stepped down after a board probe</title>
+      <link>https://www.youtube.com/watch?v=4U5aQMaWQRw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=4U5aQMaWQRw</guid>
+      <pubDate>Fri, 13 Nov 2026 14:00:13 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>4U5aQMaWQRw</news:videoId>
+      <news:publishedIst>2026-11-13T19:30:13+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/4U5aQMaWQRw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>This account says Nvidia co-founder Jensen Huang has stepped down after an independent board probe, and it calls the situation a political and corporate firestorm. It says the investigation centers on an alleged affair with a businesswoman suspected by US intelligence of acting as a Chinese asset. She is not named. It says US lawmakers are demanding aggressive export controls and that Commerce Secretary Howard Lutnick is facing heavy scrutiny. Huang, the board, and Lutnick are not quoted. An earlier account said a removal was not a decision already taken, and another said the board still had full confidence in him. This account does not say Nvidia has confirmed a departure.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>This account says Jensen Huang has stepped down after an independent board probe.</li>
+<li>It says the investigation centers on an alleged affair with an unnamed businesswoman suspected by US intelligence of acting as a Chinese asset.</li>
+<li>It says US lawmakers are demanding aggressive export controls and that Commerce Secretary Howard Lutnick is facing heavy scrutiny.</li>
+<li>Huang, the board, and Lutnick are not quoted, and Nvidia is not described as having confirmed a departure.</li>
+<li>An earlier account said a possible removal was not a decision already taken. Another said the board still had full confidence in Huang while searching for successors.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Chariot launches a voice model for 11 Indian languages</title>
+      <link>https://www.youtube.com/watch?v=7pU-ZwH3_mQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=7pU-ZwH3_mQ</guid>
+      <pubDate>Fri, 13 Nov 2026 13:30:24 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>7pU-ZwH3_mQ</news:videoId>
+      <news:publishedIst>2026-11-13T19:00:24+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/7pU-ZwH3_mQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Chariot, founded by former Google DeepMind and Meta researchers, has launched a text-to-speech model for 11 Indian languages. The account places that launch in New Delhi. The model mixes more than one language inside a single sentence, which the account calls code-mixing, and it uses contextual reasoning to settle pronunciation. Chariot is backed by the IndiaAI Mission, given as 10,372 crore rupees. Whether it can challenge ElevenLabs and OpenAI in the enterprise market is left open. The founders are not named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Chariot has launched a text-to-speech model for 11 Indian languages. The account places the launch in New Delhi.</li>
+<li>The founders are described as former Google DeepMind and Meta researchers. They are not named.</li>
+<li>The model mixes languages inside a single sentence, which the account calls code-mixing, and uses contextual reasoning for pronunciation.</li>
+<li>Chariot is backed by the IndiaAI Mission, given as 10,372 crore rupees.</li>
+<li>Whether Chariot can challenge ElevenLabs and OpenAI is left open. No result against either company is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Astrome raises 64.05 crore rupees for AI electronic-intelligence satellites</title>
+      <link>https://www.youtube.com/watch?v=buyq3FTxEFk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=buyq3FTxEFk</guid>
+      <pubDate>Fri, 13 Nov 2026 13:00:22 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>buyq3FTxEFk</news:videoId>
+      <news:publishedIst>2026-11-13T18:30:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/buyq3FTxEFk/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Bengaluru-based Astrome Technologies has secured 64.05 crore rupees from the Technology Development Board to build what the account calls India's first sovereign, AI-powered electronic-intelligence satellite constellation. The 50-kilogram microsatellites are to operate in low Earth orbit, use links between satellites and AI software on the ground, and intercept and process electronic signals for persistent defense surveillance. No launch date and no number of satellites are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Astrome Technologies, based in Bengaluru, has secured 64.05 crore rupees from the Technology Development Board.</li>
+<li>The funding is for what the account calls India's first sovereign AI-powered electronic-intelligence satellite constellation.</li>
+<li>The microsatellites are described as 50 kilograms, operating in low Earth orbit.</li>
+<li>They are to use inter-satellite links and AI ground software to intercept and process electronic signals for persistent defense surveillance.</li>
+<li>No launch date and no satellite count are given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>CleanMax and Neysa plan a 2-gigawatt compute factory in Kurnool</title>
+      <link>https://www.youtube.com/watch?v=PuJ624y9OaA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PuJ624y9OaA</guid>
+      <pubDate>Fri, 13 Nov 2026 12:30:27 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>PuJ624y9OaA</news:videoId>
+      <news:publishedIst>2026-11-13T18:00:27+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/PuJ624y9OaA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>CleanMax and Blackstone-backed Neysa have partnered on a 2-gigawatt AI compute factory in Kurnool, Andhra Pradesh, at 8,000 crore rupees. The account calls electricity one of the biggest bottlenecks in AI. The 600-acre site is scheduled for completion in March 2028 and aims to power high-density GPUs on a net-zero renewable grid. The account says the factory could threaten hyperscale providers such as AWS and Azure. That is a possibility it raises, not a result.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>CleanMax and Blackstone-backed Neysa are partnering on an AI compute factory in Kurnool, Andhra Pradesh.</li>
+<li>The project is described as 8,000 crore rupees and 2 gigawatts, on 600 acres.</li>
+<li>Completion is scheduled for March 2028.</li>
+<li>The facility aims to power high-density GPUs on a net-zero renewable grid.</li>
+<li>A threat to AWS and Azure is raised as a possibility, not reported as an outcome.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>MIT index ranks India third in quantum research</title>
+      <link>https://www.youtube.com/watch?v=DfRR-r2OlBw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DfRR-r2OlBw</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:35 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>DfRR-r2OlBw</news:videoId>
+      <news:publishedIst>2026-11-13T17:30:35+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/DfRR-r2OlBw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The account says the National Quantum Mission is paying off. The MIT Quantum Index Report 2026 ranks India third in producing quantum computing and communications research, behind China and the United States. Quantum patent filings in India have nearly quadrupled in two years. Those two years are not dated, and no filing count is given. Whether Indian telecom and finance companies commercialise the work, or firms in Silicon Valley license it, is left open.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The National Quantum Mission is described as paying off.</li>
+<li>The MIT Quantum Index Report 2026 ranks India third in quantum computing and communications research, behind China and the United States.</li>
+<li>Quantum patent filings in India have nearly quadrupled in two years. The years and the filing count are not given.</li>
+<li>Whether Indian telecom and finance companies commercialise the work, or Silicon Valley licenses it, is left open.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Front Page lists Huang, an Andhra compute factory, and 400,000 humanoid robots</title>
+      <link>https://www.youtube.com/watch?v=2KE-0ZY0-Zo</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=2KE-0ZY0-Zo</guid>
+      <pubDate>Fri, 13 Nov 2026 10:07:08 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>2KE-0ZY0-Zo</news:videoId>
+      <news:publishedIst>2026-11-13T15:37:08+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/2KE-0ZY0-Zo/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The Front Page list names eight subjects: Jensen Huang stepping down amid a national-security and espionage probe; a California lawsuit by nonprofits to block OpenAI, Meta, and Google from frontier models; Google and Samsung's 395-dollar Gemini eyewear; JPMorgan's figure of 400,000 humanoid robots for US factories, with AI brain models from Google and Nvidia; India ranking third in quantum research volume as patent filings rise; a net-zero compute factory in Andhra Pradesh at 8,000 crore rupees from Blackstone-backed Neysa and CleanMax; Astrome's funding for a private AI orbital defence network; and Chariot, from former DeepMind researchers, code-mixing 11 Indian languages. The list does not name Anthropic, Kurnool, the 64.05 crore rupee figure, the alleged affair, or Howard Lutnick. What was said beyond this list is not established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The list says Jensen Huang steps down amid a national-security and espionage probe.</li>
+<li>It says nonprofits filed a California lawsuit to block OpenAI, Meta, and Google from frontier models. Anthropic is not in this list.</li>
+<li>It says Google and Samsung launched 395-dollar Gemini eyewear aimed at Meta.</li>
+<li>It says JPMorgan expects 400,000 humanoid robots in US factories, with AI brain models from Google and Nvidia.</li>
+<li>It says India ranks third in quantum research volume and that patent filings are rising.</li>
+<li>It says Neysa and CleanMax are building a net-zero factory in Andhra Pradesh at 8,000 crore rupees. Kurnool is not named here.</li>
+<li>It says Astrome has funding for a private AI orbital defence network. The 64.05 crore rupee figure is not in this list.</li>
+<li>It says former DeepMind researchers launched Chariot, a voice model that code-mixes 11 Indian languages.</li>
+</ul>
+      ]]></description>
+    </item>
 
     <item>
       <title>Hyderabad police prepare an AI station at Punjagutta to draft case papers</title>
