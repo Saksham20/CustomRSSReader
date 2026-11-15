@@ -13,11 +13,33 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 14 November 2026 edition, retrieved at 07:01 IST, covers JPMorgan's forecast of 400,000 humanoid robots in US factories, a California lawsuit to freeze frontier models, Google and Samsung's Intelligent Eyewear, a report that Jensen Huang has stepped down, Chariot's Indian-language voice model, Astrome's electronic-intelligence satellites, a 2-gigawatt compute factory in Kurnool, and India's third-place quantum research ranking.</description>
+    <description>News of relevance. The 15 November 2026 edition, retrieved at 07:02 IST, covers Kaynes Semicon's chip packaging plant in Sanand, ZenteiQ's offline Dhīr model, and a Point Break question about whether 45,000 subsidised GPUs still explain India's AI lag.</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Nov 2026 01:31:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Nov 2026 01:32:47 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
+
+    <news:edition date="2026-11-15">
+      <news:scannedAt>2026-11-15T01:32:47Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-15T07:02:47+05:30</news:scannedAtIst>
+      <news:longFormCount>3</news:longFormCount>
+      <news:shortCount>0</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="jbauM1N77rw" published="2026-11-14T12:00:23Z">Kaynes Semicon packages chips at a new Sanand plant</news:latestLongForm>
+      <news:method>Retrieved at 07:02 IST on 15 November 2026. The window is the 24 hours ending 01:32 UTC. Four uploads came back with titles, descriptions, and publication times. The spoken wording did not come back, so this edition uses those published accounts and does not add anything that would have required hearing them. One of the four was already in this file. The other three are here, newest first. All three run past the three-minute line used only to sort short items from longer ones.</news:method>
+      <news:briefing><![CDATA[
+Sunday 15 November 2026, retrieved at 07:02 IST. Kaynes Semicon has a semiconductor packaging plant in Sanand, Gujarat, described as one of the OSAT facilities approved under the India Semiconductor Mission. ZenteiQ's Dhīr is a small open-source model built to run offline in English and ten Indian languages. Point Break asks whether scaling the IndiaAI Mission to over 45,000 subsidised GPUs still leaves Indian AI startups short of research, funding, and talent.
+
+The morning's through-line: Kaynes Semicon is packaging chips in Sanand under the India Semiconductor Mission, ZenteiQ's Dhīr is built to run offline in English and ten Indian languages, and Point Break asks whether 45,000 subsidised GPUs still leave Indian startups short of research, funding, and talent.
+
+Kaynes in Sanand. Kaynes Semicon has a new semiconductor plant in Sanand, Gujarat, described as one of India's approved OSAT facilities under the India Semiconductor Mission. Sanjana Gupta tours the plant with Raghu Panicker, chief executive of Kaynes SemiCon. The account covers the change from barren land to a working unit, and the work inside the clean room. Chips are packaged and tested from wafer saw through final testing. The steps named are wafer mount, die attach, wire bonding, moulding, and testing. The special economic zone is described as speeding up customs clearance. The plant cleared around 35 licenses in eight months. Reliability and failure analysis are described as keeping chip quality near 100 percent. Panicker is not quoted. No production volume and no opening date are given.
+
+Dhīr offline. Dhīr is a small open-source language model from ZenteiQ that the account says runs entirely offline. The example is a phone in aeroplane mode asked a question in Odia. Familiar systems wait for a signal, and Dhīr is presented as working without one. It is built to support English and ten Indian languages, and it aims to put sovereign AI on local servers and mobile devices. The account says India has announced sovereign AI before, and that many of those announcements are still waiting for a first customer. Whether Dhīr is a working product or another theoretical launch inside the IndiaAI Mission, given as 10,371 crore rupees, is left open. Professor Sashikumaar Ganesan of the Indian Institute of Science, founder of ZenteiQ, is the person the account sits down with to test the claims. No finding from that conversation is given.
+
+The GPU question. Point Break host Antara Gupta asks whether a GPU shortage still explains India lagging in the global AI race. The account says hardware has been the usual excuse, and that the excuse is running out of time because the government has scaled the IndiaAI Mission to over 45,000 GPUs and is subsidising compute for startups. The title calls that 45,000 figure a myth and asks whether Indian AI startups are stuck in a subsidy trap. The question put to the guests is whether a lack of servers is being blamed for deeper problems in fundamental research, funding, and talent pipelines. The guests are Amit Sheth, chief executive of IAIRO; Vishnu Subramaniam, founder of Jarvislabs.ai; and Ramesh Pudhucode, tech advisor at Primerica. Their answers are not given.
+      ]]></news:briefing>
+    </news:edition>
 
     <news:edition date="2026-11-14">
       <news:scannedAt>2026-11-14T01:31:46Z</news:scannedAt>
@@ -164,6 +186,84 @@ Still in this file from the morning. The first eight shorts cover film teaching 
     </news:edition>
 
 
+
+    <item>
+      <title>Kaynes Semicon packages chips at a new Sanand plant</title>
+      <link>https://www.youtube.com/watch?v=jbauM1N77rw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=jbauM1N77rw</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:23 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>jbauM1N77rw</news:videoId>
+      <news:publishedIst>2026-11-14T17:30:23+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/jbauM1N77rw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Kaynes Semicon has a new semiconductor plant in Sanand, Gujarat, described as one of India's approved OSAT facilities under the India Semiconductor Mission. Sanjana Gupta tours the plant with Raghu Panicker, chief executive of Kaynes SemiCon. The account covers the change from barren land to a working unit, and the work inside the clean room. Chips are packaged and tested from wafer saw through final testing. The steps named are wafer mount, die attach, wire bonding, moulding, and testing. The special economic zone is described as speeding up customs clearance. The plant cleared around 35 licenses in eight months. Reliability and failure analysis are described as keeping chip quality near 100 percent. Panicker is not quoted. No production volume and no opening date are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Kaynes Semicon has a new semiconductor plant in Sanand, Gujarat.</li>
+<li>The plant is described as one of India's approved OSAT facilities under the India Semiconductor Mission.</li>
+<li>Sanjana Gupta tours the plant with Raghu Panicker, chief executive of Kaynes SemiCon.</li>
+<li>The account covers the change from barren land to a working unit and the work inside the clean room.</li>
+<li>Chips are packaged and tested from wafer saw through final testing.</li>
+<li>The steps named are wafer mount, die attach, wire bonding, moulding, and testing.</li>
+<li>The special economic zone is described as speeding up customs clearance.</li>
+<li>The plant cleared around 35 licenses in eight months.</li>
+<li>Reliability and failure analysis are described as keeping chip quality near 100 percent.</li>
+<li>Panicker is not quoted. No production volume and no opening date are given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Point Break asks if 45,000 GPUs still explain India's AI lag</title>
+      <link>https://www.youtube.com/watch?v=WOfqxXjc2ak</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WOfqxXjc2ak</guid>
+      <pubDate>Sat, 14 Nov 2026 07:30:17 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>WOfqxXjc2ak</news:videoId>
+      <news:publishedIst>2026-11-14T13:00:17+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/WOfqxXjc2ak/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Point Break host Antara Gupta asks whether a GPU shortage still explains India lagging in the global AI race. The account says hardware has been the usual excuse, and that the excuse is running out of time because the government has scaled the IndiaAI Mission to over 45,000 GPUs and is subsidising compute for startups. The title calls that 45,000 figure a myth and asks whether Indian AI startups are stuck in a subsidy trap. The question put to the guests is whether a lack of servers is being blamed for deeper problems in fundamental research, funding, and talent pipelines. The guests are Amit Sheth, chief executive of IAIRO; Vishnu Subramaniam, founder of Jarvislabs.ai; and Ramesh Pudhucode, tech advisor at Primerica. Their answers are not given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Antara Gupta hosts Point Break on whether a GPU shortage still explains India lagging in the global AI race.</li>
+<li>The account says the government has scaled the IndiaAI Mission to over 45,000 GPUs and is subsidising compute for startups.</li>
+<li>It says the hardware excuse is running out of time.</li>
+<li>The title calls the 45,000 figure a myth and asks whether Indian AI startups are stuck in a subsidy trap.</li>
+<li>The open question is whether a lack of servers is being blamed for deeper problems in fundamental research, funding, and talent pipelines.</li>
+<li>The guests are Amit Sheth, chief executive of IAIRO; Vishnu Subramaniam, founder of Jarvislabs.ai; and Ramesh Pudhucode, tech advisor at Primerica.</li>
+<li>Their answers are not given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>ZenteiQ's Dhīr is built to answer without an internet connection</title>
+      <link>https://www.youtube.com/watch?v=bh1k8G0qgIY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bh1k8G0qgIY</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:13 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>bh1k8G0qgIY</news:videoId>
+      <news:publishedIst>2026-11-14T11:00:13+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/bh1k8G0qgIY/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Dhīr is a small open-source language model from ZenteiQ that the account says runs entirely offline. The example is a phone in aeroplane mode asked a question in Odia. Familiar systems wait for a signal, and Dhīr is presented as working without one. It is built to support English and ten Indian languages, and it aims to put sovereign AI on local servers and mobile devices. The account says India has announced sovereign AI before, and that many of those announcements are still waiting for a first customer. Whether Dhīr is a working product or another theoretical launch inside the IndiaAI Mission, given as 10,371 crore rupees, is left open. Professor Sashikumaar Ganesan of the Indian Institute of Science, founder of ZenteiQ, is the person the account sits down with to test the claims. No finding from that conversation is given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Dhīr is a small open-source language model from ZenteiQ that the account says runs entirely offline.</li>
+<li>The example is a question in Odia asked on a phone in aeroplane mode.</li>
+<li>It is built to support English and ten Indian languages.</li>
+<li>It aims to put sovereign AI on local servers and mobile devices.</li>
+<li>The account says earlier Indian sovereign-AI announcements are still waiting for a first customer.</li>
+<li>Whether Dhīr is a working product or another theoretical launch inside the IndiaAI Mission, given as 10,371 crore rupees, is left open.</li>
+<li>Professor Sashikumaar Ganesan of the Indian Institute of Science, founder of ZenteiQ, is the guest. No finding from him is given.</li>
+</ul>
+      ]]></description>
+    </item>
 
     <item>
       <title>JPMorgan forecast puts 400,000 humanoid robots into US factories and logistics</title>
