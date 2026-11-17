@@ -13,11 +13,47 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 15 November 2026 edition, retrieved at 07:02 IST, covers Kaynes Semicon's chip packaging plant in Sanand, ZenteiQ's offline Dhīr model, and a Point Break question about whether 45,000 subsidised GPUs still explain India's AI lag.</description>
+    <description>News of relevance. The 17 November 2026 edition, retrieved at 07:03 IST, covers SpaceX catching Starship Ship 42, Jensen Huang's resignation with Colette Kress as interim Nvidia chief, and ReNew's 80,000 crore rupee commitment in Andhra Pradesh.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Nov 2026 01:32:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 01:33:43 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
+
+    <news:edition date="2026-11-17">
+      <news:scannedAt>2026-11-17T01:33:43Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-17T07:03:43+05:30</news:scannedAtIst>
+      <news:longFormCount>10</news:longFormCount>
+      <news:shortCount>4</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="q0Jadl9PIiI" published="2026-11-16T14:30:05Z">SpaceX catches Starship Ship 42 with tower arms after 14 orbits</news:latestLongForm>
+      <news:method>Retrieved at 07:03 IST on 17 November 2026. The window is the 24 hours ending 01:33 UTC. Twenty-one uploads came back with titles, descriptions, and publication times. Spoken wording did not come back, so this edition uses those published accounts and does not add anything that would have required hearing them. Seven uploads had no usable detail beyond a topic label and were left out. The other fourteen are here, newest first. Four are the shorter items and ten are longer reports, including two live briefings. One of those briefings had not started, so only its announced guest list is used.</news:method>
+      <news:briefing><![CDATA[
+Tuesday 17 November 2026, retrieved at 07:03 IST. SpaceX caught Starship Ship 42 with tower arms after 14 orbits and 22.5 hours. Jensen Huang has resigned from Nvidia after 33 years, and Colette Kress is interim chief executive while the board looks for a successor. ReNew has committed 80,000 crore rupees to Andhra Pradesh, including a 1 gigawatt green data center in Anakapalli, and a further 11,000 crore rupees is going into polysilicon and metallurgical silicon.
+
+The morning's through-line: SpaceX caught Starship Ship 42 after 14 orbits and 22.5 hours, Jensen Huang has resigned from Nvidia with Colette Kress as interim chief, and ReNew has committed 80,000 crore rupees to Andhra Pradesh, including a 1 gigawatt green data center.
+
+Ship 42. SpaceX recovered Starship Ship 42 with a precise mid-air catch by mechanical tower arms after the vehicle completed 14 orbits and 22.5 hours. The catch is a completed recovery and a milestone for the programme. Engineers are preparing to inspect the ship's heat shield for orbital wear. No inspection result is given. The recovery is a critical step toward rapid reusability. The upper stage was caught at Starbase.
+
+Huang resigns. Jensen Huang has resigned from Nvidia after 33 years. Colette Kress has stepped in as interim chief executive while the board searches for a permanent successor. The change is described as bringing immediate scrutiny of customer relationships and of Nvidia's stability. AMD revenue jumped 45 percent to 13.4 billion dollars. No period is given for that jump. Elon Musk is raising concerns about deal risks, and the deal is not named. There are reports that Google Tensor Processing Units may move to Oracle. Nobody is quoted.
+
+The summit. The Bengaluru Tech Summit 2026 is described as the 29th edition of Asia's largest integrated technology summit. It runs from 17 to 19 November at the Bangalore International Exhibition Centre under the theme AI and Beyond. The announced guests are D.K. Shivakumar, chief minister of Karnataka; Priyank Kharge, minister for home, information technology, biotechnology and e-governance; Kiran Mazumdar-Shaw, executive chairperson of Biocon and chairperson of the state's Vision Group on Biotechnology; Pratik Gandhi, actor, storyteller and theatre practitioner; and Puneet Chandok, president of Microsoft India and South Asia. No remarks from them were available at 07:03 IST.
+
+Adobe and Google. Adobe is adding Gemini to Acrobat and an edit option inside Google Drive. The partnership also connects Gmail and Google Drive with Adobe Acrobat, presented as a simpler way to handle documents for enterprise creative work. AI assistance can resize images through conversational commands, for people who manage social media assets. That resize feature is not identified as Gemini.
+
+ChatGPT Wallet. OpenAI is rolling out ChatGPT Wallet so users in the United States can pay with Visa, Mastercard, or American Express. The buyer reviews the seller, the purchase, the total, and the card, then approves with Face ID or a fingerprint. The payment network issues a token for checkout, so the real card details stay hidden from the agent and the seller, and are not exposed to the assistant. Approval is biometric. Approval and a completed order are separate steps.
+
+The lineup. ReNew Energy Global's 80,000 crore rupee investment in Andhra Pradesh is to build the state's clean energy supply chain. Karnataka's LEAP programme is to spread tech jobs beyond Bengaluru. QpiAI has inaugurated an Asia-scale Phase 2 quantum chip foundry in Bengaluru. Jio plans a 1,600-satellite constellation. ChatGPT Wallet lets agents complete purchases in the United States once the user approves. Adobe and Google are bringing their AI tools closer. Nvidia's leadership change opens a chip contest. SpaceX caught Starship's upper stage at Starbase. Nothing beyond those subjects is established.
+
+Jio's satellites. Jio is building a constellation of 1,600 satellites to connect 6 lakh villages and to move from leasing bandwidth to owning the orbital hardware. Partnerships with ISRO, SpaceX, and Skyroot are intended to support the launch. Technical and regulatory hurdles are still open. Rocket capacity is still a constraint, spectrum allocation is still pending, and those two issues are what the plan's ability to compete is said to depend on. No launch date is given.
+
+The foundry. QpiAI has inaugurated Phase 2 of a quantum chip foundry in India, placed in Bengaluru. The plant fabricates flip chip superconducting processors and is built around an advanced clean room described as one of the largest of its kind in Asia. QpiAI is already using it to manufacture its own processor lines. The company plans 10,000-qubit chips, and the foundry is a step toward building a 10,000-qubit quantum computer locally. Those chips are not described as already made. The foundry's work is the development of indigenous superconducting chips. The plant is also called Asia-scale.
+
+Kalaburagi. Karnataka wants Kalaburagi, also spelled Kalaburgi, to rise from 1.9 percent to 3 percent of state GDP as technology growth moves beyond Bengaluru. The roadmap includes proposed financial support for deep-tech founders and allocating 1 crore in funding for emerging startups outside the capital. Whether that 1 crore has been released is not stated. No job target is given.
+
+ReNew in Andhra. ReNew has committed 80,000 crore rupees to Andhra Pradesh. The money funds a 1 gigawatt green data center and advanced silicon manufacturing, aimed at the electricity demand tied to AI. The deployments are in Anakapalli and are tied to industrial scaling and workforce development there. No job count and no completion date are given. The same report looks at the semiconductor industry after recent executive leadership changes and does not name the executive or the company. Separately, ReNew is investing 11,000 crore rupees in polysilicon and metallurgical silicon plants. That spending adds to a 6.5 gigawatt ingot and wafer plant already under construction. The 11,000 crore figure is not described as a slice of the 80,000 crore commitment.
+      ]]></news:briefing>
+    </news:edition>
 
     <news:edition date="2026-11-15">
       <news:scannedAt>2026-11-15T01:32:47Z</news:scannedAt>
@@ -186,6 +222,330 @@ Still in this file from the morning. The first eight shorts cover film teaching 
     </news:edition>
 
 
+
+    <item>
+      <title>ChatGPT Wallet hides the card behind a token and asks for Face ID</title>
+      <link>https://www.youtube.com/watch?v=HZsLbmczpTI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=HZsLbmczpTI</guid>
+      <pubDate>Tue, 17 Nov 2026 01:30:21 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>HZsLbmczpTI</news:videoId>
+      <news:publishedIst>2026-11-17T07:00:21+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/HZsLbmczpTI/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>ChatGPT Wallet has the buyer review the seller, the purchase, the total, and the card, then approve with Face ID or a fingerprint. The payment network issues a token for checkout, so the real card details stay hidden from the agent and the seller. Approving a payment and completing an order are separate steps.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The buyer reviews the seller, the purchase, the total, and the card before paying.</li>
+<li>Approval uses Face ID or a fingerprint.</li>
+<li>The payment network issues a checkout token so the real card details stay hidden from the agent and the seller.</li>
+<li>Approval and a completed order are separate steps.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Jio plans a constellation of 1,600 satellites</title>
+      <link>https://www.youtube.com/watch?v=KiL-KEf0NtA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=KiL-KEf0NtA</guid>
+      <pubDate>Tue, 17 Nov 2026 01:00:12 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>KiL-KEf0NtA</news:videoId>
+      <news:publishedIst>2026-11-17T06:30:12+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/KiL-KEf0NtA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Jio is planning a constellation of 1,600 satellites to connect India.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Jio is planning a constellation of 1,600 satellites.</li>
+<li>The constellation is to connect India.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>QpiAI's foundry is already making its own quantum processors</title>
+      <link>https://www.youtube.com/watch?v=oiKXs8Ike60</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=oiKXs8Ike60</guid>
+      <pubDate>Tue, 17 Nov 2026 00:30:00 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>oiKXs8Ike60</news:videoId>
+      <news:publishedIst>2026-11-17T06:00:00+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/oiKXs8Ike60/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>QpiAI's new foundry is a fabrication plant for flip chip superconducting quantum processors. It is built around an advanced clean room described as one of the largest of its kind in Asia. QpiAI is already using the foundry to manufacture its own processor lines.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>QpiAI's new foundry fabricates flip chip superconducting quantum processors.</li>
+<li>The clean room is described as one of the largest of its kind in Asia.</li>
+<li>QpiAI is already manufacturing its own processor lines there.</li>
+<li>No city is named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>ReNew puts 11,000 crore rupees into polysilicon plants</title>
+      <link>https://www.youtube.com/watch?v=qCD2unPMWs0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qCD2unPMWs0</guid>
+      <pubDate>Tue, 17 Nov 2026 00:00:13 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>qCD2unPMWs0</news:videoId>
+      <news:publishedIst>2026-11-17T05:30:13+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/qCD2unPMWs0/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>ReNew is investing 11,000 crore rupees in polysilicon and metallurgical silicon manufacturing so it can own more of its supply chain. The spending adds to a 6.5 gigawatt ingot and wafer plant that is under construction.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>ReNew is investing 11,000 crore rupees in polysilicon and metallurgical silicon plants.</li>
+<li>The investment is to own more of the supply chain.</li>
+<li>It adds to a 6.5 gigawatt ingot and wafer plant already under construction.</li>
+<li>No state or city is named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>SpaceX catches Starship Ship 42 with tower arms after 14 orbits</title>
+      <link>https://www.youtube.com/watch?v=q0Jadl9PIiI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=q0Jadl9PIiI</guid>
+      <pubDate>Mon, 16 Nov 2026 14:30:05 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>q0Jadl9PIiI</news:videoId>
+      <news:publishedIst>2026-11-16T20:00:05+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/q0Jadl9PIiI/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>SpaceX recovered Starship Ship 42 with a precise mid-air catch by mechanical tower arms after the vehicle completed 14 orbits and 22.5 hours. Engineers are preparing to inspect the ship's heat shield for orbital wear. No inspection result is given. The catch is described as a critical step toward rapid reusability.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>SpaceX caught Starship Ship 42 in mid-air with mechanical tower arms.</li>
+<li>The vehicle had completed 14 orbits and 22.5 hours.</li>
+<li>Engineers are preparing to inspect the heat shield for orbital wear. No result is given.</li>
+<li>The catch is described as a critical step toward rapid reusability.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Jensen Huang resigns from Nvidia and Colette Kress steps in as interim chief</title>
+      <link>https://www.youtube.com/watch?v=giaY6hZK8wc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=giaY6hZK8wc</guid>
+      <pubDate>Mon, 16 Nov 2026 14:00:23 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>giaY6hZK8wc</news:videoId>
+      <news:publishedIst>2026-11-16T19:30:23+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/giaY6hZK8wc/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Jensen Huang has resigned from Nvidia after 33 years. Colette Kress has stepped in as interim chief executive while the board searches for a permanent successor. The change is described as bringing immediate scrutiny of customer relationships and of Nvidia's stability. AMD revenue jumped 45 percent to 13.4 billion dollars, and no period is given for that jump. Elon Musk is raising concerns about deal risks. The deal is not named. There are reports that Google Tensor Processing Units may move to Oracle. Nobody is quoted.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Jensen Huang has resigned from Nvidia after 33 years.</li>
+<li>Colette Kress is interim chief executive while the board searches for a permanent successor.</li>
+<li>The change is described as bringing scrutiny of customer relationships and of Nvidia's stability.</li>
+<li>AMD revenue jumped 45 percent to 13.4 billion dollars. No period is given.</li>
+<li>Elon Musk is raising concerns about deal risks. The deal is not named.</li>
+<li>There are reports that Google Tensor Processing Units may move to Oracle.</li>
+<li>Nobody is quoted.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Bengaluru Tech Summit 2026 lists its guests for 17 to 19 November</title>
+      <link>https://www.youtube.com/watch?v=Xhx7WSvMOdc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Xhx7WSvMOdc</guid>
+      <pubDate>Mon, 16 Nov 2026 13:05:22 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>Xhx7WSvMOdc</news:videoId>
+      <news:publishedIst>2026-11-16T18:35:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/Xhx7WSvMOdc/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The Bengaluru Tech Summit 2026 is described as the 29th edition of Asia's largest integrated technology summit. It runs from 17 to 19 November at the Bangalore International Exhibition Centre under the theme AI and Beyond. The announced guests are D.K. Shivakumar, chief minister of Karnataka; Priyank Kharge, minister for home, information technology, biotechnology and e-governance; Kiran Mazumdar-Shaw, executive chairperson of Biocon and chairperson of Karnataka's Vision Group on Biotechnology; Pratik Gandhi, actor, storyteller and theatre practitioner; and Puneet Chandok, president of Microsoft India and South Asia. No remarks from them were available at 07:03 IST.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The summit is described as the 29th edition of Asia's largest integrated technology summit.</li>
+<li>It runs from 17 to 19 November at the Bangalore International Exhibition Centre.</li>
+<li>The theme is AI and Beyond.</li>
+<li>The announced guests are D.K. Shivakumar, Priyank Kharge, Kiran Mazumdar-Shaw, Pratik Gandhi, and Puneet Chandok.</li>
+<li>No remarks from the guests were available at 07:03 IST.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Adobe adds Gemini to Acrobat and an edit option in Google Drive</title>
+      <link>https://www.youtube.com/watch?v=nUC09UnNZrM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=nUC09UnNZrM</guid>
+      <pubDate>Mon, 16 Nov 2026 13:00:17 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>nUC09UnNZrM</news:videoId>
+      <news:publishedIst>2026-11-16T18:30:17+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/nUC09UnNZrM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Adobe is adding Gemini to Acrobat and an edit option inside Google Drive. The partnership also connects Gmail and Google Drive with Adobe Acrobat, presented as a simpler way to handle documents and as support for enterprise creative work. AI assistance can resize images through conversational commands, for people who manage social media assets. That resize feature is not identified as Gemini.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Adobe is adding Gemini to Acrobat.</li>
+<li>Adobe is putting an edit option inside Google Drive.</li>
+<li>Gmail and Google Drive are being connected with Adobe Acrobat.</li>
+<li>The integrations are presented as improving PDF editing, image management, and document handling.</li>
+<li>AI assistance can resize images through conversational commands.</li>
+<li>The resize feature is not identified as Gemini.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>OpenAI rolls out ChatGPT Wallet with Visa, Mastercard and American Express</title>
+      <link>https://www.youtube.com/watch?v=-Ts5hEsUgcQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=-Ts5hEsUgcQ</guid>
+      <pubDate>Mon, 16 Nov 2026 12:30:01 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>-Ts5hEsUgcQ</news:videoId>
+      <news:publishedIst>2026-11-16T18:00:01+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/-Ts5hEsUgcQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>OpenAI is rolling out ChatGPT Wallet so the assistant can take payments. Users in the United States can authorize transactions. The wallet works with Visa, Mastercard, and American Express for direct purchases. Approval is biometric, and the actual card details are not exposed to the assistant.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>OpenAI is rolling out ChatGPT Wallet for AI-led payments.</li>
+<li>Users in the United States can authorize transactions.</li>
+<li>The wallet works with Visa, Mastercard, and American Express.</li>
+<li>Approval is biometric, and card details are not exposed to the assistant.</li>
+<li>No launch date beyond the rollout itself is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Front Page lists ReNew's 80,000 crore rupee Andhra bet and seven other subjects</title>
+      <link>https://www.youtube.com/watch?v=q0siOi5EOdw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=q0siOi5EOdw</guid>
+      <pubDate>Mon, 16 Nov 2026 12:02:32 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>q0siOi5EOdw</news:videoId>
+      <news:publishedIst>2026-11-16T17:32:32+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/q0siOi5EOdw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>ReNew Energy Global is investing 80,000 crore rupees in Andhra Pradesh to build the state's clean energy supply chain. The same briefing covers Karnataka's LEAP programme to spread tech jobs beyond Bengaluru, QpiAI's Asia-scale Phase 2 quantum chip foundry in Bengaluru, Jio's planned 1,600-satellite constellation, ChatGPT Wallet letting agents complete purchases in the United States with the user's approval, Adobe and Google bringing their AI tools closer, Nvidia's leadership change and the chip contest it opens, and SpaceX catching Starship's upper stage at Starbase. Nothing beyond those subjects is established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>ReNew Energy Global is investing 80,000 crore rupees in Andhra Pradesh for the state's clean energy supply chain.</li>
+<li>Karnataka's LEAP programme is to spread tech jobs beyond Bengaluru.</li>
+<li>QpiAI has inaugurated an Asia-scale Phase 2 quantum chip foundry in Bengaluru.</li>
+<li>Jio plans a 1,600-satellite constellation.</li>
+<li>ChatGPT Wallet lets agents complete purchases in the United States once the user approves.</li>
+<li>Adobe and Google are bringing their AI tools closer.</li>
+<li>Nvidia's leadership change opens a chip contest.</li>
+<li>SpaceX caught Starship's upper stage at Starbase.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Jio proposes 1,600 satellites to connect 6 lakh villages</title>
+      <link>https://www.youtube.com/watch?v=I97AEcKFJss</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=I97AEcKFJss</guid>
+      <pubDate>Mon, 16 Nov 2026 12:00:30 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>I97AEcKFJss</news:videoId>
+      <news:publishedIst>2026-11-16T17:30:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/I97AEcKFJss/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Jio is building a constellation of 1,600 satellites to connect 6 lakh villages and to move from leasing bandwidth to owning the orbital hardware. Partnerships with ISRO, SpaceX, and Skyroot are intended to support the launch. Technical and regulatory hurdles are still open. Rocket capacity is still a constraint, spectrum allocation is still pending, and those two issues are what the plan's ability to compete is said to depend on. No launch date is given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Jio proposes 1,600 satellites to connect 6 lakh villages and own its network.</li>
+<li>The constellation is a shift from leasing bandwidth to owning orbital hardware.</li>
+<li>Partnerships with ISRO, SpaceX, and Skyroot are intended to support the launch.</li>
+<li>Technical and regulatory hurdles remain open.</li>
+<li>Rocket capacity is unsolved, and spectrum allocation is pending.</li>
+<li>No launch date is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>QpiAI opens Phase 2 of its quantum chip foundry in India</title>
+      <link>https://www.youtube.com/watch?v=GKPaz5axR3o</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=GKPaz5axR3o</guid>
+      <pubDate>Mon, 16 Nov 2026 11:30:22 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>GKPaz5axR3o</news:videoId>
+      <news:publishedIst>2026-11-16T17:00:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/GKPaz5axR3o/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>QpiAI has inaugurated Phase 2 of its quantum chip foundry in India to scale manufacturing of indigenous quantum hardware. The company plans 10,000-qubit chips, and the foundry is a step toward building a 10,000-qubit quantum computer locally. Those chips are not described as already made. The foundry is dedicated to developing indigenous superconducting chips. No city is named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>QpiAI inaugurated Phase 2 of its quantum chip foundry in India.</li>
+<li>The foundry is to scale indigenous quantum hardware manufacturing.</li>
+<li>QpiAI plans 10,000-qubit chips. They are not described as already made.</li>
+<li>The foundry is a step toward a 10,000-qubit quantum computer built locally.</li>
+<li>The work is development of indigenous superconducting chips.</li>
+<li>No city is named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Karnataka wants Kalaburagi to rise from 1.9 percent to 3 percent of state GDP</title>
+      <link>https://www.youtube.com/watch?v=K-6pNaf2UvM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=K-6pNaf2UvM</guid>
+      <pubDate>Mon, 16 Nov 2026 11:00:26 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>K-6pNaf2UvM</news:videoId>
+      <news:publishedIst>2026-11-16T16:30:26+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/K-6pNaf2UvM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Karnataka wants Kalaburagi, also spelled Kalaburgi, to rise from 1.9 percent to 3 percent of state GDP as technology growth moves beyond Bengaluru. The roadmap includes proposed financial support for deep-tech founders and allocating 1 crore in funding for emerging startups outside the capital. Whether that 1 crore has been released is not stated. No job target is given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Karnataka wants Kalaburagi to grow from 1.9 percent to 3 percent of state GDP.</li>
+<li>The place is also spelled Kalaburgi.</li>
+<li>The shift is technology growth and jobs beyond Bengaluru.</li>
+<li>The roadmap includes proposed financial support for deep-tech founders.</li>
+<li>It includes allocating 1 crore in funding for emerging startups. Release of that money is not stated.</li>
+<li>No job target is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>ReNew commits 80,000 crore rupees to Andhra Pradesh and a 1 gigawatt data center</title>
+      <link>https://www.youtube.com/watch?v=EyJPBq0lODk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=EyJPBq0lODk</guid>
+      <pubDate>Mon, 16 Nov 2026 10:38:10 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>EyJPBq0lODk</news:videoId>
+      <news:publishedIst>2026-11-16T16:08:10+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/EyJPBq0lODk/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>ReNew has committed 80,000 crore rupees to Andhra Pradesh. The money funds a 1 gigawatt green data center and advanced silicon manufacturing, aimed at electricity demand tied to AI. The deployments are in Anakapalli and are tied to industrial scaling and workforce development there. No job count and no completion date are given. It also looks at the semiconductor industry after recent executive leadership changes, without naming the executive or the company.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>ReNew has committed 80,000 crore rupees to Andhra Pradesh.</li>
+<li>The commitment funds a 1 gigawatt green data center and advanced silicon manufacturing.</li>
+<li>The deployments are in Anakapalli.</li>
+<li>They are tied to industrial scaling and workforce development. No job count or completion date is given.</li>
+<li>Semiconductor implications after recent executive changes are examined. The executive and the company are not named.</li>
+</ul>
+      ]]></description>
+    </item>
 
     <item>
       <title>Kaynes Semicon packages chips at a new Sanand plant</title>
