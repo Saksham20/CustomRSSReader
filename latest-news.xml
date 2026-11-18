@@ -13,11 +13,39 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 17 November 2026 edition, retrieved at 07:03 IST, covers SpaceX catching Starship Ship 42, Jensen Huang's resignation with Colette Kress as interim Nvidia chief, and ReNew's 80,000 crore rupee commitment in Andhra Pradesh.</description>
+    <description>News of relevance. The 18 November 2026 edition, retrieved at 07:02 IST, covers Sarvam's Token Factory at 10 rupees per million input tokens, the Bengaluru Tech Summit passing 10,000 registrations, and US licenses for AI chip exports to five countries.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Nov 2026 01:33:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 01:32:22 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
+
+    <news:edition date="2026-11-18">
+      <news:scannedAt>2026-11-18T01:32:22Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-18T07:02:22+05:30</news:scannedAtIst>
+      <news:longFormCount>12</news:longFormCount>
+      <news:shortCount>4</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="JiNhZ6PxWwk" published="2026-11-17T15:30:21Z">Bolna went from five Y Combinator rejections to millions of voice calls a day</news:latestLongForm>
+      <news:method>Retrieved at 07:02 IST on 18 November 2026. The window is the 24 hours ending 01:32 UTC. Eighteen uploads came back with titles, descriptions, and publication times. Spoken wording came back for one item, on the Bengaluru Tech Summit registrations, and uncertain spellings in that wording are kept. The other spoken tracks did not come back, so those items stay with the published title and description. Two uploads were already in this file. Sixteen are here, newest first. Four are the shorter items and twelve are longer reports, including one live briefing.</news:method>
+      <news:briefing><![CDATA[
+Wednesday 18 November 2026, retrieved at 07:02 IST. Sarvam says its 105-billion-parameter model now returns 330 tokens a second for a single user, at an introductory 10 rupees per million input tokens. Bengaluru Tech Summit registrations have crossed 10,000, with 140 knowledge sessions planned. The United States is requiring licenses for AI chip exports to five countries.
+
+The morning's through-line: Sarvam is pricing Token Factory at 10 rupees per million input tokens and reporting 330 tokens a second on its 105-billion-parameter model, the Bengaluru Tech Summit has passed 10,000 registrations, and the United States is requiring AI chip export licenses for five countries.
+
+Sarvam's speed. Sarvam reports a 2.86-times throughput increase on its own 105-billion-parameter model, to 330 tokens a second for a single user, after custom kernels and a three-tier cache. The introductory price is 10 rupees per million input tokens. The company says the cache hits 95.7 percent across more than 450 billion tokens a day. The headline names this Token Factory. A separate report launches Token Factory with the Sarvam 105B model for enterprise inference, and says on-premise deployment is available for organisations that need local data control. Its headline price is 10 rupees per million input tokens. Its body says input pricing starts at 10 rupees and does not repeat "per million". It calls the 95.7 percent figure a DeepSeek cache hit rate, not a prompt-cache rate, and it does not give the 330-token speed, the 2.86-times gain, or the 450 billion tokens a day.
+
+The summit. Delegate registrations have crossed 10,000, with 140 knowledge sessions planned. An India-US tech conclave is set for 18 November. AI hackathons on physical AI, agriculture, and healthcare carry a combined prize pool of 15 lakh rupees, plus another 15 lakh rupees in AI credits. A Future Makers Conclave on 19 November brings founders and investors together around deep tech. Karnataka's IT and biotechnology minister is named as Priyanker. Further wording puts semiconductor manufacturing, hardware sovereignty, and openings for Indian component suppliers on the agenda, and says the 18 November conclave will discuss quantum collaboration, critical minerals, pack silica, and cyber security. Software Technology Parks of India is sponsoring exhibition space for around 100 startups in IT, IT-enabled services, and electronics. Hackathon winners can also receive a residency given as bhatwan.ai. The spellings Priyanker, pack silica, and bhatwan.ai are uncertain. A second report's headline puts the summit at 140 sessions and a 50,000 square foot robot pavilion. Its body says more than 10,000 registered delegates are looking at chips and edge AI, and that Karnataka has tech growth targets and Kalaburagi a rising economic contribution, with no figures for either. Venue coverage describes the 29th edition at the Bangalore International Exhibition Centre as India's biggest tech event. AIM is a media partner. Antara Gupta is in the studio and Sudhi Sachdev, principal anchor, is at the venue. The scale given there is more than 10,000 delegates, more than 1,500 exhibitors, more than 700 speakers, and 65 countries. Karnataka's AI university is a plan. Also named, without conclusions, are a government AI rollout, a deep tech fund, a quantum centre, letters of intent still to be tracked, robot dogs and humanoids, Microsoft's Shiksha Copilot for teachers, healthcare, voice AI in Indian languages, assistive technology, and government sandboxes.
+
+CtrlS. CtrlS has signed a letter of intent for a 150 MW AI facility, with a proposed investment of 10,000 crore rupees. That project is not built. Separately, the Patna data center opened in October. The company puts it at 400 crore rupees and 12 MW of IT load, with room to expand. A different report says CtrlS is scaling toward 4.4 gigawatts of capacity by 2030 and plans more than 20 new edge facilities, with Bihar as a hub after the Patna launch. That report's headline says 20 more edge centers and puts the Patna site at 400 crore rupees. No opening date is given for the next sites. The 150 MW letter, the 10,000 crore proposal, and the 12 MW load are not in that report.
+
+Chips and models. The United States is requiring licenses for AI chip exports to five countries, to close a loophole Chinese firms have used to reach advanced hardware. The five countries are not named. Restrictions on remote data-center access are being tightened for national security. No market move is stated. India has joined the San Francisco Declaration, described as a US-led effort, alongside ten other nations. The partnership is aimed at the supply of chips, manufacturing equipment, and energy networks. Five working groups cover innovation policy, AI adoption, and supply chain security. The wording for those groups is Paxilica, and the other countries are not named. A briefing list instead says a declaration with nine partner countries. That is a different count. SK Hynix is putting 1.4 trillion won into its supply chain and a new cleanroom, and aims to cover 50 percent of costs for local suppliers over the next five years, around the Trinity Fab site in Yongin. The headline says the money will build the Trinity Fab. No budget split and no completion date are given. Alibaba has launched Qwen4-Max for enterprise workloads. The headline spells it Qwen 4 Max, puts it at 2.4 trillion parameters, and says task cost is down 62 percent. The body states a 35 percent reduction in token use and a 62 percent decrease in API task costs, and describes cybersecurity safeguards for enterprise use. The 2.4 trillion figure is not repeated in the body.
+
+The conversations. Sudhi Sachdev speaks with Bolna founders Maitreya Wagh and Prateek Sachan about voice agents for India, from multilingual calls to banks and enterprises. Bolna went from five Y Combinator rejections and a pivot to handling millions of voice calls a day. The headline says 1.3 million-plus daily calls. The Symphony Summit is on 20 November. How the company chooses speech, language, and voice models, why Assamese and Odia still lag, and what banks require are subjects of the conversation. What the founders concluded is not established. Sthanika AI is launching in Hyderabad. Sudhi Sachdev speaks with Sridhar Muppidi, co-founder of PurpleTalk Inc., about why the Hyderabad lab built a decision model and how many agent tasks need a large language model. The headline calls it India's Sieve Decision Model. That name is not used in the body. No cost saving is given. The Bharat EduAI Stack is presented with a new Bodhan AI Centre of Excellence at IIT Madras, and with AI moving into government schools. Anoop of Bodhan AI, who spent more than eight years at Microsoft, is building sovereign open-weight models for Indian languages: Indic-Transcribe, Indic-Speak, Indic-OCR, and Indic-Translate. Nandan Nilekani's proposal is to generate NTA question papers on the day of the exam to prevent leaks. It is a proposal. Who will govern the stack, and how schools deploy it without large hardware budgets, is asked and not answered. AI tutors for classes 6 to 12, and AI as a co-pilot for teachers, are subjects, not measured results. SpaceX caught the Starship upper stage with tower arms after about 22.5 hours in flight. The headline says the catch was midair and came after 22.5 hours in orbit.
+
+The list. The briefing names seven subjects: physical AI at the Bengaluru Tech Summit, with robotics demonstrations and startup competitions; CtrlS targeting 4.4 gigawatts by 2030; India's declaration with nine partner countries on AI supply chains; Sarvam's Token Factory; SK Hynix investing 1.4 trillion won in its chip suppliers; Alibaba's Qwen4-Max; and a US rule requiring export licences for advanced AI chips to five nations. The 150 MW letter of intent, the Patna megawatts, the 330-token rate, and the "ten other nations" wording are not on that list. Nothing beyond the list is established.
+      ]]></news:briefing>
+    </news:edition>
 
     <news:edition date="2026-11-17">
       <news:scannedAt>2026-11-17T01:33:43Z</news:scannedAt>
@@ -222,6 +250,380 @@ Still in this file from the morning. The first eight shorts cover film teaching 
     </news:edition>
 
 
+
+    <item>
+      <title>Sarvam says its 105B model now serves 330 tokens a second</title>
+      <link>https://www.youtube.com/watch?v=jXbl27-Thrc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=jXbl27-Thrc</guid>
+      <pubDate>Wed, 18 Nov 2026 01:30:23 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>jXbl27-Thrc</news:videoId>
+      <news:publishedIst>2026-11-18T07:00:23+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/jXbl27-Thrc/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Sarvam reports a 2.86-times throughput increase on its own 105-billion-parameter model, to 330 tokens a second for a single user, after custom kernels and a three-tier cache. The introductory price is 10 rupees per million input tokens. The company says the cache hits 95.7 percent across more than 450 billion tokens a day. The headline names this Token Factory.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Sarvam reports a 2.86-times throughput increase on its own 105-billion-parameter model.</li>
+<li>A single user is reported at 330 tokens a second.</li>
+<li>The gain is attributed to custom kernels and a three-tier cache.</li>
+<li>The introductory price is 10 rupees per million input tokens.</li>
+<li>Sarvam says the cache hits 95.7 percent across more than 450 billion tokens a day.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Bengaluru Tech Summit registrations cross 10,000</title>
+      <link>https://www.youtube.com/watch?v=_vtRNSkrzXM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=_vtRNSkrzXM</guid>
+      <pubDate>Wed, 18 Nov 2026 01:00:11 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>_vtRNSkrzXM</news:videoId>
+      <news:publishedIst>2026-11-18T06:30:11+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/_vtRNSkrzXM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Delegate registrations for the Bengaluru Tech Summit have crossed 10,000, with 140 knowledge sessions planned. An India-US tech conclave is set for 18 November, and a Future Makers Conclave on 19 November brings founders and investors together around deep tech. AI hackathons on physical AI, agriculture, and healthcare carry 15 lakh rupees in prizes plus another 15 lakh rupees in AI credits. Karnataka's IT and biotechnology minister is named as Priyanker. Further wording adds semiconductor manufacturing, hardware sovereignty, pack silica, cyber security, exhibition space for around 100 startups from Software Technology Parks of India, and a residency given as bhatwan.ai. Those spellings are uncertain.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Registrations have crossed 10,000, with 140 knowledge sessions planned.</li>
+<li>An India-US tech conclave is set for 18 November.</li>
+<li>The conclave wording includes quantum collaboration, critical minerals, pack silica, and cyber security. Pack silica is an uncertain spelling.</li>
+<li>Hackathons cover physical AI, agriculture, and healthcare, with 15 lakh rupees in prizes and another 15 lakh rupees in AI credits.</li>
+<li>A Future Makers Conclave is set for 19 November.</li>
+<li>The minister is named as Priyanker. That spelling is uncertain.</li>
+<li>Software Technology Parks of India is sponsoring space for around 100 startups.</li>
+<li>Winners can also receive a residency given as bhatwan.ai. That spelling is uncertain.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>CtrlS signs for a 150 MW AI facility that is not built yet</title>
+      <link>https://www.youtube.com/watch?v=1ku59p2sPA4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=1ku59p2sPA4</guid>
+      <pubDate>Wed, 18 Nov 2026 00:30:20 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>1ku59p2sPA4</news:videoId>
+      <news:publishedIst>2026-11-18T06:00:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/1ku59p2sPA4/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>CtrlS has signed a letter of intent for a 150 MW AI facility, with a proposed investment of 10,000 crore rupees. That project is not built. The Patna data center opened in October. The company puts it at 400 crore rupees and 12 MW of IT load, with room to expand.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>CtrlS has signed a letter of intent for a 150 MW AI facility.</li>
+<li>The proposed investment is 10,000 crore rupees.</li>
+<li>The 150 MW project is not built.</li>
+<li>The Patna data center opened in October and is already operating.</li>
+<li>The company puts Patna at 400 crore rupees and 12 MW of IT load, with room to expand.</li>
+<li>No city is named for the 150 MW project.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Bolna went from five Y Combinator rejections to millions of voice calls a day</title>
+      <link>https://www.youtube.com/watch?v=JiNhZ6PxWwk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=JiNhZ6PxWwk</guid>
+      <pubDate>Tue, 17 Nov 2026 15:30:21 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>JiNhZ6PxWwk</news:videoId>
+      <news:publishedIst>2026-11-17T21:00:21+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/JiNhZ6PxWwk/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Sudhi Sachdev speaks with Bolna founders Maitreya Wagh and Prateek Sachan about voice agents for India, from multilingual calls to banks and enterprises. Bolna went from five Y Combinator rejections and a pivot to handling millions of voice calls a day. The headline says 1.3 million-plus daily calls. The Symphony Summit is on 20 November. What the founders concluded is not established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Sudhi Sachdev speaks with Maitreya Wagh and Prateek Sachan, founders of Bolna.</li>
+<li>The company went from five Y Combinator rejections and a pivot to millions of voice calls a day.</li>
+<li>The headline figure is 1.3 million-plus daily calls. The body says millions a day.</li>
+<li>The Symphony Summit is on 20 November.</li>
+<li>Model choice, Assamese and Odia, banks, and forward deployed engineers are subjects. No conclusion is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>US export licenses for AI chips now cover five countries</title>
+      <link>https://www.youtube.com/watch?v=JHuZObvmZQQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=JHuZObvmZQQ</guid>
+      <pubDate>Tue, 17 Nov 2026 14:30:29 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>JHuZObvmZQQ</news:videoId>
+      <news:publishedIst>2026-11-17T20:00:29+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/JHuZObvmZQQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The United States is requiring licenses for AI chip exports to five countries, to close a loophole Chinese firms have used to reach advanced hardware. The five countries are not named. Restrictions on remote data-center access are being tightened for national security. No market move is stated.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The United States is requiring licenses for AI chip exports to five countries.</li>
+<li>The countries are not named.</li>
+<li>The rules are described as closing a loophole used by Chinese firms to reach advanced hardware.</li>
+<li>Remote data-center access is being tightened for national security.</li>
+<li>No index move and no company result are stated.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Bengaluru Tech Summit coverage puts the scale above 10,000 delegates</title>
+      <link>https://www.youtube.com/watch?v=QBwoOW-YoW8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=QBwoOW-YoW8</guid>
+      <pubDate>Tue, 17 Nov 2026 14:30:09 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>QBwoOW-YoW8</news:videoId>
+      <news:publishedIst>2026-11-17T20:00:09+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/QBwoOW-YoW8/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The 29th Bengaluru Tech Summit is at the Bangalore International Exhibition Centre and is described as India's biggest tech event. AIM is a media partner. Antara Gupta is in the studio and Sudhi Sachdev, principal anchor, is at the venue. The scale given is more than 10,000 delegates, more than 1,500 exhibitors, more than 700 speakers, and 65 countries. Karnataka's AI university is a plan. Robot dogs, a deep tech fund, a quantum centre, Microsoft's Shiksha Copilot, and government sandboxes are subjects. No session outcome is given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The 29th edition is at the Bangalore International Exhibition Centre.</li>
+<li>AIM is a media partner. Antara Gupta is in the studio and Sudhi Sachdev is at the venue.</li>
+<li>The scale given is more than 10,000 delegates, more than 1,500 exhibitors, more than 700 speakers, and 65 countries.</li>
+<li>Karnataka's AI university is described as a plan.</li>
+<li>Named subjects include robot dogs and humanoids, a deep tech fund, a quantum centre, letters of intent still to be tracked, Microsoft's Shiksha Copilot, voice AI in Indian languages, assistive technology, and government sandboxes.</li>
+<li>No conclusion from those sessions is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>SK Hynix puts 1.4 trillion won into suppliers and a Yongin cleanroom</title>
+      <link>https://www.youtube.com/watch?v=vxCycfGu9Gc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vxCycfGu9Gc</guid>
+      <pubDate>Tue, 17 Nov 2026 14:00:25 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>vxCycfGu9Gc</news:videoId>
+      <news:publishedIst>2026-11-17T19:30:25+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/vxCycfGu9Gc/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>SK Hynix is investing 1.4 trillion won to support its supply chain and build a new cleanroom, aiming to cover 50 percent of costs for local suppliers over five years around the Trinity Fab site in Yongin. The headline says the money will build the Trinity Fab. No budget split and no completion date are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>SK Hynix is investing 1.4 trillion won in its supply chain and a new cleanroom.</li>
+<li>The plan assists local suppliers over five years and aims to cover 50 percent of total costs.</li>
+<li>The site named is the Trinity Fab in Yongin.</li>
+<li>The headline says the money will build the Trinity Fab. The body describes a cleanroom and the surrounding ecosystem.</li>
+<li>No budget split and no completion date are given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Alibaba launches Qwen4-Max and cuts API task costs 62 percent</title>
+      <link>https://www.youtube.com/watch?v=YI8of9rSlKg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=YI8of9rSlKg</guid>
+      <pubDate>Tue, 17 Nov 2026 13:00:20 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>YI8of9rSlKg</news:videoId>
+      <news:publishedIst>2026-11-17T18:30:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/YI8of9rSlKg/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Alibaba has launched Qwen4-Max for enterprise workloads. The headline spells it Qwen 4 Max, puts it at 2.4 trillion parameters, and says task cost is down 62 percent. The body states a 35 percent reduction in token use and a 62 percent decrease in API task costs, and describes cybersecurity safeguards for enterprise use. The 2.4 trillion figure is not repeated in the body.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Alibaba has launched Qwen4-Max. The headline spelling is Qwen 4 Max.</li>
+<li>The headline puts the model at 2.4 trillion parameters. That count is not in the body.</li>
+<li>Token use is reported down 35 percent.</li>
+<li>API task costs are reported down 62 percent.</li>
+<li>Cybersecurity safeguards for enterprise use are described. No benchmark score is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Front Page lists physical AI, a 4.4 GW CtrlS target, and chip controls</title>
+      <link>https://www.youtube.com/watch?v=M7JWlRumH6s</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=M7JWlRumH6s</guid>
+      <pubDate>Tue, 17 Nov 2026 12:32:53 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>M7JWlRumH6s</news:videoId>
+      <news:publishedIst>2026-11-17T18:02:53+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/M7JWlRumH6s/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Karnataka is putting physical AI at the centre of Bengaluru Tech Summit 2026, with robotics demonstrations, startup competitions, and talks on the infrastructure behind India's technology plans. The list also names CtrlS at 4.4 gigawatts by 2030, a declaration with nine partner countries on AI supply chains, Sarvam's Token Factory, SK Hynix at 1.4 trillion won, Alibaba's Qwen4-Max, and US export licences for advanced AI chips to five nations. Nothing beyond the list is established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Physical AI is the centre of the Bengaluru Tech Summit list, with robotics demonstrations and startup competitions.</li>
+<li>CtrlS is listed at 4.4 gigawatts of data-centre capacity by 2030.</li>
+<li>India's declaration is listed with nine partner countries. That count is not the same as a separate report's "ten other nations".</li>
+<li>Sarvam's Token Factory, SK Hynix at 1.4 trillion won, and Alibaba's Qwen4-Max are on the list.</li>
+<li>The United States is listed as requiring export licences for advanced AI chips to five nations.</li>
+<li>Nothing beyond the list is established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Sarvam opens Token Factory with input pricing from 10 rupees</title>
+      <link>https://www.youtube.com/watch?v=UQ-UIXXEv5M</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=UQ-UIXXEv5M</guid>
+      <pubDate>Tue, 17 Nov 2026 12:30:33 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>UQ-UIXXEv5M</news:videoId>
+      <news:publishedIst>2026-11-17T18:00:33+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/UQ-UIXXEv5M/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Sarvam has launched Token Factory with the Sarvam 105B model for high-speed inference for enterprise users. On-premise deployment is available for organisations that need local data control. The headline price is 10 rupees per million input tokens. The body says input pricing starts at 10 rupees and does not repeat "per million". It calls a 95.7 percent figure a DeepSeek cache hit rate.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Sarvam has launched Token Factory with the Sarvam 105B model.</li>
+<li>The tools are for high-speed inference for enterprise users.</li>
+<li>On-premise deployment is available where data has to stay local.</li>
+<li>The headline price is 10 rupees per million input tokens. The body says pricing starts at 10 rupees.</li>
+<li>The 95.7 percent figure is called a DeepSeek cache hit rate.</li>
+<li>The 330-token speed and the 450 billion tokens a day are not in this report.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>India joins the San Francisco Declaration on AI chip supply</title>
+      <link>https://www.youtube.com/watch?v=RiR4EoqHzNE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=RiR4EoqHzNE</guid>
+      <pubDate>Tue, 17 Nov 2026 12:00:32 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>RiR4EoqHzNE</news:videoId>
+      <news:publishedIst>2026-11-17T17:30:32+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/RiR4EoqHzNE/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India has joined the San Francisco Declaration, described as a US-led effort to secure critical AI infrastructure, alongside ten other nations. The partnership covers chips, manufacturing equipment, and energy networks. Five working groups address innovation policy, AI adoption, and supply chain security. The wording for those groups is Paxilica. The other countries are not named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>India has joined the San Francisco Declaration.</li>
+<li>The effort is described as US-led, and India is aligned with ten other nations.</li>
+<li>The supply focus is chips, manufacturing equipment, and energy networks.</li>
+<li>Five working groups cover innovation policy, AI adoption, and supply chain security.</li>
+<li>The working groups are worded as Paxilica. The other countries are not named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Bengaluru Tech Summit draws more than 10,000 delegates to chips and edge AI</title>
+      <link>https://www.youtube.com/watch?v=-b3xRxGu5MQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=-b3xRxGu5MQ</guid>
+      <pubDate>Tue, 17 Nov 2026 11:30:16 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>-b3xRxGu5MQ</news:videoId>
+      <news:publishedIst>2026-11-17T17:00:16+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/-b3xRxGu5MQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The Bengaluru Tech Summit has more than 10,000 registered delegates looking at chips and edge AI, with demonstrations of robotics and AI. The headline puts the programme at 140 sessions and a 50,000 square foot robot pavilion. Those two figures are not repeated in the body. Karnataka's tech growth targets and Kalaburagi's economic contribution are mentioned, with no numbers.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>More than 10,000 delegates are registered.</li>
+<li>The focus named in the body is chips, edge AI, robotics, and AI demonstrations.</li>
+<li>The headline says 140 sessions and a 50,000 square foot robot pavilion. The body does not repeat those figures.</li>
+<li>Karnataka's growth targets and Kalaburagi's contribution have no figures here.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>CtrlS aims at 4.4 GW by 2030 and more than 20 edge sites</title>
+      <link>https://www.youtube.com/watch?v=qUDrFQAhXaE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qUDrFQAhXaE</guid>
+      <pubDate>Tue, 17 Nov 2026 11:05:21 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>qUDrFQAhXaE</news:videoId>
+      <news:publishedIst>2026-11-17T16:35:21+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/qUDrFQAhXaE/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>CtrlS is scaling data-center capacity in India toward 4.4 gigawatts by 2030 and plans more than 20 new edge facilities, with Bihar as a hub after the Patna launch. The headline says 20 more edge centers and puts the Patna site at 400 crore rupees. No opening date is given for the next sites. The 150 MW letter of intent and the 12 MW load are not in this report.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>CtrlS is aiming at 4.4 gigawatts of capacity by 2030.</li>
+<li>The plan is more than 20 new edge facilities. The headline says 20 more.</li>
+<li>Bihar is the hub named after the Patna launch.</li>
+<li>The headline puts the Patna site at 400 crore rupees.</li>
+<li>No opening date is given for the next sites.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Sthanika AI launches in Hyderabad around a decision model</title>
+      <link>https://www.youtube.com/watch?v=aR6zxTmi_fU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=aR6zxTmi_fU</guid>
+      <pubDate>Tue, 17 Nov 2026 09:35:22 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>aR6zxTmi_fU</news:videoId>
+      <news:publishedIst>2026-11-17T15:05:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/aR6zxTmi_fU/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Sthanika AI is launching in Hyderabad. Sudhi Sachdev speaks with Sridhar Muppidi, co-founder of PurpleTalk Inc., about why the Hyderabad lab built a decision model and how many agent tasks need a large language model. The headline calls it India's Sieve Decision Model. That name is not used in the body. No cost saving is given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Sthanika AI is launching in Hyderabad.</li>
+<li>Sudhi Sachdev speaks with Sridhar Muppidi, co-founder of PurpleTalk Inc.</li>
+<li>The conversation is about a decision model and how many agent tasks need a large language model.</li>
+<li>The headline name is the Sieve Decision Model. The body does not use Sieve.</li>
+<li>No cost figure and no customer result are given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Bharat EduAI Stack opens with a Bodhan centre at IIT Madras</title>
+      <link>https://www.youtube.com/watch?v=kEvkL7g8NpE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=kEvkL7g8NpE</guid>
+      <pubDate>Tue, 17 Nov 2026 05:36:57 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>kEvkL7g8NpE</news:videoId>
+      <news:publishedIst>2026-11-17T11:06:57+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/kEvkL7g8NpE/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The Bharat EduAI Stack is being launched with a Bodhan AI Centre of Excellence at IIT Madras, and AI is described as moving into government schools. Anoop of Bodhan AI, who spent more than eight years at Microsoft, is building Indic-Transcribe, Indic-Speak, Indic-OCR, and Indic-Translate. Nandan Nilekani has proposed generating NTA question papers on the day of the exam. Who governs the stack, and how schools deploy it, is not answered.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The Bharat EduAI Stack is presented as a launch, with a Bodhan AI Centre of Excellence at IIT Madras.</li>
+<li>Anoop of Bodhan AI spent more than eight years at Microsoft. No surname is given.</li>
+<li>The models named are Indic-Transcribe, Indic-Speak, Indic-OCR, and Indic-Translate.</li>
+<li>Nandan Nilekani's exam-paper idea is a proposal for the day of the NTA test, not a result.</li>
+<li>Governance of the stack and school hardware budgets are asked and not answered.</li>
+<li>AI tutors for classes 6 to 12, and a teacher co-pilot, are subjects, not measured results.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>SpaceX catches the Starship upper stage after about 22.5 hours</title>
+      <link>https://www.youtube.com/watch?v=eKgnlOPMMRY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=eKgnlOPMMRY</guid>
+      <pubDate>Tue, 17 Nov 2026 02:00:22 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>eKgnlOPMMRY</news:videoId>
+      <news:publishedIst>2026-11-17T07:30:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/eKgnlOPMMRY/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>SpaceX caught the Starship upper stage with tower arms after about 22.5 hours in flight. The headline says the catch was midair and came after 22.5 hours in orbit.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>SpaceX caught the Starship upper stage with tower arms.</li>
+<li>The body says about 22.5 hours in flight.</li>
+<li>The headline says the catch was midair and after 22.5 hours in orbit.</li>
+<li>No orbit count and no landing site are given.</li>
+</ul>
+      ]]></description>
+    </item>
 
     <item>
       <title>ChatGPT Wallet hides the card behind a token and asks for Face ID</title>
