@@ -17,7 +17,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
-from urllib.parse import parse_qs, urljoin, urlparse
+from urllib.parse import parse_qs, urlencode, urljoin, urlparse
 
 import requests
 from mcp.server.fastmcp import FastMCP
@@ -29,11 +29,23 @@ MAX_PARALLEL_TRANSCRIPTS = max(1, min(int(os.environ.get("YOUTUBE_TRANSCRIPT_WOR
 DEFAULT_LANGUAGES = ["en", "en-US", "en-GB"]
 # Public instances from https://docs.invidious.io/instances/
 DEFAULT_INVIDIOUS_INSTANCES = (
+    "https://yt.chocolatemoo53.com",
     "https://inv.nadeko.net",
     "https://invidious.nerdvpn.de",
-    "https://yt.chocolatemoo53.com",
     "https://invidious.tiekoetter.com",
 )
+INVIDIOUS_HEADERS = {
+    "User-Agent": "Mozilla/5.0",
+    "Accept": "text/vtt, application/json, */*",
+}
+_LABEL_GUESSES = {
+    "en": (
+        "English",
+        "English (United States)",
+        "English (US)",
+        "English (auto-generated)",
+    ),
+}
 SHORT_CANDIDATE_MAX_SECONDS = 180
 MAX_VIDEO_IDS_PER_CALL = 50
 MAX_TRANSCRIPT_CHARS = 40000
@@ -272,19 +284,72 @@ def _language_match(code: str, languages: list[str]) -> int | None:
     return None
 
 
+_CUE_TIME = re.compile(
+    r"(?P<start>\d{2}:\d{2}:\d{2}\.\d{3})\s+-->\s+(?P<end>\d{2}:\d{2}:\d{2}\.\d{3})"
+)
+_WORD_MARK = re.compile(r"<(\d{2}:\d{2}:\d{2}\.\d{3})><c>")
+
+
+def _strip_caption_tags(text: str) -> str:
+    text = text.replace("&nbsp;", " ").replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
+    text = re.sub(r"<\d{2}:\d{2}:\d{2}\.\d{3}>", " ", text)
+    text = re.sub(r"<[^>]+>", " ", text)
+    return " ".join(text.split())
+
+
+def _vtt_cues(payload: str) -> list[list[str]]:
+    cues: list[list[str]] = []
+    for block in re.split(r"\n{2,}", payload):
+        lines = [line.strip() for line in block.splitlines() if line.strip()]
+        if not lines:
+            continue
+        match = _CUE_TIME.match(lines[0])
+        if match is None and len(lines) > 1:
+            match = _CUE_TIME.match(lines[1])
+            lines = lines[1:]
+        if match is None:
+            continue
+        cues.append(lines[1:])
+    return cues
+
+
+def _words_in_timed_line(line: str) -> list[str]:
+    parts = _WORD_MARK.split(line)
+    words = _strip_caption_tags(parts[0]).split()
+    index = 1
+    while index + 1 < len(parts):
+        token = _strip_caption_tags(parts[index + 1].split("</c>")[0])
+        if token:
+            words.extend(token.split())
+        index += 2
+    return words
+
+
 def _vtt_to_text(payload: str) -> str:
-    lines: list[str] = []
-    for raw in payload.splitlines():
-        line = raw.strip()
-        if not line or line.upper().startswith(("WEBVTT", "NOTE", "STYLE", "REGION")) or "-->" in line:
+    """Turn WebVTT into plain text without repeating YouTube's rolling cues."""
+    if "<c>" in payload:
+        words: list[str] = []
+        for lines in _vtt_cues(payload):
+            for line in lines:
+                if "<c>" not in line:
+                    continue
+                for word in _words_in_timed_line(line):
+                    if words and words[-1] == word:
+                        continue
+                    words.append(word)
+        if words:
+            return " ".join(words)
+    pieces: list[str] = []
+    previous = ""
+    for lines in _vtt_cues(payload):
+        text = _strip_caption_tags(" ".join(lines))
+        if not text or text == previous:
             continue
-        if re.fullmatch(r"\d+", line):
-            continue
-        line = re.sub(r"<[^>]+>", "", line)
-        line = line.replace("&nbsp;", " ").replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
-        if line.strip():
-            lines.append(line.strip())
-    return " ".join(" ".join(lines).split())
+        extra = text[len(previous):].strip() if previous and text.startswith(previous) else text
+        if extra:
+            pieces.append(extra)
+        previous = text
+    return " ".join(pieces)
 
 
 def _looks_like_vtt(payload: str, content_type: str) -> bool:
@@ -321,14 +386,44 @@ def _choose_track(tracks: list[dict[str, Any]], languages: list[str]) -> dict[st
     return ranked[0][1]
 
 
-def _invidious_get(base: str, path: str) -> requests.Response:
-    response = requests.get(
-        urljoin(base + "/", path.lstrip("/")),
-        timeout=REQUEST_TIMEOUT,
-        headers={"Accept": "application/json, text/vtt, text/plain"},
-    )
+def _invidious_get(url: str) -> requests.Response:
+    response = requests.get(url, timeout=REQUEST_TIMEOUT, headers=INVIDIOUS_HEADERS)
     response.raise_for_status()
     return response
+
+
+def _caption_candidates(base: str, video_id: str, languages: list[str]) -> list[tuple[str, str, str]]:
+    """Return (url, language, label) attempts. A failed track list does not drop the host."""
+    candidates: list[tuple[str, str, str]] = []
+    try:
+        listed = _invidious_get(f"{base}/api/v1/captions/{video_id}")
+        tracks = _caption_tracks(listed.json() if listed.content else {})
+    except (requests.RequestException, ValueError):
+        tracks = []
+    track = _choose_track(tracks, languages)
+    if track is not None:
+        caption_url = str(track.get("url") or "")
+        if caption_url:
+            target = caption_url if "://" in caption_url else urljoin(base + "/", caption_url.lstrip("/"))
+            candidates.append((target, _track_language(track), _track_label(track)))
+    primaries: list[str] = []
+    for language in languages:
+        primary = language.lower().replace("_", "-").split("-", 1)[0]
+        if primary and primary not in primaries:
+            primaries.append(primary)
+    for primary in primaries:
+        for label in _LABEL_GUESSES.get(primary, ()):
+            query = urlencode({"label": label})
+            candidates.append((f"{base}/api/v1/captions/{video_id}?{query}", primary, label))
+        candidates.append((f"{base}/api/v1/captions/{video_id}?lang={primary}", primary, ""))
+    unique: list[tuple[str, str, str]] = []
+    seen: set[str] = set()
+    for item in candidates:
+        if item[0] in seen:
+            continue
+        seen.add(item[0])
+        unique.append(item)
+    return unique
 
 
 def _transcript_from_body(body: str, content_type: str, language: str, label: str, instance: str) -> dict[str, Any] | None:
@@ -350,40 +445,28 @@ def _transcript_from_body(body: str, content_type: str, language: str, label: st
 def _fetch_invidious_transcript(video_id: str, languages: list[str]) -> dict[str, Any]:
     errors: list[str] = []
     for base in _invidious_instances():
-        try:
-            listed = _invidious_get(base, f"api/v1/captions/{video_id}")
-            tracks = _caption_tracks(listed.json() if listed.content else {})
-        except (requests.RequestException, ValueError) as error:
-            errors.append(f"{base}: {error}")
-            continue
-        track = _choose_track(tracks, languages)
-        if track is None:
+        found_text = False
+        for target, language, label in _caption_candidates(base, video_id, languages):
+            try:
+                caption = _invidious_get(target)
+            except requests.RequestException as error:
+                errors.append(f"{target}: {error}")
+                continue
+            if not caption.text.strip():
+                errors.append(f"{target}: caption track was empty")
+                continue
+            result = _transcript_from_body(
+                caption.text,
+                caption.headers.get("content-type", ""),
+                language,
+                label,
+                base,
+            )
+            if result is not None:
+                return result
+            found_text = True
+        if not found_text and not any(error.startswith(base) or error.startswith(f"{base}/") for error in errors):
             errors.append(f"{base}: no caption track for {', '.join(languages)}")
-            continue
-        caption_url = str(track.get("url") or "")
-        if not caption_url:
-            errors.append(f"{base}: caption track has no url")
-            continue
-        target = caption_url if "://" in caption_url else urljoin(base + "/", caption_url.lstrip("/"))
-        try:
-            caption = requests.get(target, timeout=REQUEST_TIMEOUT, headers={"Accept": "text/vtt, text/plain"})
-            caption.raise_for_status()
-        except requests.RequestException as error:
-            errors.append(f"{base}: {error}")
-            continue
-        if not caption.text.strip():
-            errors.append(f"{base}: caption track was empty")
-            continue
-        result = _transcript_from_body(
-            caption.text,
-            caption.headers.get("content-type", ""),
-            _track_language(track),
-            _track_label(track),
-            base,
-        )
-        if result is not None:
-            return result
-        errors.append(f"{base}: caption response was not WebVTT")
     return {
         "status": "unavailable",
         "language": "",
@@ -394,7 +477,7 @@ def _fetch_invidious_transcript(video_id: str, languages: list[str]) -> dict[str
 
 
 def _transcript(video_id: str, languages: list[str]) -> dict[str, Any]:
-    cache_key = f"invidious-{video_id}-{','.join(languages)}"
+    cache_key = f"invidious-v3-{video_id}-{','.join(languages)}"
     cached = _read_cache("transcripts", cache_key)
     if cached:
         if cached.get("status") == "available":
@@ -480,9 +563,9 @@ def get_video_transcripts(video_ids_or_urls: str, languages: str = "en,en-US,en-
 
     This is a separate, best-effort transcript operation intended for the
     source-summarizer subagent. Pass one video or a comma/space-separated batch.
-    The tool calls Invidious `GET /api/v1/captions/:id`, then fetches the WebVTT
-    track URL for the requested language. Set `INVIDIOUS_INSTANCES` or
-    `INVIDIOUS_BASE_URL` to override the documented public instances. Each result
+    The tool calls Invidious `GET /api/v1/captions/:id?lang=en` (and the English
+    label URLs) even when the bare track list is refused. Set `INVIDIOUS_INSTANCES`
+    or `INVIDIOUS_BASE_URL` to override the documented public instances. Each result
     has status, language, generated flag, and text. No browser is launched and
     no video file is downloaded.
     """
