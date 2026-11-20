@@ -13,49 +13,47 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 20 November 2026 edition, retrieved at 07:04 IST, covers Neysa's 8,192 AMD GPUs in Mumbai, Humyn Labs' 47 million dollar raise, and Cognizant's 133.2 million pound Network Rail contract.</description>
+    <description>News of relevance. The 20 November 2026 edition, retrieved at 16:59 IST, covers 1,050 crore rupees in Karnataka deep-tech pledges, about 111,000 AI and machine learning professionals in the state's capability centers, and OpenAI's reported circuit gains on AMD GPUs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 01:34:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 11:29:57 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
 
     <news:edition date="2026-11-20">
-      <news:scannedAt>2026-11-20T01:34:41Z</news:scannedAt>
-      <news:scannedAtIst>2026-11-20T07:04:41+05:30</news:scannedAtIst>
-      <news:longFormCount>9</news:longFormCount>
-      <news:shortCount>3</news:shortCount>
+      <news:scannedAt>2026-11-20T11:29:57Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-20T16:59:57+05:30</news:scannedAtIst>
+      <news:longFormCount>15</news:longFormCount>
+      <news:shortCount>0</news:shortCount>
       <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
       <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
-      <news:latestLongForm videoId="1rIGGpxov8Y" published="2026-11-19T14:30:27Z">Neysa brings 8,192 AMD Instinct MI350X GPUs online in Mumbai</news:latestLongForm>
-      <news:method>Friday 20 November 2026, retrieved at 07:04 IST. Twelve reports from the past day are included. Remarks from the two long briefings and from the degree debate were not available, so those stay with the announced subjects.</news:method>
+      <news:latestLongForm videoId="Q9FwjvhzIt8" published="2026-11-20T11:00:02Z">Karnataka deep tech startups attract 1,050 crore rupees in pledges</news:latestLongForm>
+      <news:method>Friday 20 November 2026, retrieved at 16:59 IST. The window is the 24 hours ending 11:29 UTC. Fifteen uploads fell in that window. Eight are new and are included here, newest first. The spoken account came back for each of those eight. Seven were already in this file.</news:method>
       <news:briefing><![CDATA[
-Friday 20 November 2026, retrieved at 07:04 IST. Neysa has an AMD Instinct MI350X cluster of 8,192 GPUs online in Mumbai for global users. Humyn Labs has raised 47 million dollars, 26 million in equity led by Accel and 21 million in venture debt, to scale human activity recognition across 20 countries. Cognizant has a 133.2 million pound technology infrastructure contract with Network Rail from January 2027 through January 2034.
+Friday 20 November 2026, retrieved at 16:59 IST. Karnataka's deep tech startups have investment commitments of 1,050 crore rupees from 24 venture firms, announced at the Future Makers Conclave during the Bengaluru Tech Summit on 19 November. The state's global capability centers employ about 111,000 AI and machine learning professionals. OpenAI says its work with AMD produced up to 14 percent gains in power, performance, and area on flagship GPU circuitry in less than five months, and that this is not the same as a finished GPU running 14 percent faster.
 
-The morning's through-line: Neysa has 8,192 AMD Instinct MI350X GPUs online in Mumbai, Humyn Labs has raised 47 million dollars to scale human activity recognition, and Cognizant has a 133.2 million pound Network Rail contract running through January 2034.
+The morning's through-line: Karnataka deep tech startups have 1,050 crore rupees in pledges from 24 venture firms, the state's capability centers employ about 111,000 AI and machine learning professionals, and OpenAI reports up to 14 percent circuit gains on AMD GPUs in under five months.
 
-Mumbai compute. Neysa has launched an AMD Instinct MI350X cluster in Mumbai. The installation has 8,192 GPUs and is operational for global users. It supports model training, fine-tuning, and inference for enterprise clients, and it pairs AMD ROCm software with custom network and storage. The facility is aimed at growing demand for high-performance compute in the region, and it is presented as capacity for deep learning and for production workloads.
+Karnataka's pledges. The 1,050 crore rupees are commitments from 24 venture capital firms, not a figure for money that has already reached companies. The state cited 400 crore rupees under last year's effort, and this year's announced amount is substantially larger. The investments cover aerospace, artificial intelligence, robotics, semiconductors, biotechnology, defense, and industrial automation. Three firms, Axel, 314 Capital, and Gaja Capital, account for about 750 crore rupees of the announced total. The Times of India is cited for the report that Gaja Capital's commitment includes the quantum-security company Q Labs. Other investments span aerospace, AI, and advanced engineering businesses that may still be far from a product a customer can use. An investment announcement shows that investors see an opportunity. What each company can build, and how quickly customers adopt it, is still open. The example given is an industrial-robot company that still has to get the hardware working, test it, and show it can perform inside a customer's factory. The conclave also featured startups supported through Karnataka's Elevate program, now in its tenth year, including work on microneedle technology, precision fermentation, and unmanned ground vehicles. Separately, the Karnataka Innovation and Technology Society signed an agreement with Idea Bars for a television startup showcase that could help founders reach investors and customers. Selection for that showcase is separate from scoring. The report says the state should publish regular updates on how much of this funding reaches startups.
 
-Human activity. Humyn Labs has raised 47 million dollars to scale human activity recognition and to capture human tasks for robot training data. The capital is meant to support robotics development across 20 countries. Of the total, 26 million dollars is equity led by Accel and 21 million dollars is venture debt. The work is on how machines perceive and interpret physical movement. The company is expanding globally to refine its core software for industrial use. Demand for accurate human activity recognition is described as growing as businesses add more automation. No valuation is given.
+The state's AI workforce. A report from Zenov and the Karnataka Digital Economy Mission says Karnataka has 1,088 global capability centers, 51 percent of India's total, and more than 120 dedicated AI and machine learning centers of excellence across more than 100 of those centers. Those centers account for nearly half of the country's AI centers of excellence in this corporate ecosystem. A center of excellence here means a group that builds capabilities other teams in the same company can use. Roughly one in three of Karnataka's AI centers has a mandate covering generative or agentic AI. The work spans software development, chip design, financial operations, healthcare, and predictive maintenance. Karnataka's centers employ around 111,000 AI and machine learning professionals, which is 43 percent of the national talent pool in those fields inside global capability centers. That count does not include every AI professional in India. Among surveyed Karnataka centers, 69 percent offer AI training tailored to particular job roles, compared with 53 percent nationally.
 
-Network Rail. Cognizant has a 133.2 million pound technology infrastructure contract with Network Rail. The seven-year agreement covers critical infrastructure services from January 2027 through January 2034, and it is described as a commitment to modernizing Britain's rail network. Cognizant beat TCS, HCL Tech, DXC Technology, and ATOS. The win is also described as expanding Cognizant's public-sector work in the UK.
+Target in Bengaluru. Antara Gupta speaks with Natarajan Ramamurthy, vice president of data engineering at Target in India, and Ashutosh Bisht, head of research and advisory at AIM, after Target opened an 830,000 square foot Bengaluru campus for 5,700 employees. Ramamurthy says India and Minneapolis are run as one headquarters. Some new-store design is led from India, and most of his data analytics functions are led from India, with US teams still contributing. A team that finds a guest-experience problem can ship a fix from India through the same checks used in both countries. He says inventory is hard to keep accurate across about 2,000 US stores, online sales, and distribution centers, because the signals travel through long pipelines that can break. Real-time signals matter when a guest is shopping on Target.com, and he says they are not worth the cost for slow own-brand development. He estimates that about 20 to 30 percent of capacity goes to keeping systems running and close to 70 percent goes to new guest features. Around Thanksgiving, changes stay small and are rolled out in stages. He says humans can override an AI decision, those overrides are kept so the model can be improved, and a person remains the failsafe, including when a model invents an overstock. Generative AI is not forbidden in data pipelines by a fixed rule. Bengaluru staff are meant to understand US stores through onboarding, augmented and virtual walkthroughs, a guest-experience center where someone can ring a sale, and visits to stores and distribution centers. He looks for curiosity, the ability to learn, software fundamentals, systems thinking, and knowledge of the retail domain. He will not name one change a US shopper will notice in a year.
 
-Bengaluru's capital. Bengaluru's deep tech funding has reached 3.77 billion dollars since 2010, more than double Delhi NCR, which raised 1.64 billion dollars over the same period. Chennai is third. No figure is given for Chennai. The same ecosystem has more than 799 AI startups. Roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru.
+Bisht's figures. Bisht says India has more than 2,100 of these centers, about 2.6 million people working in them, about 600,000 to 700,000 of those in retail, and a revenue contribution he puts at almost 100 billion. He puts retail centers at about 70 to 80, or about 170 to 180 once fast-moving consumer goods are included, and he names Target, Lowe's, and Walmart as the mature examples newer centers try to follow. He says software engineering is about half of the broader workforce in these centers, cloud about 20 to 24 percent, and AI about 9 percent. He says only about 20 percent of their AI pilots reach production, with retail around 22 to 25 percent in AIM roundtables. About 9 to 10 percent of the retail-center workforce is in AI, only about 2 percent of that AI group has eight or more years of experience, and about half to 60 percent of recent AI hires in retail centers came from outside retail. He says Lowe's Mylo product, built with OpenAI, was developed in the Indian unit. He says only about 500 companies on the Forbes 2000 list have an India center, and that more than 350 further US companies could still open one. These are the speakers' figures.
 
-The afternoon list. The afternoon briefing names eight subjects. A report finds Bengaluru leading India's deep-tech funding at 3.77 billion dollars since 2010, with AI activity concentrated in the city and a challenge in expanding beyond it. Cognizant is selected for Network Rail's 133.2 million pound infrastructure contract. Humyn Labs raises 47 million dollars for physical AI. Neysa brings 8,192 AMD GPUs online in Mumbai. Amazon and Google are expected to hold 28.4 percent of Anthropic after a proposed IPO. Microsoft is expanding its in-house AI models. Meta's Muse agent faces a security backlash. OpenAI is helping AMD improve GPU circuitry. The split of Humyn's 47 million dollars, the years of the rail contract, the ROCm software, the class of Anthropic shares, the names of Microsoft's models, the Muse download count, and any detail of the AMD circuitry work are not on that list.
+AMD's circuits. OpenAI says its models found up to 14 percent improvements in power, performance, and area on flagship AMD GPU circuitry that AMD engineers had already spent years optimizing. OpenAI describes that as roughly a year's progress in less than five months. The same account says this does not mean the finished GPU is 14 percent faster. The measure is a set of trade-offs, such as a smaller block, lower power, or better timing, and the effect on a complete chip depends on the rest of the design. The models worked on the circuit description engineers write, and tools the report names as Synopsis checked that a rewrite still behaved as the original circuit. According to OpenAI, AMD also verified a single-digit percentage gain in power and performance across key blocks of an upcoming flagship CPU. Greg Brockman said some results are in a design that has recently been finalized for manufacturing, and that other improvements have been added to AMD's production design files for future versions. How those AMD changes perform in physical chips is still open. Separately, on a chip the report calls Alapino and describes as OpenAI's first custom inference chip, a model-proposed multiplier redesign used about 15 percent less cell area in synthesis and cut latency from two clock cycles to one. Across that project, OpenAI estimates that model-proposed changes reduced standard cell area by about 10 percent in the matrix unit, and says those optimizations were checked when the manufactured chip was powered on.
 
-Muse. Meta's Muse agent is facing a security backlash, in a story presented as coming after the agent passed 10 million downloads. That download count is not repeated in the security account. The account centers on unauthorized actions and on signal messages reached through notifications. Android push alerts are described as an exploit vector for autonomous agents. Current incidents are described as appearing isolated, and as a sign of a wider problem for enterprise security when large language models sit on phones. No incident count and no attacker are named.
+Urgent care. Saji Rajasekharan, chief technology officer of Experity, describes on-demand care as urgent care extended to patients who want to be seen when and where they choose. He says the clearest gains are in coding and billing. AI agents are replacing work that used to need more staff, or software that clicked through a screen, and he says the results are fewer denials, faster payment, and more accurate coding. An AI scribe listens to the first assessment and the diagnosis and writes structured notes into the medical record, so the clinician can face the patient. He says urgent-care clinicians often finish notes between visits or at home for two or three hours or more in a day. A chat tool, Care Agent, lets a patient look for care without another password and sends the reason for the visit, such as a cough, into the record. He says clinicians adopt the scribe when it sits inside the record they already use and a person can still override it. Experity requires the provider to review and sign off. He describes a flu-season day of about 80 to 100 patients and an off-season day of about 25. A discharge-instructions feature is meant to replace printouts patients throw away. He says one client saw call volume fall, and the closing conversation drop from about 15 minutes to about 2 minutes. He puts the scale he is building for at about 7,000 clinics and 40 million patients. He says Experity acquired Exdion a few months ago, an AI product covering the path from a closed chart to payment, and that he is using that team to grow Experity's engineers in Bengaluru so they own products for American urgent care. The traits he names are curiosity, ownership of the result, and humility about being wrong. He says the company believes it is already the operating system for urgent care among the top 20 US enterprise operators, and that the next goal is an AI operating system patients and providers trust. He leaves autonomous clinical decisions for later, because a model would have to handle who the patient is, their context, and local rules. He referred to a Karnataka reskilling scheme he believes is called Nipuna.
 
-Microsoft's models. Microsoft is adding MAI Code 2, Cyber 2 Flash, and Image 2.7 to its in-house lineup. The fuller account names Code 2 and Code 2 Flash and describes models for coding and business, covering software development, cybersecurity, and image generation. It does not repeat Cyber 2 Flash or Image 2.7. The models are aimed at everyday coding, with scalable pricing for enterprise users. Task-specific benchmark results are cited. No score and no price are given.
+The summit floor. On day two of the Bengaluru Tech Summit, Sanjana Gupta speaks with the Baden-Württemberg delegation, SmartFab, Cyber Evolution, and Unitree's partner in India. The German state, which the booth shortens to the Länd, is promoting itself to Indian founders and brought a deep-tech startup factory that introduces science-based startups to Mittelstand companies. An Indian medtech startup making a wearable is just setting up in Stuttgart. Ann LoCicero, founder and chief executive of Italy-based SmartFab, says the company turns factory-floor data into a digital twin so a manufacturer can catch a process fault, or a raw material likely to cause a defect, while the process is running. She says SmartFab does not train models on other customers' data. This is the company's first trip to India. It wants manufacturing-software partners, proof-of-concept customers in semiconductors, electronics, and pharmaceuticals, and small and medium manufacturers. Cyber Evolution, an Italian network detection and response company, is looking for system integrators and resellers. A representative based in Yelahanka says the product was built in Italy, has been in production for five and a half years, and is aimed at stopping a threat before it becomes an incident, including for steel, chemicals, and sugar. Research and development would stay in Italy. Indian staff would train in Italy for about three months, and the company is considering joining an existing operation of more than 50 people. Rahul, who says his organization is the exclusive Unitree partner in India, wants the machines used to teach robotics and artificial intelligence. He says the robots are raw hardware until they are programmed, and he names inspection, surveillance, defense, and security as uses. He points to a firefighting robot on a water hose that he says can throw water up to 50 meters. He says deployments in India are the partner's core work. No deployment count is given.
 
-Anthropic's shareholders. Amazon and Google are set to hold a combined 28.4 percent of Anthropic after a private share sale and the company's projected stock market listing. Amazon is expected to hold 14.7 percent. Google is described as securing 13.7 percent. Both would hold class N non-voting shares, leaving management control separate from the financial stake. No valuation and no listing date are given.
+Indian IT services. Kanishk Singh speaks with Kris Gopalakrishnan, co-founder of Infosys and chairman of Axilor Ventures, on day two of the summit. Gopalakrishnan says every academic institution has to change its curriculum so students learn AI tools. Four agreements signed at the summit, including with Google, are meant to train about two lakh people. He says IIIT Bangalore is setting up an AI hub to train trainers and to retrain people already in IT. The university's own degree and research programs are probably a year or two away, not the next academic year. Shorter skilling and diploma programs, including programs Keonics is starting, can begin sooner. As chair of the state's responsible AI committee, he says agentic AI in public services is inevitable, and the first task is to make that use safe and private. He describes a health report fed into a consultation that could later be shared with an insurer. He referred to an announcement from the day before, a name he only roughly recalled, for a data space in which the model works on the data, the data does not leave, and only the changed weights come out. He says Bengaluru can pilot that approach. He was asked about a figure of about 60,000 GPUs at 18 percent utilization. He says he is surprised utilization is that low, because startups tell him access is still difficult and too expensive, and he wants capacity spread across states, colleges, and institutions rather than held in one place. He points to analog-computing research at the Indian Institute of Science, which he works on, as a possible route to cheaper matrix computation if it is developed further.
 
-The summit. Day 3 of the Bengaluru Tech Summit is the 29th edition of what is described as Asia's largest integrated technology summit, running 17 to 19 November at the Bangalore International Exhibition Centre under the theme AI and Beyond. The announced guests are D.K. Shivakumar, chief minister of Karnataka; Priyank Kharge, minister for home, information technology, biotechnology and e-governance; Kiran Mazumdar-Shaw, executive chairperson of Biocon and chairperson of the state's Vision Group on Biotechnology; Pratik Gandhi, actor, storyteller and theatre practitioner; and Puneet Chandok, president of Microsoft India and South Asia. No remarks from them are established.
+He expects AI to expand work for IT services companies, because new applications still have to be joined to older systems and existing data has to be prepared. He says programming might fall from about 10 percent of a project to 1 or 2 percent, but people still have to debug and integrate the code, and he does not expect a significant long-term cut in the workload. He cites growth from 115 million dollars in 1993 to 300 billion dollars, and says employment in the sector, including semiconductors and chip design, will keep rising. Some companies will fail to adapt. He was asked about a 15 percent decline in the Nifty this year, and his answer is that investors put money where the return is fastest. He says five or seven companies are about 40 percent of US market value. Every IT employee has to be retrained. Senior engineers have to learn to review and certify code written by AI. Students finishing this year and next have not been trained on AI and will need extra training. On Axilor, he says it is a closed fund with four or five general partners, shifting toward deep tech without becoming a deep-tech-only fund, and that it starts two or three companies a year. He says a government research fund, which he describes as one lakh crore, is investing in deep tech. He puts the summit at about 21,000 visitors the day before, with an expectation of 60,000 to one lakh, 750 speakers, and 1,500 exhibits.
 
-The degree question. Point Break asks whether engineering degrees are enough for tech jobs in India. Antara Gupta speaks with Amar Srivastava, chief executive of Scaler - Online; Dr. Edwin Anthony, senior director and head of GCGC at GITAM Deemed University; and Raghav Gupta, founder of FDE Academy. The subjects are degree versus skill, employability, and entry-level hiring in the AI era; who should train graduates; curriculum reform and who owns the changes; placement accountability and audited placement rates; fundamentals versus application; paying for a degree and then an academy; whether companies should train freshers; universities treated as corporate training centres; internships in policy and in practice; fake certificates; faculty pay and where college money goes; who pays for upskilling; the hiring bar for freshers; the rise of edtech; and assessing students when AI is available. What the speakers concluded is not established.
+Open quantum hardware. Sanjana Gupta speaks with L. Venkata Subramaniam, founder and chief executive of Qbit Force. He says the company's first two systems, one with 5 qubits and one with 25 qubits, go down to milli-Kelvin temperatures, and the conversation tied those systems to Amaravati. Colleges asked for something inexpensive enough to test hardware rather than only use software. Q-Shiva is that system. The in-house Nada processor is gold-plated, its packaging was done in Machilipatnam, and he says it holds small niobium resonators for about five qubits, at frequencies such as 5, 5.5, and 6 gigahertz. He says niobium is superconducting around 8 Kelvin, so those resonators can be tested without an expensive dilution refrigerator, while the qubits themselves become superconducting only at milli-Kelvin. A higher operating temperature would not remove the need for cooling. It could make the requirements less strict and allow helium-4, which is already available, instead of helium-3, which he says is not found naturally on Earth. He credits Professor Premalatha with teaching AI at PES College in Mandya in 1991. He says a 16-year-old girl who was shown the open cooling system later filed a patent on it. The company is about to export systems to research labs. It was started last December. He turned down term sheets that would have given an investor control over hiring and markets, and he and a co-founder put in their own money, including retirement funds. He names SRM, Qubitech, Chandigarh University, and BIBS as supporters placing orders, and he claims about 40 crore rupees in revenue within the first year. He says he met minister Ajay Singh. No priority export country is named.
 
-Nvidia's commitments. Nvidia's purchase commitments have reached 390 billion dollars. The interim chief executive described supplier support as a capital priority, including prepayments that help suppliers expand capacity. That places Nvidia on both sides of the buildout, securing components while supporting some of the companies that buy its systems. Nvidia also reported 32 billion dollars in neocloud commitments, agreements with specialized AI cloud providers, and says it is rigorously evaluating future investments, commitments, and guarantees. The interim chief executive is not named. The revenue total from the earlier report is not restated here.
-
-Isomorphic Labs. Isomorphic Labs has raised 5 billion dollars in a series C as it prepares to move AI-designed drug candidates toward clinical trials. Alphabet is continuing to invest. The company says its internal cancer and immunology programs have produced positive preclinical results. Those results come before testing in people. What the results showed is not stated, and other investors are not named.
+Still in this window. Neysa has an AMD Instinct MI350X cluster of 8,192 GPUs online in Mumbai for global users, with ROCm software and custom network and storage, for training, fine-tuning, and inference. Humyn Labs has raised 47 million dollars, 26 million in equity led by Accel and 21 million in venture debt, to scale human activity recognition across 20 countries. No valuation is given. Cognizant has a 133.2 million pound Network Rail contract from January 2027 through January 2034, after beating TCS, HCL Tech, DXC Technology, and ATOS. Bengaluru's deep tech funding is 3.77 billion dollars since 2010, more than double Delhi NCR at 1.64 billion dollars. Chennai is third, with no figure given. The ecosystem has more than 799 AI startups, and roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru. Meta's Muse agent faces a security backlash over unauthorized actions and signal messages reached through notifications. Android push alerts are described as an exploit vector. The headline's 10 million downloads are not repeated in that security account. Incidents are described as appearing isolated, and no attacker is named. Microsoft is adding MAI Code 2, Cyber 2 Flash, and Image 2.7. The fuller account names Code 2 and Code 2 Flash and covers coding, cybersecurity, and image generation, with no score and no price given. The afternoon briefing listed Bengaluru's 3.77 billion dollars, the Network Rail contract, Humyn's raise for physical AI, Neysa's GPUs, an expected combined 28.4 percent of Anthropic for Amazon and Google, Microsoft's models, the Muse backlash, and OpenAI's work on AMD circuitry. That list does not carry the 14 percent figure, the pledge total, or the 111,000 professionals.
       ]]></news:briefing>
     </news:edition>
 
@@ -332,6 +330,215 @@ Still in this file from the morning. The first eight shorts cover film teaching 
     </news:edition>
 
 
+
+    <item>
+      <title>Karnataka deep tech startups attract 1,050 crore rupees in pledges</title>
+      <link>https://www.youtube.com/watch?v=Q9FwjvhzIt8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Q9FwjvhzIt8</guid>
+      <pubDate>Fri, 20 Nov 2026 11:00:02 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>Q9FwjvhzIt8</news:videoId>
+      <news:publishedIst>2026-11-20T16:30:02+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/Q9FwjvhzIt8/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Karnataka's deep tech startups have investment commitments of 1,050 crore rupees from 24 venture capital firms. The announcement came at the Future Makers Conclave during the Bengaluru Tech Summit on 19 November. The state cited 400 crore rupees under last year's effort, and this year's announced amount is substantially larger. The commitments do not show how much money has already reached companies. The investments cover aerospace, artificial intelligence, robotics, semiconductors, biotechnology, defense, and industrial automation. Axel, 314 Capital, and Gaja Capital account for about 750 crore rupees of the announced total. The Times of India is cited for the report that Gaja Capital's commitment includes the quantum-security company Q Labs. Other investments may still be far from a product a customer can use. Startups in Karnataka's Elevate program, now in its tenth year, showed work on microneedle technology, precision fermentation, and unmanned ground vehicles. The Karnataka Innovation and Technology Society signed an agreement with Idea Bars for a television startup showcase. Selection for that showcase is separate from scoring.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Twenty-four venture firms have committed 1,050 crore rupees to Karnataka deep tech startups.</li>
+<li>The announcement was at the Future Makers Conclave during the Bengaluru Tech Summit on 19 November.</li>
+<li>Last year's cited effort was 400 crore rupees, and the commitments are not money already disbursed.</li>
+<li>The sectors named are aerospace, AI, robotics, semiconductors, biotechnology, defense, and industrial automation.</li>
+<li>Axel, 314 Capital, and Gaja Capital account for about 750 crore rupees.</li>
+<li>The Times of India is cited on Gaja Capital's commitment including Q Labs.</li>
+<li>Elevate, in its tenth year, featured microneedles, precision fermentation, and unmanned ground vehicles.</li>
+<li>The Karnataka Innovation and Technology Society signed a showcase agreement with Idea Bars.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Karnataka's centers employ about 111,000 AI and machine learning professionals</title>
+      <link>https://www.youtube.com/watch?v=tbd6Km29K7A</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=tbd6Km29K7A</guid>
+      <pubDate>Fri, 20 Nov 2026 10:37:05 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>tbd6Km29K7A</news:videoId>
+      <news:publishedIst>2026-11-20T16:07:05+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/tbd6Km29K7A/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>A report from Zenov and the Karnataka Digital Economy Mission says Karnataka has 1,088 global capability centers, 51 percent of India's total, and more than 120 dedicated AI and machine learning centers of excellence across more than 100 of those centers. Those centers account for nearly half of the country's AI centers of excellence in this corporate ecosystem. Roughly one in three has a mandate covering generative or agentic AI. The work spans software development, chip design, financial operations, healthcare, and predictive maintenance. Karnataka's centers employ around 111,000 AI and machine learning professionals, 43 percent of the national talent pool in those fields inside global capability centers. That count does not include every AI professional in India. Among surveyed Karnataka centers, 69 percent offer role-specific AI training, compared with 53 percent nationally.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Zenov and the Karnataka Digital Economy Mission put Karnataka at 1,088 global capability centers, 51 percent of India's total.</li>
+<li>The state has more than 120 AI and machine learning centers of excellence across more than 100 of those centers.</li>
+<li>Those centers are nearly half of the country's AI centers of excellence in this ecosystem.</li>
+<li>About one in three has a mandate covering generative or agentic AI.</li>
+<li>The work includes software, chip design, financial operations, healthcare, and predictive maintenance.</li>
+<li>About 111,000 AI and machine learning professionals work in these centers, 43 percent of the national pool in those fields inside such centers.</li>
+<li>The 43 percent figure does not count every AI professional in India.</li>
+<li>69 percent of surveyed Karnataka centers offer role-specific AI training, against 53 percent nationally.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Target opens an 830,000 square foot Bengaluru campus for 5,700 employees</title>
+      <link>https://www.youtube.com/watch?v=9TaAm-SPyJk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=9TaAm-SPyJk</guid>
+      <pubDate>Fri, 20 Nov 2026 10:01:18 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>9TaAm-SPyJk</news:videoId>
+      <news:publishedIst>2026-11-20T15:31:18+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/9TaAm-SPyJk/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Antara Gupta speaks with Natarajan Ramamurthy, vice president of data engineering at Target in India, and Ashutosh Bisht, head of research and advisory at AIM, after Target opened an 830,000 square foot Bengaluru campus for 5,700 employees. Ramamurthy says India and Minneapolis are run as one headquarters. Some new-store design is led from India, and most of his data analytics functions are led from India, with US teams still contributing. A Bengaluru team can ship a guest-experience fix through the same checks used in both countries. He says inventory is hard to keep accurate across about 2,000 US stores, online sales, and distribution centers. Real-time signals matter for Target.com and are not worth the cost, in his view, for slow own-brand development. He estimates that about 20 to 30 percent of capacity keeps systems running and close to 70 percent goes to new guest features. Around Thanksgiving, changes stay small and are rolled out in stages. Humans can override an AI decision, those overrides are kept to improve the model, and a person remains the failsafe. Generative AI is not banned in data pipelines by a fixed rule. Staff are meant to understand US stores through onboarding, augmented and virtual walkthroughs, a guest-experience center, and visits. He looks for curiosity, software fundamentals, systems thinking, and retail domain knowledge, and he will not name one shopper-visible change a year ahead.</p>
+<p>Bisht says India has more than 2,100 of these centers, about 2.6 million people in them, about 600,000 to 700,000 in retail, and a revenue contribution he puts at almost 100 billion. He puts retail centers at about 70 to 80, or about 170 to 180 including fast-moving consumer goods, and names Target, Lowe's, and Walmart as mature examples. He says only about 20 percent of their AI pilots reach production, with retail around 22 to 25 percent in AIM roundtables. About 9 to 10 percent of the retail-center workforce is in AI, only about 2 percent of that group has eight or more years of experience, and about half to 60 percent of recent AI hires in retail centers came from outside retail. He says Lowe's Mylo product, built with OpenAI, was developed in the Indian unit. He says only about 500 Forbes 2000 companies have an India center, and that more than 350 further US companies could still open one. These are the speakers' figures.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Target opened an 830,000 square foot Bengaluru campus for 5,700 employees.</li>
+<li>Ramamurthy says some new-store design and most of his data analytics work are led from India, with US teams still contributing.</li>
+<li>He says inventory accuracy is difficult across about 2,000 US stores, online sales, and distribution centers.</li>
+<li>He puts about 20 to 30 percent of capacity on keeping systems running and close to 70 percent on new guest features.</li>
+<li>A person can override AI, and that override is kept to improve the model.</li>
+<li>Bisht's figures include more than 2,100 India centers, about 2.6 million workers, and about 20 percent of AI pilots reaching production.</li>
+<li>He says Lowe's Mylo, built with OpenAI, was developed in the Indian unit.</li>
+<li>He says about 500 Forbes 2000 companies have an India center and more than 350 further US companies could open one.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>OpenAI reports up to 14 percent circuit gains on AMD GPUs in under five months</title>
+      <link>https://www.youtube.com/watch?v=LR_31lKFPbc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=LR_31lKFPbc</guid>
+      <pubDate>Fri, 20 Nov 2026 09:30:12 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>LR_31lKFPbc</news:videoId>
+      <news:publishedIst>2026-11-20T15:00:12+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/LR_31lKFPbc/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>OpenAI says its models found up to 14 percent improvements in power, performance, and area on flagship AMD GPU circuitry that AMD engineers had already spent years optimizing. OpenAI describes that as roughly a year's progress in less than five months. The same account says this does not mean the finished GPU is 14 percent faster. The models worked on the circuit description engineers write. Tools the report names as Synopsis checked that a rewrite still behaved as the original circuit. According to OpenAI, AMD also verified a single-digit percentage gain in power and performance across key blocks of an upcoming flagship CPU. Greg Brockman said some results are in a design recently finalized for manufacturing, and that other improvements are in AMD's production design files for future versions. How those AMD changes perform in physical chips is still open. Separately, on a chip the report calls Alapino and describes as OpenAI's first custom inference chip, a model-proposed multiplier redesign used about 15 percent less cell area and cut latency from two clock cycles to one. OpenAI estimates about a 10 percent reduction in standard cell area in that project's matrix unit, checked when the manufactured chip was powered on.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>OpenAI says the AMD work produced up to 14 percent gains in power, performance, and area on flagship GPU circuitry.</li>
+<li>OpenAI describes that as about a year's progress in less than five months.</li>
+<li>The account says the finished GPU is not thereby 14 percent faster.</li>
+<li>Tools named as Synopsis checked that rewritten circuits still behaved as before.</li>
+<li>OpenAI says AMD verified a single-digit percentage power and performance gain on key blocks of an upcoming flagship CPU.</li>
+<li>Greg Brockman said some results are in a design finalized for manufacturing, and others are in files for future versions.</li>
+<li>Performance of the AMD changes in physical chips is still open.</li>
+<li>On a chip called Alapino, a multiplier redesign used about 15 percent less cell area and one clock cycle instead of two, and the matrix unit's standard cell area fell about 10 percent.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Experity's chief technology officer describes AI scribes and billing agents for urgent care</title>
+      <link>https://www.youtube.com/watch?v=cR9STxaO_Bs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=cR9STxaO_Bs</guid>
+      <pubDate>Fri, 20 Nov 2026 07:00:30 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>cR9STxaO_Bs</news:videoId>
+      <news:publishedIst>2026-11-20T12:30:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/cR9STxaO_Bs/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Saji Rajasekharan, chief technology officer of Experity, says the company's clearest AI gains in urgent care are in coding and billing: fewer denials, faster payment, and more accurate coding. An AI scribe listens to the assessment and the diagnosis and writes structured notes into the medical record. He says clinicians often spend two or three hours or more a day finishing notes, including at home. Care Agent lets a patient look for care in a chat without another password and sends the reason for the visit into the record. Experity requires the provider to review and sign off. He describes about 80 to 100 patients a day in flu season and about 25 off season. He says one client's discharge instructions cut call volume and shortened the closing conversation from about 15 minutes to about 2 minutes. He puts the scale at about 7,000 clinics and 40 million patients. Experity acquired Exdion a few months ago, an AI product covering the path from a closed chart to payment, and he is using that team to grow engineers in Bengaluru who own products for American urgent care. He says the company believes it is already the operating system for urgent care among the top 20 US enterprise operators. Autonomous clinical decisions are a later step. He referred to a Karnataka reskilling scheme he believes is called Nipuna.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Saji Rajasekharan says Experity's clearest gains are fewer denials, faster payment, and more accurate coding.</li>
+<li>An AI scribe writes the visit into the medical record, and Care Agent takes the reason for the visit without another password.</li>
+<li>The provider has to review and sign off.</li>
+<li>He describes about 80 to 100 patients a day in flu season and about 25 off season.</li>
+<li>One client saw the closing conversation fall from about 15 minutes to about 2 minutes, and call volume fell.</li>
+<li>He cites about 7,000 clinics and 40 million patients.</li>
+<li>Experity acquired Exdion a few months ago and is growing a Bengaluru team that owns products for US urgent care.</li>
+<li>He says autonomous clinical decisions are later, and he believes a Karnataka reskilling scheme is called Nipuna.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>SmartFab, Cyber Evolution, and Unitree's India partner look for work at the summit</title>
+      <link>https://www.youtube.com/watch?v=zoperbypFbo</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=zoperbypFbo</guid>
+      <pubDate>Fri, 20 Nov 2026 06:00:17 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>zoperbypFbo</news:videoId>
+      <news:publishedIst>2026-11-20T11:30:17+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/zoperbypFbo/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>On day two of the Bengaluru Tech Summit, Sanjana Gupta speaks with the Baden-Württemberg delegation, SmartFab, Cyber Evolution, and Unitree's partner in India. The German state, which the booth shortens to the Länd, is offering Indian founders a route in, including through a deep-tech startup factory that introduces science-based startups to Mittelstand companies. An Indian medtech startup making a wearable is just setting up in Stuttgart. Ann LoCicero, founder and chief executive of Italy-based SmartFab, says the company builds a digital twin from factory data so manufacturers can catch a process fault, or a raw material likely to cause a defect, while the line is running. SmartFab does not train models on other customers' data. This is its first trip to India. It wants software partners, proof-of-concept customers in semiconductors, electronics, and pharmaceuticals, and small and medium manufacturers. A Cyber Evolution representative based in Yelahanka says the Italian network-detection product has been in production for five and a half years and is meant to stop a threat before it becomes an incident. Research would stay in Italy, Indian staff would train there for about three months, and the company is considering joining an existing operation of more than 50 people. Rahul, who says his organization is the exclusive Unitree partner in India, says the robots are raw hardware until programmed. He names inspection, surveillance, defense, and security, and he points to a firefighting robot on a water hose that he says can throw water up to 50 meters. No deployment count is given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Baden-Württemberg, shortened at the booth to the Länd, is recruiting Indian founders, and an Indian medtech wearable startup is setting up in Stuttgart.</li>
+<li>Ann LoCicero says SmartFab turns factory data into a digital twin and does not train on other customers' data.</li>
+<li>SmartFab wants Indian partners and proof-of-concept work in semiconductors, electronics, and pharmaceuticals. This is its first trip to India.</li>
+<li>Cyber Evolution's Italian product has been in production for five and a half years.</li>
+<li>The company wants Indian staff to train in Italy for about three months and is considering an existing operation of more than 50 people.</li>
+<li>Rahul says his organization is Unitree's exclusive partner in India.</li>
+<li>He says a firefighting robot on a water hose can throw water up to 50 meters. No deployment count is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Kris Gopalakrishnan expects AI to expand work for Indian IT services</title>
+      <link>https://www.youtube.com/watch?v=h78n2b0OH4Q</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=h78n2b0OH4Q</guid>
+      <pubDate>Fri, 20 Nov 2026 05:00:23 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>h78n2b0OH4Q</news:videoId>
+      <news:publishedIst>2026-11-20T10:30:23+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/h78n2b0OH4Q/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Kanishk Singh speaks with Kris Gopalakrishnan, co-founder of Infosys and chairman of Axilor Ventures, on day two of the Bengaluru Tech Summit. Gopalakrishnan says every institution has to teach students to use AI tools. Four agreements signed at the summit, including with Google, are meant to train about two lakh people. IIIT Bangalore's AI hub will train trainers and retrain people already in IT. The university's own degree and research programs are probably a year or two away, not the next academic year. Shorter programs, including ones Keonics is starting, can begin sooner. He says agentic AI in public services is inevitable, and the responsible AI committee's first job is to keep that use safe and private. He referred to an announcement from the day before, a name he only roughly recalled, for a data space in which the data stays put and only the changed weights leave. Asked about a figure of about 60,000 GPUs at 18 percent utilization, he says startups still find access difficult and expensive, and he wants capacity spread out rather than held in one place. He points to analog-computing research he works on at the Indian Institute of Science as a possible route to cheaper matrix computation if it is developed further.</p>
+<p>He expects AI to expand IT services work, because new tools still have to be joined to older systems and existing data has to be prepared. Programming might fall from about 10 percent of a project to 1 or 2 percent, but he does not expect a significant long-term cut in the workload. He cites growth from 115 million dollars in 1993 to 300 billion dollars and says sector employment, including chip design, will keep rising. Asked about a 15 percent decline in the Nifty this year, he says investors chase the fastest returns, and that five or seven companies are about 40 percent of US market value. Every IT employee has to be retrained, and students finishing now will need extra training. Axilor is a closed fund with four or five general partners. It is shifting toward deep tech without becoming deep-tech only, and it starts two or three companies a year. He describes a government research fund as one lakh crore. He puts the summit at about 21,000 visitors the day before, with an expectation of 60,000 to one lakh, 750 speakers, and 1,500 exhibits.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Four summit agreements, including with Google, are meant to train about two lakh people.</li>
+<li>The AI university's own degrees are probably a year or two away. Shorter Keonics programs can start sooner.</li>
+<li>He wants a data space where the data stays and only updated weights leave. He only roughly recalled the announcement's name.</li>
+<li>He was asked about 60,000 GPUs at 18 percent utilization and said startups still find access difficult and expensive.</li>
+<li>He expects IT services work to expand even if programming falls from about 10 percent of a project to 1 or 2 percent.</li>
+<li>He cites growth from 115 million dollars in 1993 to 300 billion dollars and says employment will keep rising.</li>
+<li>Axilor has four or five general partners, starts two or three companies a year, and is not a deep-tech-only fund.</li>
+<li>He describes a government research fund as one lakh crore and the summit as about 21,000 visitors the day before.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Qbit Force claims about 40 crore rupees in revenue without venture capital</title>
+      <link>https://www.youtube.com/watch?v=VTwaF4_wz2g</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=VTwaF4_wz2g</guid>
+      <pubDate>Fri, 20 Nov 2026 03:59:00 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>VTwaF4_wz2g</news:videoId>
+      <news:publishedIst>2026-11-20T09:29:00+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/VTwaF4_wz2g/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Sanjana Gupta speaks with L. Venkata Subramaniam, founder and chief executive of Qbit Force. He says the first two systems, one with 5 qubits and one with 25 qubits, go down to milli-Kelvin temperatures, and the conversation tied those systems to Amaravati. Q-Shiva is a lower-cost system so colleges can test hardware. The in-house Nada processor is gold-plated, its packaging was done in Machilipatnam, and he says it holds niobium resonators for about five qubits at frequencies such as 5, 5.5, and 6 gigahertz. Niobium is superconducting around 8 Kelvin, so those resonators can be tested without a dilution refrigerator, while the qubits themselves need milli-Kelvin temperatures. Helium-4 could replace helium-3 if the operating temperature rises. He says helium-3 is not found naturally on Earth. He credits Professor Premalatha with teaching AI at PES College in Mandya in 1991. A 16-year-old girl who was shown the open cooling system later filed a patent on it. The company, started last December, is about to export systems to research labs. He turned down term sheets that would have given an investor control over hiring and markets, and he and a co-founder used their own money, including retirement funds. He names SRM, Qubitech, Chandigarh University, and BIBS as supporters placing orders, and he claims about 40 crore rupees in revenue within the first year. He says he met minister Ajay Singh. No priority export country is named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>L. Venkata Subramaniam says Qbit Force's first systems have 5 and 25 qubits and were discussed in connection with Amaravati.</li>
+<li>Q-Shiva is for colleges to test hardware. The Nada processor's packaging was done in Machilipatnam.</li>
+<li>Niobium resonators for about five qubits can be tested without a dilution refrigerator because niobium is superconducting around 8 Kelvin.</li>
+<li>He says helium-4 could stand in for helium-3, which is not found naturally on Earth, if the temperature can be raised.</li>
+<li>A 16-year-old girl filed a patent on the helium cooling system after seeing the machine opened.</li>
+<li>The company started last December, declined investor control over hiring and markets, and was funded by the founders.</li>
+<li>He names SRM, Qubitech, Chandigarh University, and BIBS as customers and claims about 40 crore rupees in first-year revenue.</li>
+<li>No priority export country is named.</li>
+</ul>
+      ]]></description>
+    </item>
 
     <item>
       <title>Neysa brings 8,192 AMD Instinct MI350X GPUs online in Mumbai</title>
