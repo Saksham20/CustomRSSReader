@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "youtube-news-source": {
+      "type": "stdio",
+      "command": "python3",
+      "args": ["${workspaceFolder}/mcps/youtube/server.py"],
+      "env": {
+        "YOUTUBE_API_KEY": "${env:YOUTUBE_API_KEY}"
+      }
+    },
+    "aim-news-rewrite": {
+      "type": "stdio",
+      "command": "python3",
+      "args": ["${workspaceFolder}/mcps/rewrite-news/server.py"],
+      "env": {
+        "CURSOR_API_KEY": "${env:CURSOR_API_KEY}"
+      }
+    }
+  }
+}
