@@ -13,11 +13,51 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 19 November 2026 edition, retrieved at 07:01 IST, covers Nvidia's record 115.8 billion dollar revenue and a 130 billion dollar forecast, Isomorphic Labs' 5 billion dollar raise, and a Gartner forecast that puts India's IT spending near 17 lakh crore rupees in 2027.</description>
+    <description>News of relevance. The 20 November 2026 edition, retrieved at 07:04 IST, covers Neysa's 8,192 AMD GPUs in Mumbai, Humyn Labs' 47 million dollar raise, and Cognizant's 133.2 million pound Network Rail contract.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Nov 2026 01:31:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 01:34:41 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
+
+    <news:edition date="2026-11-20">
+      <news:scannedAt>2026-11-20T01:34:41Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-20T07:04:41+05:30</news:scannedAtIst>
+      <news:longFormCount>9</news:longFormCount>
+      <news:shortCount>3</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="1rIGGpxov8Y" published="2026-11-19T14:30:27Z">Neysa brings 8,192 AMD Instinct MI350X GPUs online in Mumbai</news:latestLongForm>
+      <news:method>Friday 20 November 2026, retrieved at 07:04 IST. Twelve reports from the past day are included. Remarks from the two long briefings and from the degree debate were not available, so those stay with the announced subjects.</news:method>
+      <news:briefing><![CDATA[
+Friday 20 November 2026, retrieved at 07:04 IST. Neysa has an AMD Instinct MI350X cluster of 8,192 GPUs online in Mumbai for global users. Humyn Labs has raised 47 million dollars, 26 million in equity led by Accel and 21 million in venture debt, to scale human activity recognition across 20 countries. Cognizant has a 133.2 million pound technology infrastructure contract with Network Rail from January 2027 through January 2034.
+
+The morning's through-line: Neysa has 8,192 AMD Instinct MI350X GPUs online in Mumbai, Humyn Labs has raised 47 million dollars to scale human activity recognition, and Cognizant has a 133.2 million pound Network Rail contract running through January 2034.
+
+Mumbai compute. Neysa has launched an AMD Instinct MI350X cluster in Mumbai. The installation has 8,192 GPUs and is operational for global users. It supports model training, fine-tuning, and inference for enterprise clients, and it pairs AMD ROCm software with custom network and storage. The facility is aimed at growing demand for high-performance compute in the region, and it is presented as capacity for deep learning and for production workloads.
+
+Human activity. Humyn Labs has raised 47 million dollars to scale human activity recognition and to capture human tasks for robot training data. The capital is meant to support robotics development across 20 countries. Of the total, 26 million dollars is equity led by Accel and 21 million dollars is venture debt. The work is on how machines perceive and interpret physical movement. The company is expanding globally to refine its core software for industrial use. Demand for accurate human activity recognition is described as growing as businesses add more automation. No valuation is given.
+
+Network Rail. Cognizant has a 133.2 million pound technology infrastructure contract with Network Rail. The seven-year agreement covers critical infrastructure services from January 2027 through January 2034, and it is described as a commitment to modernizing Britain's rail network. Cognizant beat TCS, HCL Tech, DXC Technology, and ATOS. The win is also described as expanding Cognizant's public-sector work in the UK.
+
+Bengaluru's capital. Bengaluru's deep tech funding has reached 3.77 billion dollars since 2010, more than double Delhi NCR, which raised 1.64 billion dollars over the same period. Chennai is third. No figure is given for Chennai. The same ecosystem has more than 799 AI startups. Roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru.
+
+The afternoon list. The afternoon briefing names eight subjects. A report finds Bengaluru leading India's deep-tech funding at 3.77 billion dollars since 2010, with AI activity concentrated in the city and a challenge in expanding beyond it. Cognizant is selected for Network Rail's 133.2 million pound infrastructure contract. Humyn Labs raises 47 million dollars for physical AI. Neysa brings 8,192 AMD GPUs online in Mumbai. Amazon and Google are expected to hold 28.4 percent of Anthropic after a proposed IPO. Microsoft is expanding its in-house AI models. Meta's Muse agent faces a security backlash. OpenAI is helping AMD improve GPU circuitry. The split of Humyn's 47 million dollars, the years of the rail contract, the ROCm software, the class of Anthropic shares, the names of Microsoft's models, the Muse download count, and any detail of the AMD circuitry work are not on that list.
+
+Muse. Meta's Muse agent is facing a security backlash, in a story presented as coming after the agent passed 10 million downloads. That download count is not repeated in the security account. The account centers on unauthorized actions and on signal messages reached through notifications. Android push alerts are described as an exploit vector for autonomous agents. Current incidents are described as appearing isolated, and as a sign of a wider problem for enterprise security when large language models sit on phones. No incident count and no attacker are named.
+
+Microsoft's models. Microsoft is adding MAI Code 2, Cyber 2 Flash, and Image 2.7 to its in-house lineup. The fuller account names Code 2 and Code 2 Flash and describes models for coding and business, covering software development, cybersecurity, and image generation. It does not repeat Cyber 2 Flash or Image 2.7. The models are aimed at everyday coding, with scalable pricing for enterprise users. Task-specific benchmark results are cited. No score and no price are given.
+
+Anthropic's shareholders. Amazon and Google are set to hold a combined 28.4 percent of Anthropic after a private share sale and the company's projected stock market listing. Amazon is expected to hold 14.7 percent. Google is described as securing 13.7 percent. Both would hold class N non-voting shares, leaving management control separate from the financial stake. No valuation and no listing date are given.
+
+The summit. Day 3 of the Bengaluru Tech Summit is the 29th edition of what is described as Asia's largest integrated technology summit, running 17 to 19 November at the Bangalore International Exhibition Centre under the theme AI and Beyond. The announced guests are D.K. Shivakumar, chief minister of Karnataka; Priyank Kharge, minister for home, information technology, biotechnology and e-governance; Kiran Mazumdar-Shaw, executive chairperson of Biocon and chairperson of the state's Vision Group on Biotechnology; Pratik Gandhi, actor, storyteller and theatre practitioner; and Puneet Chandok, president of Microsoft India and South Asia. No remarks from them are established.
+
+The degree question. Point Break asks whether engineering degrees are enough for tech jobs in India. Antara Gupta speaks with Amar Srivastava, chief executive of Scaler - Online; Dr. Edwin Anthony, senior director and head of GCGC at GITAM Deemed University; and Raghav Gupta, founder of FDE Academy. The subjects are degree versus skill, employability, and entry-level hiring in the AI era; who should train graduates; curriculum reform and who owns the changes; placement accountability and audited placement rates; fundamentals versus application; paying for a degree and then an academy; whether companies should train freshers; universities treated as corporate training centres; internships in policy and in practice; fake certificates; faculty pay and where college money goes; who pays for upskilling; the hiring bar for freshers; the rise of edtech; and assessing students when AI is available. What the speakers concluded is not established.
+
+Nvidia's commitments. Nvidia's purchase commitments have reached 390 billion dollars. The interim chief executive described supplier support as a capital priority, including prepayments that help suppliers expand capacity. That places Nvidia on both sides of the buildout, securing components while supporting some of the companies that buy its systems. Nvidia also reported 32 billion dollars in neocloud commitments, agreements with specialized AI cloud providers, and says it is rigorously evaluating future investments, commitments, and guarantees. The interim chief executive is not named. The revenue total from the earlier report is not restated here.
+
+Isomorphic Labs. Isomorphic Labs has raised 5 billion dollars in a series C as it prepares to move AI-designed drug candidates toward clinical trials. Alphabet is continuing to invest. The company says its internal cancer and immunology programs have produced positive preclinical results. Those results come before testing in people. What the results showed is not stated, and other investors are not named.
+      ]]></news:briefing>
+    </news:edition>
 
     <news:edition date="2026-11-19">
       <news:scannedAt>2026-11-19T01:31:58Z</news:scannedAt>
@@ -292,6 +332,294 @@ Still in this file from the morning. The first eight shorts cover film teaching 
     </news:edition>
 
 
+
+    <item>
+      <title>Neysa brings 8,192 AMD Instinct MI350X GPUs online in Mumbai</title>
+      <link>https://www.youtube.com/watch?v=1rIGGpxov8Y</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=1rIGGpxov8Y</guid>
+      <pubDate>Thu, 19 Nov 2026 14:30:27 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>1rIGGpxov8Y</news:videoId>
+      <news:publishedIst>2026-11-19T20:00:27+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/1rIGGpxov8Y/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Neysa has launched an AMD Instinct MI350X cluster in Mumbai. The installation has 8,192 GPUs and is operational for global users. It supports model training, fine-tuning, and inference for enterprise clients. The facility pairs AMD ROCm software with custom network and storage, and it is aimed at growing demand for high-performance compute in the region. It is presented as capacity for deep learning architectures and for production workloads.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Neysa has launched an AMD Instinct MI350X cluster in Mumbai.</li>
+<li>The installation has 8,192 GPUs and is operational for global users.</li>
+<li>It supports model training, fine-tuning, and inference for enterprise clients.</li>
+<li>The facility uses AMD ROCm software with custom network and storage.</li>
+<li>It is aimed at regional demand for high-performance compute, including deep learning and production workloads.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Humyn Labs raises 47 million dollars for human activity recognition</title>
+      <link>https://www.youtube.com/watch?v=7Wj-1n2WfLA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=7Wj-1n2WfLA</guid>
+      <pubDate>Thu, 19 Nov 2026 14:00:12 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>7Wj-1n2WfLA</news:videoId>
+      <news:publishedIst>2026-11-19T19:30:12+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/7Wj-1n2WfLA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Humyn Labs has raised 47 million dollars to scale human activity recognition and to capture human tasks for robot training data. The capital is meant to support robotics development across 20 countries. Of the total, 26 million dollars is equity led by Accel and 21 million dollars is venture debt. The work is on how machines perceive and interpret physical movement. The company is expanding globally to refine its core software for industrial use. No valuation is given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Humyn Labs has raised 47 million dollars.</li>
+<li>The raise is to scale human activity recognition and to capture human tasks for robot training data.</li>
+<li>The capital is meant to support robotics development across 20 countries.</li>
+<li>26 million dollars is equity led by Accel.</li>
+<li>21 million dollars is venture debt.</li>
+<li>The company is expanding globally to refine software for how machines read physical movement.</li>
+<li>No valuation is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Cognizant wins a 133.2 million pound Network Rail contract</title>
+      <link>https://www.youtube.com/watch?v=zmg1oxILvgw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=zmg1oxILvgw</guid>
+      <pubDate>Thu, 19 Nov 2026 13:00:20 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>zmg1oxILvgw</news:videoId>
+      <news:publishedIst>2026-11-19T18:30:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/zmg1oxILvgw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Cognizant has a 133.2 million pound technology infrastructure contract with Network Rail. The seven-year agreement covers critical infrastructure services from January 2027 through January 2034. Cognizant beat TCS, HCL Tech, DXC Technology, and ATOS. The contract is described as a commitment to modernizing Britain's rail network and as an expansion of Cognizant's public-sector work in the UK.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Cognizant has a 133.2 million pound technology infrastructure contract with Network Rail.</li>
+<li>The agreement runs for seven years, from January 2027 through January 2034.</li>
+<li>It covers critical infrastructure services.</li>
+<li>Cognizant beat TCS, HCL Tech, DXC Technology, and ATOS.</li>
+<li>The contract is tied to modernizing Britain's rail network.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Bengaluru deep tech funding reaches 3.77 billion dollars since 2010</title>
+      <link>https://www.youtube.com/watch?v=TJny7u0aRXs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=TJny7u0aRXs</guid>
+      <pubDate>Thu, 19 Nov 2026 12:30:16 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>TJny7u0aRXs</news:videoId>
+      <news:publishedIst>2026-11-19T18:00:16+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/TJny7u0aRXs/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Bengaluru's deep tech funding has reached 3.77 billion dollars since 2010, more than double Delhi NCR, which raised 1.64 billion dollars over the same period. Chennai is third. No figure is given for Chennai. The ecosystem has more than 799 AI startups. Roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Bengaluru deep tech funding has reached 3.77 billion dollars since 2010.</li>
+<li>That is more than double Delhi NCR, which raised 1.64 billion dollars in the same period.</li>
+<li>Chennai is third, and no funding figure is given for it.</li>
+<li>The ecosystem has more than 799 AI startups.</li>
+<li>Roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Meta's Muse agent faces a security backlash over notification access</title>
+      <link>https://www.youtube.com/watch?v=PjjxLKS__K0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PjjxLKS__K0</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:15 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>PjjxLKS__K0</news:videoId>
+      <news:publishedIst>2026-11-19T17:30:15+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/PjjxLKS__K0/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Meta's Muse agent is facing a security backlash, in a story presented as coming after the agent passed 10 million downloads. That download count is not repeated in the security account. The account centers on unauthorized actions and on signal messages reached through notifications. Android push alerts are described as an exploit vector. Current incidents are described as appearing isolated, and as a sign of a wider problem when autonomous agents and large language models sit on phones. No incident count and no attacker are named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Meta's Muse agent is facing a security backlash.</li>
+<li>The story is presented as coming after 10 million downloads, and the security account does not repeat that figure.</li>
+<li>The concerns are unauthorized actions and signal messages reached through notifications.</li>
+<li>Android push alerts are described as an exploit vector.</li>
+<li>Current incidents are described as appearing isolated.</li>
+<li>No incident count and no attacker are named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Bengaluru's deep-tech lead opens the afternoon briefing</title>
+      <link>https://www.youtube.com/watch?v=4MNbCrb7pN0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=4MNbCrb7pN0</guid>
+      <pubDate>Thu, 19 Nov 2026 11:36:43 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>4MNbCrb7pN0</news:videoId>
+      <news:publishedIst>2026-11-19T17:06:43+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/4MNbCrb7pN0/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The afternoon briefing lists eight subjects. A report finds Bengaluru leading India's deep-tech funding at 3.77 billion dollars since 2010, with AI activity concentrated in the city and a challenge in expanding beyond it. Cognizant is selected for Network Rail's 133.2 million pound infrastructure contract. Humyn Labs raises 47 million dollars for physical AI. Neysa brings 8,192 AMD GPUs online in Mumbai. Amazon and Google are expected to hold 28.4 percent of Anthropic after a proposed IPO. Microsoft is expanding its in-house AI models. Meta's Muse agent faces a security backlash. OpenAI is helping AMD improve GPU circuitry. Nothing beyond that list is established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Bengaluru leads India's deep-tech funding at 3.77 billion dollars since 2010.</li>
+<li>The same subject includes concentrated AI activity and the challenge of expanding beyond the city.</li>
+<li>Cognizant is selected for Network Rail's 133.2 million pound infrastructure contract.</li>
+<li>Humyn Labs raises 47 million dollars for physical AI.</li>
+<li>Neysa brings 8,192 AMD GPUs online in Mumbai.</li>
+<li>Amazon and Google are expected to hold 28.4 percent of Anthropic after a proposed IPO.</li>
+<li>Microsoft is expanding its in-house AI models.</li>
+<li>Meta's Muse agent faces a security backlash.</li>
+<li>OpenAI is helping AMD improve GPU circuitry.</li>
+<li>Nothing beyond that list is established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Microsoft adds MAI Code 2, Cyber 2 Flash, and Image 2.7</title>
+      <link>https://www.youtube.com/watch?v=hm10QWDz3cw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=hm10QWDz3cw</guid>
+      <pubDate>Thu, 19 Nov 2026 11:30:18 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>hm10QWDz3cw</news:videoId>
+      <news:publishedIst>2026-11-19T17:00:18+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/hm10QWDz3cw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Microsoft is adding MAI Code 2, Cyber 2 Flash, and Image 2.7 to its in-house lineup. The fuller account names Code 2 and Code 2 Flash and describes models for coding and business, covering software development, cybersecurity, and image generation. It does not repeat Cyber 2 Flash or Image 2.7. The models are aimed at everyday coding, with scalable pricing for enterprise users. Task-specific benchmark results are cited. No score and no price are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Microsoft is adding MAI Code 2, Cyber 2 Flash, and Image 2.7.</li>
+<li>The fuller account names Code 2 and Code 2 Flash.</li>
+<li>It covers software development, cybersecurity, and image generation.</li>
+<li>Cyber 2 Flash and Image 2.7 are not repeated in that account.</li>
+<li>The models are aimed at everyday coding, with scalable enterprise pricing.</li>
+<li>Benchmark results are cited, and no score or price is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Amazon and Google are set to hold 28.4 percent of Anthropic</title>
+      <link>https://www.youtube.com/watch?v=2JFkOoFouJY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=2JFkOoFouJY</guid>
+      <pubDate>Thu, 19 Nov 2026 11:00:30 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>2JFkOoFouJY</news:videoId>
+      <news:publishedIst>2026-11-19T16:30:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/2JFkOoFouJY/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Amazon and Google are set to hold a combined 28.4 percent of Anthropic after a private share sale and the company's projected stock market listing. Amazon is expected to hold 14.7 percent. Google is described as securing 13.7 percent. Both would hold class N non-voting shares, leaving management control separate from the financial stake. No valuation and no listing date are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Amazon and Google are set to hold a combined 28.4 percent of Anthropic.</li>
+<li>The stake follows a private share sale and a projected listing.</li>
+<li>Amazon is expected to hold 14.7 percent.</li>
+<li>Google is described as securing 13.7 percent.</li>
+<li>Both would hold class N non-voting shares.</li>
+<li>Management control is described as staying separate from the financial stake.</li>
+<li>No valuation and no listing date are given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Day 3 of the Bengaluru Tech Summit lists the announced guests</title>
+      <link>https://www.youtube.com/watch?v=ZbdQ7uUeMr4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ZbdQ7uUeMr4</guid>
+      <pubDate>Thu, 19 Nov 2026 10:39:06 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>ZbdQ7uUeMr4</news:videoId>
+      <news:publishedIst>2026-11-19T16:09:06+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/ZbdQ7uUeMr4/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Day 3 of the Bengaluru Tech Summit is the 29th edition of what is described as Asia's largest integrated technology summit, running 17 to 19 November at the Bangalore International Exhibition Centre under the theme AI and Beyond. The announced guests are D.K. Shivakumar, chief minister of Karnataka; Priyank Kharge, minister for home, information technology, biotechnology and e-governance; Kiran Mazumdar-Shaw, executive chairperson of Biocon and chairperson of the state's Vision Group on Biotechnology; Pratik Gandhi, actor, storyteller and theatre practitioner; and Puneet Chandok, president of Microsoft India and South Asia. No remarks from them are established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Day 3 is the 29th edition of the Bengaluru Tech Summit, described as Asia's largest integrated technology summit.</li>
+<li>It runs 17 to 19 November at the Bangalore International Exhibition Centre.</li>
+<li>The theme is AI and Beyond.</li>
+<li>Announced guests are D.K. Shivakumar, Priyank Kharge, Kiran Mazumdar-Shaw, Pratik Gandhi, and Puneet Chandok.</li>
+<li>No remarks from them are established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Point Break asks whether an engineering degree is enough</title>
+      <link>https://www.youtube.com/watch?v=Kt32z2rkAG0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Kt32z2rkAG0</guid>
+      <pubDate>Thu, 19 Nov 2026 07:00:08 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>Kt32z2rkAG0</news:videoId>
+      <news:publishedIst>2026-11-19T12:30:08+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/Kt32z2rkAG0/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Point Break asks whether engineering degrees are enough for tech jobs in India. Antara Gupta speaks with Amar Srivastava, chief executive of Scaler - Online; Dr. Edwin Anthony, senior director and head of GCGC at GITAM Deemed University; and Raghav Gupta, founder of FDE Academy. The subjects are degree versus skill, employability, entry-level hiring in the AI era, who should train graduates, curriculum reform, placement accountability, fundamentals versus application, paying for a degree and then an academy, whether companies should train freshers, universities as corporate training centres, internships, fake certificates, faculty pay, the cost of upskilling, the hiring bar for freshers, the rise of edtech, assessing students when AI is available, and whether universities should publish audited placement rates. What the speakers concluded is not established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Antara Gupta hosts Point Break with Amar Srivastava of Scaler - Online, Dr. Edwin Anthony of GITAM Deemed University, and Raghav Gupta of FDE Academy.</li>
+<li>The question is whether engineering degrees are enough for tech jobs in India.</li>
+<li>Subjects include employability, degree versus skill, curriculum reform, internships, faculty pay, edtech, and entry-level hiring in the AI era.</li>
+<li>What the speakers concluded is not established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Nvidia's purchase commitments reach 390 billion dollars</title>
+      <link>https://www.youtube.com/watch?v=Fs9PKk5Wnsk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Fs9PKk5Wnsk</guid>
+      <pubDate>Thu, 19 Nov 2026 02:30:16 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>Fs9PKk5Wnsk</news:videoId>
+      <news:publishedIst>2026-11-19T08:00:16+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/Fs9PKk5Wnsk/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Nvidia's purchase commitments have reached 390 billion dollars. The interim chief executive described supplier support as a capital priority, including prepayments that help suppliers expand capacity. That places Nvidia on both sides of the buildout, securing components while supporting some of the companies that buy its systems. Nvidia also reported 32 billion dollars in neocloud commitments, agreements with specialized AI cloud providers, and says it is rigorously evaluating future investments, commitments, and guarantees. The interim chief executive is not named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Nvidia's purchase commitments have reached 390 billion dollars.</li>
+<li>The interim chief executive described supplier support as a capital priority, including prepayments.</li>
+<li>Nvidia is described as securing components and supporting some buyers of its systems.</li>
+<li>Nvidia reported 32 billion dollars in neocloud commitments with specialized AI cloud providers.</li>
+<li>Nvidia says it is rigorously evaluating future investments, commitments, and guarantees.</li>
+<li>The interim chief executive is not named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Isomorphic Labs raises 5 billion dollars in a series C</title>
+      <link>https://www.youtube.com/watch?v=naz6J40TZWQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=naz6J40TZWQ</guid>
+      <pubDate>Thu, 19 Nov 2026 02:00:30 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>naz6J40TZWQ</news:videoId>
+      <news:publishedIst>2026-11-19T07:30:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/naz6J40TZWQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Isomorphic Labs has raised 5 billion dollars in a series C as it prepares to move AI-designed drug candidates toward clinical trials. Alphabet is continuing to invest. The company says its internal cancer and immunology programs have produced positive preclinical results. Those results come before testing in people. What the results showed is not stated, and other investors are not named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Isomorphic Labs has raised 5 billion dollars in a series C.</li>
+<li>The company is preparing to move AI-designed drug candidates toward clinical trials.</li>
+<li>Alphabet is continuing to invest.</li>
+<li>The company says its cancer and immunology programs have produced positive preclinical results.</li>
+<li>Those results come before testing in people.</li>
+<li>What the results showed is not stated, and other investors are not named.</li>
+</ul>
+      ]]></description>
+    </item>
 
     <item>
       <title>Accenture and Google Cloud training will cover generative AI and agents</title>
