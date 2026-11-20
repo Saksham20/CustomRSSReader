@@ -11,22 +11,24 @@
     <link>news/2026-11-20.xml</link>
     <description>News for Friday 20 November 2026.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:01:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:26:41 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
     <news:edition date="2026-11-20">
-      <news:scannedAt>2026-11-20T12:01:00Z</news:scannedAt>
-      <news:scannedAtIst>2026-11-20T17:31:00+05:30</news:scannedAtIst>
-      <news:longFormCount>15</news:longFormCount>
+      <news:scannedAt>2026-11-20T12:26:41Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-20T17:56:41+05:30</news:scannedAtIst>
+      <news:longFormCount>16</news:longFormCount>
       <news:shortCount>0</news:shortCount>
       <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
       <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
-      <news:latestLongForm videoId="4qdScpfBdTs" published="2026-11-20T12:00:04Z">Cyient Semiconductor has approval for a 10 million dollar GlobalFoundries investment</news:latestLongForm>
-      <news:method>Friday 20 November 2026, retrieved at 17:31 IST.</news:method>
+      <news:latestLongForm videoId="kWwTEiz7NOw" published="2026-11-20T12:02:26Z">Narendra Modi urges industry to build technologies India still imports</news:latestLongForm>
+      <news:method>Friday 20 November 2026, retrieved at 17:56 IST.</news:method>
       <news:briefing>
-Friday 20 November 2026, retrieved at 17:31 IST. Cyient Semiconductor has approval for a 10 million dollar equity investment from GlobalFoundries, at a 510 million dollar post-money valuation. The investment is still to be completed. At the FICCI convention in New Delhi, Prime Minister Narendra Modi asked companies to plan for the next 20 years and to build in India the inputs the country still imports. Karnataka's deep tech startups have investment commitments of 1,050 crore rupees from 24 venture firms.
+Friday 20 November 2026, retrieved at 17:56 IST. At FICCI's annual convention, Prime Minister Narendra Modi urged industry to develop technologies India still imports, pointing to gaps in pharmaceutical ingredients, specialised metals, and industrial machinery. The same briefing lists GlobalFoundries' planned 10 million dollar investment in Cyient Semiconductors and 1,050 crore rupees in Karnataka deep-tech commitments from 24 venture firms.
 
-The morning's through-line: Cyient Semiconductor has approval for a 10 million dollar GlobalFoundries investment at a 510 million dollar valuation, Narendra Modi asked industry to plan for 20 years and build imported inputs in India, and Karnataka deep tech startups have 1,050 crore rupees in pledges from 24 venture firms.
+The morning's through-line: Narendra Modi urged industry to build technologies India still imports, GlobalFoundries plans a 10 million dollar investment in Cyient Semiconductors, and Karnataka has 1,050 crore rupees in deep-tech commitments from 24 firms.
+
+The evening list. The briefing names eight subjects. Narendra Modi urges industry to build India's technology capabilities, with gaps in pharmaceutical ingredients, specialised metals, and industrial machinery. Karnataka's global capability centres take on more AI work. Karnataka announces 1,050 crore rupees in deep-tech commitments from 24 venture capital firms. GlobalFoundries plans a 10 million dollar investment in Cyient Semiconductors and backs its custom-chip business. Anthropic makes a record stock-market debut, given as 81.3 billion dollars. Gemini 4 Neon enters a coding contest. GTA VI launches as sales estimates climb. Google's Willow wins a quantum coordination game. Nothing beyond that list is established for the debut, the contest, the game launch, or the quantum result.
 
 The chip stake. Cyient Semiconductor has approval for a 10 million dollar strategic equity investment from GlobalFoundries. The announced post-money valuation is 510 million dollars, tied to this investment and a recent round that were both priced at a 490 million dollar pre-money valuation. The name of that earlier round was unclear. The company designs application-specific chips and wants to take a design from architecture through manufacturing coordination, packaging, testing, qualification, and supply. The proposed relationship is meant to strengthen access to manufacturing, long-term wafer supply, and production support. The markets named are automotive, industrial systems, communications, and infrastructure related to AI. Design operations are in India, Belgium, and the United States, and the work also includes analog and mixed-signal chips and power management. The deal is still to be carried out. That does not establish that the money has been received, or that a new fabrication plant is being built in India.
 
@@ -55,6 +57,33 @@ Open quantum hardware. Sanjana Gupta speaks with L. Venkata Subramaniam, founder
 Still in this window. Neysa has an AMD Instinct MI350X cluster of 8,192 GPUs online in Mumbai for global users, with ROCm software and custom network and storage, for training, fine-tuning, and inference. Humyn Labs has raised 47 million dollars, 26 million in equity led by Accel and 21 million in venture debt, to scale human activity recognition across 20 countries. No valuation is given. Cognizant has a 133.2 million pound Network Rail contract from January 2027 through January 2034, after beating TCS, HCL Tech, DXC Technology, and ATOS. Bengaluru's deep tech funding is 3.77 billion dollars since 2010, more than double Delhi NCR at 1.64 billion dollars. Chennai is third, with no figure given. The ecosystem has more than 799 AI startups, and roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru. The afternoon briefing listed Bengaluru's 3.77 billion dollars, the Network Rail contract, Humyn's raise for physical AI, Neysa's GPUs, an expected combined 28.4 percent of Anthropic for Amazon and Google, Microsoft's models, the Muse backlash, and OpenAI's work on AMD circuitry. That list does not carry the 14 percent figure, the pledge total, or the 111,000 professionals.
       </news:briefing>
     </news:edition>
+
+    <item>
+      <title>Narendra Modi urges industry to build technologies India still imports</title>
+      <link>https://www.youtube.com/watch?v=kWwTEiz7NOw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=kWwTEiz7NOw</guid>
+      <pubDate>Fri, 20 Nov 2026 12:02:26 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>kWwTEiz7NOw</news:videoId>
+      <news:publishedIst>2026-11-20T17:32:26+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/kWwTEiz7NOw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>At FICCI's annual convention, Prime Minister Narendra Modi urged industry to develop technologies India still imports, pointing to gaps in pharmaceutical ingredients, specialised metals, and industrial machinery. The same briefing also names Karnataka's global capability centres taking on more AI work, 1,050 crore rupees in deep-tech commitments from 24 venture capital firms, and GlobalFoundries' planned 10 million dollar investment in Cyient Semiconductors. It lists four further subjects: Anthropic's record stock-market debut, given as 81.3 billion dollars; Gemini 4 Neon in a coding contest; the GTA VI launch as sales estimates climb; and Google's Willow winning a quantum coordination game. Nothing beyond that list is established for those four.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Narendra Modi urged industry at FICCI's annual convention to develop technologies India still imports.</li>
+<li>The gaps named are pharmaceutical ingredients, specialised metals, and industrial machinery.</li>
+<li>Karnataka's global capability centres are taking on more AI work.</li>
+<li>Karnataka has 1,050 crore rupees in deep-tech commitments from 24 venture capital firms.</li>
+<li>GlobalFoundries plans a 10 million dollar investment in Cyient Semiconductors.</li>
+<li>Anthropic's stock-market debut is given as a record 81.3 billion dollars. No further terms are given.</li>
+<li>Gemini 4 Neon is listed in a coding contest. No result is given.</li>
+<li>GTA VI is listed as launching while sales estimates climb. No figure is given.</li>
+<li>Google's Willow is listed as winning a quantum coordination game. No score is given.</li>
+</ul>
+      ]]></description>
+    </item>
 
     <item>
       <title>Cyient Semiconductor has approval for a 10 million dollar GlobalFoundries investment</title>
