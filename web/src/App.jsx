@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { clock, daysIndexUrl, feedUrlForDay, longDate, readFeed, splitKicker } from "./feed.js";
 
 const DAY = /^\d{4}-\d{2}-\d{2}$/;
@@ -121,6 +121,84 @@ function rankFor(index, isLatestDay) {
   return "brief";
 }
 
+function StoryNav({ items, current, open, onToggle, onClose }) {
+  const listRef = useRef(null);
+
+  useEffect(() => {
+    const node = listRef.current?.querySelector("[aria-current='true']");
+    node?.scrollIntoView({ block: "nearest" });
+  }, [current, open]);
+
+  function go(id) {
+    const node = document.getElementById(id);
+    if (!node) return;
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    node.scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "start" });
+    const url = new URL(window.location.href);
+    url.hash = id;
+    window.history.replaceState({}, "", url);
+    onClose();
+  }
+
+  return (
+    <>
+      <button
+        className="articles-toggle"
+        type="button"
+        aria-expanded={open}
+        aria-controls="article-nav"
+        onClick={onToggle}
+      >
+        Articles
+        <span>{items.length}</span>
+      </button>
+      {open ? (
+        <button className="articles-backdrop" type="button" aria-label="Close articles" onClick={onClose} />
+      ) : null}
+      <aside id="article-nav" className={open ? "story-rail is-open" : "story-rail"}>
+        <div className="story-rail-head">
+          <strong>Articles</strong>
+          <button className="story-rail-close" type="button" onClick={onClose}>
+            Close
+          </button>
+        </div>
+        <label className="article-jump">
+          <span>Go to</span>
+          <select
+            aria-label="Go to an article"
+            value={items.some((item) => item.id === current) ? current : ""}
+            onChange={(event) => go(event.target.value)}
+          >
+            {items.map((item, index) => (
+              <option key={item.id} value={item.id}>
+                {String(index + 1).padStart(2, "0")} · {item.title}
+              </option>
+            ))}
+          </select>
+        </label>
+        <nav className="index" aria-label="Articles in this edition" ref={listRef}>
+          {items.map((item, index) => (
+            <a
+              key={item.id}
+              href={`#${item.id}`}
+              className={current === item.id ? "is-current" : undefined}
+              aria-current={current === item.id ? "true" : undefined}
+              onClick={(event) => {
+                event.preventDefault();
+                go(item.id);
+              }}
+            >
+              <span className="index-num">{String(index + 1).padStart(2, "0")}</span>
+              <time>{clock(item.publishedIst)}</time>
+              <span>{item.title}</span>
+            </a>
+          ))}
+        </nav>
+      </aside>
+    </>
+  );
+}
+
 function DayPicker({ selected, days, onDay }) {
   const known = days.some((day) => day.date === selected);
   return (
@@ -141,6 +219,7 @@ function DayPicker({ selected, days, onDay }) {
 
 export function App() {
   const [theme, toggleTheme] = useTheme();
+  const [navOpen, setNavOpen] = useState(false);
   const [selected, setSelected] = useState(selectedDay);
   const [days, setDays] = useState([]);
   const [state, setState] = useState({ status: "loading" });
@@ -183,7 +262,17 @@ export function App() {
 
   useEffect(() => {
     window.scrollTo(0, 0);
+    setNavOpen(false);
   }, [selected]);
+
+  useEffect(() => {
+    if (!navOpen) return undefined;
+    function onKey(event) {
+      if (event.key === "Escape") setNavOpen(false);
+    }
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [navOpen]);
 
   function chooseDay(value) {
     const url = new URL(window.location.href);
@@ -306,14 +395,6 @@ export function App() {
                 ? `Newest long video is still “${latestLong.title},” posted ${longDate(latestLong.published)} at ${clock(latestLong.published)} IST.`
                 : ""}
             </p>
-            <nav className="index" aria-label="Stories in this edition">
-              {feed.items.map((item) => (
-                <a key={item.id} href={`#${item.id}`} className={current === item.id ? "is-current" : undefined}>
-                  <time>{clock(item.publishedIst)}</time>
-                  <span>{item.title}</span>
-                </a>
-              ))}
-            </nav>
           </aside>
         </div>
 
@@ -356,6 +437,15 @@ export function App() {
           </footer>
         ) : null}
       </main>
+      {feed.items.length ? (
+        <StoryNav
+          items={feed.items}
+          current={current}
+          open={navOpen}
+          onToggle={() => setNavOpen((value) => !value)}
+          onClose={() => setNavOpen(false)}
+        />
+      ) : null}
       </>
       )}
     </>
