@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Read-only YouTube discovery, metadata, and transcript MCP for the news pipeline.
 
-Discovery uses the official YouTube Data API. Transcript retrieval uses the
-unofficial youtube-transcript-api package and is best effort: unavailable
-captions and transient YouTube blocking are reported per video, not hidden.
+Discovery uses the official YouTube Data API. Transcript retrieval uses a
+public Invidious instance's captions API and is best effort: an instance that
+is down or has no caption track is reported per video, not hidden.
 """
 
 from __future__ import annotations
@@ -17,7 +17,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
-from urllib.parse import parse_qs, urlparse
+from urllib.parse import parse_qs, urljoin, urlparse
 
 import requests
 from mcp.server.fastmcp import FastMCP
@@ -27,6 +27,13 @@ API_KEY = os.environ.get("YOUTUBE_API_KEY", "").strip()
 REQUEST_TIMEOUT = float(os.environ.get("YOUTUBE_REQUEST_TIMEOUT", "20"))
 MAX_PARALLEL_TRANSCRIPTS = max(1, min(int(os.environ.get("YOUTUBE_TRANSCRIPT_WORKERS", "4")), 8))
 DEFAULT_LANGUAGES = ["en", "en-US", "en-GB"]
+# Public instances from https://docs.invidious.io/instances/
+DEFAULT_INVIDIOUS_INSTANCES = (
+    "https://inv.nadeko.net",
+    "https://invidious.nerdvpn.de",
+    "https://yt.chocolatemoo53.com",
+    "https://invidious.tiekoetter.com",
+)
 SHORT_CANDIDATE_MAX_SECONDS = 180
 MAX_VIDEO_IDS_PER_CALL = 50
 MAX_TRANSCRIPT_CHARS = 40000
@@ -241,8 +248,153 @@ def _recent_uploads(channel: str, hours: int, max_results: int) -> tuple[dict[st
     return details, uploads
 
 
+def _invidious_instances() -> list[str]:
+    configured = os.environ.get("INVIDIOUS_INSTANCES", "").strip() or os.environ.get("INVIDIOUS_BASE_URL", "").strip()
+    if not configured:
+        return list(DEFAULT_INVIDIOUS_INSTANCES)
+    bases = []
+    for part in configured.split(","):
+        base = part.strip().rstrip("/")
+        if base:
+            bases.append(base if "://" in base else f"https://{base}")
+    return bases or list(DEFAULT_INVIDIOUS_INSTANCES)
+
+
+def _language_match(code: str, languages: list[str]) -> int | None:
+    normalized = (code or "").lower().replace("_", "-")
+    if not normalized:
+        return None
+    primary = normalized.split("-", 1)[0]
+    for index, wanted in enumerate(languages):
+        target = wanted.lower().replace("_", "-")
+        if normalized == target or primary == target.split("-", 1)[0]:
+            return index
+    return None
+
+
+def _vtt_to_text(payload: str) -> str:
+    lines: list[str] = []
+    for raw in payload.splitlines():
+        line = raw.strip()
+        if not line or line.upper().startswith(("WEBVTT", "NOTE", "STYLE", "REGION")) or "-->" in line:
+            continue
+        if re.fullmatch(r"\d+", line):
+            continue
+        line = re.sub(r"<[^>]+>", "", line)
+        line = line.replace("&nbsp;", " ").replace("&amp;", "&").replace("&lt;", "<").replace("&gt;", ">")
+        if line.strip():
+            lines.append(line.strip())
+    return " ".join(" ".join(lines).split())
+
+
+def _looks_like_vtt(payload: str, content_type: str) -> bool:
+    kind = content_type.lower()
+    if "text/vtt" in kind or "webvtt" in kind:
+        return True
+    sample = payload.lstrip()[:40].upper()
+    return sample.startswith("WEBVTT")
+
+
+def _caption_tracks(payload: Any) -> list[dict[str, Any]]:
+    if isinstance(payload, dict):
+        tracks = payload.get("captions")
+        if isinstance(tracks, list):
+            return [track for track in tracks if isinstance(track, dict)]
+    if isinstance(payload, list):
+        return [track for track in payload if isinstance(track, dict)]
+    return []
+
+
+def _track_language(track: dict[str, Any]) -> str:
+    return str(track.get("language_code") or track.get("languageCode") or "")
+
+
+def _track_label(track: dict[str, Any]) -> str:
+    return str(track.get("label") or "")
+
+
+def _choose_track(tracks: list[dict[str, Any]], languages: list[str]) -> dict[str, Any] | None:
+    ranked = [(match, track) for track in tracks if (match := _language_match(_track_language(track), languages)) is not None]
+    if not ranked:
+        return None
+    ranked.sort(key=lambda item: item[0])
+    return ranked[0][1]
+
+
+def _invidious_get(base: str, path: str) -> requests.Response:
+    response = requests.get(
+        urljoin(base + "/", path.lstrip("/")),
+        timeout=REQUEST_TIMEOUT,
+        headers={"Accept": "application/json, text/vtt, text/plain"},
+    )
+    response.raise_for_status()
+    return response
+
+
+def _transcript_from_body(body: str, content_type: str, language: str, label: str, instance: str) -> dict[str, Any] | None:
+    if not _looks_like_vtt(body, content_type):
+        return None
+    text = _vtt_to_text(body)
+    if not text:
+        return None
+    return {
+        "status": "available",
+        "language": language,
+        "is_generated": "auto-generated" in label.lower(),
+        "text": text[:MAX_TRANSCRIPT_CHARS],
+        "truncated": len(text) > MAX_TRANSCRIPT_CHARS,
+        "instance": instance,
+    }
+
+
+def _fetch_invidious_transcript(video_id: str, languages: list[str]) -> dict[str, Any]:
+    errors: list[str] = []
+    for base in _invidious_instances():
+        try:
+            listed = _invidious_get(base, f"api/v1/captions/{video_id}")
+            tracks = _caption_tracks(listed.json() if listed.content else {})
+        except (requests.RequestException, ValueError) as error:
+            errors.append(f"{base}: {error}")
+            continue
+        track = _choose_track(tracks, languages)
+        if track is None:
+            errors.append(f"{base}: no caption track for {', '.join(languages)}")
+            continue
+        caption_url = str(track.get("url") or "")
+        if not caption_url:
+            errors.append(f"{base}: caption track has no url")
+            continue
+        target = caption_url if "://" in caption_url else urljoin(base + "/", caption_url.lstrip("/"))
+        try:
+            caption = requests.get(target, timeout=REQUEST_TIMEOUT, headers={"Accept": "text/vtt, text/plain"})
+            caption.raise_for_status()
+        except requests.RequestException as error:
+            errors.append(f"{base}: {error}")
+            continue
+        if not caption.text.strip():
+            errors.append(f"{base}: caption track was empty")
+            continue
+        result = _transcript_from_body(
+            caption.text,
+            caption.headers.get("content-type", ""),
+            _track_language(track),
+            _track_label(track),
+            base,
+        )
+        if result is not None:
+            return result
+        errors.append(f"{base}: caption response was not WebVTT")
+    return {
+        "status": "unavailable",
+        "language": "",
+        "is_generated": None,
+        "text": "",
+        "error": ("; ".join(errors) or "No Invidious instance returned captions.")[:500],
+    }
+
+
 def _transcript(video_id: str, languages: list[str]) -> dict[str, Any]:
-    cache_key = f"{video_id}-{','.join(languages)}"
+    cache_key = f"invidious-{video_id}-{','.join(languages)}"
     cached = _read_cache("transcripts", cache_key)
     if cached:
         if cached.get("status") == "available":
@@ -254,25 +406,7 @@ def _transcript(video_id: str, languages: list[str]) -> dict[str, Any]:
             cached_at = 0
         if time.time() - cached_at < 600:
             return cached
-    try:
-        from youtube_transcript_api import YouTubeTranscriptApi
-
-        fetched = YouTubeTranscriptApi().fetch(video_id, languages=languages)
-        snippets = getattr(fetched, "snippets", [])
-        text = " ".join(
-            " ".join(str(getattr(snippet, "text", "")).split())
-            for snippet in snippets
-            if getattr(snippet, "text", "").strip()
-        ).strip()
-        result = {
-            "status": "available" if text else "empty",
-            "language": getattr(fetched, "language_code", ""),
-            "is_generated": bool(getattr(fetched, "is_generated", False)),
-            "text": text[:MAX_TRANSCRIPT_CHARS],
-            "truncated": len(text) > MAX_TRANSCRIPT_CHARS,
-        }
-    except Exception as error:  # library exposes several provider-specific exception types
-        result = {"status": "unavailable", "language": "", "is_generated": None, "text": "", "error": str(error)[:500]}
+    result = _fetch_invidious_transcript(video_id, languages)
     # Successful results are read without expiry; failures expire after ten minutes.
     _write_cache("transcripts", cache_key, result)
     return result
@@ -342,14 +476,15 @@ def get_video_metadata(video_ids_or_urls: str) -> dict[str, Any]:
 
 @mcp.tool()
 def get_video_transcripts(video_ids_or_urls: str, languages: str = "en,en-US,en-GB") -> dict[str, Any]:
-    """Retrieve available YouTube captions/transcripts for up to 50 videos.
+    """Retrieve captions for up to 50 videos from a public Invidious instance.
 
     This is a separate, best-effort transcript operation intended for the
     source-summarizer subagent. Pass one video or a comma/space-separated batch.
-    The MCP uses the unofficial youtube-transcript-api library; it does not use
-    Google's Data API captions.download endpoint, which requires edit permission
-    for the video. Each result has status, language, generated flag, and text.
-    No browser is launched and no video file is downloaded.
+    The tool calls Invidious `GET /api/v1/captions/:id`, then fetches the WebVTT
+    track URL for the requested language. Set `INVIDIOUS_INSTANCES` or
+    `INVIDIOUS_BASE_URL` to override the documented public instances. Each result
+    has status, language, generated flag, and text. No browser is launched and
+    no video file is downloaded.
     """
     video_ids = _parse_video_ids(video_ids_or_urls)
     language_list = [language.strip() for language in languages.split(",") if language.strip()][:10] or DEFAULT_LANGUAGES
@@ -379,8 +514,8 @@ def get_video_transcripts(video_ids_or_urls: str, languages: str = "en,en-US,en-
             for video_id in video_ids
         ],
         "notes": [
-            "Transcript access is unofficial and best effort; YouTube may block or rate-limit requests.",
-            "An unavailable transcript is not a reason to open a browser or download the video.",
+            "Transcripts come from an Invidious instance's captions API as WebVTT, then plain text.",
+            "An unavailable transcript means no instance returned that caption track.",
         ],
     }
 

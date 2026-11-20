@@ -22,12 +22,14 @@ best effort and reports its status explicitly.
    Cursor; the checked-in `.cursor/mcp.json` is the local project configuration.
 
 The server needs no YouTube OAuth because it reads public channel/video
-metadata. The API key is required for discovery. Public caption retrieval uses
-`youtube-transcript-api`, which is unofficial and may be rate-limited or blocked
-by YouTube; unavailable transcripts are returned as data rather than triggering
-browser automation. API and transcript responses are cached under
-`mcps/youtube/.cache/` when the runtime permits writing there. The cache is
-local, untracked, and safe to delete.
+metadata. The API key is required for discovery. Caption text comes from a
+public Invidious instance (`GET /api/v1/captions/:id`, then the track's WebVTT
+URL). Set `INVIDIOUS_INSTANCES` or `INVIDIOUS_BASE_URL` to choose the instance;
+otherwise the server uses the public instances listed in the Invidious docs.
+An instance that is down or has no track returns an unavailable transcript
+rather than triggering browser automation. API and transcript responses are
+cached under `mcps/youtube/.cache/` when the runtime permits writing there.
+The cache is local, untracked, and safe to delete.
 
 ### MCP tools
 
@@ -35,10 +37,9 @@ local, untracked, and safe to delete.
   without requesting captions.
 - `get_video_metadata(video_ids_or_urls)` fetches metadata for up to 50 videos.
 - `get_video_transcripts(video_ids_or_urls, languages="en,en-US,en-GB")`
-  retrieves captions for up to 50 videos. This is an unofficial, best-effort
-  path through `youtube-transcript-api`; Google's caption listing does not
-  return caption text, and its download method requires permission to edit the
-  video. [Google caption API](https://developers.google.com/youtube/data/reference/rest/v3/captions/download)
+  retrieves captions for up to 50 videos from Invidious. The tool lists tracks
+  with `GET /api/v1/captions/:id` and downloads the matching track as WebVTT.
+  [Invidious API](https://docs.invidious.io/api/)
 
 The channel accepts an `@handle`, a `UC…` channel ID, or a YouTube channel URL.
 The last 24 hours means the exact rolling window ending at the retrieval time,
