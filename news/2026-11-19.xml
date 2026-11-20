@@ -67,14 +67,14 @@ The lineup. The afternoon briefing lists seven subjects. India's IT spending cou
       <news:publishedIst>2026-11-19T20:00:27+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/1rIGGpxov8Y/hqdefault.jpg"/>
       <description><![CDATA[
-<p>Neysa has launched an AMD Instinct MI350X cluster in Mumbai. The installation has 8,192 GPUs and is operational for global users. It supports model training, fine-tuning, and inference for enterprise clients. The facility pairs AMD ROCm software with custom network and storage, and it is aimed at growing demand for high-performance compute in the region. It is presented as capacity for deep learning architectures and for production workloads.</p>
+<p>Neysa, the name in the title and the description, has an AMD Instinct MI350X cluster of 8,192 GPUs online in Mumbai for global users. The spoken account calls the company NASA, which is uncertain, and says the installation became operational in a single phase, with customers already contracting capacity. It supports training, fine-tuning, and inference. Customers can specify network, storage, and the operating environment. Bare-metal options include Slurm or Kubernetes. The description names AMD ROCm software. The spoken account calls the software Rockom, which is uncertain, and also names EPYC processors. It says customers still have to test their own models, because the GPU count does not answer training time or cost. This Mumbai cluster is separate from an arrangement with ST Telemedia Global Data Centers in Noida, planned for up to 9,000 GPUs, with a first phase expected in the first quarter of 2027. Those Noida GPUs are not operating now.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>Neysa has launched an AMD Instinct MI350X cluster in Mumbai.</li>
-<li>The installation has 8,192 GPUs and is operational for global users.</li>
-<li>It supports model training, fine-tuning, and inference for enterprise clients.</li>
-<li>The facility uses AMD ROCm software with custom network and storage.</li>
-<li>It is aimed at regional demand for high-performance compute, including deep learning and production workloads.</li>
+<li>The title says Neysa has 8,192 AMD Instinct MI350X GPUs online in Mumbai. The spoken name NASA is uncertain.</li>
+<li>The spoken account says the cluster came online in one phase and that customers are already contracting capacity.</li>
+<li>It supports training, fine-tuning, and inference, with bare metal on Slurm or Kubernetes.</li>
+<li>The description says ROCm. The spoken software name Rockom is uncertain. EPYC processors are also named.</li>
+<li>A separate Noida plan with ST Telemedia Global Data Centers is for up to 9,000 GPUs, with a first phase expected in the first quarter of 2027. Those GPUs are not operating now.</li>
 </ul>
       ]]></description>
     </item>
@@ -115,14 +115,15 @@ The lineup. The afternoon briefing lists seven subjects. India's IT spending cou
       <news:publishedIst>2026-11-19T18:30:20+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/zmg1oxILvgw/hqdefault.jpg"/>
       <description><![CDATA[
-<p>Cognizant has a 133.2 million pound technology infrastructure contract with Network Rail. The seven-year agreement covers critical infrastructure services from January 2027 through January 2034. Cognizant beat TCS, HCL Tech, DXC Technology, and ATOS. The contract is described as a commitment to modernizing Britain's rail network and as an expansion of Cognizant's public-sector work in the UK.</p>
+<p>Cognizant has been selected for a 133.2 million pound technology infrastructure contract with Network Rail, excluding VAT. The engagement runs almost seven years, from January 2027 to January 2034. Cognizant finished ahead of TCS, HCL Tech, DXC Technology, and ATOS, and all five bidders reached the final stage. The work covers servers, mainframes, local and wide networks, cloud platforms, and specified applications, across data centres and smaller sites. It is infrastructure management. The published scope does not describe an AI deployment or a new data centre. Network Rail decided on 11 November, the notice appeared the next day, and a standstill runs to 23 November. Moneycontrol reports the contract is not yet signed. Service is scheduled to start on 29 January 2027. The headline value is for the full term, not one year of revenue.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>Cognizant has a 133.2 million pound technology infrastructure contract with Network Rail.</li>
-<li>The agreement runs for seven years, from January 2027 through January 2034.</li>
-<li>It covers critical infrastructure services.</li>
-<li>Cognizant beat TCS, HCL Tech, DXC Technology, and ATOS.</li>
-<li>The contract is tied to modernizing Britain's rail network.</li>
+<li>Cognizant is selected for a 133.2 million pound Network Rail infrastructure contract, excluding VAT.</li>
+<li>The term is almost seven years, from January 2027 to January 2034.</li>
+<li>Cognizant finished ahead of TCS, HCL Tech, DXC Technology, and ATOS. All five reached the final stage.</li>
+<li>The scope is servers, mainframes, networks, cloud, and specified applications. It is not described as an AI deployment or a new data centre.</li>
+<li>The award decision was 11 November, with a standstill to 23 November. Moneycontrol says it is not yet signed.</li>
+<li>Service is scheduled to start on 29 January 2027. The value is for the full term, not a single year.</li>
 </ul>
       ]]></description>
     </item>
@@ -138,14 +139,16 @@ The lineup. The afternoon briefing lists seven subjects. India's IT spending cou
       <news:publishedIst>2026-11-19T18:00:16+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/TJny7u0aRXs/hqdefault.jpg"/>
       <description><![CDATA[
-<p>Bengaluru's deep tech funding has reached 3.77 billion dollars since 2010, more than double Delhi NCR, which raised 1.64 billion dollars over the same period. Chennai is third. No figure is given for Chennai. The ecosystem has more than 799 AI startups. Roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru.</p>
+<p>Bengaluru's deep-tech startups have raised 3.77 billion dollars since 2010, more than twice Delhi NCR at 1.64 billion dollars. The figures are attributed to the Bengaluru Innovation Report 2026, released at the Bengaluru Tech Summit on 18 November and prepared by the Karnataka Digital Economy Mission and 314 Capital. The total is cumulative since 2010, with data updated to 23 September, so it is not money raised in 2026 alone. Chennai is third, at about 1.41 billion dollars, ahead of Mumbai and Hyderabad. Hyderabad has more deep-tech companies than Chennai, while Chennai's companies have raised more. Bengaluru accounts for 36.3 percent of India's native-AI startup funding. The spoken count is 799 such startups in the city, 764 of them active and funded. The description says over 799. AI and deep tech should not be added together, because a company can be both. The spoken account says Bengaluru has 103 active funded women-led startups in those fields, with about 324 million dollars raised. The description instead says roughly 30 percent of such women-led startups are based there. Karnataka wants AI, quantum, and semiconductor companies to be able to grow in Hubli, Mangaluru, and Kalaburagi.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>Bengaluru deep tech funding has reached 3.77 billion dollars since 2010.</li>
-<li>That is more than double Delhi NCR, which raised 1.64 billion dollars in the same period.</li>
-<li>Chennai is third, and no funding figure is given for it.</li>
-<li>The ecosystem has more than 799 AI startups.</li>
-<li>Roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru.</li>
+<li>Bengaluru deep-tech funding is 3.77 billion dollars since 2010, more than twice Delhi NCR at 1.64 billion dollars.</li>
+<li>The source is the Bengaluru Innovation Report 2026, from the Karnataka Digital Economy Mission and 314 Capital, released on 18 November.</li>
+<li>The data run to 23 September and are cumulative since 2010, not a 2026 total.</li>
+<li>Chennai is third at about 1.41 billion dollars. Hyderabad has more companies and less money raised.</li>
+<li>Bengaluru has 36.3 percent of India's native-AI startup funding, and 799 such startups are identified in the city.</li>
+<li>The spoken account says 103 active funded women-led startups raised about 324 million dollars. The description says about 30 percent of such startups are in Bengaluru.</li>
+<li>Karnataka wants growth in Hubli, Mangaluru, and Kalaburagi as well.</li>
 </ul>
       ]]></description>
     </item>
