@@ -135,4 +135,13 @@ export function readFeed(xml) {
   };
 }
 
-export const feedUrl = `${import.meta.env.BASE_URL}latest-news.xml`;
+const base = import.meta.env.BASE_URL;
+const DAY = /^\d{4}-\d{2}-\d{2}$/;
+
+export const feedUrl = `${base}latest-news.xml`;
+export const daysIndexUrl = `${base}news/days.json`;
+
+export function feedUrlForDay(day) {
+  if (!day || day === "latest" || !DAY.test(day)) return feedUrl;
+  return `${base}news/${day}.xml`;
+}

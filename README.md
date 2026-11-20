@@ -59,9 +59,12 @@ Use the run instructions in `.cursor/prompts/daily-aim-news.md`. In brief:
    `get_video_transcripts` for its assigned video; it needs no browser or web
    search.
 3. Merge the summaries into the newest `news:edition` and `item` entries in
-   `latest-news.xml`. Preserve existing editions and item IDs, and deduplicate
-   by video ID.
-4. Validate the XML and the date window before committing to the requested
+   `latest-news.xml`. Deduplicate by video ID.
+4. Run `python3 -m newsfeed.archive`. It keeps the rolling 24 hours in
+   `latest-news.xml`, moves older editions and stories to
+   `latest-news_older.xml`, deletes entries in that file older than 30 days,
+   and writes one small file per day to `news/` plus `news/days.json`.
+5. Validate the XML and the date window before committing to the requested
    branch. Keep transcript-unavailable items clearly grounded in their supplied
    title and description.
 

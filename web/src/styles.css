@@ -136,8 +136,10 @@ html[data-theme="night"] {
 .mast-meta {
   margin-left: auto;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 1rem;
+  justify-content: flex-end;
+  gap: 0.8rem 1rem;
   text-align: right;
 }
 
@@ -175,6 +177,51 @@ html[data-theme="night"] {
   background: var(--color-aim);
   border-color: var(--color-aim);
   color: var(--color-mast);
+}
+
+.day-picker {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.2rem;
+  text-align: left;
+}
+
+.day-picker span {
+  color: color-mix(in oklch, white 65%, transparent);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.day-picker select {
+  appearance: none;
+  max-width: 16rem;
+  min-height: 2.75rem;
+  border: 1px solid color-mix(in oklch, white 30%, transparent);
+  background: transparent;
+  color: inherit;
+  color-scheme: dark;
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  padding: 0.4rem 1.8rem 0.4rem 0.65rem;
+  cursor: pointer;
+  background-image: linear-gradient(45deg, transparent 50%, currentColor 50%),
+    linear-gradient(135deg, currentColor 50%, transparent 50%);
+  background-position:
+    calc(100% - 0.85rem) 55%,
+    calc(100% - 0.55rem) 55%;
+  background-size:
+    0.3rem 0.3rem,
+    0.3rem 0.3rem;
+  background-repeat: no-repeat;
+}
+
+.day-picker select:hover {
+  border-color: var(--color-aim);
 }
 
 .spot {
@@ -637,6 +684,15 @@ html[data-theme="night"] {
     text-align: left;
   }
 
+  .day-picker {
+    flex: 1 1 100%;
+  }
+
+  .day-picker select {
+    width: 100%;
+    max-width: none;
+  }
+
   .index {
     flex-direction: row;
     overflow-x: auto;
@@ -671,6 +727,7 @@ html[data-theme="night"] {
 
 @media print {
   .theme-btn,
+  .day-picker,
   .skip,
   .index {
     display: none;

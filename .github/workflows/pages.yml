@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - "latest-news.xml"
+      - "news/**"
       - "web/**"
       - ".github/workflows/pages.yml"
   workflow_dispatch:

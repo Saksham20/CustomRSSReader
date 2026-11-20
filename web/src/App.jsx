@@ -1,5 +1,12 @@
 import { useEffect, useState } from "react";
-import { clock, feedUrl, longDate, readFeed, splitKicker } from "./feed.js";
+import { clock, daysIndexUrl, feedUrlForDay, longDate, readFeed, splitKicker } from "./feed.js";
+
+const DAY = /^\d{4}-\d{2}-\d{2}$/;
+
+function selectedDay() {
+  const value = new URLSearchParams(window.location.search).get("day");
+  return value && DAY.test(value) ? value : "latest";
+}
 
 function useTheme() {
   const [theme, setTheme] = useState(
@@ -16,10 +23,11 @@ function useTheme() {
 }
 
 function useCurrentStory(idKey) {
-  const ids = idKey ? idKey.split("|") : [];
-  const [current, setCurrent] = useState(ids[0] || "");
+  const [current, setCurrent] = useState("");
 
   useEffect(() => {
+    const ids = idKey ? idKey.split("|") : [];
+    setCurrent(ids[0] || "");
     if (!ids.length || !("IntersectionObserver" in window)) return undefined;
     const observer = new IntersectionObserver(
       (entries) => {
@@ -113,13 +121,54 @@ function rankFor(index, isLatestDay) {
   return "brief";
 }
 
+function DayPicker({ selected, days, onDay }) {
+  const known = days.some((day) => day.date === selected);
+  return (
+    <label className="day-picker">
+      <span>Day</span>
+      <select value={selected} aria-label="Choose which day to read" onChange={(event) => onDay(event.target.value)}>
+        <option value="latest">Latest 24 hours</option>
+        {selected !== "latest" && !known ? <option value={selected}>{selected}</option> : null}
+        {days.map((day) => (
+          <option key={day.date} value={day.date}>
+            {day.label}
+          </option>
+        ))}
+      </select>
+    </label>
+  );
+}
+
 export function App() {
   const [theme, toggleTheme] = useTheme();
+  const [selected, setSelected] = useState(selectedDay);
+  const [days, setDays] = useState([]);
   const [state, setState] = useState({ status: "loading" });
 
   useEffect(() => {
+    const onPop = () => setSelected(selectedDay());
+    window.addEventListener("popstate", onPop);
+    return () => window.removeEventListener("popstate", onPop);
+  }, []);
+
+  useEffect(() => {
     const controller = new AbortController();
-    fetch(feedUrl, { signal: controller.signal })
+    fetch(daysIndexUrl, { signal: controller.signal })
+      .then((response) => (response.ok ? response.json() : { days: [] }))
+      .then((data) => {
+        const listed = Array.isArray(data.days) ? data.days : [];
+        setDays(listed.filter((day) => day && DAY.test(day.date) && day.label));
+      })
+      .catch((error) => {
+        if (error.name !== "AbortError") setDays([]);
+      });
+    return () => controller.abort();
+  }, []);
+
+  useEffect(() => {
+    const controller = new AbortController();
+    setState({ status: "loading" });
+    fetch(feedUrlForDay(selected), { signal: controller.signal })
       .then((response) => {
         if (!response.ok) throw new Error(`The feed responded with ${response.status}.`);
         return response.text();
@@ -127,39 +176,47 @@ export function App() {
       .then((xml) => setState({ status: "ready", feed: readFeed(xml) }))
       .catch((error) => {
         if (error.name === "AbortError") return;
-        setState({ status: "error", message: "The edition could not be loaded." });
+        setState({ status: "error", message: "That edition could not be loaded." });
       });
     return () => controller.abort();
-  }, []);
+  }, [selected]);
 
-  const idKey = state.feed?.items.map((item) => item.id).join("|") || "";
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [selected]);
+
+  function chooseDay(value) {
+    const url = new URL(window.location.href);
+    if (value === "latest") url.searchParams.delete("day");
+    else url.searchParams.set("day", value);
+    window.history.pushState({}, "", url);
+    setSelected(value);
+  }
+
+  const feed = state.status === "ready" ? state.feed : null;
+  const idKey = feed?.items.map((item) => item.id).join("|") || "";
   const current = useCurrentStory(idKey);
-
-  if (state.status === "loading") {
-    return <p className="status">Opening today’s edition…</p>;
-  }
-  if (state.status === "error") {
-    return <p className="status">{state.message}</p>;
-  }
-
-  const { feed } = state;
-  const edition = feed.edition;
+  const edition = feed?.edition;
+  const selectedMeta = days.find((day) => day.date === selected);
   const editionLabel = edition?.editionDate
     ? longDate(`${edition.editionDate}T12:00:00+05:30`)
-    : "Today’s edition";
-  const publication = feed.channelTitle || "Latest";
-  document.title = `${publication} · ${editionLabel}`;
+    : selectedMeta?.label || "Latest 24 hours";
+  const publication = feed?.channelTitle || "Latest";
 
-  const standfirst = feed.body[0] || "";
-  const sections = feed.body.slice(1);
-  const days = [];
-  feed.items.forEach((item) => {
+  useEffect(() => {
+    document.title = `${publication} · ${editionLabel}`;
+  }, [publication, editionLabel]);
+
+  const standfirst = feed?.body[0] || "";
+  const sections = feed?.body.slice(1) || [];
+  const storyDays = [];
+  feed?.items.forEach((item) => {
     const key = item.day || "undated";
-    const group = days.find((day) => day.key === key);
+    const group = storyDays.find((day) => day.key === key);
     if (group) group.items.push(item);
-    else days.push({ key, label: item.publishedIst ? longDate(item.publishedIst) : "Undated", items: [item] });
+    else storyDays.push({ key, label: item.publishedIst ? longDate(item.publishedIst) : "Undated", items: [item] });
   });
-  days.sort((a, b) => b.key.localeCompare(a.key));
+  storyDays.sort((a, b) => b.key.localeCompare(a.key));
   const latestLong = edition?.latestLongForm;
 
   return (
@@ -177,6 +234,7 @@ export function App() {
             <span>News of relevance</span>
           </div>
           <div className="mast-meta">
+            <DayPicker selected={selected} days={days} onDay={chooseDay} />
             <div>
               <div className="edition-date">{editionLabel}</div>
               <span className="edition-sub">
@@ -195,8 +253,15 @@ export function App() {
         </div>
       </header>
       <div className="spot" aria-hidden="true" />
+      {state.status !== "ready" ? (
+        <p className="status" role="status">
+          {state.status === "loading" ? "Opening this edition…" : state.message}
+        </p>
+      ) : (
+      <>
       <div className="skyline">
         <p className="skyline-inner">
+          <span>{selected === "latest" ? "Latest 24 hours" : "This day"}</span>
           <span>{edition?.shortCount || feed.items.length} shorts</span>
           <span>{edition?.longFormCount || "0"} long videos</span>
           {latestLong ? <span>Latest long video still {longDate(latestLong.published)}</span> : null}
@@ -253,7 +318,7 @@ export function App() {
         </div>
 
         <div id="stories">
-          {days.map((day, dayIndex) => {
+          {storyDays.map((day, dayIndex) => {
             const lead = day.items.filter((_, index) => rankFor(index, dayIndex === 0) === "lead");
             const pair = day.items.filter((_, index) => rankFor(index, dayIndex === 0) === "pair");
             const briefs = day.items.filter((_, index) => rankFor(index, dayIndex === 0) === "brief");
@@ -285,13 +350,14 @@ export function App() {
           <footer className="colophon">
             <p>{edition.method}</p>
             <p>
-              This page reads <a href={feedUrl}>latest-news.xml</a> when it loads. A new edition in that file
-              appears here without a change to the page itself. GitHub Actions rebuilds the site when the file is
-              pushed.
+              This page loads one edition at a time. Latest 24 hours comes from the live feed. Choosing another
+              day fetches only that day.
             </p>
           </footer>
         ) : null}
       </main>
+      </>
+      )}
     </>
   );
 }
