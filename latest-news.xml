@@ -10,24 +10,28 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 20 November 2026 edition, retrieved at 16:59 IST, covers 1,050 crore rupees in Karnataka deep-tech pledges, about 111,000 AI and machine learning professionals in the state's capability centers, and OpenAI's reported circuit gains on AMD GPUs.</description>
+    <description>News of relevance. The 20 November 2026 edition, retrieved at 17:31 IST, covers Cyient Semiconductor's 10 million dollar GlobalFoundries investment, Narendra Modi's call to build imported inputs in India, and 1,050 crore rupees in Karnataka deep-tech pledges.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 11:29:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 12:01:00 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
     <news:edition date="2026-11-20">
-      <news:scannedAt>2026-11-20T11:29:57Z</news:scannedAt>
-      <news:scannedAtIst>2026-11-20T16:59:57+05:30</news:scannedAtIst>
+      <news:scannedAt>2026-11-20T12:01:00Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-20T17:31:00+05:30</news:scannedAtIst>
       <news:longFormCount>15</news:longFormCount>
       <news:shortCount>0</news:shortCount>
       <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
       <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
-      <news:latestLongForm videoId="Q9FwjvhzIt8" published="2026-11-20T11:00:02Z">Karnataka deep tech startups attract 1,050 crore rupees in pledges</news:latestLongForm>
-      <news:method>Friday 20 November 2026, retrieved at 16:59 IST. The window is the 24 hours ending 11:29 UTC. Fifteen uploads fell in that window. Eight are new and are included here, newest first. The spoken account came back for each of those eight. Seven were already in this file.</news:method>
+      <news:latestLongForm videoId="4qdScpfBdTs" published="2026-11-20T12:00:04Z">Cyient Semiconductor has approval for a 10 million dollar GlobalFoundries investment</news:latestLongForm>
+      <news:method>Friday 20 November 2026, retrieved at 17:31 IST.</news:method>
       <news:briefing>
-Friday 20 November 2026, retrieved at 16:59 IST. Karnataka's deep tech startups have investment commitments of 1,050 crore rupees from 24 venture firms, announced at the Future Makers Conclave during the Bengaluru Tech Summit on 19 November. The state's global capability centers employ about 111,000 AI and machine learning professionals. OpenAI says its work with AMD produced up to 14 percent gains in power, performance, and area on flagship GPU circuitry in less than five months, and that this is not the same as a finished GPU running 14 percent faster.
+Friday 20 November 2026, retrieved at 17:31 IST. Cyient Semiconductor has approval for a 10 million dollar equity investment from GlobalFoundries, at a 510 million dollar post-money valuation. The investment is still to be completed. At the FICCI convention in New Delhi, Prime Minister Narendra Modi asked companies to plan for the next 20 years and to build in India the inputs the country still imports. Karnataka's deep tech startups have investment commitments of 1,050 crore rupees from 24 venture firms.
 
-The morning's through-line: Karnataka deep tech startups have 1,050 crore rupees in pledges from 24 venture firms, the state's capability centers employ about 111,000 AI and machine learning professionals, and OpenAI reports up to 14 percent circuit gains on AMD GPUs in under five months.
+The morning's through-line: Cyient Semiconductor has approval for a 10 million dollar GlobalFoundries investment at a 510 million dollar valuation, Narendra Modi asked industry to plan for 20 years and build imported inputs in India, and Karnataka deep tech startups have 1,050 crore rupees in pledges from 24 venture firms.
+
+The chip stake. Cyient Semiconductor has approval for a 10 million dollar strategic equity investment from GlobalFoundries. The announced post-money valuation is 510 million dollars, tied to this investment and a recent round that were both priced at a 490 million dollar pre-money valuation. The name of that earlier round was unclear. The company designs application-specific chips and wants to take a design from architecture through manufacturing coordination, packaging, testing, qualification, and supply. The proposed relationship is meant to strengthen access to manufacturing, long-term wafer supply, and production support. The markets named are automotive, industrial systems, communications, and infrastructure related to AI. Design operations are in India, Belgium, and the United States, and the work also includes analog and mixed-signal chips and power management. The deal is still to be carried out. That does not establish that the money has been received, or that a new fabrication plant is being built in India.
+
+Twenty-year plans. Prime Minister Narendra Modi spoke at FICCI's annual general meeting and convention at Bharat Mandapam in New Delhi on 19 November. As FICCI enters its centenary year, he asked companies to plan for the next two decades and to treat India as the basis for long-term investment. The wording of that second phrase was unclear. He pointed to medicines India exports while it still imports ingredients, including active pharmaceutical ingredients, bulk drugs, and intermediates; to iron ore exported while steel products are imported; and to substantial reserves, in a word heard unclearly as boxite, while specialised aluminium alloys come from abroad. He asked which of those capabilities can be built at home. A factory, he said, needs a repeatable process at a competitive cost, not only a design. He pointed to India's small share of global hand-tool and power-tool exports and asked larger firms to help smaller manufacturers. He also named packaging equipment, irrigation systems, and factory machinery for developing countries. The address did not announce a new AI programme or a semiconductor programme.
 
 Karnataka's pledges. The 1,050 crore rupees are commitments from 24 venture capital firms, not a figure for money that has already reached companies. The state cited 400 crore rupees under last year's effort, and this year's announced amount is substantially larger. The investments cover aerospace, artificial intelligence, robotics, semiconductors, biotechnology, defense, and industrial automation. Three firms, Axel, 314 Capital, and Gaja Capital, account for about 750 crore rupees of the announced total. The Times of India is cited for the report that Gaja Capital's commitment includes the quantum-security company Q Labs. Other investments span aerospace, AI, and advanced engineering businesses that may still be far from a product a customer can use. An investment announcement shows that investors see an opportunity. What each company can build, and how quickly customers adopt it, is still open. The example given is an industrial-robot company that still has to get the hardware working, test it, and show it can perform inside a customer's factory. The conclave also featured startups supported through Karnataka's Elevate program, now in its tenth year, including work on microneedle technology, precision fermentation, and unmanned ground vehicles. Separately, the Karnataka Innovation and Technology Society signed an agreement with Idea Bars for a television startup showcase that could help founders reach investors and customers. Selection for that showcase is separate from scoring. The report says the state should publish regular updates on how much of this funding reaches startups.
 
@@ -49,9 +53,61 @@ He expects AI to expand work for IT services companies, because new applications
 
 Open quantum hardware. Sanjana Gupta speaks with L. Venkata Subramaniam, founder and chief executive of Qbit Force. He says the company's first two systems, one with 5 qubits and one with 25 qubits, go down to milli-Kelvin temperatures, and the conversation tied those systems to Amaravati. Colleges asked for something inexpensive enough to test hardware rather than only use software. Q-Shiva is that system. The in-house Nada processor is gold-plated, its packaging was done in Machilipatnam, and he says it holds small niobium resonators for about five qubits, at frequencies such as 5, 5.5, and 6 gigahertz. He says niobium is superconducting around 8 Kelvin, so those resonators can be tested without an expensive dilution refrigerator, while the qubits themselves become superconducting only at milli-Kelvin. A higher operating temperature would not remove the need for cooling. It could make the requirements less strict and allow helium-4, which is already available, instead of helium-3, which he says is not found naturally on Earth. He credits Professor Premalatha with teaching AI at PES College in Mandya in 1991. He says a 16-year-old girl who was shown the open cooling system later filed a patent on it. The company is about to export systems to research labs. It was started last December. He turned down term sheets that would have given an investor control over hiring and markets, and he and a co-founder put in their own money, including retirement funds. He names SRM, Qubitech, Chandigarh University, and BIBS as supporters placing orders, and he claims about 40 crore rupees in revenue within the first year. He says he met minister Ajay Singh. No priority export country is named.
 
-Still in this window. Neysa has an AMD Instinct MI350X cluster of 8,192 GPUs online in Mumbai for global users, with ROCm software and custom network and storage, for training, fine-tuning, and inference. Humyn Labs has raised 47 million dollars, 26 million in equity led by Accel and 21 million in venture debt, to scale human activity recognition across 20 countries. No valuation is given. Cognizant has a 133.2 million pound Network Rail contract from January 2027 through January 2034, after beating TCS, HCL Tech, DXC Technology, and ATOS. Bengaluru's deep tech funding is 3.77 billion dollars since 2010, more than double Delhi NCR at 1.64 billion dollars. Chennai is third, with no figure given. The ecosystem has more than 799 AI startups, and roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru. Meta's Muse agent faces a security backlash over unauthorized actions and signal messages reached through notifications. Android push alerts are described as an exploit vector. The headline's 10 million downloads are not repeated in that security account. Incidents are described as appearing isolated, and no attacker is named. Microsoft is adding MAI Code 2, Cyber 2 Flash, and Image 2.7. The fuller account names Code 2 and Code 2 Flash and covers coding, cybersecurity, and image generation, with no score and no price given. The afternoon briefing listed Bengaluru's 3.77 billion dollars, the Network Rail contract, Humyn's raise for physical AI, Neysa's GPUs, an expected combined 28.4 percent of Anthropic for Amazon and Google, Microsoft's models, the Muse backlash, and OpenAI's work on AMD circuitry. That list does not carry the 14 percent figure, the pledge total, or the 111,000 professionals.
+Still in this window. Neysa has an AMD Instinct MI350X cluster of 8,192 GPUs online in Mumbai for global users, with ROCm software and custom network and storage, for training, fine-tuning, and inference. Humyn Labs has raised 47 million dollars, 26 million in equity led by Accel and 21 million in venture debt, to scale human activity recognition across 20 countries. No valuation is given. Cognizant has a 133.2 million pound Network Rail contract from January 2027 through January 2034, after beating TCS, HCL Tech, DXC Technology, and ATOS. Bengaluru's deep tech funding is 3.77 billion dollars since 2010, more than double Delhi NCR at 1.64 billion dollars. Chennai is third, with no figure given. The ecosystem has more than 799 AI startups, and roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru. The afternoon briefing listed Bengaluru's 3.77 billion dollars, the Network Rail contract, Humyn's raise for physical AI, Neysa's GPUs, an expected combined 28.4 percent of Anthropic for Amazon and Google, Microsoft's models, the Muse backlash, and OpenAI's work on AMD circuitry. That list does not carry the 14 percent figure, the pledge total, or the 111,000 professionals.
       </news:briefing>
     </news:edition>
+
+    <item>
+      <title>Cyient Semiconductor has approval for a 10 million dollar GlobalFoundries investment</title>
+      <link>https://www.youtube.com/watch?v=4qdScpfBdTs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=4qdScpfBdTs</guid>
+      <pubDate>Fri, 20 Nov 2026 12:00:04 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>4qdScpfBdTs</news:videoId>
+      <news:publishedIst>2026-11-20T17:30:04+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/4qdScpfBdTs/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Cyient Semiconductor has approval for a 10 million dollar strategic equity investment from GlobalFoundries. The announced post-money valuation is 510 million dollars, tied to this investment and a recent round that were both priced at a 490 million dollar pre-money valuation. The name of that earlier round was unclear. The company designs application-specific chips and wants to carry a design from architecture through manufacturing coordination, packaging, testing, qualification, and supply. The proposed relationship is meant to strengthen access to manufacturing, long-term wafer supply, and production support. The markets named are automotive, industrial systems, communications, and infrastructure related to AI. Design work is in India, Belgium, and the United States, and also covers analog and mixed-signal chips and power management. The investment is still to be completed. That does not establish that the money has arrived, or that a new fabrication plant is being built in India.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Cyient Semiconductor has approval for a 10 million dollar strategic equity investment from GlobalFoundries.</li>
+<li>The announced post-money valuation is 510 million dollars.</li>
+<li>This investment and a recent round were both priced at a 490 million dollar pre-money valuation. The earlier round's name was unclear.</li>
+<li>The company wants to take a design from architecture through manufacturing coordination, packaging, testing, qualification, and supply.</li>
+<li>The relationship is meant to strengthen access to manufacturing, long-term wafer supply, and production support.</li>
+<li>The markets named are automotive, industrial systems, communications, and AI-related infrastructure.</li>
+<li>Design operations are in India, Belgium, and the United States.</li>
+<li>The investment is still to be completed. Receipt of the money, and a new fabrication plant in India, are not established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Modi asks industry to plan for 20 years and build imported inputs in India</title>
+      <link>https://www.youtube.com/watch?v=pi94xmk3_Dw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=pi94xmk3_Dw</guid>
+      <pubDate>Fri, 20 Nov 2026 11:30:29 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>pi94xmk3_Dw</news:videoId>
+      <news:publishedIst>2026-11-20T17:00:29+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/pi94xmk3_Dw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Prime Minister Narendra Modi spoke at FICCI's annual general meeting and convention at Bharat Mandapam in New Delhi on 19 November. As FICCI enters its centenary year, he asked companies to plan for the next two decades and to treat India as the basis for long-term investment. The wording of that second phrase was unclear. He pointed to medicines India exports while it still imports ingredients, including active pharmaceutical ingredients, bulk drugs, and intermediates; to iron ore exported while steel products are imported; and to substantial reserves, in a word heard unclearly as boxite, while specialised aluminium alloys come from abroad. He asked which of those capabilities can be built at home. A factory, he said, needs a repeatable process at a competitive cost, not only a design. He pointed to India's small share of global hand-tool and power-tool exports and asked larger firms to help smaller manufacturers. He also named packaging equipment, irrigation systems, and factory machinery for developing countries. The address did not announce a new AI programme or a semiconductor programme.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Narendra Modi spoke at FICCI's convention at Bharat Mandapam in New Delhi on 19 November.</li>
+<li>As FICCI enters its centenary year, he asked companies to plan for the next two decades.</li>
+<li>India exports medicines while still importing active pharmaceutical ingredients, bulk drugs, and intermediates.</li>
+<li>India exports iron ore while importing steel products.</li>
+<li>A reserve word was unclear and was heard as boxite, while specialised aluminium alloys come from abroad.</li>
+<li>He asked industry to build those capabilities at home, including the process for imported metal grades.</li>
+<li>He cited a small share of global hand-tool and power-tool exports.</li>
+<li>The address did not announce a new AI programme or a semiconductor programme.</li>
+</ul>
+      ]]></description>
+    </item>
 
     <item>
       <title>Karnataka deep tech startups attract 1,050 crore rupees in pledges</title>
@@ -210,6 +266,34 @@ Still in this window. Neysa has an AMD Instinct MI350X cluster of 8,192 GPUs onl
     </item>
 
     <item>
+      <title>The afternoon briefing lists Bengaluru funding, Network Rail, and the AMD cluster</title>
+      <link>https://www.youtube.com/watch?v=4MNbCrb7pN0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=4MNbCrb7pN0</guid>
+      <pubDate>Fri, 20 Nov 2026 05:04:07 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>4MNbCrb7pN0</news:videoId>
+      <news:publishedIst>2026-11-20T10:34:07+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/4MNbCrb7pN0/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The afternoon briefing lists eight subjects. A report finds Bengaluru leading India's deep-tech funding at 3.77 billion dollars since 2010, with AI activity concentrated in the city and a challenge in expanding beyond it. Cognizant is selected for Network Rail's 133.2 million pound infrastructure contract. Humyn Labs raises 47 million dollars for physical AI. Neysa brings 8,192 AMD GPUs online in Mumbai. Amazon and Google are expected to hold 28.4 percent of Anthropic after a proposed IPO. Microsoft is expanding its in-house AI models. Meta's Muse agent faces a security backlash. OpenAI is helping AMD improve GPU circuitry. Nothing beyond that list is established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Bengaluru leads India's deep-tech funding at 3.77 billion dollars since 2010.</li>
+<li>The same subject includes concentrated AI activity and the challenge of expanding beyond the city.</li>
+<li>Cognizant is selected for Network Rail's 133.2 million pound infrastructure contract.</li>
+<li>Humyn Labs raises 47 million dollars for physical AI.</li>
+<li>Neysa brings 8,192 AMD GPUs online in Mumbai.</li>
+<li>Amazon and Google are expected to hold 28.4 percent of Anthropic after a proposed IPO.</li>
+<li>Microsoft is expanding its in-house AI models.</li>
+<li>Meta's Muse agent faces a security backlash.</li>
+<li>OpenAI is helping AMD improve GPU circuitry.</li>
+<li>Nothing beyond that list is established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
       <title>Kris Gopalakrishnan expects AI to expand work for Indian IT services</title>
       <link>https://www.youtube.com/watch?v=h78n2b0OH4Q</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=h78n2b0OH4Q</guid>
@@ -352,30 +436,6 @@ Still in this window. Neysa has an AMD Instinct MI350X cluster of 8,192 GPUs onl
 <li>Chennai is third, and no funding figure is given for it.</li>
 <li>The ecosystem has more than 799 AI startups.</li>
 <li>Roughly 30 percent of active funded women-led startups in deep tech and native AI are headquartered in Bengaluru.</li>
-</ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Meta's Muse agent faces a security backlash over notification access</title>
-      <link>https://www.youtube.com/watch?v=PjjxLKS__K0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=PjjxLKS__K0</guid>
-      <pubDate>Thu, 19 Nov 2026 12:00:15 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>PjjxLKS__K0</news:videoId>
-      <news:publishedIst>2026-11-19T17:30:15+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/PjjxLKS__K0/hqdefault.jpg"/>
-      <description><![CDATA[
-<p>Meta's Muse agent is facing a security backlash, in a story presented as coming after the agent passed 10 million downloads. That download count is not repeated in the security account. The account centers on unauthorized actions and on signal messages reached through notifications. Android push alerts are described as an exploit vector. Current incidents are described as appearing isolated, and as a sign of a wider problem when autonomous agents and large language models sit on phones. No incident count and no attacker are named.</p>
-<p><strong>Key points</strong></p>
-<ul>
-<li>Meta's Muse agent is facing a security backlash.</li>
-<li>The story is presented as coming after 10 million downloads, and the security account does not repeat that figure.</li>
-<li>The concerns are unauthorized actions and signal messages reached through notifications.</li>
-<li>Android push alerts are described as an exploit vector.</li>
-<li>Current incidents are described as appearing isolated.</li>
-<li>No incident count and no attacker are named.</li>
 </ul>
       ]]></description>
     </item>

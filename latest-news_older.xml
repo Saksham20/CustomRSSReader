@@ -287,29 +287,25 @@ Still in this file from the morning. The first eight shorts cover film teaching 
     </news:edition>
 
     <item>
-      <title>Bengaluru's deep-tech lead opens the afternoon briefing</title>
-      <link>https://www.youtube.com/watch?v=4MNbCrb7pN0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=4MNbCrb7pN0</guid>
-      <pubDate>Thu, 19 Nov 2026 11:36:43 +0000</pubDate>
+      <title>Meta's Muse agent faces a security backlash over notification access</title>
+      <link>https://www.youtube.com/watch?v=PjjxLKS__K0</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PjjxLKS__K0</guid>
+      <pubDate>Thu, 19 Nov 2026 12:00:15 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>4MNbCrb7pN0</news:videoId>
-      <news:publishedIst>2026-11-19T17:06:43+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/4MNbCrb7pN0/hqdefault.jpg"/>
+      <news:videoId>PjjxLKS__K0</news:videoId>
+      <news:publishedIst>2026-11-19T17:30:15+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/PjjxLKS__K0/hqdefault.jpg"/>
       <description><![CDATA[
-<p>The afternoon briefing lists eight subjects. A report finds Bengaluru leading India's deep-tech funding at 3.77 billion dollars since 2010, with AI activity concentrated in the city and a challenge in expanding beyond it. Cognizant is selected for Network Rail's 133.2 million pound infrastructure contract. Humyn Labs raises 47 million dollars for physical AI. Neysa brings 8,192 AMD GPUs online in Mumbai. Amazon and Google are expected to hold 28.4 percent of Anthropic after a proposed IPO. Microsoft is expanding its in-house AI models. Meta's Muse agent faces a security backlash. OpenAI is helping AMD improve GPU circuitry. Nothing beyond that list is established.</p>
+<p>Meta's Muse agent is facing a security backlash, in a story presented as coming after the agent passed 10 million downloads. That download count is not repeated in the security account. The account centers on unauthorized actions and on signal messages reached through notifications. Android push alerts are described as an exploit vector. Current incidents are described as appearing isolated, and as a sign of a wider problem when autonomous agents and large language models sit on phones. No incident count and no attacker are named.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>Bengaluru leads India's deep-tech funding at 3.77 billion dollars since 2010.</li>
-<li>The same subject includes concentrated AI activity and the challenge of expanding beyond the city.</li>
-<li>Cognizant is selected for Network Rail's 133.2 million pound infrastructure contract.</li>
-<li>Humyn Labs raises 47 million dollars for physical AI.</li>
-<li>Neysa brings 8,192 AMD GPUs online in Mumbai.</li>
-<li>Amazon and Google are expected to hold 28.4 percent of Anthropic after a proposed IPO.</li>
-<li>Microsoft is expanding its in-house AI models.</li>
-<li>Meta's Muse agent faces a security backlash.</li>
-<li>OpenAI is helping AMD improve GPU circuitry.</li>
-<li>Nothing beyond that list is established.</li>
+<li>Meta's Muse agent is facing a security backlash.</li>
+<li>The story is presented as coming after 10 million downloads, and the security account does not repeat that figure.</li>
+<li>The concerns are unauthorized actions and signal messages reached through notifications.</li>
+<li>Android push alerts are described as an exploit vector.</li>
+<li>Current incidents are described as appearing isolated.</li>
+<li>No incident count and no attacker are named.</li>
 </ul>
       ]]></description>
     </item>
