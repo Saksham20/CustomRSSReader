@@ -48,7 +48,6 @@ _LABEL_GUESSES = {
 }
 SHORT_CANDIDATE_MAX_SECONDS = 180
 MAX_VIDEO_IDS_PER_CALL = 50
-MAX_TRANSCRIPT_CHARS = 40000
 CACHE_ROOT = Path(os.environ.get("YOUTUBE_MCP_CACHE", Path(__file__).parent / ".cache"))
 CACHE_LOCK = threading.Lock()
 
@@ -436,8 +435,8 @@ def _transcript_from_body(body: str, content_type: str, language: str, label: st
         "status": "available",
         "language": language,
         "is_generated": "auto-generated" in label.lower(),
-        "text": text[:MAX_TRANSCRIPT_CHARS],
-        "truncated": len(text) > MAX_TRANSCRIPT_CHARS,
+        "text": text,
+        "truncated": False,
         "instance": instance,
     }
 
@@ -477,7 +476,7 @@ def _fetch_invidious_transcript(video_id: str, languages: list[str]) -> dict[str
 
 
 def _transcript(video_id: str, languages: list[str]) -> dict[str, Any]:
-    cache_key = f"invidious-v3-{video_id}-{','.join(languages)}"
+    cache_key = f"invidious-v4-{video_id}-{','.join(languages)}"
     cached = _read_cache("transcripts", cache_key)
     if cached:
         if cached.get("status") == "available":
