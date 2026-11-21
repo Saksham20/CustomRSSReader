@@ -287,6 +287,78 @@ Still in this file from the morning. The first eight shorts cover film teaching 
     </news:edition>
 
     <item>
+      <title>Neysa brings 8,192 AMD Instinct MI350X GPUs online in Mumbai</title>
+      <link>https://www.youtube.com/watch?v=1rIGGpxov8Y</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=1rIGGpxov8Y</guid>
+      <pubDate>Thu, 19 Nov 2026 14:30:27 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>1rIGGpxov8Y</news:videoId>
+      <news:publishedIst>2026-11-19T20:00:27+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/1rIGGpxov8Y/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Neysa, the name in the title and the description, has an AMD Instinct MI350X cluster of 8,192 GPUs online in Mumbai for global users. The spoken account calls the company NASA, which is uncertain, and says the installation became operational in a single phase, with customers already contracting capacity. It supports training, fine-tuning, and inference. Customers can specify network, storage, and the operating environment. Bare-metal options include Slurm or Kubernetes. The description names AMD ROCm software. The spoken account calls the software Rockom, which is uncertain, and also names EPYC processors. It says customers still have to test their own models, because the GPU count does not answer training time or cost. This Mumbai cluster is separate from an arrangement with ST Telemedia Global Data Centers in Noida, planned for up to 9,000 GPUs, with a first phase expected in the first quarter of 2027. Those Noida GPUs are not operating now.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The title says Neysa has 8,192 AMD Instinct MI350X GPUs online in Mumbai. The spoken name NASA is uncertain.</li>
+<li>The spoken account says the cluster came online in one phase and that customers are already contracting capacity.</li>
+<li>It supports training, fine-tuning, and inference, with bare metal on Slurm or Kubernetes.</li>
+<li>The description says ROCm. The spoken software name Rockom is uncertain. EPYC processors are also named.</li>
+<li>A separate Noida plan with ST Telemedia Global Data Centers is for up to 9,000 GPUs, with a first phase expected in the first quarter of 2027. Those GPUs are not operating now.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Humyn Labs raises 47 million dollars for human activity recognition</title>
+      <link>https://www.youtube.com/watch?v=7Wj-1n2WfLA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=7Wj-1n2WfLA</guid>
+      <pubDate>Thu, 19 Nov 2026 14:00:12 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>7Wj-1n2WfLA</news:videoId>
+      <news:publishedIst>2026-11-19T19:30:12+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/7Wj-1n2WfLA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Humyn Labs has raised 47 million dollars to scale human activity recognition and to capture human tasks for robot training data. The capital is meant to support robotics development across 20 countries. Of the total, 26 million dollars is equity led by Accel and 21 million dollars is venture debt. The work is on how machines perceive and interpret physical movement. The company is expanding globally to refine its core software for industrial use. No valuation is given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Humyn Labs has raised 47 million dollars.</li>
+<li>The raise is to scale human activity recognition and to capture human tasks for robot training data.</li>
+<li>The capital is meant to support robotics development across 20 countries.</li>
+<li>26 million dollars is equity led by Accel.</li>
+<li>21 million dollars is venture debt.</li>
+<li>The company is expanding globally to refine software for how machines read physical movement.</li>
+<li>No valuation is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Cognizant wins a 133.2 million pound Network Rail contract</title>
+      <link>https://www.youtube.com/watch?v=zmg1oxILvgw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=zmg1oxILvgw</guid>
+      <pubDate>Thu, 19 Nov 2026 13:00:20 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>zmg1oxILvgw</news:videoId>
+      <news:publishedIst>2026-11-19T18:30:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/zmg1oxILvgw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Cognizant has been selected for a 133.2 million pound technology infrastructure contract with Network Rail, excluding VAT. The engagement runs almost seven years, from January 2027 to January 2034. Cognizant finished ahead of TCS, HCL Tech, DXC Technology, and ATOS, and all five bidders reached the final stage. The work covers servers, mainframes, local and wide networks, cloud platforms, and specified applications, across data centres and smaller sites. It is infrastructure management. The published scope does not describe an AI deployment or a new data centre. Network Rail decided on 11 November, the notice appeared the next day, and a standstill runs to 23 November. Moneycontrol reports the contract is not yet signed. Service is scheduled to start on 29 January 2027. The headline value is for the full term, not one year of revenue.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Cognizant is selected for a 133.2 million pound Network Rail infrastructure contract, excluding VAT.</li>
+<li>The term is almost seven years, from January 2027 to January 2034.</li>
+<li>Cognizant finished ahead of TCS, HCL Tech, DXC Technology, and ATOS. All five reached the final stage.</li>
+<li>The scope is servers, mainframes, networks, cloud, and specified applications. It is not described as an AI deployment or a new data centre.</li>
+<li>The award decision was 11 November, with a standstill to 23 November. Moneycontrol says it is not yet signed.</li>
+<li>Service is scheduled to start on 29 January 2027. The value is for the full term, not a single year.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
       <title>Bengaluru deep tech funding reaches 3.77 billion dollars since 2010</title>
       <link>https://www.youtube.com/watch?v=TJny7u0aRXs</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=TJny7u0aRXs</guid>

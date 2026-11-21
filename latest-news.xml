@@ -10,10 +10,48 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 20 November 2026 edition, retrieved at 17:59 IST, covers Narendra Modi's call to build imported technologies, Amazon and Google's proposed 28.4 percent of Anthropic, and reports that Meta's Muse agent acted without permission.</description>
+    <description>News of relevance. The 21 November 2026 edition, retrieved at 07:04 IST, covers the Friday rise in Indian IT stocks, Anthropic's 81.3 billion dollar share sale, and Karnataka's plan to reskill for five lakh jobs.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:29:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 01:34:37 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-21">
+      <news:scannedAt>2026-11-21T01:34:37Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-21T07:04:37+05:30</news:scannedAtIst>
+      <news:longFormCount>15</news:longFormCount>
+      <news:shortCount>4</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="e7okAjytHik" published="2026-11-20T18:00:07Z">TCS and Infosys opened higher as the AI trade fell</news:latestLongForm>
+      <news:method>Saturday 21 November 2026, retrieved at 07:04 IST.</news:method>
+      <news:briefing>
+Saturday 21 November 2026, retrieved at 07:04 IST. Indian IT stocks rose on Friday morning while chipmakers and the wider AI trade fell. Anthropic priced a share sale of about 81.3 billion dollars at 83 dollars a share, and Reuters is cited for a valuation of about 1.5 trillion dollars. Google's Willow processor won a two-player coordination game 98.3 percent of the time, against a classical ceiling of 88.9 percent. Gemini 4 Neon is first on one coding-agent index with a score of 58.6, which is not a claim that it leads every coding test. GTA 6 is on sale for PlayStation 5 and Xbox Series X and S, with no PC date. Priyank Kharge says Karnataka's Nipuna programme has promised five lakh jobs and has already started training close to 63,000 people.
+
+The morning's through-line: Indian IT stocks rose as the AI trade fell, Anthropic's share sale is about 81.3 billion dollars at 83 dollars a share, and Karnataka's Nipuna programme has promised five lakh jobs with training already started for close to 63,000 people.
+
+Indian IT. On Friday 20 November, just after the opening bell, the Nifty IT index was up more than 1 percent. TCS opened around 1.5 percent higher. Persistent Systems was among the IT stocks that gained, and the size of that gain was not finished. The written account also says Infosys opened higher. No separate Friday percentage was given for Infosys in the spoken account. There was no official reason, no large deal, and no results behind the move. Some of the buying is described as bargain hunting after a long decline this year. Infosys cut its growth forecast last month, and one strong morning does not repair that. This is not investment advice, and no buy call is made on TCS.
+
+The same morning in reverse. On Thursday 19 November, Anthropic, the company behind Claude, made its stock-market debut and the shares closed about 17 percent above the listing price. Nvidia opened almost 5 percent higher, reversed, and closed more than 3 percent down. A shorter account says Nvidia flipped from a gain of 5 percent to a loss of 3 percent; the spoken line of that shorter account says "down three" and does not restate a percent. The Nasdaq gave up early gains and ended about 2.3 percent lower. By one Reuters count, Nvidia had lost around 2 trillion dollars from its October record by this week. The comparison offered for that loss is more than 1 lakh rupees for every person in India. In Tokyo, the Nikkei fell 4.5 percent in a single morning, and Asian markets were described as on track for their worst week since 2020. SoftBank, which has put about 64 billion dollars into OpenAI, had its worst day in more than two years and fell as much as 16 percent. On Thursday in Mumbai, the main indices rose while IT stocks slipped. Friday morning reversed that IT move.
+
+February, and the opposite fear. About nine months before the listing, Anthropic released agents that could write code, test it, and run business software, work Indian IT companies are paid for. On one day the Nifty IT index fell almost 6 percent. That day is called the index's worst since 2020, and the spoken account calls it the steepest intraday fall since March 2020. Over that month TCS fell more than 15 percent. Infosys fell more than 20, and no unit is stated for that Infosys figure. This week's selling is described as a different fear. What was being sold were chipmakers, cloud companies, and investors who had bet on AI labs, the companies spending hundreds of billions of dollars on chips and data centers, as investors asked when that money comes back. TCS and Infosys do not make the chips and do not build those data centers. They sell people and services. If AI is slower and more expensive than promised, companies still need engineers. If it takes off, someone still has to put it into a bank, an airline, or a hospital. They do not win either way. This week they were not the ones holding the bill. In February, AI was expected to replace Indian IT. In November, when AI wobbled, Indian IT was where some investors went to hide. Whether that holds depends on what Wall Street does next.
+
+Anthropic's books. The company offered 980 million shares at 83 dollars each. The title and the spoken account put that share sale at about 81.3 billion dollars and call it the world's largest initial public offering. A short written line calls 81.3 billion the valuation. The spoken account does not. It cites Reuters for an IPO valuation of about 1.5 trillion dollars. Shares traded above 110 dollars early on Nasdaq, more than 30 percent above the issue price. Most of the offering is newly issued shares. About 79.4 billion dollars in gross proceeds is attributable to Anthropic, the remainder goes to selling shareholders, and fees and expenses reduce what the company keeps. A separate 26 billion dollar private placement is planned alongside the offering and is subject to closing conditions. The rest of that condition was not stated. The public offering and the private placement are separate, and the headline amount is not entirely money flowing into Anthropic. For the first nine months of 2026, revenue was about 33.24 billion dollars and compute and infrastructure expenses were about 18.81 billion dollars. The written account gives an operating loss of 1.26 billion. The spoken line says about 1.26 and does not finish the unit. That operating loss is different from a larger reported net loss, which includes substantial non-cash financing charges. The net-loss figure is not given. Moneycontrol reported that platforms including one named IND money, and Groww, let people queue share orders before trading began. Those orders are subject to price limits and are not guaranteed allotments. Public reporting will make it easier to compare Anthropic's growth with the computing cost behind the revenue.
+
+Willow. Google's Willow processor won a two-player game on a 3 by 3 grid 98.3 percent of the time. The classical ceiling is 88.9 percent, and the best classical strategy is described as eight wins out of nine. The players do not talk to each other. Each square is plus one or minus one, every row must multiply to plus one, every column must multiply to minus one, and they win if their answers match where the row and column meet. The hardware did not produce an impossible completed grid. It used quantum measurements to coordinate answers beyond a pre-arranged classical strategy. The account ties that to quantum contextuality: the outcomes are not all explained by assuming every property already carried a fixed answer, independent of which compatible measurements were made with it. A name heard as Sundar Pay, and later as Pichai, is credited with calling contextuality a possible deeper resource and with calling the result a sharper ruler for building better quantum systems. The spoken account also describes a multiplayer coordination game with up to 71 cubits, and a separate shallow-circuit run on up to 105 cubits. The written account says benchmarks on 105 qubits. The stated advantage is against classical circuits that are limited in how many sequential steps they can take. Together, the experiments are said to show quantum behavior still measurable on larger systems, and to expose subtle systematic hardware errors that conventional randomized benchmarks can miss. Chemistry and material science remain later ambitions. This result does not deliver them. The account places the result on Thursday, beside the GTA 6 launch.
+
+Gemini 4 Neon. Google has introduced Gemini 4 Neon for software engineering, analytical work, and tasks that take several steps. The written spelling is Gemini 4 NEON. It is first on the artificial analysis coding agent index with a score of 58.6. That is a combined score, not a claim that Neon beats every competing model at coding. The index mixes understanding a codebase, changing code, fixing a bug, and work through a command line. A model can do well on one kind and struggle on another, and the testing organization advises reading the combined score next to the individual results. Google's published comparison shows Neon ahead on some evaluations, while Claude Opus 5.5 remains ahead on others, including Terminal Bench 4.1 and Frontier Code 2.0. Understanding an unfamiliar repository and successfully repairing it ask different things of an agent. Neon supports a context window of up to 1 million tokens, and Google lists documents, images, audio, and video among the inputs. It offers four thinking levels. API pricing is 3 dollars per million input tokens and 15 dollars per million output tokens, with a lower rate for cached input and no figure given for that lower rate. The bill for a job depends on how many tokens are used, including extra attempts. Google is rolling Neon out through its developer and business services, with access for eligible paid users in a service named anti-gravity and in the Gemini app. Testing it on a team's own work will say more than one ranking.
+
+GTA 6. Rockstar released GTA 6 on 19 November, 13 years after GTA 5, for PlayStation 5 and Xbox Series X and S. A PC release date has not been announced. A widely reported 1.1 billion dollar pre-order figure is Sensor Tower's estimate of sales through 10 November, nine days before launch. By launch-day morning, Reuters reported that the same firm estimated about 19.1 million copies sold, representing roughly 1.84 billion. The rest of that 1.84 billion figure was not stated. In India, Blinkit listed a PlayStation 5 standard edition in selected cities. The rupee price was not stated. The package is a digital download code in a collectible box, not a game disc. Zepeto co-founder Aadit Palicha said more than 1 lakh users had searched that platform during the week for GTA 6, a PlayStation 5, and controllers. Those names are as heard. The game returns to Vice City in the fictional state of Leonida and follows Jason and Lucia. Playing now in India depends on having a supported console. People without one can follow streams and other coverage. Executives quoted in the launch coverage expect opportunities for gaming creators and communities, to be judged later by audiences and engagement. Console access and the price of the game will decide how many people in India can take part immediately.
+
+Karnataka. At the Bengaluru Tech Summit, Sudhi Sachdev spoke with Priyank Kharge. The listing identifies Kharge as Karnataka's ITBT and RDPR minister. The conversation introduces him as minister for Home, ITBT and e-commerce. Sachdev's summit figures were more than 10,000 delegates over three days, more than 700 speakers, 1,500 exhibitors, 65 countries, and 1,000 startups from 100 cities. Kharge said 75 countries are represented, with consul generals and ambassadors alongside young people seeking the Indian market or offering their markets to Indian services. Sachdev said Elevate is in its tenth year and that 1,500 startups have been funded. Kharge said some of the state's best policies came out of the summit, which Sachdev called the 29th edition. Kharge said frontier technologies have forced government to listen or be left behind. The state has roundtables on sustainable data centers, AI in agriculture and aerospace, marine biotech, bioengineering, and AI for biogenetics, including responsible AI, with officials in the room so the state can move early.
+
+Government as the first customer. Under a government-first policy, Kharge said a startup whose innovation helps the government solve a problem gets 25 lakh rupees and a pilot in a regulatory sandbox, and the state scales it if the pilot succeeds. He said the state wants to go further with startups, especially in deep tech, and is ready to take up a drought-proof or disease-proof seed, seaweed for commercial extraction, early cancer detection, and better rural citizen services. Those are examples of the appetite, not completed rollouts. Sachdev's figures, not Kharge's findings, were that Bengaluru accounts for nearly a third of India's AI investment, 85 billion dollars in startup funding, and 57 unicorns valued at 211 billion dollars, and that a think-tank report ranked India 11th of 56 countries on AI readiness. Sachdev also said 60.5 percent of Indians aged 15 to 29 had a mobile phone and the others did not.
+
+Nipuna and the hiring drop. Kharge said AI readiness is both skill and infrastructure, and that India is number five in the world in skill. He called Nipuna Karnataka India's biggest reskilling programme, said five lakh jobs are promised, and said training has already started for close to 63,000 people, in modules including Gemini, OpenAI, and Claude, whatever industry wants. GCCs and the service sector set the courses and the skill partners. The state partners with them to take the training to scale, so that young people are employable. He said he is not prescribing one subject. Someone in biology or agriculture, including an MSE in agriculture, is being disrupted too, from biosciences to raising yields where cultivable land is limited. He compared medicine's path from general practice to a narrow focus he called nano-specialist work. Sachdev cited a staffing firm he called iso: fresher hiring in India's IT sector fell from 6 lakh in fiscal 2022 to about 1.2 lakh in fiscal 2025. He said Kharge had called the AI disruption brief last August. Kharge said a disruption lasts for a time, so brief can be a year or a couple of years. He compared it to COVID, which he said was expected to last six months and lasted a couple of years. His answer is to upskill inside the field a person is already in.
+
+Data centers and local hiring. Kharge said he cannot, as IT minister, refuse data centers, and he called them a necessary evil. He does not want a race to the bottom with other states. He wants them sustainable, with better power and water effectiveness and newer technology, because of the environment and the next generation. He said no state has a sustainable data-center policy and that this is what Karnataka is about. He did not describe a published policy as already in force. He said companies that have the technology and the research should carry the environmental work, because government does not have that bandwidth, and that the state is grateful for the investment and the jobs. Data centers create some jobs, not on the scale of a service sector. On a 2024 local-hiring bill, Sachdev described a rule of 50 percent of management jobs and 70 percent of non-management private jobs for locals, and said it has been paused because of industry resistance. Kharge said it is not resistance. His job is to do what is best for Karnataka and for Kannadigas, and to make them more employable than anyone else, because nobody will hire a person only for being local. He said people skilled in Bengaluru now work in Boston, London, New York, and Melbourne because that workforce learns, unlearns, and relearns quickly. Other states have tried local hiring, and Karnataka has tried it too. A gray area remains, and some cases are still pending in the High Court. He said the state will do what the law and the constitution require for locals, and that it will come down to skills.
+      </news:briefing>
+    </news:edition>
 
     <news:edition date="2026-11-20">
       <news:scannedAt>2026-11-20T12:29:20Z</news:scannedAt>
@@ -66,6 +104,198 @@ Open quantum hardware. Sanjana Gupta speaks with L. Venkata Subramaniam, founder
 Still in this window. Neysa's Mumbai cluster is 8,192 AMD Instinct MI350X GPUs, described as operational in one phase, and it is separate from a Noida plan for up to 9,000 GPUs whose first phase is expected in the first quarter of 2027. Humyn Labs has raised 47 million dollars, 26 million in equity led by Accel and 21 million in venture debt. No valuation is given, and the spoken account of that raise was not available. Cognizant's 133.2 million pound Network Rail contract excludes VAT, is not yet signed, and is scheduled to start service on 29 January 2027.
       </news:briefing>
     </news:edition>
+
+    <item>
+      <title>Indian IT stocks rose as AI shares fell from New York to Tokyo</title>
+      <link>https://www.youtube.com/watch?v=8mJb7NlOvu8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=8mJb7NlOvu8</guid>
+      <pubDate>Fri, 20 Nov 2026 18:00:14 +0000</pubDate>
+      <category>Video</category>
+      <news:format>short_candidate</news:format>
+      <news:videoId>8mJb7NlOvu8</news:videoId>
+      <news:publishedIst>2026-11-20T23:30:14+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/8mJb7NlOvu8/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>This week, AI stocks fell from New York to Tokyo while Indian IT stocks rose. Nvidia went from a gain of about 5 percent to a decline. The written account puts that decline at 3 percent. The spoken line says "down three" and does not restate a percent. SoftBank fell as much as 16 percent in Tokyo. After Dalal Street opened, the Nifty IT index jumped more than 1 percent. A spoken figure for the TCS open, heard as "1 and a.5 percent," is unclear. On Thursday, Anthropic made its stock-market debut and the rest of the AI trade still fell. In February, AI was expected to hurt Indian IT, and Anthropic's agents were followed by the Nifty IT index's worst day since 2020. This week's fear is described as the opposite. TCS and Infosys do not buy the chips. They sell the engineers who make AI work. When the bill came due, Indian IT was not the one holding it, for now. This is not investment advice.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>AI stocks fell from New York to Tokyo this week while Indian IT stocks rose.</li>
+<li>Nvidia went from a gain of about 5 percent to a decline. The written account puts the decline at 3 percent. The spoken line says "down three" and does not give a percent.</li>
+<li>SoftBank fell as much as 16 percent in Tokyo.</li>
+<li>After Dalal Street opened, the Nifty IT index jumped more than 1 percent.</li>
+<li>A spoken figure for the TCS open, heard as "1 and a.5 percent," is unclear.</li>
+<li>On Thursday, Anthropic listed and the rest of the AI trade still fell.</li>
+<li>In February, Anthropic's agents were followed by the Nifty IT index's worst day since 2020. This week's fear is described as the opposite.</li>
+<li>TCS and Infosys do not buy the chips. They sell the engineers who make AI work, so Indian IT was not holding the bill, for now.</li>
+<li>This is not investment advice.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>TCS and Infosys opened higher as the AI trade fell</title>
+      <link>https://www.youtube.com/watch?v=e7okAjytHik</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=e7okAjytHik</guid>
+      <pubDate>Fri, 20 Nov 2026 18:00:07 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>e7okAjytHik</news:videoId>
+      <news:publishedIst>2026-11-20T23:30:07+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/e7okAjytHik/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>On Friday 20 November, just after the opening bell, the Nifty IT index was up more than 1 percent. TCS opened around 1.5 percent higher. Persistent Systems was among the IT stocks that gained, and the size of that gain was not finished. The written account says Infosys opened higher as well. The spoken account does not give a Friday figure for Infosys. There was no official reason, no large deal, and no results. Some of the buying is described as bargain hunting after a long fall this year. Infosys cut its growth forecast last month, and one strong morning does not repair that. This is not investment advice, and no buy call is made on TCS.</p>
+<p>On Thursday 19 November, Anthropic, the company behind Claude, listed and the shares closed about 17 percent above the listing price. Nvidia opened almost 5 percent higher, then closed more than 3 percent down. The Nasdaq ended about 2.3 percent lower after giving up early gains. By one Reuters count, Nvidia had lost around 2 trillion dollars from its October record. The comparison offered for that loss is more than 1 lakh rupees for every person in India. The Nikkei fell 4.5 percent in a single morning, and Asian markets were described as on track for their worst week since 2020. SoftBank, which has put about 64 billion dollars into OpenAI, had its worst day in more than two years. The written account puts that drop at as much as 16 percent. The spoken line says SoftBank fell as much as, and does not finish the percentage. On Thursday in Mumbai the main indices rose while IT stocks slipped. Friday morning reversed the IT move.</p>
+<p>About nine months earlier, Anthropic released agents that could write code, test it, and run business software. On one day the Nifty IT index fell almost 6 percent, called the worst day since 2020 and, in the spoken account, the steepest intraday fall since March 2020. Over that month TCS fell more than 15 percent. Infosys fell more than 20, and no unit is stated for that figure. This week's selling hit chipmakers, cloud companies, and backers of AI labs that are spending hundreds of billions of dollars on chips and data centers. TCS and Infosys do not own that infrastructure. They sell people and services. If AI is slower than promised, companies still need engineers. If it takes off, someone still has to install it in a bank, an airline, or a hospital. They do not win either way. This week they were not holding the bill. Whether the Friday move holds depends on what Wall Street does next.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>On Friday 20 November, the Nifty IT index was up more than 1 percent just after the opening bell.</li>
+<li>TCS opened around 1.5 percent higher. Persistent Systems gained, and the size of that gain was not finished.</li>
+<li>The written account says Infosys opened higher. The spoken account does not give a Friday figure for Infosys.</li>
+<li>There was no deal or results behind the move. Part of it is described as bargain hunting, and Infosys cut its growth forecast last month.</li>
+<li>Anthropic closed about 17 percent above its listing price on Thursday 19 November.</li>
+<li>Nvidia opened almost 5 percent higher that day and closed more than 3 percent down. The Nasdaq ended about 2.3 percent lower.</li>
+<li>Reuters is cited for an Nvidia loss of around 2 trillion dollars from the October record. The Nikkei fell 4.5 percent in one morning.</li>
+<li>SoftBank, with about 64 billion dollars in OpenAI, had its worst day in more than two years. The written account says the drop was as much as 16 percent. The spoken percentage was not finished.</li>
+<li>In February the Nifty IT index fell almost 6 percent in a day after Anthropic's agents. Over that month TCS fell more than 15 percent, and Infosys fell more than 20 with no unit stated.</li>
+<li>TCS and Infosys do not make the chips or build the data centers. No buy call is made, and this is not investment advice.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Google's Willow chip won a coordination game 98.3 percent of the time</title>
+      <link>https://www.youtube.com/watch?v=Y2YQIKZ-R-E</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Y2YQIKZ-R-E</guid>
+      <pubDate>Fri, 20 Nov 2026 15:30:33 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>Y2YQIKZ-R-E</news:videoId>
+      <news:publishedIst>2026-11-20T21:00:33+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/Y2YQIKZ-R-E/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Google's Willow processor won a two-player coordination game on a 3 by 3 grid 98.3 percent of the time. The classical ceiling is 88.9 percent, and the best classical strategy is described as eight wins out of nine. The players do not communicate. Each square is plus one or minus one, every row must multiply to plus one, every column must multiply to minus one, and they win if their answers match where the row and column meet. The hardware did not produce an impossible completed grid. It used quantum measurements to coordinate answers beyond what a pre-arranged classical strategy can achieve. The account presents this as quantum contextuality: the outcomes are not all explained by fixed answers chosen before the compatible measurements. A name heard as Sundar Pay, and later as Pichai, is credited with highlighting contextuality as a possible deeper resource and with calling the result a sharper ruler for building better quantum systems. No full name is spelled out.</p>
+<p>The spoken account describes a multiplayer coordination game with up to 71 cubits, and a separate shallow-circuit experiment on up to 105 cubits. The written account says benchmarks on 105 qubits. The stated theoretical advantage is against classical circuits limited in how many sequential steps they can take. Taken together, the experiments are said to show quantum behavior remaining measurable on larger systems, and to expose subtle systematic hardware errors that conventional randomized benchmarks can miss, because tasks that demand precise coordination reveal a pattern a randomized test can hide. The conclusion is that Google has shown a quantum resource at scale that could help diagnose the hardware. Chemistry and material science remain later ambitions, and this result does not deliver them. The account places the result on Thursday.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Willow won a two-player 3 by 3 coordination game 98.3 percent of the time, against a classical ceiling of 88.9 percent.</li>
+<li>The players do not communicate. Rows must multiply to plus one, columns to minus one, and they win if the answers match where the row and column meet.</li>
+<li>The best classical strategy is described as eight wins out of nine. The hardware coordinated through quantum measurements and did not produce an impossible grid.</li>
+<li>The result is tied to quantum contextuality. A name heard as Sundar Pay, and later as Pichai, called it a sharper ruler for building better quantum systems. No full name is spelled out.</li>
+<li>The spoken account says up to 71 cubits in a multiplayer game and up to 105 cubits in a separate shallow-circuit run. The written account says benchmarks on 105 qubits.</li>
+<li>The stated advantage is against classical circuits limited in sequential steps. The runs are said to reveal hardware errors that randomized benchmarks can miss.</li>
+<li>Chemistry and material science are not delivered by this result. The account places it on Thursday.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>GTA 6 is on PlayStation 5 and Xbox, with no PC date</title>
+      <link>https://www.youtube.com/watch?v=5aWKxE90Isc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=5aWKxE90Isc</guid>
+      <pubDate>Fri, 20 Nov 2026 15:00:36 +0000</pubDate>
+      <category>Video</category>
+      <news:format>short_candidate</news:format>
+      <news:videoId>5aWKxE90Isc</news:videoId>
+      <news:publishedIst>2026-11-20T20:30:36+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/5aWKxE90Isc/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Rockstar released GTA 6 on 19 November, 13 years after GTA 5, for PlayStation 5 and Xbox Series X and S. A PC release date has not been announced. A widely reported 1.1 billion dollar pre-order total is Sensor Tower's estimate of sales through 10 November, nine days before launch. By launch-day morning, Reuters reported that the same firm estimated about 19.1 million copies sold, representing roughly 1.84 billion. The rest of that figure was not stated. In India, Blinkit listed a PlayStation 5 standard edition in selected cities. The rupee price was not stated. The package is a digital download code inside a collectible box, not a game disc. Zepeto co-founder Aadit Palicha said more than 1 lakh users searched that platform during the week for GTA 6, a PlayStation 5, and controllers. Those names are as heard. The game returns to Vice City in the fictional state of Leonida and follows Jason and Lucia. Playing now in India depends on having a supported console. People without one can follow streams and other coverage. Executives quoted in the launch coverage expect opportunities for gaming creators and communities, to be measured later by audiences and engagement. Console access and the price will decide how many people in India can take part immediately.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Rockstar released GTA 6 on 19 November, 13 years after GTA 5, for PlayStation 5 and Xbox Series X and S.</li>
+<li>A PC release date has not been announced.</li>
+<li>The 1.1 billion dollar pre-order figure is Sensor Tower's estimate through 10 November, nine days before launch.</li>
+<li>Reuters reported a launch-morning estimate of about 19.1 million copies, representing roughly 1.84 billion. The rest of that figure was not stated.</li>
+<li>Blinkit listed a PlayStation 5 standard edition in selected Indian cities. The rupee price was not stated. The package is a download code in a box, not a disc.</li>
+<li>Zepeto co-founder Aadit Palicha said more than 1 lakh users searched for GTA 6, a PlayStation 5, and controllers. Those names are as heard.</li>
+<li>The game returns to Vice City in the fictional state of Leonida and follows Jason and Lucia.</li>
+<li>In India, playing now requires a supported console. Creator opportunities are an expectation still to be measured.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Gemini 4 Neon leads a coding-agent index with a score of 58.6</title>
+      <link>https://www.youtube.com/watch?v=4FmYK2LrN8A</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=4FmYK2LrN8A</guid>
+      <pubDate>Fri, 20 Nov 2026 14:30:33 +0000</pubDate>
+      <category>Video</category>
+      <news:format>short_candidate</news:format>
+      <news:videoId>4FmYK2LrN8A</news:videoId>
+      <news:publishedIst>2026-11-20T20:00:33+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/4FmYK2LrN8A/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Google has introduced Gemini 4 Neon, also spelled Gemini 4 NEON in the written account, for software engineering, analytical work, and tasks that take several steps. It is first on the artificial analysis coding agent index with a score of 58.6. That combined score is more specific than a claim that Neon beats every competing model at coding. The index mixes understanding a codebase, changing code, fixing a bug, and command-line work. A model can do well on one kind and struggle on another, and the testing organization advises reading the combined score beside the individual results. Google's published comparison shows Neon ahead on some evaluations, while Claude Opus 5.5 remains ahead on others, including Terminal Bench 4.1 and Frontier Code 2.0. Understanding an unfamiliar repository and repairing it ask different things of an agent.</p>
+<p>Neon supports a context window of up to 1 million tokens. Google lists documents, images, audio, and video among the inputs. The model offers four thinking levels that control how much reasoning it applies. API pricing is 3 dollars per million input tokens and 15 dollars per million output tokens, with a lower rate for cached input and no figure for that lower rate. Those are usage rates. The bill for a job depends on tokens consumed, including extra attempts. Google is rolling Neon out through its developer and business services, with access for eligible paid users in a service named anti-gravity and in the Gemini app. Testing it on the work a team actually does will say more than one ranking.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Google introduced Gemini 4 Neon for software engineering, analysis, and multi-step tasks. The written spelling is Gemini 4 NEON.</li>
+<li>It is first on the artificial analysis coding agent index with a score of 58.6.</li>
+<li>58.6 is not a claim that Neon beats every competing model at coding.</li>
+<li>Claude Opus 5.5 remains ahead on some evaluations, including Terminal Bench 4.1 and Frontier Code 2.0.</li>
+<li>The context window is up to 1 million tokens, with documents, images, audio, and video listed as inputs, and four thinking levels.</li>
+<li>API pricing is 3 dollars per million input tokens and 15 dollars per million output tokens, with an unstated lower rate for cached input.</li>
+<li>Access is through Google's developer and business services, and for eligible paid users in a service named anti-gravity and in the Gemini app.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Karnataka promises five lakh Nipuna jobs as fresher IT hiring falls</title>
+      <link>https://www.youtube.com/watch?v=gLLUxlSdJ7w</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=gLLUxlSdJ7w</guid>
+      <pubDate>Fri, 20 Nov 2026 13:45:38 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>gLLUxlSdJ7w</news:videoId>
+      <news:publishedIst>2026-11-20T19:15:38+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/gLLUxlSdJ7w/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>At the Bengaluru Tech Summit, Sudhi Sachdev spoke with Priyank Kharge. The listing identifies Kharge as Karnataka's ITBT and RDPR minister. The conversation introduces him as minister for Home, ITBT and e-commerce. Sachdev's summit figures were more than 10,000 delegates over three days, more than 700 speakers, 1,500 exhibitors, 65 countries, and 1,000 startups from 100 cities. Kharge said 75 countries are represented. Sachdev said Elevate is in its tenth year and that 1,500 startups have been funded, and he called this the 29th edition. Kharge said some of the state's best policies came from the summit, and that frontier technologies mean government has to listen or be left behind. The state has roundtables on sustainable data centers, AI in agriculture and aerospace, marine biotech, bioengineering, and AI for biogenetics, including responsible AI.</p>
+<p>Kharge described a government-first policy. A startup whose innovation helps the government gets 25 lakh rupees and a pilot in a regulatory sandbox, and the state scales it if the pilot succeeds, so government becomes the first customer. He said the state wants to go further, especially in deep tech, and is ready to take up a drought-proof or disease-proof seed, seaweed for commercial extraction, early cancer detection, and better rural citizen services. Those are examples of appetite, not completed rollouts. Sachdev's figures, not Kharge's, were that Bengaluru accounts for nearly a third of India's AI investment, 85 billion dollars in startup funding, and 57 unicorns valued at 211 billion dollars. He also cited a think-tank ranking of India at 11th of 56 countries on AI readiness, and said 60.5 percent of Indians aged 15 to 29 had a mobile phone.</p>
+<p>Kharge said AI readiness is both skill and infrastructure, and that India is number five in the world in skill. He called Nipuna Karnataka India's biggest reskilling programme, said five lakh jobs are promised, and said training has already started for close to 63,000 people in modules including Gemini, OpenAI, and Claude. GCCs and the service sector set the courses. The state scales them. He is not prescribing one subject. He pointed to biology, agriculture, including an MSE in agriculture, and using biology and AI to raise yields where cultivable land is limited. Sachdev cited a staffing firm he called iso: fresher IT hiring fell from 6 lakh in fiscal 2022 to about 1.2 lakh in fiscal 2025, and he said Kharge had called the disruption brief last August. Kharge said brief can be a year or a couple of years, compared it with COVID, and said the answer is to upskill inside one's own field.</p>
+<p>On data centers, Kharge said he needs them and called them a necessary evil, but he will not race other states to the bottom. He wants them sustainable, with better power and water effectiveness. He said no state has a sustainable data-center policy and that this is what Karnataka is about. He did not describe a published policy as already in force. Data centers create some jobs, not at service-sector scale. On a 2024 local-hiring bill, Sachdev described 50 percent of management jobs and 70 percent of non-management private jobs for locals, and said it was paused over industry resistance. Kharge said it is not resistance. Kannadigas have to be skilled locals. He said people skilled in Bengaluru work in Boston, London, New York, and Melbourne. A gray area remains, some cases are pending in the High Court, and he said skills will decide it.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Sudhi Sachdev spoke with Priyank Kharge at the Bengaluru Tech Summit. The listing calls Kharge ITBT and RDPR minister. The introduction calls him minister for Home, ITBT and e-commerce.</li>
+<li>Sachdev's summit figures include 65 countries. Kharge said 75 countries are represented.</li>
+<li>Sachdev said Elevate is in its tenth year, with 1,500 startups funded, and called this the 29th edition.</li>
+<li>A government-first policy offers 25 lakh rupees and a regulatory-sandbox pilot, scaled statewide if it succeeds.</li>
+<li>Kharge called Nipuna India's biggest reskilling programme, with five lakh jobs promised and training already started for close to 63,000 people.</li>
+<li>Courses come from GCCs and the service sector and include Gemini, OpenAI, and Claude. He is not prescribing one subject.</li>
+<li>Sachdev, citing a firm he called iso, said fresher IT hiring fell from 6 lakh in fiscal 2022 to about 1.2 lakh in fiscal 2025.</li>
+<li>Kharge wants sustainable data centers and said no state has a sustainable data-center policy. He did not say a published policy is already in force.</li>
+<li>On local hiring, Kharge said the issue is not industry resistance. Some cases are pending in the High Court, and skills matter more than being local.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Anthropic's share sale is about 81.3 billion dollars at 83 dollars a share</title>
+      <link>https://www.youtube.com/watch?v=8otafrra2MM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=8otafrra2MM</guid>
+      <pubDate>Fri, 20 Nov 2026 12:30:35 +0000</pubDate>
+      <category>Video</category>
+      <news:format>short_candidate</news:format>
+      <news:videoId>8otafrra2MM</news:videoId>
+      <news:publishedIst>2026-11-20T18:00:35+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/8otafrra2MM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Anthropic, the company behind Claude, offered 980 million shares at 83 dollars each. The title and the spoken account put that share sale at about 81.3 billion dollars and describe it as the world's largest initial public offering. A short written line calls 81.3 billion the valuation. The spoken account does not. It cites Reuters for an IPO valuation of about 1.5 trillion dollars. Shares traded above 110 dollars early on Nasdaq, more than 30 percent above the issue price. Most of the offering is newly issued shares. About 79.4 billion dollars in gross proceeds is attributable to Anthropic, the remainder goes to selling shareholders, and fees and expenses reduce what the company keeps. A separate 26 billion dollar private placement is planned alongside the offering and is subject to closing conditions. The rest of that condition was not stated. The two transactions are separate, and the headline amount is not entirely money flowing into Anthropic.</p>
+<p>For the first nine months of 2026, Anthropic reported about 33.24 billion dollars in revenue and about 18.81 billion dollars in compute and infrastructure expenses. The written account gives an operating loss of 1.26 billion. The spoken line says about 1.26 and does not finish the unit. That operating loss is different from a larger reported net loss, which includes substantial non-cash financing charges. The net-loss amount is not given. Moneycontrol reported that platforms including one named IND money, and Groww, let people queue share orders before trading began. Those orders are subject to price limits and are not guaranteed allotments.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Anthropic offered 980 million shares at 83 dollars, a share sale of about 81.3 billion dollars.</li>
+<li>A short written line calls 81.3 billion the valuation. The spoken account cites Reuters for a valuation of about 1.5 trillion dollars.</li>
+<li>Shares traded above 110 dollars early on Nasdaq, more than 30 percent above the issue price.</li>
+<li>About 79.4 billion dollars in gross proceeds is attributable to Anthropic. The rest goes to selling shareholders, and fees reduce what the company keeps.</li>
+<li>A separate 26 billion dollar private placement is planned and is subject to closing conditions that were not fully stated.</li>
+<li>For the first nine months of 2026, revenue was about 33.24 billion dollars and compute and infrastructure expenses were about 18.81 billion dollars.</li>
+<li>The written operating loss is 1.26 billion. The spoken line does not finish the unit. The net-loss figure is not given.</li>
+<li>IND money and Groww were reported to offer queued orders. Those orders are not guaranteed allotments.</li>
+</ul>
+      ]]></description>
+    </item>
 
     <item>
       <title>Narendra Modi urges industry to build technologies India still imports</title>
@@ -377,78 +607,6 @@ Still in this window. Neysa's Mumbai cluster is 8,192 AMD Instinct MI350X GPUs, 
 <li>The company started last December, declined investor control over hiring and markets, and was funded by the founders.</li>
 <li>He names SRM, Qubitech, Chandigarh University, and BIBS as customers and claims about 40 crore rupees in first-year revenue.</li>
 <li>No priority export country is named.</li>
-</ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Neysa brings 8,192 AMD Instinct MI350X GPUs online in Mumbai</title>
-      <link>https://www.youtube.com/watch?v=1rIGGpxov8Y</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=1rIGGpxov8Y</guid>
-      <pubDate>Thu, 19 Nov 2026 14:30:27 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>1rIGGpxov8Y</news:videoId>
-      <news:publishedIst>2026-11-19T20:00:27+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/1rIGGpxov8Y/hqdefault.jpg"/>
-      <description><![CDATA[
-<p>Neysa, the name in the title and the description, has an AMD Instinct MI350X cluster of 8,192 GPUs online in Mumbai for global users. The spoken account calls the company NASA, which is uncertain, and says the installation became operational in a single phase, with customers already contracting capacity. It supports training, fine-tuning, and inference. Customers can specify network, storage, and the operating environment. Bare-metal options include Slurm or Kubernetes. The description names AMD ROCm software. The spoken account calls the software Rockom, which is uncertain, and also names EPYC processors. It says customers still have to test their own models, because the GPU count does not answer training time or cost. This Mumbai cluster is separate from an arrangement with ST Telemedia Global Data Centers in Noida, planned for up to 9,000 GPUs, with a first phase expected in the first quarter of 2027. Those Noida GPUs are not operating now.</p>
-<p><strong>Key points</strong></p>
-<ul>
-<li>The title says Neysa has 8,192 AMD Instinct MI350X GPUs online in Mumbai. The spoken name NASA is uncertain.</li>
-<li>The spoken account says the cluster came online in one phase and that customers are already contracting capacity.</li>
-<li>It supports training, fine-tuning, and inference, with bare metal on Slurm or Kubernetes.</li>
-<li>The description says ROCm. The spoken software name Rockom is uncertain. EPYC processors are also named.</li>
-<li>A separate Noida plan with ST Telemedia Global Data Centers is for up to 9,000 GPUs, with a first phase expected in the first quarter of 2027. Those GPUs are not operating now.</li>
-</ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Humyn Labs raises 47 million dollars for human activity recognition</title>
-      <link>https://www.youtube.com/watch?v=7Wj-1n2WfLA</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=7Wj-1n2WfLA</guid>
-      <pubDate>Thu, 19 Nov 2026 14:00:12 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>7Wj-1n2WfLA</news:videoId>
-      <news:publishedIst>2026-11-19T19:30:12+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/7Wj-1n2WfLA/hqdefault.jpg"/>
-      <description><![CDATA[
-<p>Humyn Labs has raised 47 million dollars to scale human activity recognition and to capture human tasks for robot training data. The capital is meant to support robotics development across 20 countries. Of the total, 26 million dollars is equity led by Accel and 21 million dollars is venture debt. The work is on how machines perceive and interpret physical movement. The company is expanding globally to refine its core software for industrial use. No valuation is given.</p>
-<p><strong>Key points</strong></p>
-<ul>
-<li>Humyn Labs has raised 47 million dollars.</li>
-<li>The raise is to scale human activity recognition and to capture human tasks for robot training data.</li>
-<li>The capital is meant to support robotics development across 20 countries.</li>
-<li>26 million dollars is equity led by Accel.</li>
-<li>21 million dollars is venture debt.</li>
-<li>The company is expanding globally to refine software for how machines read physical movement.</li>
-<li>No valuation is given.</li>
-</ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Cognizant wins a 133.2 million pound Network Rail contract</title>
-      <link>https://www.youtube.com/watch?v=zmg1oxILvgw</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=zmg1oxILvgw</guid>
-      <pubDate>Thu, 19 Nov 2026 13:00:20 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>zmg1oxILvgw</news:videoId>
-      <news:publishedIst>2026-11-19T18:30:20+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/zmg1oxILvgw/hqdefault.jpg"/>
-      <description><![CDATA[
-<p>Cognizant has been selected for a 133.2 million pound technology infrastructure contract with Network Rail, excluding VAT. The engagement runs almost seven years, from January 2027 to January 2034. Cognizant finished ahead of TCS, HCL Tech, DXC Technology, and ATOS, and all five bidders reached the final stage. The work covers servers, mainframes, local and wide networks, cloud platforms, and specified applications, across data centres and smaller sites. It is infrastructure management. The published scope does not describe an AI deployment or a new data centre. Network Rail decided on 11 November, the notice appeared the next day, and a standstill runs to 23 November. Moneycontrol reports the contract is not yet signed. Service is scheduled to start on 29 January 2027. The headline value is for the full term, not one year of revenue.</p>
-<p><strong>Key points</strong></p>
-<ul>
-<li>Cognizant is selected for a 133.2 million pound Network Rail infrastructure contract, excluding VAT.</li>
-<li>The term is almost seven years, from January 2027 to January 2034.</li>
-<li>Cognizant finished ahead of TCS, HCL Tech, DXC Technology, and ATOS. All five reached the final stage.</li>
-<li>The scope is servers, mainframes, networks, cloud, and specified applications. It is not described as an AI deployment or a new data centre.</li>
-<li>The award decision was 11 November, with a standstill to 23 November. Moneycontrol says it is not yet signed.</li>
-<li>Service is scheduled to start on 29 January 2027. The value is for the full term, not a single year.</li>
 </ul>
       ]]></description>
     </item>
