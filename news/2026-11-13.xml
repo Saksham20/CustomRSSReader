@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  One calendar day in India time: Friday 13 November 2026. The site fetches this file only when that day is selected.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:news="urn:latest-news:1">
+  <channel>
+    <title>Latest</title>
+    <link>news/2026-11-13.xml</link>
+    <description>News for Friday 13 November 2026.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 13 Nov 2026 10:51:04 +0000</lastBuildDate>
+    <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-13">
+      <news:scannedAt>2026-11-13T10:51:04Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-13T16:21:04+05:30</news:scannedAtIst>
+      <news:longFormCount>4</news:longFormCount>
+      <news:shortCount>10</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="wBFxbzSfEkA" published="2026-11-13T02:15:37Z">Hyderabad police prepare an AI station at Punjagutta to draft case papers</news:latestLongForm>
+      <news:method>Retrieved at 16:21 IST on 13 November 2026. The window is the 24 hours ending 10:51 UTC. Fifteen uploads came back with titles, descriptions, and publication times. Spoken captions did not come back, so nothing here depends on hearing the broadcasts. A scheduled live had not started, and its lineup was left out. Fourteen uploads are in this edition. Four run longer than three minutes and ten fall inside that cutoff, which is only a way to sort them.</news:method>
+      <news:briefing>
+Friday 13 November 2026, retrieved at 16:21 IST. Hyderabad police are preparing an AI police station that drafts case papers. Public hospitals have been assigned a voice scribe in more than 15 Indian languages. Nvidia shares fell more than 8 percent after reports of a possible removal of Jensen Huang, while an earlier report says the board still has full confidence in him and is searching for a successor.
+
+The morning's through-line: Hyderabad is preparing an AI police station that drafts case papers, public hospitals are getting a voice scribe in more than 15 languages, and Nvidia's shares fell on reports of a possible removal of Jensen Huang that an earlier report does not treat as a departure.
+
+The police station. Hyderabad police are preparing to launch India's first AI-powered police station at Punjagutta, with AI built into drafting FIRs, case diaries and charge sheets. Police have already used AI for complaints. In May they launched a copywriter that records, transcribes and translates complaints in 10 Indian languages. In September they added a kiosk where people file complaints, receive acknowledgements and track grievances. The Punjagutta station is the step that takes AI into the investigation workflow. It is not described as open. An earlier report spells the neighbourhood Panjagutta and the writing tool AI-copwriters. It says the facility will use those tools for translation and digital kiosks for complaints, and that the aim is to change police processing by December 2026. That report's headline says the station is to draft FIRs and case diaries. Its body names translation and complaint kiosks, and paperwork, and calls the pilot a precedent for later stations.
+
+Cognizant and Claude. Cognizant is described as having a 25,000-person Claude delivery team. The same report also says Cognizant commits 25,000 to Claude. No contract value, start date, or description of the work is given beyond those two wordings.
+
+The share fall. Nvidia shares fell more than 8 percent in extended trading after reports of a possible removal of chief executive Jensen Huang. Those reports raise a founder-succession question. Huang's leadership is tied to Nvidia's technology roadmap and its developer ecosystem. The next quarterly results are due on 17 November. A removal is not reported as a decision already taken.
+
+The succession search. An earlier report says Nvidia is searching for chief executive successors while the board maintains full confidence in Jensen Huang. The board has engaged an outside firm, which is not named, to identify candidates. An interim chief is discussed as a possibility while the board maps a longer strategy. The report calls Nvidia the world's most valuable semiconductor firm. No candidate and no departure date are given. The fall of more than 8 percent is in that report's headline and is not repeated in its body. Neither report describes a resignation or a national-security case.
+
+The voice scribe. The National Health Authority has selected EkaCare, spelled Ekacare in one headline, to put an ambient AI voice scribe in public health facilities. It turns doctor-patient conversations into structured notes covering symptoms, medical history, medicines, diagnosis and treatment plans, in more than 15 Indian languages, so doctors spend less time on documentation. The longer report places the work inside the Ayushman Bharat Digital Mission and says the notes are captured automatically to reduce the administrative burden on clinicians. No facility count and no start date are given.
+
+Control Room. OpenAI's Control Room tracks research workloads, including model training, experiments, evaluations and large-scale data processing. Every research job gets a unique ID. Once a researcher or an automated safety monitor gives a stop instruction, the next request for model output is rejected within a maximum of 35 seconds. If Control Room goes offline, requests are denied until it recovers. An earlier report calls the system a way to monitor and halt unauthorized model behavior, assigns a unique ID to every job, and says researchers can intervene when a model acts outside its authorized parameters. Its headline says a suspicious training job can be cut off within 35 seconds. That timing is not repeated in the earlier body. Suspicious is not defined, and no customer is named.
+
+Forged court orders. India's Department of Telecommunications issued two website-blocking directions this year on forged orders impersonating the Allahabad and Rajasthan High Courts. The first, on 21 July, covered 34 sites. The second, on 2 September, covered 95. Together that is 129 betting websites. Both orders carried official-looking seals, the national emblem and QR codes. Police have started an investigation into alleged forgery and cheating. No arrests have been made. A morning report attributes the investigation to Reuters. The report that gives the dates and the counts does not name Reuters.
+
+Muse Ember. Meta's Muse Ember costs 14 cents a task for routine automation. The published score is 37.8 percent on an automation bench, and the report says the model leads AutomationBench. It can take audio and video as well as text. Pulling records and updating software are examples of the work, not measured case studies. A morning report says Muse Ember is beating rival models on an automation benchmark. It does not name the rivals or repeat the 37.8 percent.
+
+Clinical trials. Oracle and AstraZeneca are using AI to match patients to clinical trials faster and to cut the cost of drug development. Oracle Health is pushing healthcare AI from patient portals to Fusion Claw agents, which let customers build their own agents. Amit Raja Naik of AIM spoke with Seema Verma, executive vice president and general manager of Oracle Health and Life Sciences, at Oracle AI World in Las Vegas. The conversation is about the AstraZeneca partnership, where Oracle's healthcare business goes next, electronic health records, drug discovery, hospital operations, and hospitals in India. What Verma said is not established beyond those subjects.
+
+The regulation debate. India is weighing an AI governance framework covering deepfakes, data security and algorithmic accountability. The open question is whether strict compliance would price early-stage startups out of the market. Antara Gupta spoke with Rahul Agarwalla, managing partner at SenseAI Ventures, Rohit Kumar, founding partner at The Quantum Hub, and Vishal Ranjan, founder of Claight, about regulation, startup compliance costs, and who is liable when AI agents go wrong. The discussion is framed as graded rules rather than a blanket rule, a possible split of liability between model makers and application builders, lessons from the EU AI Act and GDPR, and whether India should chase frontier models. Other named subjects are watermarking, the online gaming ban, hallucinations, rogue agents, copyright and training data, and safe harbors for startups. No speaker's conclusion is established.
+
+SoftBank and Tesla. Elon Musk says SoftBank could have had a quarter of Tesla for 12 billion dollars in 2017. SoftBank funded WeWork instead. The account sets that failed buyout against WeWork's rise and collapse under Adam Neumann, from a peak valuation of 47 billion dollars to bankruptcy proceedings in 2023. Musk is not quoted. The year of the 47 billion dollar peak is given only as a peak.
+      </news:briefing>
+    </news:edition>
+
+    <item>
+      <title>JPMorgan forecast puts 400,000 humanoid robots into US factories and logistics</title>
+      <link>https://www.youtube.com/watch?v=mRGi_vO9hug</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=mRGi_vO9hug</guid>
+      <pubDate>Fri, 13 Nov 2026 15:30:30 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>mRGi_vO9hug</news:videoId>
+      <news:publishedIst>2026-11-13T21:00:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/mRGi_vO9hug/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>JPMorgan has released a forecast that humanoid robots are moving from viral demos to commercial deployment. The United States is preparing for 400,000 robots to fill severe labor shortages in manufacturing and logistics. Hardware costs are dropping to a level that rivals human wages. The larger change is in software, where the latest AI brain models from Google DeepMind and Nvidia are described as solving the main robotic bottleneck and setting up a large factory transformation. No year is given for the 400,000 figure.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>JPMorgan's forecast says humanoid robots are moving from viral demos to commercial deployment.</li>
+<li>The United States is preparing for 400,000 robots to fill severe manufacturing and logistics labor shortages. No year is given.</li>
+<li>Hardware costs are dropping to a level that rivals human wages.</li>
+<li>The larger change is in software. The latest AI brain models from Google DeepMind and Nvidia are described as solving the main robotic bottleneck.</li>
+<li>Those models are described as setting up a large factory transformation.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Nonprofits sue in California to freeze frontier AI models</title>
+      <link>https://www.youtube.com/watch?v=MyJYzKrdD78</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=MyJYzKrdD78</guid>
+      <pubDate>Fri, 13 Nov 2026 15:00:00 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>MyJYzKrdD78</news:videoId>
+      <news:publishedIst>2026-11-13T20:30:00+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/MyJYzKrdD78/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>A coalition of nonprofits has filed a lawsuit to block companies including OpenAI, Google, Meta, and Anthropic from building frontier AI models. The suit uses California public nuisance law. The plaintiffs use the executives' own apocalyptic warnings and demand a total freeze on development. The account asks whether a California judge could stop work toward artificial superintelligence. It does not report a ruling, and the plaintiffs are not named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>A coalition of nonprofits has filed a lawsuit naming OpenAI, Google, Meta, and Anthropic.</li>
+<li>The suit uses California public nuisance law and demands a total freeze on development of frontier models.</li>
+<li>The plaintiffs rely on apocalyptic warnings from the companies' own executives.</li>
+<li>No ruling is reported, and the plaintiffs are not named.</li>
+<li>The account looks at state-level injunctions and the effort to stay ahead of China. It does not say an injunction has been granted.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Google and Samsung launch Intelligent Eyewear from 395 dollars</title>
+      <link>https://www.youtube.com/watch?v=ifwo4EJyExs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ifwo4EJyExs</guid>
+      <pubDate>Fri, 13 Nov 2026 14:30:07 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>ifwo4EJyExs</news:videoId>
+      <news:publishedIst>2026-11-13T20:00:07+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/ifwo4EJyExs/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Google and Samsung have launched Intelligent Eyewear, starting at 395 dollars. The glasses weigh 41 grams, run on the Android XR platform, and include Hey Gemini conversational AI. They are aimed at Meta's Ray-Ban glasses. Privacy safeguards are described as a way to avoid the stigma the account calls Glasshole. Whether this hardware wins the wearable market is left open. No on-sale date and no country are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Google and Samsung have launched Intelligent Eyewear, starting at 395 dollars.</li>
+<li>The glasses weigh 41 grams, run on Android XR, and include Hey Gemini.</li>
+<li>They are aimed at Meta's Ray-Ban glasses.</li>
+<li>Privacy safeguards are described as a response to the stigma the account calls Glasshole.</li>
+<li>No on-sale date and no country are given, and whether the product wins the wearable market is left open.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Report says Jensen Huang has stepped down after a board probe</title>
+      <link>https://www.youtube.com/watch?v=4U5aQMaWQRw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=4U5aQMaWQRw</guid>
+      <pubDate>Fri, 13 Nov 2026 14:00:13 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>4U5aQMaWQRw</news:videoId>
+      <news:publishedIst>2026-11-13T19:30:13+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/4U5aQMaWQRw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>This account says Nvidia co-founder Jensen Huang has stepped down after an independent board probe, and it calls the situation a political and corporate firestorm. It says the investigation centers on an alleged affair with a businesswoman suspected by US intelligence of acting as a Chinese asset. She is not named. It says US lawmakers are demanding aggressive export controls and that Commerce Secretary Howard Lutnick is facing heavy scrutiny. Huang, the board, and Lutnick are not quoted. An earlier account said a removal was not a decision already taken, and another said the board still had full confidence in him. This account does not say Nvidia has confirmed a departure.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>This account says Jensen Huang has stepped down after an independent board probe.</li>
+<li>It says the investigation centers on an alleged affair with an unnamed businesswoman suspected by US intelligence of acting as a Chinese asset.</li>
+<li>It says US lawmakers are demanding aggressive export controls and that Commerce Secretary Howard Lutnick is facing heavy scrutiny.</li>
+<li>Huang, the board, and Lutnick are not quoted, and Nvidia is not described as having confirmed a departure.</li>
+<li>An earlier account said a possible removal was not a decision already taken. Another said the board still had full confidence in Huang while searching for successors.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Chariot launches a voice model for 11 Indian languages</title>
+      <link>https://www.youtube.com/watch?v=7pU-ZwH3_mQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=7pU-ZwH3_mQ</guid>
+      <pubDate>Fri, 13 Nov 2026 13:30:24 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>7pU-ZwH3_mQ</news:videoId>
+      <news:publishedIst>2026-11-13T19:00:24+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/7pU-ZwH3_mQ/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Chariot, founded by former Google DeepMind and Meta researchers, has launched a text-to-speech model for 11 Indian languages. The account places that launch in New Delhi. The model mixes more than one language inside a single sentence, which the account calls code-mixing, and it uses contextual reasoning to settle pronunciation. Chariot is backed by the IndiaAI Mission, given as 10,372 crore rupees. Whether it can challenge ElevenLabs and OpenAI in the enterprise market is left open. The founders are not named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Chariot has launched a text-to-speech model for 11 Indian languages. The account places the launch in New Delhi.</li>
+<li>The founders are described as former Google DeepMind and Meta researchers. They are not named.</li>
+<li>The model mixes languages inside a single sentence, which the account calls code-mixing, and uses contextual reasoning for pronunciation.</li>
+<li>Chariot is backed by the IndiaAI Mission, given as 10,372 crore rupees.</li>
+<li>Whether Chariot can challenge ElevenLabs and OpenAI is left open. No result against either company is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Astrome raises 64.05 crore rupees for AI electronic-intelligence satellites</title>
+      <link>https://www.youtube.com/watch?v=buyq3FTxEFk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=buyq3FTxEFk</guid>
+      <pubDate>Fri, 13 Nov 2026 13:00:22 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>buyq3FTxEFk</news:videoId>
+      <news:publishedIst>2026-11-13T18:30:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/buyq3FTxEFk/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Bengaluru-based Astrome Technologies has secured 64.05 crore rupees from the Technology Development Board to build what the account calls India's first sovereign, AI-powered electronic-intelligence satellite constellation. The 50-kilogram microsatellites are to operate in low Earth orbit, use links between satellites and AI software on the ground, and intercept and process electronic signals for persistent defense surveillance. No launch date and no number of satellites are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Astrome Technologies, based in Bengaluru, has secured 64.05 crore rupees from the Technology Development Board.</li>
+<li>The funding is for what the account calls India's first sovereign AI-powered electronic-intelligence satellite constellation.</li>
+<li>The microsatellites are described as 50 kilograms, operating in low Earth orbit.</li>
+<li>They are to use inter-satellite links and AI ground software to intercept and process electronic signals for persistent defense surveillance.</li>
+<li>No launch date and no satellite count are given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>CleanMax and Neysa plan a 2-gigawatt compute factory in Kurnool</title>
+      <link>https://www.youtube.com/watch?v=PuJ624y9OaA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PuJ624y9OaA</guid>
+      <pubDate>Fri, 13 Nov 2026 12:30:27 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>PuJ624y9OaA</news:videoId>
+      <news:publishedIst>2026-11-13T18:00:27+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/PuJ624y9OaA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>CleanMax and Blackstone-backed Neysa have partnered on a 2-gigawatt AI compute factory in Kurnool, Andhra Pradesh, at 8,000 crore rupees. The account calls electricity one of the biggest bottlenecks in AI. The 600-acre site is scheduled for completion in March 2028 and aims to power high-density GPUs on a net-zero renewable grid. The account says the factory could threaten hyperscale providers such as AWS and Azure. That is a possibility it raises, not a result.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>CleanMax and Blackstone-backed Neysa are partnering on an AI compute factory in Kurnool, Andhra Pradesh.</li>
+<li>The project is described as 8,000 crore rupees and 2 gigawatts, on 600 acres.</li>
+<li>Completion is scheduled for March 2028.</li>
+<li>The facility aims to power high-density GPUs on a net-zero renewable grid.</li>
+<li>A threat to AWS and Azure is raised as a possibility, not reported as an outcome.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>MIT index ranks India third in quantum research</title>
+      <link>https://www.youtube.com/watch?v=DfRR-r2OlBw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=DfRR-r2OlBw</guid>
+      <pubDate>Fri, 13 Nov 2026 12:00:35 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>DfRR-r2OlBw</news:videoId>
+      <news:publishedIst>2026-11-13T17:30:35+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/DfRR-r2OlBw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The account says the National Quantum Mission is paying off. The MIT Quantum Index Report 2026 ranks India third in producing quantum computing and communications research, behind China and the United States. Quantum patent filings in India have nearly quadrupled in two years. Those two years are not dated, and no filing count is given. Whether Indian telecom and finance companies commercialise the work, or firms in Silicon Valley license it, is left open.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The National Quantum Mission is described as paying off.</li>
+<li>The MIT Quantum Index Report 2026 ranks India third in quantum computing and communications research, behind China and the United States.</li>
+<li>Quantum patent filings in India have nearly quadrupled in two years. The years and the filing count are not given.</li>
+<li>Whether Indian telecom and finance companies commercialise the work, or Silicon Valley licenses it, is left open.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Front Page lists Huang, an Andhra compute factory, and 400,000 humanoid robots</title>
+      <link>https://www.youtube.com/watch?v=2KE-0ZY0-Zo</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=2KE-0ZY0-Zo</guid>
+      <pubDate>Fri, 13 Nov 2026 10:07:08 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>2KE-0ZY0-Zo</news:videoId>
+      <news:publishedIst>2026-11-13T15:37:08+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/2KE-0ZY0-Zo/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>The Front Page list names eight subjects: Jensen Huang stepping down amid a national-security and espionage probe; a California lawsuit by nonprofits to block OpenAI, Meta, and Google from frontier models; Google and Samsung's 395-dollar Gemini eyewear; JPMorgan's figure of 400,000 humanoid robots for US factories, with AI brain models from Google and Nvidia; India ranking third in quantum research volume as patent filings rise; a net-zero compute factory in Andhra Pradesh at 8,000 crore rupees from Blackstone-backed Neysa and CleanMax; Astrome's funding for a private AI orbital defence network; and Chariot, from former DeepMind researchers, code-mixing 11 Indian languages. The list does not name Anthropic, Kurnool, the 64.05 crore rupee figure, the alleged affair, or Howard Lutnick. What was said beyond this list is not established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The list says Jensen Huang steps down amid a national-security and espionage probe.</li>
+<li>It says nonprofits filed a California lawsuit to block OpenAI, Meta, and Google from frontier models. Anthropic is not in this list.</li>
+<li>It says Google and Samsung launched 395-dollar Gemini eyewear aimed at Meta.</li>
+<li>It says JPMorgan expects 400,000 humanoid robots in US factories, with AI brain models from Google and Nvidia.</li>
+<li>It says India ranks third in quantum research volume and that patent filings are rising.</li>
+<li>It says Neysa and CleanMax are building a net-zero factory in Andhra Pradesh at 8,000 crore rupees. Kurnool is not named here.</li>
+<li>It says Astrome has funding for a private AI orbital defence network. The 64.05 crore rupee figure is not in this list.</li>
+<li>It says former DeepMind researchers launched Chariot, a voice model that code-mixes 11 Indian languages.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Hyderabad police prepare an AI station at Punjagutta to draft case papers</title>
+      <link>https://www.youtube.com/watch?v=wBFxbzSfEkA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=wBFxbzSfEkA</guid>
+      <pubDate>Fri, 13 Nov 2026 02:15:37 +0000</pubDate>
+      <category>Live</category>
+      <news:format>live</news:format>
+      <news:videoId>wBFxbzSfEkA</news:videoId>
+      <news:publishedIst>2026-11-13T07:45:37+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/wBFxbzSfEkA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Hyderabad police are preparing to launch India's first AI-powered police station at Punjagutta, with AI built into drafting FIRs, case diaries and charge sheets. Cognizant is described as having a 25,000-person Claude delivery team, and the same report also says Cognizant commits 25,000 to Claude. Reuters is cited for an investigation into 129 betting websites blocked on forged High Court orders.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Hyderabad police are preparing to launch India's first AI-powered police station at Punjagutta.</li>
+<li>AI is being built into drafting FIRs, case diaries and charge sheets.</li>
+<li>Cognizant is described both as a 25,000-person Claude delivery team and as committing 25,000 to Claude. No contract value or start date is given.</li>
+<li>Reuters is cited for the investigation into 129 betting websites blocked on forged High Court orders.</li>
+<li>Also named, without further detail: the National Health Authority's selection of EkaCare for an AI voice scribe in public facilities, OpenAI's Control Room for internal research, Elon Musk's claim about SoftBank's missed Tesla investment, Nvidia's search for a chief executive successor, and Meta's Muse Ember beating rival models on an automation benchmark.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Nvidia shares fall more than 8 percent on reports of a possible Huang removal</title>
+      <link>https://www.youtube.com/watch?v=cifn242rSYU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=cifn242rSYU</guid>
+      <pubDate>Fri, 13 Nov 2026 02:00:21 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>cifn242rSYU</news:videoId>
+      <news:publishedIst>2026-11-13T07:30:21+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/cifn242rSYU/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Nvidia shares fell more than 8 percent in extended trading after reports of a possible removal of chief executive Jensen Huang. The reports raise a founder-succession question. Huang's leadership is tied to the technology roadmap and the developer ecosystem. The next quarterly results are due on 17 November. A removal is not reported as a decision already taken.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Nvidia shares fell more than 8 percent in extended trading.</li>
+<li>The fall followed reports of a possible removal of chief executive Jensen Huang. The reports do not say a removal has occurred.</li>
+<li>The reports raise a founder-succession question at the company described as the center of the AI boom.</li>
+<li>Huang's leadership is tied to Nvidia's technology roadmap and developer ecosystem.</li>
+<li>Nvidia's next quarterly results are due on 17 November.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>OpenAI's Control Room rejects the next model output within 35 seconds of a stop</title>
+      <link>https://www.youtube.com/watch?v=qB1i-kz7new</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=qB1i-kz7new</guid>
+      <pubDate>Fri, 13 Nov 2026 01:30:22 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>qB1i-kz7new</news:videoId>
+      <news:publishedIst>2026-11-13T07:00:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/qB1i-kz7new/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>OpenAI's Control Room tracks AI workloads across its research infrastructure, including model training, experiments, evaluations and large-scale data processing. Every research job gets a unique ID. Once a researcher or an automated safety monitor gives a stop instruction, the next request for model output is rejected within a maximum of 35 seconds. If Control Room goes offline, requests are denied until it recovers.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Control Room is a central system for OpenAI's research workloads: training, experiments, evaluations and large-scale data processing.</li>
+<li>Every research job gets a unique ID.</li>
+<li>After a stop instruction from a researcher or an automated safety monitor, the next request for model output is rejected within a maximum of 35 seconds.</li>
+<li>If Control Room is offline, requests are denied until it recovers.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>The National Health Authority picks Ekacare to scribe public-hospital visits</title>
+      <link>https://www.youtube.com/watch?v=hjFbXZyhgRw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=hjFbXZyhgRw</guid>
+      <pubDate>Fri, 13 Nov 2026 01:00:09 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>hjFbXZyhgRw</news:videoId>
+      <news:publishedIst>2026-11-13T06:30:09+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/hjFbXZyhgRw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India's National Health Authority has selected Ekacare to implement an ambient AI voice scribe in public health facilities. It converts doctor-patient conversations into structured clinical notes covering symptoms, medical history, medicines, diagnosis and treatment plans, and it supports more than 15 Indian languages. The stated aim is that doctors spend less time on documentation and more time treating patients.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The National Health Authority has selected Ekacare, spelled that way here, for public health facilities.</li>
+<li>The scribe turns doctor-patient conversations into notes on symptoms, medical history, medicines, diagnosis and treatment plans.</li>
+<li>It supports more than 15 Indian languages.</li>
+<li>The aim is less documentation time for doctors. No facility count or start date is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Hyderabad's complaint tools now reach the investigation itself</title>
+      <link>https://www.youtube.com/watch?v=bMAnWCuX4Rg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bMAnWCuX4Rg</guid>
+      <pubDate>Fri, 13 Nov 2026 00:30:22 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>bMAnWCuX4Rg</news:videoId>
+      <news:publishedIst>2026-11-13T06:00:22+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/bMAnWCuX4Rg/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Hyderabad police have already used AI for complaints. In May they launched an AI copywriter that records, transcribes and translates complaints in 10 Indian languages. In September an AI kiosk at a police station let citizens file complaints, get acknowledgements and track grievances. The new AI police station at Punjagutta takes AI into the investigation workflow itself.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>In May, Hyderabad police launched an AI copywriter that records, transcribes and translates complaints in 10 Indian languages.</li>
+<li>In September, an AI kiosk let people file complaints, receive acknowledgements and track grievances.</li>
+<li>The new station at Punjagutta is described as bringing AI into the investigation workflow. It is not described as already open.</li>
+<li>FIRs, case diaries and charge sheets are not named in this report.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Forged high court orders were used to block 129 betting websites</title>
+      <link>https://www.youtube.com/watch?v=z6crPz42iKM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=z6crPz42iKM</guid>
+      <pubDate>Fri, 13 Nov 2026 00:00:28 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>z6crPz42iKM</news:videoId>
+      <news:publishedIst>2026-11-13T05:30:28+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/z6crPz42iKM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India's Department of Telecommunications issued two website-blocking directions this year on forged orders impersonating the Allahabad and Rajasthan High Courts. The first, on 21 July, covered 34 sites. The second, on 2 September, covered 95. The total is 129 betting websites. Both orders carried official-looking seals, the national emblem and QR codes. Police have started an investigation into alleged forgery and cheating, and no arrests have been made.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>The Department of Telecommunications issued two blocking directions based on forged orders impersonating the Allahabad and Rajasthan High Courts.</li>
+<li>The 21 July direction covered 34 sites. The 2 September direction covered 95 sites. The total is 129 betting websites.</li>
+<li>Both orders carried official-looking seals, the national emblem and QR codes.</li>
+<li>Police are investigating alleged forgery and cheating. No arrests have been made.</li>
+<li>This report does not name Reuters.</li>
+</ul>
+      ]]></description>
+    </item>
+
+  </channel>
+</rss>

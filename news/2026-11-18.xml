@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  One calendar day in India time: Wednesday 18 November 2026. The site fetches this file only when that day is selected.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:news="urn:latest-news:1">
+  <channel>
+    <title>Latest</title>
+    <link>news/2026-11-18.xml</link>
+    <description>News for Wednesday 18 November 2026.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 18 Nov 2026 01:32:22 +0000</lastBuildDate>
+    <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-18">
+      <news:scannedAt>2026-11-18T01:32:22Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-18T07:02:22+05:30</news:scannedAtIst>
+      <news:longFormCount>12</news:longFormCount>
+      <news:shortCount>4</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="JiNhZ6PxWwk" published="2026-11-17T15:30:21Z">Bolna went from five Y Combinator rejections to millions of voice calls a day</news:latestLongForm>
+      <news:method>Retrieved at 07:02 IST on 18 November 2026. The window is the 24 hours ending 01:32 UTC. Eighteen uploads came back with titles, descriptions, and publication times. Spoken wording came back for one item, on the Bengaluru Tech Summit registrations, and uncertain spellings in that wording are kept. The other spoken tracks did not come back, so those items stay with the published title and description. Two uploads were already in this file. Sixteen are here, newest first. Four are the shorter items and twelve are longer reports, including one live briefing.</news:method>
+      <news:briefing>
+Wednesday 18 November 2026, retrieved at 07:02 IST. Sarvam says its 105-billion-parameter model now returns 330 tokens a second for a single user, at an introductory 10 rupees per million input tokens. Bengaluru Tech Summit registrations have crossed 10,000, with 140 knowledge sessions planned. The United States is requiring licenses for AI chip exports to five countries.
+
+The morning's through-line: Sarvam is pricing Token Factory at 10 rupees per million input tokens and reporting 330 tokens a second on its 105-billion-parameter model, the Bengaluru Tech Summit has passed 10,000 registrations, and the United States is requiring AI chip export licenses for five countries.
+
+Sarvam's speed. Sarvam reports a 2.86-times throughput increase on its own 105-billion-parameter model, to 330 tokens a second for a single user, after custom kernels and a three-tier cache. The introductory price is 10 rupees per million input tokens. The company says the cache hits 95.7 percent across more than 450 billion tokens a day. The headline names this Token Factory. A separate report launches Token Factory with the Sarvam 105B model for enterprise inference, and says on-premise deployment is available for organisations that need local data control. Its headline price is 10 rupees per million input tokens. Its body says input pricing starts at 10 rupees and does not repeat "per million". It calls the 95.7 percent figure a DeepSeek cache hit rate, not a prompt-cache rate, and it does not give the 330-token speed, the 2.86-times gain, or the 450 billion tokens a day.
+
+The summit. Delegate registrations have crossed 10,000, with 140 knowledge sessions planned. An India-US tech conclave is set for 18 November. AI hackathons on physical AI, agriculture, and healthcare carry a combined prize pool of 15 lakh rupees, plus another 15 lakh rupees in AI credits. A Future Makers Conclave on 19 November brings founders and investors together around deep tech. Karnataka's IT and biotechnology minister is named as Priyanker. Further wording puts semiconductor manufacturing, hardware sovereignty, and openings for Indian component suppliers on the agenda, and says the 18 November conclave will discuss quantum collaboration, critical minerals, pack silica, and cyber security. Software Technology Parks of India is sponsoring exhibition space for around 100 startups in IT, IT-enabled services, and electronics. Hackathon winners can also receive a residency given as bhatwan.ai. The spellings Priyanker, pack silica, and bhatwan.ai are uncertain. A second report's headline puts the summit at 140 sessions and a 50,000 square foot robot pavilion. Its body says more than 10,000 registered delegates are looking at chips and edge AI, and that Karnataka has tech growth targets and Kalaburagi a rising economic contribution, with no figures for either. Venue coverage describes the 29th edition at the Bangalore International Exhibition Centre as India's biggest tech event. AIM is a media partner. Antara Gupta is in the studio and Sudhi Sachdev, principal anchor, is at the venue. The scale given there is more than 10,000 delegates, more than 1,500 exhibitors, more than 700 speakers, and 65 countries. Karnataka's AI university is a plan. Also named, without conclusions, are a government AI rollout, a deep tech fund, a quantum centre, letters of intent still to be tracked, robot dogs and humanoids, Microsoft's Shiksha Copilot for teachers, healthcare, voice AI in Indian languages, assistive technology, and government sandboxes.
+
+CtrlS. CtrlS has signed a letter of intent for a 150 MW AI facility, with a proposed investment of 10,000 crore rupees. That project is not built. Separately, the Patna data center opened in October. The company puts it at 400 crore rupees and 12 MW of IT load, with room to expand. A different report says CtrlS is scaling toward 4.4 gigawatts of capacity by 2030 and plans more than 20 new edge facilities, with Bihar as a hub after the Patna launch. That report's headline says 20 more edge centers and puts the Patna site at 400 crore rupees. No opening date is given for the next sites. The 150 MW letter, the 10,000 crore proposal, and the 12 MW load are not in that report.
+
+Chips and models. The United States is requiring licenses for AI chip exports to five countries, to close a loophole Chinese firms have used to reach advanced hardware. The five countries are not named. Restrictions on remote data-center access are being tightened for national security. No market move is stated. India has joined the San Francisco Declaration, described as a US-led effort, alongside ten other nations. The partnership is aimed at the supply of chips, manufacturing equipment, and energy networks. Five working groups cover innovation policy, AI adoption, and supply chain security. The wording for those groups is Paxilica, and the other countries are not named. A briefing list instead says a declaration with nine partner countries. That is a different count. SK Hynix is putting 1.4 trillion won into its supply chain and a new cleanroom, and aims to cover 50 percent of costs for local suppliers over the next five years, around the Trinity Fab site in Yongin. The headline says the money will build the Trinity Fab. No budget split and no completion date are given. Alibaba has launched Qwen4-Max for enterprise workloads. The headline spells it Qwen 4 Max, puts it at 2.4 trillion parameters, and says task cost is down 62 percent. The body states a 35 percent reduction in token use and a 62 percent decrease in API task costs, and describes cybersecurity safeguards for enterprise use. The 2.4 trillion figure is not repeated in the body.
+
+The conversations. Sudhi Sachdev speaks with Bolna founders Maitreya Wagh and Prateek Sachan about voice agents for India, from multilingual calls to banks and enterprises. Bolna went from five Y Combinator rejections and a pivot to handling millions of voice calls a day. The headline says 1.3 million-plus daily calls. The Symphony Summit is on 20 November. How the company chooses speech, language, and voice models, why Assamese and Odia still lag, and what banks require are subjects of the conversation. What the founders concluded is not established. Sthanika AI is launching in Hyderabad. Sudhi Sachdev speaks with Sridhar Muppidi, co-founder of PurpleTalk Inc., about why the Hyderabad lab built a decision model and how many agent tasks need a large language model. The headline calls it India's Sieve Decision Model. That name is not used in the body. No cost saving is given. The Bharat EduAI Stack is presented with a new Bodhan AI Centre of Excellence at IIT Madras, and with AI moving into government schools. Anoop of Bodhan AI, who spent more than eight years at Microsoft, is building sovereign open-weight models for Indian languages: Indic-Transcribe, Indic-Speak, Indic-OCR, and Indic-Translate. Nandan Nilekani's proposal is to generate NTA question papers on the day of the exam to prevent leaks. It is a proposal. Who will govern the stack, and how schools deploy it without large hardware budgets, is asked and not answered. AI tutors for classes 6 to 12, and AI as a co-pilot for teachers, are subjects, not measured results. SpaceX caught the Starship upper stage with tower arms after about 22.5 hours in flight. The headline says the catch was midair and came after 22.5 hours in orbit.
+
+The list. The briefing names seven subjects: physical AI at the Bengaluru Tech Summit, with robotics demonstrations and startup competitions; CtrlS targeting 4.4 gigawatts by 2030; India's declaration with nine partner countries on AI supply chains; Sarvam's Token Factory; SK Hynix investing 1.4 trillion won in its chip suppliers; Alibaba's Qwen4-Max; and a US rule requiring export licences for advanced AI chips to five nations. The 150 MW letter of intent, the Patna megawatts, the 330-token rate, and the "ten other nations" wording are not on that list. Nothing beyond the list is established.
+      </news:briefing>
+    </news:edition>
+
+    <item>
+      <title>Day 2 of the Bengaluru Tech Summit lists the state's leadership as guests</title>
+      <link>https://www.youtube.com/watch?v=izopVN9Axus</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=izopVN9Axus</guid>
+      <pubDate>Wed, 18 Nov 2026 18:17:55 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>izopVN9Axus</news:videoId>
+      <news:publishedIst>2026-11-18T23:47:55+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/izopVN9Axus/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Day 2 of the Bengaluru Tech Summit is the 29th edition of what is described as Asia's largest integrated technology summit. It runs from 17 to 19 November at the Bangalore International Exhibition Centre under the theme AI and Beyond. The announced guests are D.K. Shivakumar, chief minister of Karnataka; Priyank Kharge, minister for home, information technology, biotechnology and e-governance; Kiran Mazumdar-Shaw, executive chairperson of Biocon and chairperson of the state's Vision Group on Biotechnology; Pratik Gandhi, actor, storyteller and theatre practitioner; and Puneet Chandok, president of Microsoft India and South Asia. What any of them said is not established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>This is Day 2 of the Bengaluru Tech Summit, described as the 29th edition of Asia's largest integrated technology summit.</li>
+<li>The summit runs from 17 to 19 November at the Bangalore International Exhibition Centre.</li>
+<li>The theme is AI and Beyond.</li>
+<li>D.K. Shivakumar, chief minister of Karnataka, is an announced guest.</li>
+<li>Priyank Kharge, minister for home, information technology, biotechnology and e-governance, is an announced guest.</li>
+<li>Kiran Mazumdar-Shaw, executive chairperson of Biocon and chairperson of the Vision Group on Biotechnology, is an announced guest.</li>
+<li>Pratik Gandhi and Puneet Chandok, president of Microsoft India and South Asia, are announced guests.</li>
+<li>No remarks from the guests are established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Sanjana Gupta reports from Bengaluru Tech Summit Day 2 on grants and city shifts</title>
+      <link>https://www.youtube.com/watch?v=GbYHxDb3304</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=GbYHxDb3304</guid>
+      <pubDate>Wed, 18 Nov 2026 16:41:42 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>GbYHxDb3304</news:videoId>
+      <news:publishedIst>2026-11-18T22:11:42+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/GbYHxDb3304/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Sanjana Gupta is reporting from Day 2 of the Bengaluru Tech Summit, which is described as moving past inauguration speeches into enterprise AI, quantum computing, and space tech. The report covers the Global Innovation Alliance and pavilions with delegations that include leading Chinese robotics firms. It covers the regulatory difficulty Indian space startups face in getting drop-test permissions from the defence sector, and a Karnataka push to place new global capability centres in tier-2 and tier-3 cities rather than Bengaluru. It also covers reaction to 25 lakh rupees in state funding for startups and to Bengaluru's described status as the second most native-AI-ready city in Asia. Whether enterprise AI and deep tech are solving business problems beyond demonstrations is left open.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Sanjana Gupta is reporting from Day 2 of the Bengaluru Tech Summit.</li>
+<li>Day 2 is described as focused on enterprise AI, quantum computing, and space tech.</li>
+<li>The Global Innovation Alliance pavilions include delegations and leading Chinese robotics firms.</li>
+<li>Indian space startups face regulatory difficulty getting drop-test permissions from the defence sector.</li>
+<li>Karnataka is pushing new global capability centres toward tier-2 and tier-3 cities.</li>
+<li>The state funding under discussion is 25 lakh rupees for startups.</li>
+<li>Bengaluru is described as the second most native-AI-ready city in Asia.</li>
+<li>Whether enterprise AI and deep tech are solving problems beyond demonstrations is not established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Inbound Aerospace aims at a 2028 launch with autonomous parachutes</title>
+      <link>https://www.youtube.com/watch?v=TfKJTpauKpw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=TfKJTpauKpw</guid>
+      <pubDate>Wed, 18 Nov 2026 15:30:39 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>TfKJTpauKpw</news:videoId>
+      <news:publishedIst>2026-11-18T21:00:39+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/TfKJTpauKpw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Inbound Aerospace is building autonomous parachute systems to land reusable spacecraft, with a 2028 suborbital launch in sight. Sanjana Gupta speaks with co-founder Abhijit Bhutey at the Bengaluru Tech Summit. The conversation covers precision drop tests, the challenge of steering a parachute autonomously, defence use and a provisional iDEX win, airspace and regulatory hurdles in India, re-entry vehicle rules and the Space Act, recovery in Australia and what it costs, the next funding round, a path from the Indian Navy to the startup, and a step from Mach 2 to Mach 25. What Bhutey concluded is not established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Inbound Aerospace is building autonomous parachute systems to land reusable spacecraft.</li>
+<li>A 2028 suborbital launch is described as in sight.</li>
+<li>Sanjana Gupta speaks with co-founder Abhijit Bhutey at the Bengaluru Tech Summit.</li>
+<li>Subjects include precision drop tests, autonomous steering, a provisional iDEX win for defence use, and Indian airspace rules.</li>
+<li>Further subjects are the Space Act, recovery in Australia and its cost, the next funding round, the Indian Navy, and Mach 2 to Mach 25.</li>
+<li>What Bhutey concluded is not established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>A Barracuda survey finds an 81 percent AI skills gap as firms cut security jobs</title>
+      <link>https://www.youtube.com/watch?v=dPhwmtOJUh4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=dPhwmtOJUh4</guid>
+      <pubDate>Wed, 18 Nov 2026 15:00:04 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>dPhwmtOJUh4</news:videoId>
+      <news:publishedIst>2026-11-18T20:30:04+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/dPhwmtOJUh4/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>A Barracuda survey says AI is changing India's security teams, with an 81 percent AI skills gap and 66 percent of firms cutting headcount. Antara Gupta speaks with Rohit Aradhya, vice president of engineering and managing director at Barracuda, about that skills-versus-headcount paradox. The subjects include an AI-powered security operations centre, AI-generated phishing and business email compromise, zero trust against deepfakes and bypassed multi-factor authentication, where humans take over during an incident, missing skills, how the chief information security officer's role is changing, the cost of AI security, and why accountability stays with people. What Aradhya concluded is not established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>A Barracuda survey cites an 81 percent AI skills gap in India's security teams.</li>
+<li>The same survey says 66 percent of firms are cutting headcount.</li>
+<li>Antara Gupta speaks with Rohit Aradhya, vice president of engineering and managing director at Barracuda.</li>
+<li>Subjects include the AI-powered security operations centre, generative-AI phishing, zero trust, deepfakes, and multi-factor authentication bypass.</li>
+<li>Further subjects are the handoff from AI to humans in an incident, hallucinations, explainability, missing skills, the chief information security officer's role, cost, and human accountability.</li>
+<li>What Aradhya concluded is not established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Nvidia reports record revenue of 115.8 billion dollars and guides to 130 billion</title>
+      <link>https://www.youtube.com/watch?v=b9fsuWhEzyI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=b9fsuWhEzyI</guid>
+      <pubDate>Wed, 18 Nov 2026 14:30:28 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>b9fsuWhEzyI</news:videoId>
+      <news:publishedIst>2026-11-18T20:00:28+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/b9fsuWhEzyI/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Nvidia reports record revenue of 115.8 billion dollars, up 103 percent, and forecasts 130 billion dollars for the next quarter. The same account looks at 32 billion dollars in agreements it spells Neoccloud. It says the board has ruled out a return for Jensen Huang.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Nvidia reports record revenue of 115.8 billion dollars.</li>
+<li>The increase is given as 103 percent.</li>
+<li>The forecast for the next quarter is 130 billion dollars.</li>
+<li>Agreements spelled Neoccloud are put at 32 billion dollars.</li>
+<li>The board has ruled out a return for Jensen Huang.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Isomorphic Labs raises 5 billion dollars for AI drugs headed to human trials</title>
+      <link>https://www.youtube.com/watch?v=uHY_hnqgrus</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=uHY_hnqgrus</guid>
+      <pubDate>Wed, 18 Nov 2026 13:15:06 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>uHY_hnqgrus</news:videoId>
+      <news:publishedIst>2026-11-18T18:45:06+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/uHY_hnqgrus/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Isomorphic Labs has secured 5 billion dollars to accelerate AI drug discovery and prepare candidates for human trials. Demis Hassabis is leading the company as internal programs move toward clinical testing. Sequoia Capital and Alphabet are named among the investors. The research areas named are cancer and immunology. Preclinical results are described as a clear signal for AI-designed medicine. What those results showed is not stated.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Isomorphic Labs has raised 5 billion dollars.</li>
+<li>The money is for AI drug discovery and for moving candidates toward human trials.</li>
+<li>Demis Hassabis is leading the company as internal programs move toward clinical testing.</li>
+<li>Sequoia Capital and Alphabet are named among the investors.</li>
+<li>The research areas named are cancer and immunology.</li>
+<li>Preclinical results are called a clear signal. The results themselves are not described.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>An earlier Day 2 briefing names the same Bengaluru Tech Summit guests</title>
+      <link>https://www.youtube.com/watch?v=11KVn_dxdzY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=11KVn_dxdzY</guid>
+      <pubDate>Wed, 18 Nov 2026 13:06:24 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>11KVn_dxdzY</news:videoId>
+      <news:publishedIst>2026-11-18T18:36:24+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/11KVn_dxdzY/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>An earlier Day 2 briefing from the Bengaluru Tech Summit carries the same announced guests: D.K. Shivakumar, chief minister of Karnataka; Priyank Kharge, minister for home, information technology, biotechnology and e-governance; Kiran Mazumdar-Shaw, executive chairperson of Biocon and chairperson of the state's Vision Group on Biotechnology; Pratik Gandhi; and Puneet Chandok, president of Microsoft India and South Asia. The summit is again described as the 29th edition of Asia's largest integrated technology summit, running 17 to 19 November at the Bangalore International Exhibition Centre under the theme AI and Beyond. No remarks are established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>This earlier Day 2 briefing uses the same guest list as the later one.</li>
+<li>The guests are D.K. Shivakumar, Priyank Kharge, Kiran Mazumdar-Shaw, Pratik Gandhi, and Puneet Chandok.</li>
+<li>The summit runs 17 to 19 November at the Bangalore International Exhibition Centre.</li>
+<li>The theme is AI and Beyond.</li>
+<li>No remarks are established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Suzanne Norah Johnson will chair Nvidia's national security committee</title>
+      <link>https://www.youtube.com/watch?v=1bE23o8U1yE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=1bE23o8U1yE</guid>
+      <pubDate>Wed, 18 Nov 2026 12:45:30 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>1bE23o8U1yE</news:videoId>
+      <news:publishedIst>2026-11-18T18:15:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/1bE23o8U1yE/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Nvidia has formed a board committee to manage national security and global trade risks, including export controls, after shareholder lawsuits and an independent investigation. Director Suzanne Norah Johnson will chair it. Interim chief executive Colette Kress continues to manage daily operations. The move is described as a response to the regulatory environment around semiconductor trade. No new export rule is named.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Nvidia has formed a board committee for national security and global trade risks.</li>
+<li>Export controls are part of that committee's brief.</li>
+<li>The committee follows shareholder lawsuits and an independent investigation.</li>
+<li>Director Suzanne Norah Johnson will chair it.</li>
+<li>Colette Kress continues as interim chief executive.</li>
+<li>No new export rule is named.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Accenture LearnVantage will train students at more than 1,000 institutions</title>
+      <link>https://www.youtube.com/watch?v=e9ajy1gAWiA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=e9ajy1gAWiA</guid>
+      <pubDate>Wed, 18 Nov 2026 12:15:38 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>e9ajy1gAWiA</news:videoId>
+      <news:publishedIst>2026-11-18T17:45:38+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/e9ajy1gAWiA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Accenture and Google Cloud are launching an AI education partnership for students across India. Accenture LearnVantage is leading practical training for more than a thousand public and private schools and colleges. Students must pass assessments to earn certification in artificial intelligence. The programs cover core technical competencies, cloud skills, and AI implementation, and are meant to standardise tech education and scale digital literacy. Generative AI and agents are not named in this account.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Accenture and Google Cloud are launching AI training for students across India.</li>
+<li>Accenture LearnVantage is leading the practical training.</li>
+<li>The plan covers more than a thousand public and private schools and colleges.</li>
+<li>Students must pass assessments to earn certification in artificial intelligence.</li>
+<li>The programs cover technical competencies, cloud skills, and AI implementation.</li>
+<li>This account does not name generative AI or agents.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>India's IT spending could approach 17 lakh crore rupees in 2027</title>
+      <link>https://www.youtube.com/watch?v=jt3GVjY8cow</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=jt3GVjY8cow</guid>
+      <pubDate>Wed, 18 Nov 2026 12:05:52 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>jt3GVjY8cow</news:videoId>
+      <news:publishedIst>2026-11-18T17:35:52+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/jt3GVjY8cow/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>A Gartner forecast says India's IT spending could approach 17 lakh crore rupees in 2027, with cloud infrastructure and data centres growing as businesses expand technology budgets. The same briefing also lists electronics exports growing beyond smartphones, Karnataka's six technology initiatives covering AI research, robotics, and semiconductors, Accenture and Google Cloud's plan for AI education at more than 1,000 Indian institutions, Nvidia's new board committee for national security and export controls, Isomorphic Labs' 5 billion dollar raise for AI drug development, and Nvidia's record revenue of 115.8 billion dollars under interim chief executive Colette Kress. Nothing beyond that list is established here.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Gartner says India's IT spending could approach 17 lakh crore rupees in 2027.</li>
+<li>Cloud infrastructure and data centres are described as growing with technology budgets.</li>
+<li>The briefing also lists electronics exports beyond smartphones.</li>
+<li>Karnataka's six initiatives cover AI research, robotics, and semiconductors.</li>
+<li>Accenture and Google Cloud plan AI education for more than 1,000 institutions.</li>
+<li>Nvidia's new committee covers national security and export controls.</li>
+<li>Isomorphic Labs' raise is given as 5 billion dollars.</li>
+<li>Nvidia's record revenue of 115.8 billion dollars is placed under interim chief executive Colette Kress.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Gartner puts India's IT spending up 10.6 percent to 16.94 lakh crore rupees</title>
+      <link>https://www.youtube.com/watch?v=n5S37j7IIww</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=n5S37j7IIww</guid>
+      <pubDate>Wed, 18 Nov 2026 11:45:37 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>n5S37j7IIww</news:videoId>
+      <news:publishedIst>2026-11-18T17:15:37+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/n5S37j7IIww/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Gartner forecasts India's IT spending at 16.94 lakh crore rupees, a 10.6 percent increase, and also describes the outlook as 17 lakh crore rupees by 2027. The 16.94 lakh crore figure is also placed within the next few years. AI is described as a primary catalyst, influencing procurement and longer roadmaps. Beyond software, demand is accelerating for data center systems and cloud infrastructure.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Gartner forecasts India IT spending at 16.94 lakh crore rupees.</li>
+<li>The increase is 10.6 percent.</li>
+<li>The same forecast is also given as 17 lakh crore rupees by 2027.</li>
+<li>The 16.94 lakh crore figure is also described as arriving within the next few years.</li>
+<li>AI is described as a primary catalyst for procurement and longer roadmaps.</li>
+<li>Demand is accelerating for data center systems and cloud infrastructure.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Karnataka announces six initiatives for AI, robotics, and chips</title>
+      <link>https://www.youtube.com/watch?v=ZIPKJlYCrkU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ZIPKJlYCrkU</guid>
+      <pubDate>Wed, 18 Nov 2026 11:15:35 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>ZIPKJlYCrkU</news:videoId>
+      <news:publishedIst>2026-11-18T16:45:35+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/ZIPKJlYCrkU/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Karnataka has announced six initiatives at the Bengaluru Tech Summit to scale AI, robotics, and semiconductor research. The strategy is described as investment in healthcare technology and advanced manufacturing, meant to strengthen the regional ecosystem for founders and companies. A robotics zone and a 200 mm chip fab are part of how the announcement is presented. The six initiatives are not named, and this account does not place the fab at IISc.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Karnataka has announced six initiatives at the Bengaluru Tech Summit.</li>
+<li>The initiatives are to scale AI, robotics, and semiconductor research.</li>
+<li>Healthcare technology and advanced manufacturing are the investment areas named.</li>
+<li>A robotics zone and a 200 mm chip fab are part of how the announcement is presented.</li>
+<li>The six initiatives are not named.</li>
+<li>This account does not place the fab at IISc.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Electronics exports rise 44 percent to 32 billion dollars in six months</title>
+      <link>https://www.youtube.com/watch?v=FP0AOubcY6A</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=FP0AOubcY6A</guid>
+      <pubDate>Wed, 18 Nov 2026 10:46:28 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>FP0AOubcY6A</news:videoId>
+      <news:publishedIst>2026-11-18T16:16:28+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/FP0AOubcY6A/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>India's electronics exports rose 44 percent to 32 billion dollars in six months. The period examined is April to September. Smartphone manufacturing remains dominant, and non-smartphone electronics are expanding quickly. The account does not give the non-smartphone dollar total or the share of shipments going to Singapore.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Electronics exports rose 44 percent to 32 billion dollars in six months.</li>
+<li>The period is April to September.</li>
+<li>Smartphone manufacturing is described as dominant.</li>
+<li>Non-smartphone electronics are described as expanding quickly.</li>
+<li>No category dollar breakdown is given in this account.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Point Break asks if AI doctors can stand in for missing hospitals</title>
+      <link>https://www.youtube.com/watch?v=2A6WHW1zqRo</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=2A6WHW1zqRo</guid>
+      <pubDate>Wed, 18 Nov 2026 09:00:32 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>2A6WHW1zqRo</news:videoId>
+      <news:publishedIst>2026-11-18T14:30:32+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/2A6WHW1zqRo/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Point Break asks whether AI doctors can fill the gap left by missing hospitals, beds, and specialists in India. Antara Gupta speaks with Sidharth Srinivasan, chief executive of Lupin Digital Health; Dr. Sanjay Nagral, director of surgical gastroenterology at Jaslok Hospital; and Sudipta Sengupta, founder and chief executive of The Healthy Indian Project. The subjects are diagnosis, rural care, access and affordability, patient trust, polypharmacy, continuity of care, the Ekacare and National Health Authority voice scribe, consent and data privacy, accountability when an AI triage misses a diagnosis, and whether a doctor should override an AI diagnosis. No speaker's conclusion is established.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Antara Gupta hosts the Point Break debate.</li>
+<li>The panel is Sidharth Srinivasan of Lupin Digital Health, Dr. Sanjay Nagral of Jaslok Hospital, and Sudipta Sengupta of The Healthy Indian Project.</li>
+<li>The question is whether AI doctors can fill gaps in hospitals, beds, and specialists.</li>
+<li>Subjects include rural care, affordability, patient trust, polypharmacy, and continuity of care.</li>
+<li>Ekacare and the National Health Authority voice scribe are subjects.</li>
+<li>Consent, privacy, missed triage, and a doctor's power to override an AI diagnosis are subjects.</li>
+<li>No speaker's conclusion is established.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>SK Hynix schedules Trinity Fab to open in May 2027</title>
+      <link>https://www.youtube.com/watch?v=2rFlBeeQ2p8</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=2rFlBeeQ2p8</guid>
+      <pubDate>Wed, 18 Nov 2026 02:30:28 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>2rFlBeeQ2p8</news:videoId>
+      <news:publishedIst>2026-11-18T08:00:28+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/2rFlBeeQ2p8/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>SK Hynix will advance up to 50 percent of initial development costs to its vendors and will compensate suppliers for completed work even if a project misses its targets. Trinity Fab is scheduled to open in May 2027. It will have a 3,305 square metre clean room for advanced lithography, etching, deposition, and inspection on 12-inch wafers.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>SK Hynix will advance up to 50 percent of initial development costs to vendors.</li>
+<li>Suppliers are to be paid for completed work even if a project misses its targets.</li>
+<li>Trinity Fab is scheduled to open in May 2027.</li>
+<li>The clean room is 3,305 square metres.</li>
+<li>The clean room is for lithography, etching, deposition, and inspection on 12-inch wafers.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Qwen 4 Max is reported to cut average task cost from 4.43 dollars to 1.67</title>
+      <link>https://www.youtube.com/watch?v=nPoOoRXJ_no</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=nPoOoRXJ_no</guid>
+      <pubDate>Wed, 18 Nov 2026 02:00:01 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>nPoOoRXJ_no</news:videoId>
+      <news:publishedIst>2026-11-18T07:30:01+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/nPoOoRXJ_no/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Alibaba's Qwen 4 Max is reported to cut the average task cost from 4.43 dollars to 1.67 dollars. The model is described as outperforming its predecessor, using fewer tokens, and offering lower API prices to enterprise users after architecture changes. No parameter count is given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Qwen 4 Max is reported to cut average task cost from 4.43 dollars to 1.67 dollars.</li>
+<li>The model is described as outperforming its predecessor.</li>
+<li>Token use is described as significantly lower.</li>
+<li>API prices for enterprise users are described as cut.</li>
+<li>Architecture changes are cited. No parameter count is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Sarvam says its 105B model now serves 330 tokens a second</title>
+      <link>https://www.youtube.com/watch?v=jXbl27-Thrc</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=jXbl27-Thrc</guid>
+      <pubDate>Wed, 18 Nov 2026 01:30:23 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>jXbl27-Thrc</news:videoId>
+      <news:publishedIst>2026-11-18T07:00:23+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/jXbl27-Thrc/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Sarvam reports a 2.86-times throughput increase on its own 105-billion-parameter model, to 330 tokens a second for a single user, after custom kernels and a three-tier cache. The introductory price is 10 rupees per million input tokens. The company says the cache hits 95.7 percent across more than 450 billion tokens a day. The headline names this Token Factory.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Sarvam reports a 2.86-times throughput increase on its own 105-billion-parameter model.</li>
+<li>A single user is reported at 330 tokens a second.</li>
+<li>The gain is attributed to custom kernels and a three-tier cache.</li>
+<li>The introductory price is 10 rupees per million input tokens.</li>
+<li>Sarvam says the cache hits 95.7 percent across more than 450 billion tokens a day.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Bengaluru Tech Summit registrations cross 10,000</title>
+      <link>https://www.youtube.com/watch?v=_vtRNSkrzXM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=_vtRNSkrzXM</guid>
+      <pubDate>Wed, 18 Nov 2026 01:00:11 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>_vtRNSkrzXM</news:videoId>
+      <news:publishedIst>2026-11-18T06:30:11+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/_vtRNSkrzXM/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Delegate registrations for the Bengaluru Tech Summit have crossed 10,000, with 140 knowledge sessions planned. An India-US tech conclave is set for 18 November, and a Future Makers Conclave on 19 November brings founders and investors together around deep tech. AI hackathons on physical AI, agriculture, and healthcare carry 15 lakh rupees in prizes plus another 15 lakh rupees in AI credits. Karnataka's IT and biotechnology minister is named as Priyanker. Further wording adds semiconductor manufacturing, hardware sovereignty, pack silica, cyber security, exhibition space for around 100 startups from Software Technology Parks of India, and a residency given as bhatwan.ai. Those spellings are uncertain.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Registrations have crossed 10,000, with 140 knowledge sessions planned.</li>
+<li>An India-US tech conclave is set for 18 November.</li>
+<li>The conclave wording includes quantum collaboration, critical minerals, pack silica, and cyber security. Pack silica is an uncertain spelling.</li>
+<li>Hackathons cover physical AI, agriculture, and healthcare, with 15 lakh rupees in prizes and another 15 lakh rupees in AI credits.</li>
+<li>A Future Makers Conclave is set for 19 November.</li>
+<li>The minister is named as Priyanker. That spelling is uncertain.</li>
+<li>Software Technology Parks of India is sponsoring space for around 100 startups.</li>
+<li>Winners can also receive a residency given as bhatwan.ai. That spelling is uncertain.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>CtrlS signs for a 150 MW AI facility that is not built yet</title>
+      <link>https://www.youtube.com/watch?v=1ku59p2sPA4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=1ku59p2sPA4</guid>
+      <pubDate>Wed, 18 Nov 2026 00:30:20 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short</news:format>
+      <news:videoId>1ku59p2sPA4</news:videoId>
+      <news:publishedIst>2026-11-18T06:00:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/1ku59p2sPA4/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>CtrlS has signed a letter of intent for a 150 MW AI facility, with a proposed investment of 10,000 crore rupees. That project is not built. The Patna data center opened in October. The company puts it at 400 crore rupees and 12 MW of IT load, with room to expand.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>CtrlS has signed a letter of intent for a 150 MW AI facility.</li>
+<li>The proposed investment is 10,000 crore rupees.</li>
+<li>The 150 MW project is not built.</li>
+<li>The Patna data center opened in October and is already operating.</li>
+<li>The company puts Patna at 400 crore rupees and 12 MW of IT load, with room to expand.</li>
+<li>No city is named for the 150 MW project.</li>
+</ul>
+      ]]></description>
+    </item>
+
+  </channel>
+</rss>
