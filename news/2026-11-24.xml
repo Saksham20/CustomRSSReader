@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  One calendar day in India time: Tuesday 24 November 2026. The site fetches this file only when that day is selected.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:news="urn:latest-news:1">
+  <channel>
+    <title>Latest</title>
+    <link>news/2026-11-24.xml</link>
+    <description>News for Tuesday 24 November 2026.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 24 Nov 2026 01:31:22 +0000</lastBuildDate>
+    <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-24">
+      <news:scannedAt>2026-11-24T01:31:22Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-24T07:01:22+05:30</news:scannedAtIst>
+      <news:longFormCount>11</news:longFormCount>
+      <news:shortCount>2</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="ui8lhdynd9s" published="2026-11-23T16:30:39Z">Goldman Sachs calls India the anti-AI trade</news:latestLongForm>
+      <news:method>Tuesday 24 November 2026, retrieved at 07:01 IST.</news:method>
+      <news:briefing>
+Tuesday 24 November 2026, retrieved at 07:01 IST. Nvidia's board has brought Jensen Huang back as president, chief executive, and a board member, and the shares jumped 33 percent at the open. The investigation into the foreign-intelligence reports is still open. Goldman Sachs called India the anti-AI trade after a week in which AI-linked markets fell and India rose. JPMorgan called India an AI hedge. In Lucknow, Narendra Modi said BrahMos missiles used in what he called Operation Sindhur are now made in Uttar Pradesh.
+
+The morning's through-line: Nvidia brought Jensen Huang back and the shares opened about a third higher, Goldman Sachs called India the anti-AI trade after AI stocks fell, and Uttar Pradesh is making BrahMos missiles while an HCL-Foxconn chip plant is still a target.
+
+Nvidia. Eleven days after Jensen Huang resigned over reports linking him to a foreign intelligence effort, the board voted unanimously to bring him back as president, chief executive, and a board member, effective immediately. Five days earlier, Nvidia had said he was not coming back. The board says it spoke with Huang, took input from senior US officials, and is confident the return poses no national security risk. Board chair Harvey Jones called it the right decision for shareholders, employees, and partners. At the open the shares jumped 33 percent. The written figures put that open at about $167, against Friday's close of about $125, and call the move roughly a trillion dollars, nearly 60,000 rupees for every Indian. President Donald Trump called the decision correct and proper, wrote that the country needs Huang's leadership, and said the attorney general has confirmed the US government has no evidence Huang engaged in any unlawful. The sentence stops there. Trump also called Huang a great patriot and national treasure, and told Nvidia to keep checking its export-control compliance. Elon Musk posted five words: "The mistake has been corrected." Some Democratic lawmakers, unnamed, call the return irresponsible because Congress has not heard from Huang. He is due to testify on 1 December. Nvidia's own investigation is still running. A new National Security and Export Control Committee is made up only of independent directors, and the company is looking for its first chief compliance officer. The account says Nvidia's chips sit inside the AI plans of companies such as Reliance and Tata. This is not investment advice.
+
+Markets. The Nasdaq fell about 10 percent in five days. Nvidia fell 23 percent, its worst week in 18 years. Japan, Korea, and Taiwan fell about 5 to 6 percent in a day. On the Friday of that week the Nifty rose about 1 percent to a nine-month high, the Sensex added almost 900 points, and bank stocks hit a record. Goldman Sachs called India the anti-AI trade. JPMorgan called it an AI hedge, compared with an umbrella. The reason given is that India's market is banks, cars, fuel, consumer goods, soap, and phone bills, while Korea and Taiwan are full of chipmakers. Foreign investors pulled more than $31 billion out of India until October, then put more than $9 billion back in November, a record month by Bloomberg's count, while pulling billions from Taiwan and Korea. JPMorgan's what-if is about $115 billion of inflows if large foreign funds simply stopped holding less India than normal. Bernstein says India is neither an AI winner nor an anti-AI trade, and that Indian shares cost about 18 times expected earnings against about 9 times in China. On Monday the Sensex opened 500 points higher. A following line is unclear. By the afternoon it was about 1,800 points below the day's high, after profit-taking from a four-week rally, with banks and metal stocks down. The same morning the Nifty IT index rose almost 3 percent and TCS nearly 5 percent. The account also says Anthropic, the company behind Claude, listed on Thursday, raised a record $93.5 billion, opened at $111, and was below 89 by Friday. A line that "everyone who bear on AI lost money" is unclear. This is not a recommendation to buy.
+
+Uttar Pradesh. On 21 November, at a skill event in Lucknow, Modi pointed to a BrahMos assembly line in Lucknow, a semiconductor project near a place heard as Jawar, and new technical courses. He said BrahMos missiles used in Operation Sindhur are now manufactured in the state. The plant was inaugurated in May 2025. A first batch was flagged off in October. The October sentence is unfinished. Invest UP is cited for an approximately 300 crore rupee facility on 80 acres, designed for 80 to 100 missiles a year. That is stated capacity, not verified deliveries. The work described is assembly, integration, and testing. BrahMos is a supersonic cruise missile from an Indian-Russian joint venture involving India's Defence Research and Development Organization. The Russian partner's name is cut off. The chip project is HCL Group and Foxconn, approved in May 2025 at about 3,706 crore rupees, with a foundation stone in February 2026. It is an assembly-and-test plant for display-driver chips, with a target of 20,000 wafers a month and about 3,500 jobs. Those are targets, not current output or employment. Modi also pointed to courses in semiconductor work, industrial robotics, drones, and cyber security, and to PM Setu, a national 60,000 crore rupee programme to upgrade 1,000 government industrial training institutes. That money is nationwide, not an allocation only for Uttar Pradesh.
+
+Also in this edition. A researcher heard as Levent Alpo, also rendered Alpost, says he and Claude produced a formal proof of the Riemann hypothesis, released on 20 November, and that the Lean and Mathlib communities expressed full confidence on 21 November. MIT mathematician Andrew Sutherland's 22 November note still lists further checks. Take-Two says Grand Theft Auto VI did about $3.79 billion and 32.5 million units on its first day, with no PC date. GG Technologies, founded by a person heard as Gorav Goyel, has asked the Bombay High Court for damages over NameDrop. The written figure is 1,500 crore rupees. The spoken figure is "1,500 K rupees." A US commission report puts China's share of India's lithium-ion battery imports at 93 percent. Pune's Q Prayog says a laboratory atomic clock is about 50 times more stable than a crystal oscillator over roughly 1,000 seconds, and aims at a compact version in 2027. India and the European Union could sign a trade agreement on 16 December. Donald Trump has threatened a "tremendous tax" on American companies that build data centers overseas, with no rate or date published, while Google's stated India plan is $15 billion from 2026 to 2030 at a site heard as Shakapata.
+      </news:briefing>
+    </news:edition>
+
+  </channel>
+</rss>
