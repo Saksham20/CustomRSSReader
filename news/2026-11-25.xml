@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  One calendar day in India time: Wednesday 25 November 2026. The site fetches this file only when that day is selected.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:news="urn:latest-news:1">
+  <channel>
+    <title>Latest</title>
+    <link>news/2026-11-25.xml</link>
+    <description>News for Wednesday 25 November 2026.</description>
+    <language>en</language>
+    <lastBuildDate>Wed, 25 Nov 2026 01:31:57 +0000</lastBuildDate>
+    <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-25">
+      <news:scannedAt>2026-11-25T01:31:57Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-25T07:01:57+05:30</news:scannedAtIst>
+      <news:longFormCount>14</news:longFormCount>
+      <news:shortCount>0</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="zCb2qFzJJR4" published="2026-11-24T17:00:39Z"><![CDATA[Larsen & Toubro takes another Nvidia B300 engagement in Chennai]]></news:latestLongForm>
+      <news:method>Wednesday 25 November 2026, retrieved at 07:01 IST.</news:method>
+      <news:briefing><![CDATA[
+Wednesday 25 November 2026, retrieved at 07:01 IST. Larsen & Toubro has taken another multi-year engagement for Nvidia B300 processors at its Chennai data-centre campus, inside a planned 10,000-GPU cluster whose first phase is designed for 250 megawatts. A Mint report says Jio Platforms is planning about 1,600 low-Earth-orbit satellites, with a first test launch around September 2027 and the full network by 2035. Nvidia's board has put Jensen Huang back as president, chief executive, and a director. The probe into his departure is still open, and the shares jumped about 33 percent at the open.
+
+The morning's through-line: Larsen & Toubro has another Nvidia B300 engagement at a Chennai campus planned for 250 megawatts, Jio is reported to be planning about 1,600 satellites, and Nvidia has put Jensen Huang back while the investigation stays open.
+
+Chips and models. The Chennai customer is an unnamed inference provider. The contract value and the extra GPU count are not published. L&T calls the engagement a large order, a band it states as 2,500 K rupees to 5,000 K rupees. In August it announced a Together AI partnership for a 10,000-GPU B300 factory at the same campus, with commissioning later identified as January 2027. This engagement is not a second 10,000-GPU cluster. Sarvam says a 105 billion parameter checkpoint announced on 22 November lifted its average on eight conversational-agent benchmarks from 42.6 to 73.9. Those are the company's own tests. Listed prices are 10 rupees per million input tokens and 25 rupees per million output tokens. OpenAI's chief scientist, named as Jako Pachi, has proposed measurable limits tied to safety progress. It is a proposal, not a rule. Anthropic says a July statement already recorded that it had not called for a ban on open-weight models as a category.
+
+Nvidia. Six days before the vote, the chairman told investors the board did not intend to bring Huang back. On 23 November the same board reinstated him. Chairman Harvey C. Jones stays. Colette Crest, who had stepped in as interim chief executive, continues as chief financial officer. Huang resigned on 12 November. At the 17 November results call, Jones said the resignation followed personal conduct the board found inconsistent with the company's code. Reports concerned a relationship with a woman alleged to have links to Chinese intelligence. Reuters said it could not verify that allegation, and China's foreign ministry rejected it. President Donald Trump called the return correct and proper and said he had intervened with the board. For the quarter ending 25 October, revenue was $115.8 billion, more than double a year earlier, with data centres at $107.6 billion. The next-quarter forecast assumes no data-centre compute revenue from China.
+
+India. India is third in the Lowy Institute Asia Power Index with a score of 40.5, up half a point, and the gap with China, at 73.6, is the narrowest since the index began in 2018. On the technology measure India is 11th. Phone shipments under 20,000 rupees are reported both as down 47 percent and as down 20 percent year on year in the July-to-September quarter. Karbonn has restarted with two 4G phones. Micromax is considering a return, which is not a launch date. The Navy took delivery of the anti-submarine ship Ashank on 23 November, 18 days after Amini, with indigenous content put at about 88 percent. IG Defense says it test-fired the Jwala MK1 counter-drone missile at Pokhran the same day, with a stated range of up to 5 kilometres. That is a test, not an induction into service.
+
+Also in this edition. Pomo, a six-person company that raised $4.5 million, says brands are flying blind when AI shopping answers keep changing. BITS Pilani's Ramgopal Rao says India is third in quantum papers and still lacks the facilities that turn patents into products. WeWork India says Q2 revenue rose 31.6 percent, mature centres are at 88 percent occupancy, and the business breaks even near 55 percent.
+      ]]></news:briefing>
+    </news:edition>
+
+  </channel>
+</rss>

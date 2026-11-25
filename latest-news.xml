@@ -10,384 +10,403 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 24 November 2026 edition, retrieved at 07:01 IST, covers Jensen Huang's return as Nvidia's chief executive, India's rise in a week when AI stocks fell, and Uttar Pradesh's BrahMos and chip plans.</description>
+    <description>News of relevance. The 25 November 2026 edition, retrieved at 07:01 IST, covers Larsen &amp; Toubro's new Nvidia GPU engagement in Chennai, Jio's reported plan for about 1,600 satellites, and Jensen Huang's return at Nvidia.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Nov 2026 01:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 01:31:57 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
-    <news:edition date="2026-11-24">
-      <news:scannedAt>2026-11-24T01:31:22Z</news:scannedAt>
-      <news:scannedAtIst>2026-11-24T07:01:22+05:30</news:scannedAtIst>
-      <news:longFormCount>11</news:longFormCount>
-      <news:shortCount>2</news:shortCount>
+    <news:edition date="2026-11-25">
+      <news:scannedAt>2026-11-25T01:31:57Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-25T07:01:57+05:30</news:scannedAtIst>
+      <news:longFormCount>14</news:longFormCount>
+      <news:shortCount>0</news:shortCount>
       <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
       <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
-      <news:latestLongForm videoId="ui8lhdynd9s" published="2026-11-23T16:30:39Z">Goldman Sachs calls India the anti-AI trade</news:latestLongForm>
-      <news:method>Tuesday 24 November 2026, retrieved at 07:01 IST.</news:method>
-      <news:briefing>
-Tuesday 24 November 2026, retrieved at 07:01 IST. Nvidia's board has brought Jensen Huang back as president, chief executive, and a board member, and the shares jumped 33 percent at the open. The investigation into the foreign-intelligence reports is still open. Goldman Sachs called India the anti-AI trade after a week in which AI-linked markets fell and India rose. JPMorgan called India an AI hedge. In Lucknow, Narendra Modi said BrahMos missiles used in what he called Operation Sindhur are now made in Uttar Pradesh.
+      <news:latestLongForm videoId="zCb2qFzJJR4" published="2026-11-24T17:00:39Z"><![CDATA[Larsen & Toubro takes another Nvidia B300 engagement in Chennai]]></news:latestLongForm>
+      <news:method>Wednesday 25 November 2026, retrieved at 07:01 IST.</news:method>
+      <news:briefing><![CDATA[
+Wednesday 25 November 2026, retrieved at 07:01 IST. Larsen & Toubro has taken another multi-year engagement for Nvidia B300 processors at its Chennai data-centre campus, inside a planned 10,000-GPU cluster whose first phase is designed for 250 megawatts. A Mint report says Jio Platforms is planning about 1,600 low-Earth-orbit satellites, with a first test launch around September 2027 and the full network by 2035. Nvidia's board has put Jensen Huang back as president, chief executive, and a director. The probe into his departure is still open, and the shares jumped about 33 percent at the open.
 
-The morning's through-line: Nvidia brought Jensen Huang back and the shares opened about a third higher, Goldman Sachs called India the anti-AI trade after AI stocks fell, and Uttar Pradesh is making BrahMos missiles while an HCL-Foxconn chip plant is still a target.
+The morning's through-line: Larsen & Toubro has another Nvidia B300 engagement at a Chennai campus planned for 250 megawatts, Jio is reported to be planning about 1,600 satellites, and Nvidia has put Jensen Huang back while the investigation stays open.
 
-Nvidia. Eleven days after Jensen Huang resigned over reports linking him to a foreign intelligence effort, the board voted unanimously to bring him back as president, chief executive, and a board member, effective immediately. Five days earlier, Nvidia had said he was not coming back. The board says it spoke with Huang, took input from senior US officials, and is confident the return poses no national security risk. Board chair Harvey Jones called it the right decision for shareholders, employees, and partners. At the open the shares jumped 33 percent. The written figures put that open at about $167, against Friday's close of about $125, and call the move roughly a trillion dollars, nearly 60,000 rupees for every Indian. President Donald Trump called the decision correct and proper, wrote that the country needs Huang's leadership, and said the attorney general has confirmed the US government has no evidence Huang engaged in any unlawful. The sentence stops there. Trump also called Huang a great patriot and national treasure, and told Nvidia to keep checking its export-control compliance. Elon Musk posted five words: "The mistake has been corrected." Some Democratic lawmakers, unnamed, call the return irresponsible because Congress has not heard from Huang. He is due to testify on 1 December. Nvidia's own investigation is still running. A new National Security and Export Control Committee is made up only of independent directors, and the company is looking for its first chief compliance officer. The account says Nvidia's chips sit inside the AI plans of companies such as Reliance and Tata. This is not investment advice.
+Chips and models. The Chennai customer is an unnamed inference provider. The contract value and the extra GPU count are not published. L&T calls the engagement a large order, a band it states as 2,500 K rupees to 5,000 K rupees. In August it announced a Together AI partnership for a 10,000-GPU B300 factory at the same campus, with commissioning later identified as January 2027. This engagement is not a second 10,000-GPU cluster. Sarvam says a 105 billion parameter checkpoint announced on 22 November lifted its average on eight conversational-agent benchmarks from 42.6 to 73.9. Those are the company's own tests. Listed prices are 10 rupees per million input tokens and 25 rupees per million output tokens. OpenAI's chief scientist, named as Jako Pachi, has proposed measurable limits tied to safety progress. It is a proposal, not a rule. Anthropic says a July statement already recorded that it had not called for a ban on open-weight models as a category.
 
-Markets. The Nasdaq fell about 10 percent in five days. Nvidia fell 23 percent, its worst week in 18 years. Japan, Korea, and Taiwan fell about 5 to 6 percent in a day. On the Friday of that week the Nifty rose about 1 percent to a nine-month high, the Sensex added almost 900 points, and bank stocks hit a record. Goldman Sachs called India the anti-AI trade. JPMorgan called it an AI hedge, compared with an umbrella. The reason given is that India's market is banks, cars, fuel, consumer goods, soap, and phone bills, while Korea and Taiwan are full of chipmakers. Foreign investors pulled more than $31 billion out of India until October, then put more than $9 billion back in November, a record month by Bloomberg's count, while pulling billions from Taiwan and Korea. JPMorgan's what-if is about $115 billion of inflows if large foreign funds simply stopped holding less India than normal. Bernstein says India is neither an AI winner nor an anti-AI trade, and that Indian shares cost about 18 times expected earnings against about 9 times in China. On Monday the Sensex opened 500 points higher. A following line is unclear. By the afternoon it was about 1,800 points below the day's high, after profit-taking from a four-week rally, with banks and metal stocks down. The same morning the Nifty IT index rose almost 3 percent and TCS nearly 5 percent. The account also says Anthropic, the company behind Claude, listed on Thursday, raised a record $93.5 billion, opened at $111, and was below 89 by Friday. A line that "everyone who bear on AI lost money" is unclear. This is not a recommendation to buy.
+Nvidia. Six days before the vote, the chairman told investors the board did not intend to bring Huang back. On 23 November the same board reinstated him. Chairman Harvey C. Jones stays. Colette Crest, who had stepped in as interim chief executive, continues as chief financial officer. Huang resigned on 12 November. At the 17 November results call, Jones said the resignation followed personal conduct the board found inconsistent with the company's code. Reports concerned a relationship with a woman alleged to have links to Chinese intelligence. Reuters said it could not verify that allegation, and China's foreign ministry rejected it. President Donald Trump called the return correct and proper and said he had intervened with the board. For the quarter ending 25 October, revenue was $115.8 billion, more than double a year earlier, with data centres at $107.6 billion. The next-quarter forecast assumes no data-centre compute revenue from China.
 
-Uttar Pradesh. On 21 November, at a skill event in Lucknow, Modi pointed to a BrahMos assembly line in Lucknow, a semiconductor project near a place heard as Jawar, and new technical courses. He said BrahMos missiles used in Operation Sindhur are now manufactured in the state. The plant was inaugurated in May 2025. A first batch was flagged off in October. The October sentence is unfinished. Invest UP is cited for an approximately 300 crore rupee facility on 80 acres, designed for 80 to 100 missiles a year. That is stated capacity, not verified deliveries. The work described is assembly, integration, and testing. BrahMos is a supersonic cruise missile from an Indian-Russian joint venture involving India's Defence Research and Development Organization. The Russian partner's name is cut off. The chip project is HCL Group and Foxconn, approved in May 2025 at about 3,706 crore rupees, with a foundation stone in February 2026. It is an assembly-and-test plant for display-driver chips, with a target of 20,000 wafers a month and about 3,500 jobs. Those are targets, not current output or employment. Modi also pointed to courses in semiconductor work, industrial robotics, drones, and cyber security, and to PM Setu, a national 60,000 crore rupee programme to upgrade 1,000 government industrial training institutes. That money is nationwide, not an allocation only for Uttar Pradesh.
+India. India is third in the Lowy Institute Asia Power Index with a score of 40.5, up half a point, and the gap with China, at 73.6, is the narrowest since the index began in 2018. On the technology measure India is 11th. Phone shipments under 20,000 rupees are reported both as down 47 percent and as down 20 percent year on year in the July-to-September quarter. Karbonn has restarted with two 4G phones. Micromax is considering a return, which is not a launch date. The Navy took delivery of the anti-submarine ship Ashank on 23 November, 18 days after Amini, with indigenous content put at about 88 percent. IG Defense says it test-fired the Jwala MK1 counter-drone missile at Pokhran the same day, with a stated range of up to 5 kilometres. That is a test, not an induction into service.
 
-Also in this edition. A researcher heard as Levent Alpo, also rendered Alpost, says he and Claude produced a formal proof of the Riemann hypothesis, released on 20 November, and that the Lean and Mathlib communities expressed full confidence on 21 November. MIT mathematician Andrew Sutherland's 22 November note still lists further checks. Take-Two says Grand Theft Auto VI did about $3.79 billion and 32.5 million units on its first day, with no PC date. GG Technologies, founded by a person heard as Gorav Goyel, has asked the Bombay High Court for damages over NameDrop. The written figure is 1,500 crore rupees. The spoken figure is "1,500 K rupees." A US commission report puts China's share of India's lithium-ion battery imports at 93 percent. Pune's Q Prayog says a laboratory atomic clock is about 50 times more stable than a crystal oscillator over roughly 1,000 seconds, and aims at a compact version in 2027. India and the European Union could sign a trade agreement on 16 December. Donald Trump has threatened a "tremendous tax" on American companies that build data centers overseas, with no rate or date published, while Google's stated India plan is $15 billion from 2026 to 2030 at a site heard as Shakapata.
-      </news:briefing>
+Also in this edition. Pomo, a six-person company that raised $4.5 million, says brands are flying blind when AI shopping answers keep changing. BITS Pilani's Ramgopal Rao says India is third in quantum papers and still lacks the facilities that turn patents into products. WeWork India says Q2 revenue rose 31.6 percent, mature centres are at 88 percent occupancy, and the business breaks even near 55 percent.
+      ]]></news:briefing>
     </news:edition>
 
     <item>
-      <title>Goldman Sachs calls India the anti-AI trade</title>
-      <link>https://www.youtube.com/watch?v=ui8lhdynd9s</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=ui8lhdynd9s</guid>
-      <pubDate>Mon, 23 Nov 2026 16:30:39 +0000</pubDate>
+      <title><![CDATA[Larsen & Toubro takes another Nvidia B300 engagement in Chennai]]></title>
+      <link>https://www.youtube.com/watch?v=zCb2qFzJJR4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=zCb2qFzJJR4</guid>
+      <pubDate>Tue, 24 Nov 2026 17:00:39 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>ui8lhdynd9s</news:videoId>
-      <news:publishedIst>2026-11-23T22:00:39+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/ui8lhdynd9s/hqdefault.jpg"/>
+      <news:videoId>zCb2qFzJJR4</news:videoId>
+      <news:publishedIst>2026-11-24T22:30:39+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/zCb2qFzJJR4/hqdefault.jpg"/>
       <description><![CDATA[
-<p>Goldman Sachs called India the anti-AI trade. JPMorgan called it an AI hedge, and compared a hedge to an umbrella on a sunny day. The week behind that label was a bad one for AI-linked markets and a strong one for India. The Nasdaq fell about 10 percent in five days. Nvidia fell 23 percent, its worst week in 18 years. Japan, Korea, and Taiwan fell about 5 to 6 percent in a single day. On that Friday the Nifty rose about 1 percent to a nine-month high, the Sensex added almost 900 points, and bank stocks hit a record. The stated reason is that India's market is banks, cars, fuel, and consumer goods, with soap and phone bills named as well, while Korea and Taiwan are full of the chipmakers that supply AI servers. A spoken rendering of the Goldman phrase comes out as "anti- AAI trade."</p>
-<p>Doubts about whether the AI spending will pay off are given as the turn in the trade. Even Anthropic, described as the company behind Claude, could not stop the slide. It listed on Thursday, raised a record $93.5 billion, opened at $111 a share, and by Friday was below 89. A following line, "everyone who bear on AI lost money," is unclear. Those Anthropic figures are in the spoken account. Foreign investors pulled more than $31 billion out of India until October, then put more than $9 billion back in November. Bloomberg is cited for that count, and November is called a record month. Billions were pulled from Taiwan and Korea at the same time. JPMorgan's what-if says that if large foreign funds simply stopped holding less India than normal, that alone could mean about $115 billion flowing in. The written account gives the same $115 billion as possible inflows. Bernstein says India is neither an AI winner nor an anti-AI trade. Indian shares cost about 18 times expected earnings, against about 9 times in China.</p>
-<p>On Monday, which the account calls today, the Sensex opened 500 points higher. The next line, "then it earned," is unclear. By the afternoon the index was about 1,800 points below the day's high. Traders took profits after a four-week rally, and banks and metal stocks fell. The written account calls this an 1,800-point swing and says an umbrella can still get wet. The same morning the Nifty IT index rose almost 3 percent and TCS rose nearly 5 percent. The closing claim is that India rose because its basket is not built on AI chips, and fell that day because someone cashed out after a large run. Whether it stays the world's umbrella is left open. The account refuses a "should I buy now" question and says this is not investment advice.</p>
+<p>Larsen &amp; Toubro has secured another multi-year engagement for Nvidia B300 processors at its Chennai data-centre campus. The customer is an inference-infrastructure provider, and the name has not been disclosed. The contract value and the number of additional GPUs have not been published. L&amp;T says the deployment is part of a planned 10,000-GPU cluster, not a second cluster of that size. The announcement comes through the group company Voma.ai and its AI-infrastructure subsidiary LTN Compute. The customer intends to train, fine-tune, and deploy specialised models on the platform.</p>
+<p>L&amp;T labels the engagement a large order under its published classification, a band stated as 2,500 K rupees to 5,000 K rupees. That is a range. The exact amount is not given. The written account also says the contract value and the GPU count remain confidential, and describes the aim as one of India's largest AI-factory facilities for high-performance computing. The new deployment sits in a wider Chennai campus whose first phase is designed for 250 megawatts, with a long-term ambition of a gigawatt-scale hub. Those are development plans. The campus is not described as already operating at that capacity.</p>
+<p>In August, L&amp;T announced a partnership with US-based Together AI for a 10,000-GPU Nvidia B300 factory at the same campus. The company later identified January 2027 as the commissioning target for capacity under that longer deployment agreement. This announcement does not say whether the new customer is part of that arrangement. The release includes fast interconnects, parallel storage, and infrastructure operations. B300 is in Nvidia's Blackwell Ultra generation. Nvidia's DGX B300 system combines eight of these GPUs with 288 GB of memory each. That is an Nvidia specification, not confirmation of the servers L&amp;T will use. The report does not establish that Indian startups can rent the fuller cluster now, or that the capacity is available through the IndiaAI Mission.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>Goldman Sachs called India the anti-AI trade. JPMorgan called it an AI hedge. A spoken rendering is "anti- AAI trade."</li>
-<li>The Nasdaq fell about 10 percent in five days. Nvidia fell 23 percent, its worst week in 18 years. Japan, Korea, and Taiwan fell about 5 to 6 percent in a day.</li>
-<li>On that Friday the Nifty rose about 1 percent to a nine-month high, the Sensex added almost 900 points, and bank stocks hit a record.</li>
-<li>India's market is described as banks, cars, fuel, consumer goods, soap, and phone bills, against the chipmakers in Korea and Taiwan.</li>
-<li>Anthropic, the company behind Claude, listed on Thursday, raised a record $93.5 billion, opened at $111, and was below 89 by Friday. "Everyone who bear on AI lost money" is unclear.</li>
-<li>Foreign investors took more than $31 billion out of India until October and put more than $9 billion back in November, a record month by Bloomberg's count.</li>
-<li>JPMorgan's what-if is about $115 billion of inflows if large funds stopped holding less India than normal.</li>
-<li>Bernstein says India is neither an AI winner nor an anti-AI trade. Indian shares are about 18 times expected earnings, against about 9 times in China.</li>
-<li>On Monday the Sensex opened 500 points higher and later stood about 1,800 points below the day's high. The line "then it earned" is unclear. Nifty IT rose almost 3 percent and TCS nearly 5 percent.</li>
-<li>The account does not say whether to buy.</li>
+<li>Larsen &amp; Toubro has another multi-year Nvidia B300 engagement at its Chennai campus, for an unnamed inference provider.</li>
+<li>The contract value and the additional GPU count are not published. L&amp;T calls it a large order, stated as 2,500 K rupees to 5,000 K rupees.</li>
+<li>The deployment is part of a planned 10,000-GPU cluster, not a second cluster of that size.</li>
+<li>The announcement is through Voma.ai and the subsidiary LTN Compute.</li>
+<li>The campus's first phase is designed for 250 megawatts, with a gigawatt-scale hub as a longer ambition. Those are plans, not current operating capacity.</li>
+<li>An August partnership with Together AI covered a 10,000-GPU B300 factory at the same campus, with commissioning later put at January 2027.</li>
+<li>This announcement does not say whether the new engagement is inside that Together AI arrangement.</li>
+<li>B300 is Blackwell Ultra. Nvidia's DGX B300 reference system is eight GPUs with 288 GB each, and that is not confirmation of L&amp;T's configuration.</li>
 </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>India rose while AI stocks fell, then gave back about 1,800 points</title>
-      <link>https://www.youtube.com/watch?v=cBuc_IDENiA</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=cBuc_IDENiA</guid>
-      <pubDate>Mon, 23 Nov 2026 16:30:24 +0000</pubDate>
-      <category>Video</category>
-      <news:format>short_candidate</news:format>
-      <news:videoId>cBuc_IDENiA</news:videoId>
-      <news:publishedIst>2026-11-23T22:00:24+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/cBuc_IDENiA/hqdefault.jpg"/>
-      <description><![CDATA[
-<p>AI stocks crashed last week and India went up. Wall Street's name for that contrast is the anti-AI trade. Nvidia had its worst week in 18 years. Japan, Korea, and Taiwan fell 5 to 6 percent in a day. Korea and Taiwan are described as markets full of chipmakers. India's market is banks, cars, and fuel, and the sentence stops there. The written account adds soap and says the market is not AI chips. When AI sneezes, this account says, India does not catch the cold.</p>
-<p>Asked whether foreign money came to India, the account says more than $9 billion came this month by Bloomberg's count, and calls that a record. On the day of the report the Sensex fell about 1,800 points from its high as traders took profits. The question left open is whether India is the world's umbrella against an AI storm or just the next trade. This is not investment advice.</p>
-<p><strong>Key points</strong></p>
-<ul>
-<li>Wall Street's name for India rising while AI stocks fell is the anti-AI trade.</li>
-<li>Nvidia had its worst week in 18 years. Japan, Korea, and Taiwan fell 5 to 6 percent in a day. India went up.</li>
-<li>Korea and Taiwan are described as full of chipmakers. India's market is banks, cars, and fuel, and that sentence stops. The written account adds soap.</li>
-<li>More than $9 billion of foreign money came this month by Bloomberg's count, called a record.</li>
-<li>The Sensex then fell about 1,800 points from its high as traders took profits.</li>
-<li>This is not investment advice. The account does not settle whether India is an umbrella or the next trade.</li>
-</ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Nvidia's board brought Jensen Huang back and the shares opened 33 percent higher</title>
-      <link>https://www.youtube.com/watch?v=FTvk4_t6FZA</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=FTvk4_t6FZA</guid>
-      <pubDate>Mon, 23 Nov 2026 16:22:37 +0000</pubDate>
-      <category>Video</category>
-      <news:format>short_candidate</news:format>
-      <news:videoId>FTvk4_t6FZA</news:videoId>
-      <news:publishedIst>2026-11-23T21:52:37+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/FTvk4_t6FZA/hqdefault.jpg"/>
-      <description><![CDATA[
-<p>Jensen Huang is back as Nvidia's chief executive. The board voted unanimously to bring him back, days after he stepped down over reports linking him to a foreign intelligence effort. The board says it spoke with a person heard as Hong, and with senior US officials, and is confident the return posed no national security risk. Donald Trump called it correct and proper. Elon Musk posted that the mistake has been corrected. Nvidia opened 33 percent higher, roughly a trillion dollars back in minutes.</p>
-<p>The investigation is not over. Nvidia has set up a new national security committee. For now, the founder is back at the helm. This is not investment advice.</p>
-<p><strong>Key points</strong></p>
-<ul>
-<li>Nvidia's board voted unanimously to bring Jensen Huang back as chief executive.</li>
-<li>He had stepped down days earlier over reports linking him to a foreign intelligence effort.</li>
-<li>The board says it spoke with a person heard as Hong and with senior US officials, and is confident the return posed no national security risk.</li>
-<li>Donald Trump called it correct and proper. Elon Musk said the mistake has been corrected.</li>
-<li>The shares opened 33 percent higher, described as roughly a trillion dollars back in minutes.</li>
-<li>The investigation continues, and Nvidia has set up a new national security committee.</li>
-</ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Nvidia reinstated Jensen Huang, and the shares jumped 33 percent</title>
-      <link>https://www.youtube.com/watch?v=6LkAJHytVd0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=6LkAJHytVd0</guid>
-      <pubDate>Mon, 23 Nov 2026 16:18:20 +0000</pubDate>
+      <title>Jio is reported to be planning about 1,600 satellites</title>
+      <link>https://www.youtube.com/watch?v=GzOb9RBOhLE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=GzOb9RBOhLE</guid>
+      <pubDate>Tue, 24 Nov 2026 16:30:03 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>6LkAJHytVd0</news:videoId>
-      <news:publishedIst>2026-11-23T21:48:20+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/6LkAJHytVd0/hqdefault.jpg"/>
+      <news:videoId>GzOb9RBOhLE</news:videoId>
+      <news:publishedIst>2026-11-24T22:00:03+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/GzOb9RBOhLE/hqdefault.jpg"/>
       <description><![CDATA[
-<p>Nvidia's board voted unanimously to bring Jensen Huang back as president, chief executive, and a board member, effective immediately. He resigned 11 days earlier after reports linked him to a foreign intelligence effort. Five days before the vote, Nvidia said he was not coming back. The reports are described as raising questions about national security and about who should lead one of the most powerful AI companies. The board says discussions with Huang and input from senior US government officials led it to conclude that his return poses no national security risk. Board chair Harvey Jones called it the right decision for Nvidia's shareholders, employees, and partners. Huang's own message stops at "I can't wait to get back to."</p>
-<p>Right after the opening bell the shares jumped 33 percent, about a third above Friday's close. The account calls that roughly a trillion dollars of value in minutes, and nearly 60,000 rupees for every Indian. The written figures, which the spoken account does not repeat, put Monday's open at about $167, up from Friday's close of about $125, and the added value at roughly $1 trillion, nearly ₹60,000 for every Indian. President Donald Trump posted that the board made the correct and proper decision, wrote that the country needs Huang's leadership, and said the attorney general has confirmed the US government has no evidence Huang engaged in any unlawful. The sentence stops there. Trump called Huang a great patriot and national treasure, and told Nvidia to keep investigating whether it is complying with US export controls. Elon Musk posted five words: "The mistake has been corrected."</p>
-<p>Some Democratic lawmakers, not named, call the move irresponsible because Congress has not heard from Huang. He is due to testify on 1 December. Nvidia's independent investigation into the foreign-intelligence reports is still going, the board says it will run to a conclusion, and Huang is committed to cooperating. The company has formed a National Security and Export Control Committee made up only of independent directors, and is searching for its first chief compliance officer. The account says Nvidia's chips power large AI data centers, the frontier models behind today's chatbots, and AI plans at companies such as Reliance and Tata, so a shock at Nvidia reaches India's AI ambitions. This is not investment advice.</p>
+<p>A Mint report says Reliance Jio, also called Jio Platforms, wants its own space internet of about 1,600 satellites, ideally launched on Indian rockets. The written account calls it a low-Earth-orbit constellation, with a first test launch targeted around September 2027 and the full network by 2035. The spoken account gives the same September 2027 test and a full network of 1,600 satellites, then the date breaks off. It also calls the full network a 10-year project and the first launch about two years away. The satellites are described as circling a few hundred kilometres up, to reach homes, villages, ships, and planes where fibre does not.</p>
+<p>Jio is reportedly in talks with ISRO and with Skyroot Aerospace, a Hyderabad startup. Skyroot's Vikram-1 is described as India's first private rocket to reach orbit. The written account says both this July and July 2026. Indian rockets are not yet said to fly often enough, or to carry enough, to put hundreds of satellites up quickly. One industry estimate puts an ISRO launch at about four times the SpaceX cost per kilogram. Jio is also reportedly talking to SpaceX about launching some of the satellites.</p>
+<p>Jio already sells a satellite service called Geospace Fiber, using capacity rented from SCES, a European operator whose higher satellites mean a longer delay. The new plan is for Jio to own the satellites. Starlink is described as already having an India licence and thousands of satellites, and as still waiting. The written account says it is waiting for spectrum, and that Bharti-backed OneWeb is waiting too. The spoken account adds a pricing framework and security clearances, and says Starlink has not launched a service in India. On how India would assign satellite spectrum, Starlink is said to have wanted administrative assignment and Reliance an auction. The government chose what is given as "a lotment." Fibre still does not reach large parts of rural India. A fall in prices is presented as a possibility, not a result, by analogy with Jio's mobile-data business about ten years ago. The written account lists Jio Platforms' quarterly profit at 8,389 crore rupees. The spoken account says last quarter's profit was over 8,000 crore rupees.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>The board unanimously reinstated Jensen Huang as president, chief executive, and a board member, effective immediately.</li>
-<li>He resigned 11 days earlier over reports linking him to a foreign intelligence effort. Five days before the vote, Nvidia said he was not coming back.</li>
-<li>The board says talks with Huang and input from senior US officials support a conclusion that the return poses no national security risk.</li>
-<li>Board chair Harvey Jones called it the right decision for shareholders, employees, and partners. Huang's line stops at "I can't wait to get back to."</li>
-<li>The shares jumped 33 percent at the open. The spoken account says that was roughly a trillion dollars, nearly 60,000 rupees for every Indian.</li>
-<li>The written figures put the open at about $167, against Friday's close of about $125.</li>
-<li>Trump called the decision correct and proper, said the country needs Huang's leadership, and said the attorney general confirmed there is no evidence Huang engaged in any unlawful. The sentence stops there. Trump also called him a great patriot and national treasure.</li>
-<li>Musk's post was five words: "The mistake has been corrected."</li>
-<li>Unnamed Democratic lawmakers call the return irresponsible because Congress has not heard from Huang. He is due to testify on 1 December.</li>
-<li>Nvidia's investigation is still open. A new export-control committee is independent directors only, and the company is hiring its first chief compliance officer.</li>
-<li>The account names Reliance and Tata among the Indian AI plans that use Nvidia's chips.</li>
+<li>A Mint report says Jio Platforms is planning about 1,600 of its own satellites, ideally on Indian rockets.</li>
+<li>The written schedule is a first test around September 2027 and the full network by 2035. The spoken full-network date breaks off, and the project is also called a 10-year plan.</li>
+<li>The written account specifies low Earth orbit. The spoken account also uses the letters GEO, and describes satellites a few hundred kilometres up.</li>
+<li>Jio is reportedly talking to ISRO, Skyroot, and SpaceX. Vikram-1 is called India's first private rocket to reach orbit, dated both this July and July 2026.</li>
+<li>One industry estimate puts an ISRO launch at about four times SpaceX per kilogram.</li>
+<li>Jio already sells Geospace Fiber on capacity rented from SCES. The new plan is to own the satellites.</li>
+<li>Starlink has an India licence and is still waiting, for spectrum in the written account, and also for a pricing framework and security clearances in the spoken account. OneWeb is waiting too.</li>
+<li>The spectrum fight is given as Starlink wanting government assignment, Reliance an auction, and the government choosing "a lotment."</li>
+<li>Quarterly profit is 8,389 crore rupees in the written account and over 8,000 crore rupees in the spoken account.</li>
 </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Lean and Mathlib are said to back a Claude-assisted Riemann proof</title>
-      <link>https://www.youtube.com/watch?v=JfBM-Ycg7qI</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=JfBM-Ycg7qI</guid>
-      <pubDate>Mon, 23 Nov 2026 15:55:31 +0000</pubDate>
+      <title>Budget phone shipments fell, and Micromax and Karbonn are trying to come back</title>
+      <link>https://www.youtube.com/watch?v=9GnEpNSJvDg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=9GnEpNSJvDg</guid>
+      <pubDate>Tue, 24 Nov 2026 16:00:34 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>JfBM-Ycg7qI</news:videoId>
-      <news:publishedIst>2026-11-23T21:25:31+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/JfBM-Ycg7qI/hqdefault.jpg"/>
+      <news:videoId>9GnEpNSJvDg</news:videoId>
+      <news:publishedIst>2026-11-24T21:30:34+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/9GnEpNSJvDg/hqdefault.jpg"/>
       <description><![CDATA[
-<p>An Anthropic researcher and mathematician, named as Levent Alpo and also heard as Alpost, says he developed a proof of the Riemann hypothesis while working with Claude and released the formal proof on 20 November. The spoken name of the problem is "reman hypothesis" and later "Rayman hypothesis." By 21 November, communities heard as "lean and math lip" had published a joint statement of full confidence that both the statement and the proof were correct, so the result could no longer be described only as an unchecked claim by an AI researcher. The written account says the Lean and Mathlib communities checked a Claude-assisted proof, and that the work relies on established axioms rather than unproven assumptions.</p>
-<p>The problem is dated to 1859 and concerns how prime numbers are distributed. In the familiar formulation, all non-trivial zeros of what is heard as the "reman za function" have a real part of one half. Checking many examples cannot prove a statement about every case. The proof was written for Lean. The library is put at around 17 million lines of codes. The point drawn is that a formal checker is different from asking a chatbot whether its own answer is correct: definitions and steps sit in a precise language, and a checker tests whether the conclusion follows. The size of the submission makes the ideas hard to follow, and size alone does not show whether the reasoning is right. Alpo's own account, as retold here, says he guided the mathematical direction and Claude made significant technical contributions. He wants to simplify the argument and explain it more clearly.</p>
-<p>The checks named are whether the theorem was actually the Riemann hypothesis, whether other people could reproduce the build, and whether independent software accepted the proof, including a comparison with the existing definition in what is heard as "MATLI." MIT mathematician Andrew Sutherland published a verification account of successful independent checks and no extra unproved assumptions beyond the standard foundational assumptions, heard as "axums." His 22 November update still lists further cross-checks. The account calls that stronger than an explanation that merely sounds convincing, and says work remains to find the central ideas and to see how much of the argument can be simplified. It does not mean the next answer from a chatbot can be trusted without checking. The hypothesis carries a millennium prize. The Clay Mathematics Institute's rules, in the wording given, require a qualifying publication, at least two years after publication, and general acceptance. Formal verification does not itself announce a prize. The stated conclusion is that the independent checks materially strengthen the result, and that the next contribution is explaining the proof so others can learn from it.</p>
+<p>Micromax and Karbonn, the names in the headline, are looking for another opening as cheap smartphones get more expensive. The two are not at the same stage. Karbonn, led by the Jenna Group, has already restarted with two 4G phones and plans 5G models. Its chief executive is named as Mr. Praep Jen, who says rising prices have left groups of buyers underserved. Micromax is considering a return. That is not described as a launch schedule. Co-founder Mr. Rajes Agarval is also looking at electronics manufacturing services. Micromax's earlier return, with its "in" series in 2020, did not restore its old market position. Both brands lost ground as Chinese companies expanded in the second half of the last decade.</p>
+<p>Counterpoint Research is cited for two shipment figures that are not reconciled. Indian smartphone shipments below 20,000 rupees fell 20 percent year on year in the July-to-September quarter, and shipments dropped 47 percent. The headline uses 47 percent. Part of the drop is phones moving into higher price bands, not customers abandoning phones. The same firm says Indian brands' combined share rose from 2 percent to 7 percent over the year, with Lava and a brand given as "AI plus" among those gaining. Chinese brands are said to be pulling back in parts of the budget segment as memory costs squeeze margins. That frees shelf space. It does not mean buyers have more to spend. When memory and storage cost more, a maker can raise the price, take a thinner margin, or cut the specification. Counterpoint says portfolios have been shifting toward more 4G phones and lower specifications in some bands.</p>
+<p>The Union Cabinet approved a mobile-phone manufacturing scheme in July, with an outlay stated as 62,500 K rupees over five years. Manufacturing incentives are given as differentiated rates between 2.22 and 2.25 percent, and 5 percent, of eligible sales. There is also support tied to domestic components, and an additional 3 percent for design and research to support Indian brands. Those are conditions of the scheme, not a cash payment to every company that announces a phone. A familiar name can draw attention. Repeat sales depend on the phone after the launch, and on stock actually being available.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>Levent Alpo, also heard as Alpost, an Anthropic researcher, says he and Claude produced a formal proof released on 20 November. The spoken name of the problem is "reman" and later "Rayman."</li>
-<li>The written account says the Lean and Mathlib communities checked it. The spoken account says "lean and math lip" expressed full confidence on 21 November.</li>
-<li>The familiar claim is that every non-trivial zero of the zeta function has real part one half. The function is heard as the "reman za function." The problem is dated to 1859.</li>
-<li>The proof is in Lean. The library is put at around 17 million lines. A checker is distinguished from asking a chatbot to grade itself.</li>
-<li>Alpo is said to have guided the direction while Claude made significant technical contributions. He wants a simpler explanation.</li>
-<li>Andrew Sutherland's account describes successful checks and no extra assumptions beyond standard foundations, heard as "axums." His 22 November note says further checks are still running.</li>
-<li>The Clay prize rules given here require publication, a wait of at least two years, and general acceptance. A formal check is not a prize announcement.</li>
-<li>The account's conclusion is that the checks strengthen the result, and that explaining the proof is the next scientific job. A chatbot's next answer is still not to be trusted unchecked.</li>
+<li>The headline names Micromax and Karbonn. Karbonn, under the Jenna Group, has restarted with two 4G phones and plans 5G. Micromax is considering a return, which is not a launch date.</li>
+<li>The Jenna Group chief executive is named as Mr. Praep Jen. The Micromax co-founder is named as Mr. Rajes Agarval.</li>
+<li>Micromax's 2020 "in" series did not restore its earlier share. Both brands lost ground to Chinese companies in the second half of the last decade.</li>
+<li>Counterpoint is cited for a 20 percent year-on-year fall in shipments below 20,000 rupees in July to September, and also for a 47 percent drop. The headline uses 47 percent.</li>
+<li>Indian brands' combined share is said to have risen from 2 percent to 7 percent, with Lava and "AI plus" among the gainers.</li>
+<li>The Cabinet scheme approved in July has an outlay stated as 62,500 K rupees over five years, with manufacturing incentives between 2.22 and 2.25 percent and 5 percent of eligible sales, plus 3 percent for design and research.</li>
 </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Take-Two puts GTA VI's first day at about $3.79 billion and 32.5 million units</title>
-      <link>https://www.youtube.com/watch?v=voA7rjGcNVs</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=voA7rjGcNVs</guid>
-      <pubDate>Mon, 23 Nov 2026 15:40:02 +0000</pubDate>
+      <title>Sarvam says its 105 billion model rose from 42.6 to 73.9 on eight tests</title>
+      <link>https://www.youtube.com/watch?v=iKKe_kZezeI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=iKKe_kZezeI</guid>
+      <pubDate>Tue, 24 Nov 2026 15:30:09 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>voA7rjGcNVs</news:videoId>
-      <news:publishedIst>2026-11-23T21:10:02+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/voA7rjGcNVs/hqdefault.jpg"/>
+      <news:videoId>iKKe_kZezeI</news:videoId>
+      <news:publishedIst>2026-11-24T21:00:09+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/iKKe_kZezeI/hqdefault.jpg"/>
       <description><![CDATA[
-<p>Take-Two Interactive, Rockstar's parent, says Grand Theft Auto VI generated approximately $3.79 billion in worldwide retail sales on its first day and sold about 32.5 million units. The written account calls the 32.5 million figure pre-release units. The game launched on 19 November. The company announcement followed on 20 November. Rockstar calls it the biggest entertainment launch in history. The account says the number should be understood before it is compared with a film opening, a publisher's earnings, or the size of India's gaming market.</p>
-<p>The game returns players to Vice City and the wider fictional state of Leonida, with protagonists Jason and Lucia. It launched on PlayStation 5 and Xbox Series X and S. Take-Two's launch materials put Grand Theft Auto V at nearly 235 million units and the wider franchise above 480 million. Those are lifetime figures, not this game's opening day. For the quarter ending 30 September the company reported $1.6 billion in net, and the sentence breaks off. Around 81 percent came from recurrent spending, described as virtual currency, additional content, and in-game purchases, and that phrase is also unfinished. A strong opening is called a starting audience. Keeping it is a separate job.</p>
-<p>Indian launch coverage lists the standard edition at 5,999 rupees and the ultimate edition at 7,499 rupees. A buyer without a supported console also has to count the hardware. No PC release date has been announced in the sources this account reviewed. Local reports are said to describe interest through quick-commerce platforms and gaming creators. The fuller picture is left to later sales, publisher results, and regional data. The account asks whether patient funding or stronger access to international publishing would help Indian studios build original games that sell globally. It does not answer that question.</p>
+<p>Sarvam has released an updated 105 billion parameter model. The new checkpoint was announced on 22 November. The company says it improves instruction-following, tool use, and Indian-language performance, the pieces a support agent needs to read a complaint, fetch a record, call a tool, and keep the earlier instructions. Sarvam says its average across eight conversational-agent benchmarks rose from 42.6 to 73.9. Those are the company's own evaluations. They are progress on the selected tests, not a claim that the model leads every task. Competing models are said to still score better on some individual benchmarks.</p>
+<p>Listed prices separate input from output: 10 rupees per million input tokens and 25 rupees per million output tokens. A million tokens in and a million out would be 35 rupees before tax or other charges. A lower blended price assumes three input tokens for every output token. A different mix changes the average. The day after the model announcement, the discussion turned to Token Factory, the inference platform, and whether hosting other companies' models fits the aim of building Indian foundation models. The catalogue includes Sarvam's models and models from DeepSeek, Moonshot AAI, Alibaba, and Google. Critics have asked whether that business pulls attention away from Sarvam's own models.</p>
+<p>Co-founder Mr. Pratushkumar, also referred to as Mr. Kumar, says inference and training the company's own models are complementary. He says IndiaAI Mission help for the original model was discounted computing, paid to GPU cloud providers rather than directly to Sarvam, and that the subsidised access ended in March 2026. Token Factory, he says, uses privately procured GPUs and no government support. The updated weights are out in two formats, including a reduced-precision version Sarvam says can run on a single RTX Pro 6000 Blackwell workstation GPU. Further releases are described across speech, vision, and a third area whose name is unclear. Hosting a foreign model in India does not change who built it. It changes where that copy runs.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>Take-Two says the first day was about $3.79 billion in worldwide retail sales and about 32.5 million units. The written account says 32.5 million pre-release units.</li>
-<li>The game launched on 19 November. The announcement followed on 20 November. Rockstar calls it the biggest entertainment launch in history.</li>
-<li>The setting is Vice City and the fictional state of Leonida. The protagonists are Jason and Lucia. The consoles named are PlayStation 5 and Xbox Series X and S.</li>
-<li>Grand Theft Auto V is put at nearly 235 million units, and the franchise above 480 million. Those are lifetime figures.</li>
-<li>For the quarter ending 30 September, Take-Two reported $1.6 billion in net, with the sentence unfinished, and about 81 percent from recurrent spending.</li>
-<li>In India the standard edition is listed at 5,999 rupees and the ultimate edition at 7,499 rupees. No PC date has been announced in the sources reviewed here.</li>
+<li>Sarvam's updated 105 billion parameter checkpoint was announced on 22 November.</li>
+<li>The company says the average on eight conversational-agent benchmarks rose from 42.6 to 73.9. Those are its own tests, not a claim of a lead on every benchmark.</li>
+<li>Listed rates are 10 rupees per million input tokens and 25 rupees per million output tokens. A lower blend assumes three input tokens per output token.</li>
+<li>Token Factory hosts other companies' models, including DeepSeek, Moonshot AAI, Alibaba, and Google, alongside Sarvam's.</li>
+<li>Mr. Pratushkumar says IndiaAI Mission support was discounted compute paid to cloud providers, that it ended in March 2026, and that Token Factory uses private GPUs with no government support.</li>
+<li>A reduced-precision version is said to run on one RTX Pro 6000 Blackwell workstation GPU.</li>
 </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>GG Technologies asks the Bombay High Court for damages over Apple's NameDrop</title>
-      <link>https://www.youtube.com/watch?v=AUt6ulHcbzA</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=AUt6ulHcbzA</guid>
-      <pubDate>Mon, 23 Nov 2026 15:20:02 +0000</pubDate>
+      <title>The Navy has taken delivery of Ashank, 18 days after Amini</title>
+      <link>https://www.youtube.com/watch?v=1Ad3qYB7yV4</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=1Ad3qYB7yV4</guid>
+      <pubDate>Tue, 24 Nov 2026 15:00:10 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>AUt6ulHcbzA</news:videoId>
-      <news:publishedIst>2026-11-23T20:50:02+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/AUt6ulHcbzA/hqdefault.jpg"/>
+      <news:videoId>1Ad3qYB7yV4</news:videoId>
+      <news:publishedIst>2026-11-24T20:30:10+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/1Ad3qYB7yV4/hqdefault.jpg"/>
       <description><![CDATA[
-<p>GG Technologies has gone to the Bombay High Court over Apple's NameDrop feature, which the spoken account calls "namerop." The company was founded by an IIT Delhi alumnus heard as Gorav Goyel. The written account says the claim is a 1,500 crore rupee patent case. The spoken account says the company is seeking "1,500 K rupees" in damages. Those figures are not the same, and this account does not settle which one the court filing uses. GG alleges that the feature infringes an Indian patent for proximity-based contact sharing. It is also asking that the feature be disabled in India while the case is heard, including by a software update where that is technically feasible. Those are requests, not orders against Apple.</p>
-<p>GG operates a product heard as "stay touch" and is based in Santa Monica, California. The founder's Indian connection is called relevant, and the company is not to be described simply as an India-based startup. The product exchanges digital contact details and keeps those connections, including sharing through a phone interaction or a QR code. The business idea, as told here, is to avoid typing a number, handing over a paper card, and later forgetting who the person was. Apple's own instructions, as retold, say a user chooses what to share or whether to receive the other person's details. Bringing two phones together does not hand over an entire address book. A similar experience for a customer is not the same question as whether a patented method was used.</p>
-<p>Inc.42 is cited for two commissioned expert assessments that GG submitted, identifying technical similarities. Neither expert had Apple's source code. Those assessments are part of GG's case, not findings by the court. A World Intellectual Property Organization guide to Indian patent litigation is cited for the rule that infringement is judged by comparing the product with the patent's granted claims, not by a general claim to own the idea of easy contact sharing. A defendant can also challenge whether the patent is valid. Whether Apple takes that route, and whether it succeeds, is left to the proceedings. In the United States, the International Trade Commission opened an investigation in August after a GG complaint naming Apple. GG requested an exclusion order and what is heard as a "seize and desist" order. The commission said that opening the investigation was not a decision on the merits. The US case is separate from the Indian damages claim, because patent rights are territorial. A damages demand is what the claimant wants, not what a court has awarded. The account's conclusion is that this is a patent challenge to a feature inside Apple's phones, and that the result depends on the claims and the evidence, not on the size of either company.</p>
+<p>Garden Reach Shipbuilders and Engineers has handed the Indian Navy the coastal anti-submarine ship Ashank. The handover was on 23 November, 18 days after the previous ship, Amini. The same account also says Ashank was built in 18 days. Delivery is the handover from the yard to the Navy. Commissioning is separate and still ahead. The defence ministry puts indigenous content in these vessels at about 88 percent. That is a high domestic share. It does not mean every component is Indian.</p>
+<p>Ashank is a shallow-water anti-submarine craft for surveillance and operations closer to the coast. The class is about 77 metres long, about 900 tons, and has a stated top speed of 25 knots. Official descriptions give a draft of about 2.7 metres, the depth below the waterline that suits coastal water. The programme replaces older vessels named as Abbeass. The contract for eight ships was signed with the defence ministry in April 2019. The Navy's description of the class includes sonar, lightweight torpedoes, and indigenous rocket launchers. The ministry says the class also supports coastal surveillance and mine-laying. This delivery takes the yard's total to 120 warships built, including 82 delivered to the Indian Navy.</p>
+<p>The ships use waterjet propulsion, and the Navy describes them as among its largest waterjet-propelled warships. The latest delivery note highlights a 30 mm naval surface gun made by the yard. Building the hull is only part of the work. Sensors, weapons, electrical systems, and propulsion have to function together and stay maintainable. The report's judgment is that Ashank adds a specialised ship and shows the yard can keep building the class. How much it is worth in service depends on availability, the crew, and how it works with the rest of the fleet.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>GG Technologies, founded by a person heard as Gorav Goyel, an IIT Delhi alumnus, has approached the Bombay High Court over NameDrop, heard as "namerop."</li>
-<li>The written damages figure is 1,500 crore rupees. The spoken figure is "1,500 K rupees." They are not reconciled here.</li>
-<li>GG alleges infringement of an Indian patent on proximity-based contact sharing and asks that the feature be switched off in India during the case. Those are requests, not orders.</li>
-<li>The company operates "stay touch," is based in Santa Monica, and is not described as simply an Indian startup.</li>
-<li>Apple's instructions, as retold, say the user chooses what to share. Two phones together do not export an entire address book.</li>
-<li>Inc.42 is cited for two expert assessments. Neither expert had Apple's source code. They are not court findings.</li>
-<li>The US International Trade Commission opened an investigation in August. GG asked for an exclusion order and a "seize and desist" order. Opening the case was not a ruling on the merits.</li>
-<li>A damages figure is a demand, not an award. The US and Indian cases are separate.</li>
+<li>GRSE delivered Ashank to the Navy on 23 November, 18 days after Amini. The same account also says Ashank was built in 18 days.</li>
+<li>Commissioning is still ahead of delivery.</li>
+<li>Indigenous content is about 88 percent, which is not a claim that every part is Indian.</li>
+<li>The class is about 77 metres, about 900 tons, 25 knots, and a draft of about 2.7 metres.</li>
+<li>Eight ships were contracted in April 2019, replacing older vessels named as Abbeass.</li>
+<li>The class is described with sonar, lightweight torpedoes, indigenous rocket launchers, coastal surveillance, mine-laying, and waterjet propulsion.</li>
+<li>The yard's total is put at 120 warships built, 82 of them for the Indian Navy. The delivery note highlights a 30 mm gun made by GRSE.</li>
 </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>A US commission puts China at 93 percent of India's lithium-ion battery imports</title>
-      <link>https://www.youtube.com/watch?v=H_TsbzZEOI8</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=H_TsbzZEOI8</guid>
-      <pubDate>Mon, 23 Nov 2026 15:00:12 +0000</pubDate>
+      <title>IG Defense says it test-fired a counter-drone missile with a range of up to 5 km</title>
+      <link>https://www.youtube.com/watch?v=SB1UpZ9Uc8A</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=SB1UpZ9Uc8A</guid>
+      <pubDate>Tue, 24 Nov 2026 14:30:13 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>H_TsbzZEOI8</news:videoId>
-      <news:publishedIst>2026-11-23T20:30:12+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/H_TsbzZEOI8/hqdefault.jpg"/>
+      <news:videoId>SB1UpZ9Uc8A</news:videoId>
+      <news:publishedIst>2026-11-24T20:00:13+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/SB1UpZ9Uc8A/hqdefault.jpg"/>
       <description><![CDATA[
-<p>A US congressional commission, in a report whose name is given as the "US-China Economic and Security Review" and then cuts off, is cited for China's share of India's imports: 45 percent of industrial machinery, 93 percent of lithium-ion batteries, 74 percent of active pharmaceutical ingredients, and 87 percent of antibiotic ingredients. The written account says "antibiotic precursors." These are shares of imports in those categories, not shares of everything India consumes or produces. The commission's assessment, as stated here, is that Beijing is using military ties with Pakistan together with control of industrial supply chains to constrain India's rise.</p>
-<p>The practical point for factories is that a finished-product label can hide dependence on overseas machines and technical support. An electric-vehicle component line needs machinery, process knowledge, materials to a set specification, and people who can commission and maintain the equipment. If a supplier withholds help or a spare part, another shipment of raw material may not fix it. The wider report is said to examine restrictions on inputs and know-how, including rare-earth magnets and battery technology. Access to a mineral is not the same as the ability to process it. On medicines, moving the last production step to India can leave the earlier chemicals and intermediates overseas.</p>
-<p>India already has a production-linked incentive scheme for bulk drugs with an outlay of 6,940 crore rupees. A September government update, as cited, said 39 projects covering 28 critical ingredients and starting materials had been commissioned by June 2026, and that investment had reached about 5,211 crore rupees. The government identified domestic production of fermentation-based products including penicillin G and clavulanic acid. The commission's proposed response includes longer-term US purchases of medicines whose ingredients come from American or other trusted producers, on the idea that an alternative supplier needs buyers who stay even when a cheaper source is available. That is a recommendation to Congress, not a purchasing programme and not a contract for an Indian company. The account's conclusion is that the report names specific vulnerabilities, that India's projects show replacements take time, and that counting critical inputs tells more than counting final assembly.</p>
+<p>IG Defense, a private Indian company, says it test-fired a small missile meant to intercept hostile drones. The written name is Jwala MK1. The spoken name is Juala MK1, and later Duala. The trial is dated 23 November and placed at Pokhran in Rajasthan. The company calls the system India's first autonomous counter-drone micro-missile. That "first" is the developer's description. The stated range is up to 5 kilometres. The reports do not establish that the missile has been inducted into service, and they do not disclose a purchase order.</p>
+<p>Founder and chief executive Bodhi Satwa Sangabria leads the company. IG Defense says the system can identify and classify drone threats and coordinate an interception. The software platform is called Grid, described as a mission-autonomy and battle-management system that brings sensors, detection, identification, and engagement into one architecture. The written account calls this grid computing. The announcement does not say what human approval is required before a shot, or when an automated decision is allowed. "Autonomous" here is not evidence that a system may select and attack targets on its own.</p>
+<p>The company has also shown Tul Beam, an electronic countermeasure, at an Indian Air Force exercise named as Droneathon. Jamming and a missile are different responses. A successful firing is a development step. Operational suitability would need results across the conditions the system is meant to face, and that test record is not in the announcement.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>The report's name is given as the "US-China Economic and Security Review" and then cuts off.</li>
-<li>China's share of India's imports is put at 45 percent for industrial machinery, 93 percent for lithium-ion batteries, 74 percent for active pharmaceutical ingredients, and 87 percent for antibiotic ingredients.</li>
-<li>Those are shares of imports in the named categories, not shares of Indian consumption or production. The written account says "antibiotic precursors."</li>
-<li>The commission's assessment, as retold, is that Beijing uses military ties with Pakistan and supply-chain control to constrain India.</li>
-<li>A factory can still depend on foreign machines, process knowledge, and spare parts after the last production step moves to India.</li>
-<li>The bulk-drug incentive scheme has an outlay of 6,940 crore rupees. A September update cited 39 projects, 28 ingredients, commissioning by June 2026, and about 5,211 crore rupees of investment.</li>
-<li>Penicillin G and clavulanic acid are among the fermentation products the government identified.</li>
-<li>Longer-term US medicine purchases are a recommendation to Congress, not a live programme and not a contract for an Indian firm.</li>
+<li>IG Defense says it test-fired the Jwala MK1, also rendered Juala and Duala, on 23 November at Pokhran.</li>
+<li>The company calls it India's first autonomous counter-drone micro-missile. That description is the developer's.</li>
+<li>The stated range is up to 5 kilometres. Induction into service and a purchase order are not established.</li>
+<li>The chief executive is named as Bodhi Satwa Sangabria. The software platform is Grid.</li>
+<li>The announcement does not set out who must approve a shot.</li>
+<li>Tul Beam, an electronic countermeasure, was shown at an air force exercise named as Droneathon.</li>
 </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Q Prayog says its atomic clock is about 50 times more stable than a crystal oscillator</title>
-      <link>https://www.youtube.com/watch?v=Cn2Rlf9lIIM</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Cn2Rlf9lIIM</guid>
-      <pubDate>Mon, 23 Nov 2026 14:40:29 +0000</pubDate>
+      <title>India ranks third in the Asia Power Index and 11th on technology</title>
+      <link>https://www.youtube.com/watch?v=rZkMNxxFo3E</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=rZkMNxxFo3E</guid>
+      <pubDate>Tue, 24 Nov 2026 14:00:27 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>Cn2Rlf9lIIM</news:videoId>
-      <news:publishedIst>2026-11-23T20:10:29+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/Cn2Rlf9lIIM/hqdefault.jpg"/>
+      <news:videoId>rZkMNxxFo3E</news:videoId>
+      <news:publishedIst>2026-11-24T19:30:27+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/rZkMNxxFo3E/hqdefault.jpg"/>
       <description><![CDATA[
-<p>Q Prayog, a Pune company also written as Q. Prayog and Quprayog, says it built a laboratory atomic-clock prototype in seven months. It was founded in 2024 by researchers Jay Manegaonkar and Rahul Sawant. It is incubated at the I Hub Quantum Technology Foundation in Pune and at an IIT Madras incubation programme. That second phrase is cut off. The prototype uses rubidium-87 atoms and a technique called coherent population trapping: light interacts with the atoms to set a timing reference. An ordinary electronic clock counts oscillations from something like a quartz crystal, which can drift with temperature and age. An atomic clock uses a particular atomic transition. Rubidium is described as useful because it can support relatively compact devices. Other designs trade precision, size, power, and cost differently. A sentence that there is "no single specification called atomic" is unfinished.</p>
-<p>The company reports stability about 50 times better than a crystal oscillator over roughly 1,000 seconds. That comparison needs those conditions. It does not mean the prototype is 50 times better than every existing clock, and it does not mean the result has been shown over years. Short-interval stability and long-term accuracy are related and still distinct. The current device is described as a laboratory achievement. A compact version is targeted for 2027. That target is not a confirmed satellite flight and not a commercially qualified product. Work still ahead includes size, power, sensitivity to the environment, and making more than one device behave the same way. A space use would need further qualification for launch and reliable operation. That sentence is unfinished.</p>
-<p>India already has government-developed atomic clocks. This is described as a new private-sector attempt to add another source. Satellite navigation measures how long a signal takes to travel, so a tiny timing error can become a position error. At the speed of light, one nanosecond is roughly 30 centimetres of travel. That does not translate directly into a receiver's final accuracy. ISRO flew an indigenous atomic clock on NVS-01 in 2023, and government disclosures also identify indigenous clocks on NVS-02. Q Prayog would add to that only if it reaches dependable production. Another qualified supplier could give customers more choice over buying, maintenance, and later development, especially when access to specialised technology is uncertain. The prototype becomes a practical alternative when customers can judge its specifications, availability, and reliability. The account calls the result promising, with a compact device, an independent demonstration, and qualification for a real use still ahead.</p>
+<p>India is third in the Lowy Institute's Asia Power Index, the name in the written account. The spoken forms are Loi, Lois, and Loise. The overall score is 40.5, up half a point. China scores 73.6. The gap is the narrowest since the index began in 2018, and China remains well ahead. The index covers 27 countries and territories that influence the Indo-Pacific, including the United States. It is not a world ranking of the technology industry. On the technology measure, India is 11th. That rank is separate from third overall.</p>
+<p>Renewable electricity is one of the stronger marks. India is third among the economies assessed, behind China and the United States, on about 356,000 gigawatt-hours of generation in 2023. The figure is given as "gawatt hours." It is electricity produced, not installed capacity, and it is not a 2026 number. India is joint fifth on satellites, counted by ownership or operation from 2019 to 2023, not by foreign satellites launched on Indian rockets this year. It is joint sixth on supercomputers, with seven systems in the global top 500. That count is not every GPU in an Indian data centre. It is joint sixth on science Nobels in physics, chemistry, and medicine from 1990 to 2025, a historical tally rather than this year's research quality.</p>
+<p>India is seventh on the research workforce, about 364,000 full-time-equivalent researchers, from a 2020 observation, not a current headcount. Research spending uses a 2020 figure rounded to 0.6 percent of GDP, and India is 13th on that measure. It is 11th on high-tech exports, a separate 11th from the technology rank. That export measure is the sophistication of the export basket, not the dollar value of phone shipments. India is 10th on cyber capability, an expert judgment of offence and defence, not a count of attacks or security companies. It is third on future resources, which project economic and defence resources toward 2035 and demographic resources toward 2050. The account says this captures potential rather than guaranteeing the result, and also says the outcome is guaranteed. The overall rank has strengthened. The technology indicators, especially research spending and sophisticated exports, are where the account says further progress is still open.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>Q Prayog, also written Q. Prayog and Quprayog, says it built a laboratory atomic clock in seven months.</li>
-<li>Jay Manegaonkar and Rahul Sawant founded it in 2024. It is incubated at the I Hub Quantum Technology Foundation in Pune and at an IIT Madras programme whose name is cut off.</li>
-<li>The prototype uses rubidium-87 and coherent population trapping. The claimed stability is about 50 times a crystal oscillator over roughly 1,000 seconds, not 50 times every clock, and not a result shown over years.</li>
-<li>A compact version is a 2027 target, not a confirmed satellite deployment and not a qualified commercial product.</li>
-<li>ISRO flew an indigenous atomic clock on NVS-01 in 2023. Government disclosures also identify clocks on NVS-02.</li>
-<li>One nanosecond is roughly 30 centimetres of light-travel. A receiver's accuracy depends on more than that.</li>
+<li>India is third in the Asia Power Index with a score of 40.5, up half a point. China is at 73.6. The gap is the narrowest since 2018.</li>
+<li>The written name is the Lowy Institute. The index covers 27 Indo-Pacific countries and territories, including the United States.</li>
+<li>India is 11th on the technology measure, separate from third overall, and also 11th on high-tech exports.</li>
+<li>Renewable generation is third, at about 356,000 gigawatt-hours in 2023, given as "gawatt hours." Satellites are joint fifth for 2019 to 2023. Supercomputers are joint sixth, with seven systems in the top 500.</li>
+<li>The research workforce is seventh, about 364,000 full-time researchers, from 2020. Research spending is 13th, at about 0.6 percent of GDP, also from 2020.</li>
+<li>Cyber capability is 10th. Future resources are third, projected toward 2035 and 2050. The account calls that potential, and also says the outcome is guaranteed.</li>
 </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>India and the European Union could sign a trade agreement on 16 December</title>
-      <link>https://www.youtube.com/watch?v=zKBQorQT5oQ</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=zKBQorQT5oQ</guid>
-      <pubDate>Mon, 23 Nov 2026 14:20:12 +0000</pubDate>
+      <title>A briefing says Huang is back and names eight other subjects</title>
+      <link>https://www.youtube.com/watch?v=rXB9WJLrpTU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=rXB9WJLrpTU</guid>
+      <pubDate>Tue, 24 Nov 2026 12:40:31 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>zKBQorQT5oQ</news:videoId>
-      <news:publishedIst>2026-11-23T19:50:12+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/zKBQorQT5oQ/hqdefault.jpg"/>
+      <news:videoId>rXB9WJLrpTU</news:videoId>
+      <news:publishedIst>2026-11-24T18:10:31+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/rXB9WJLrpTU/hqdefault.jpg"/>
       <description><![CDATA[
-<p>India and the European Union could sign their long-negotiated trade agreement on 16 December. Money Control, citing a PTI report, says signing is likely during Prime Minister Narendra Modi's proposed visit to Brussels. The date is still reported rather than formally confirmed in the material reviewed for this account. The written account says the two sides are expected to sign on that day, and that machinery tariffs are set to fall. Signing would not remove every tariff the next morning. Negotiations concluded in January 2026. Signing, approval, and entry into force are separate steps. The report points to an expected start in 2027. Businesses are told to wait for the final timetable before changing commercial plans. Some cuts would be immediate and others phased, so a duty-free headline has to be checked against the actual product.</p>
-<p>For Indian electronics the account describes two sides: selling into Europe, and the cost of European machinery and components used in Indian factories. The European Commission says the EU exported 16.3 billion euros of machinery and electrical equipment to India in 2024, and that existing Indian tariffs in that category can reach 44 percent. The Commission's summary says tariffs would be removed on almost all of those products, with transition periods of up to 10 years for some items. An Indian shipment does not automatically get the preferential rate because it leaves an Indian port. Rules of origin decide how much production must happen in an eligible country, which matters when a finished electronic product contains parts from several economies. The agreement also provides for origin statements and customs cooperation.</p>
-<p>The Indian government's fact sheet is cited for European commitments across 144 services subsectors, including IT and IT-enabled services. A digital-trade chapter is said to cover consumer protection, electronic transactions, and protection against some demands to disclose software source code, subject to stated exceptions. The account's conclusion is that the technology effect sits in equipment costs, export access, and services, and that implementation, not the signing date alone, decides the commercial benefit. A closing question, "Where could India gain more from this steel? Exporting Finnish electronics," is unclear and is not treated as a finding.</p>
+<p>A Front Page briefing says Nvidia reinstated Jensen Huang eleven days after announcing his resignation, restoring the founder's leadership while investigations continue and the company strengthens oversight of national security and exports. The same briefing says it also covers India placing third in the Asia Power Index, IG Defence's JWALA MK-1 anti-drone missile test at Pokhran, Micromax and Karbonn's push back into affordable phones, Sarvam's upgraded 105 billion model and token prices, L&amp;T's added Nvidia B300 engagement in Chennai, GRSE's delivery of Ashank, Yann LeCun's criticism of Dario Amodei over who can run AI models, and OpenAI's proposed shared limits on AI development.</p>
+<p>Those are the subjects the briefing names. The remarks and the figures are in the separate reports, not in this list.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>A signing on 16 December is likely during a proposed Modi visit to Brussels, according to Money Control citing PTI. The date is not formally confirmed in the material reviewed here.</li>
-<li>Negotiations concluded in January 2026. Signing, approval, and entry into force are separate. An expected start is 2027. Signing would not zero every tariff the next morning.</li>
-<li>The European Commission says EU machinery and electrical-equipment exports to India were 16.3 billion euros in 2024, and that Indian tariffs in that category can reach 44 percent.</li>
-<li>The Commission summary says those tariffs would be removed on almost all such products, some over as long as 10 years.</li>
-<li>Rules of origin decide whether an Indian export qualifies. Leaving an Indian port is not enough, especially for electronics with parts from several countries.</li>
-<li>A government fact sheet is cited for European commitments in 144 services subsectors, including IT and IT-enabled services, and for limits on some demands for software source code.</li>
-<li>The question about "this steel" and "Finnish electronics" is unclear and is not a finding.</li>
+<li>The briefing says Nvidia reinstated Jensen Huang eleven days after announcing his resignation, that investigations continue, and that oversight of national security and exports is being strengthened.</li>
+<li>It also names the Asia Power Index, the JWALA MK-1 test, Micromax and Karbonn, Sarvam's 105 billion model, L&amp;T's Chennai GPU engagement, Ashank, LeCun and Amodei, and OpenAI's proposed limits.</li>
+<li>This list does not add figures beyond that reinstatement sentence. The separate reports carry the detail.</li>
 </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Trump threatens a tax on overseas data centers as Google plans a $15 billion India hub</title>
-      <link>https://www.youtube.com/watch?v=cZteJ6kfjAs</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=cZteJ6kfjAs</guid>
-      <pubDate>Mon, 23 Nov 2026 14:00:39 +0000</pubDate>
+      <title>Anthropic says it has not backed a ban on open-weight models</title>
+      <link>https://www.youtube.com/watch?v=nt43YxNlFYo</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=nt43YxNlFYo</guid>
+      <pubDate>Tue, 24 Nov 2026 12:30:32 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>cZteJ6kfjAs</news:videoId>
-      <news:publishedIst>2026-11-23T19:30:39+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/cZteJ6kfjAs/hqdefault.jpg"/>
+      <news:videoId>nt43YxNlFYo</news:videoId>
+      <news:publishedIst>2026-11-24T18:00:32+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/nt43YxNlFYo/hqdefault.jpg"/>
       <description><![CDATA[
-<p>President Donald Trump has threatened a "tremendous tax" on American companies that build data centers overseas. Speaking on 20 November, he argued that these facilities should be built in the United States. No tax rate, start date, or detailed rules have been published in the reports reviewed for this account. The Associated Press is cited for Trump saying he had not yet discussed the proposal with his staff. A following line, that he "just went ahead and said tremendous task," is unclear and is not treated as a second proposal. It is unanswered whether a measure would cover only new investment or also existing sites, whether it would apply when an American company leases capacity from an Indian operator, and how subsidiaries and joint ventures would be treated. Putting a dollar figure on India's exposure would be speculation. The immediate issue is uncertainty about the cost and structure of future investment.</p>
-<p>Google has announced a $15 billion investment from 2026 to 2030 for its first AI hub in India, at a place heard as "centered Shakapata." The plans include gigawatt-scale computing, international connectivity, and energy infrastructure, with partners including Adani ConX and AET. Microsoft opened its India South Central cloud region in Hyderabad in August and links the expansion to $20.5 billion of announced commitments, combining investments disclosed in January and December 2025. Amazon announced another $13 billion for Indian AI and cloud infrastructure in June of this year, including expansion in Mumbai and Hyderabad. Those are the figures given for why Indian developers, power suppliers, and enterprise customers would watch the next announcement.</p>
-<p>Location is more than the price of land. For a bank, a retailer, or a software company, distance between users and the computers can change response times, and some customers need a say in where information is stored, processed, and recovered. Training a model is a large computing job. Serving it is a stream of requests that can be sensitive to delay. The best place for one is not automatically the best place for the other, so overseas capacity can still be useful to an American company whose largest research teams are in the United States. If a tax materially raised the cost of building overseas, companies could reconsider timing, ownership, or the price of capacity. Those are possible consequences, not decisions announced by Google, Microsoft, or Amazon. An Indian-owned site could still depend on an American customer signing a long contract, so domestic ownership would not remove every commercial risk. India would still need dependable electricity, connectivity, financing, and customers willing to pay. The account's conclusion is that the threat deserves attention and does not show that the announced projects are being cancelled. The host's own answer, offered as a personal view, is that India should put more weight on domestic cloud capacity when it plans AI infrastructure.</p>
+<p>Yann LeCun has challenged Anthropic's chief executive, Dario Amodei, over who should be allowed to run powerful AI models. The spoken names are Yan Lekun, Leon, Dario Modi, and Amod. LeCun's argument, as given here, is that restricting access concentrates control in a few organisations. The dispute is about open-weight models, described as systems whose parameters others can download and run. The headline says Anthropic has not backed a ban on open-weight models after a LeCun post.</p>
+<p>Anthropic's published position is narrower than a blanket ban. In a July statement, Amodei said Anthropic had not advocated a ban on open-weight models as a category. That statement is described as earlier background, not a new reply to LeCun. He called "models with without dangerous capabilities" a public good. The phrase is unclear. His stated worry is that once powerful weights circulate, the developer cannot reliably withdraw them or enforce safeguards on every copy. He called for mandatory safety testing of sufficiently capable models, whether open or closed. Moneycontrol reports that LeCun was responding to a post about Amodei's congressional testimony. The worry attributed to Amodei is that, once weights are released, the original developer loses control of how copies are used.</p>
+<p>Weights are the numbers learned in training. Publishing them can let someone run the model on suitable hardware. It does not automatically include the training code, a full account of the training data, or an unrestricted right to modify the system. A hosted service leaves the provider in control of access. Downloadable weights can let an organisation choose where the model runs, and then that organisation has to secure it. Neither arrangement removes responsibility for what an application does. For Indian startups, available weights can mean experimentation without training a large model from scratch. They are not free to operate. The useful argument, as this report frames it, is about measurable risk and who decides a model is safe to release: the developer, independent evaluators, or a public regulator.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>On 20 November Trump threatened a "tremendous tax" on American companies that build data centers overseas, and said the facilities should be built in the United States.</li>
-<li>No rate, date, or rules have been published in the reports reviewed here. The Associated Press is cited for Trump saying he had not discussed the proposal with his staff.</li>
-<li>"Tremendous task" is an unclear following line and is not treated as a separate proposal.</li>
-<li>It is open whether any tax would hit new builds only, existing sites, leased Indian capacity, subsidiaries, or joint ventures. A dollar figure for India's exposure is called speculation.</li>
-<li>Google's stated plan is $15 billion from 2026 to 2030 for a first India AI hub, heard as "centered Shakapata," with gigawatt-scale computing and partners including Adani ConX and AET.</li>
-<li>Microsoft opened a South Central cloud region in Hyderabad in August, tied to $20.5 billion of commitments disclosed in January and December 2025.</li>
-<li>Amazon announced another $13 billion in June of this year for Indian AI and cloud infrastructure, including Mumbai and Hyderabad.</li>
-<li>A tax might change timing, ownership, or prices. That is not an announced cancellation by Google, Microsoft, or Amazon.</li>
+<li>The written names are Yann LeCun and Anthropic chief executive Dario Amodei. Spoken forms include Yan Lekun, Leon, Dario Modi, and Amod.</li>
+<li>The headline says Anthropic has not backed a ban on open-weight models after a LeCun post.</li>
+<li>A July statement, not a new reply, said Anthropic had not advocated a ban on open-weight models as a category.</li>
+<li>Amodei called "models with without dangerous capabilities" a public good. The phrase is unclear. He wants mandatory safety testing for capable models, open or closed.</li>
+<li>Moneycontrol says LeCun was responding to a post about Amodei's congressional testimony.</li>
+<li>Published weights are not the same thing as training code, training data, or an unrestricted licence.</li>
 </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Modi says BrahMos missiles from Operation Sindhur are now made in Uttar Pradesh</title>
-      <link>https://www.youtube.com/watch?v=WCBXhyH20z4</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=WCBXhyH20z4</guid>
-      <pubDate>Mon, 23 Nov 2026 13:00:07 +0000</pubDate>
+      <title>OpenAI's chief scientist proposes limits tied to safety progress</title>
+      <link>https://www.youtube.com/watch?v=6PB-VRp4ywg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=6PB-VRp4ywg</guid>
+      <pubDate>Tue, 24 Nov 2026 12:00:11 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>WCBXhyH20z4</news:videoId>
-      <news:publishedIst>2026-11-23T18:30:07+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/WCBXhyH20z4/hqdefault.jpg"/>
+      <news:videoId>6PB-VRp4ywg</news:videoId>
+      <news:publishedIst>2026-11-24T17:30:11+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/6PB-VRp4ywg/hqdefault.jpg"/>
       <description><![CDATA[
-<p>On 21 November, at a skill-development event in Lucknow, Prime Minister Narendra Modi presented a missile assembly line in Lucknow, a semiconductor project near a place heard as Jawar, and new technical courses meant to staff those factories. He said BrahMos missiles used in Operation Sindhur were now being manufactured in Uttar Pradesh, and he pointed to the semiconductor factory coming up in the state. The account treats these as two projects at different stages. Both need specialised equipment suppliers and trained workers.</p>
-<p>The BrahMos facility was inaugurated in May 2025. Its first batch of missiles was flagged off in October, and that sentence stops. Invest UP is cited for an approximately 300 crore rupee facility on 80 acres, designed to produce 80 to 100 missiles a year. That is stated capacity, not a verified count of annual deliveries. The work described is assembly, integration, and testing. BrahMos is a supersonic cruise missile from an Indian-Russian joint venture involving India's Defence Research and Development Organization and Russia. The Russian partner's name is cut off. Making the missile in Uttar Pradesh adds a production site inside India and does not change the joint origins. Local suppliers would need parts that meet tight tolerances, documented processes, and reliable testing.</p>
-<p>The chip project involves HCL Group and Foxconn. It was approved in May 2025 at about 3,706 crore rupees, and the foundation stone was laid in February 2026. It is an outsourced semiconductor assembly and test plant for display-driver chips used in phones, laptops, and vehicles. The announced capacity is 20,000 wafers a month, and HCL has projected roughly 3,500 jobs. Both are targets, not current production or current employment. The account says chip work runs from design through fabrication to packaging and test, and that this project is the later packaging and test, after circuits are made on a wafer. Modi also highlighted courses for semiconductor technicians, industrial robotics, drones, and cyber security, and referred to PM Setu, a national programme with a 60,000 crore rupee outlay to upgrade 1,000 government industrial training institutes. That funding is nationwide, not an allocation only for Uttar Pradesh. The account's conclusion is that the state has a working missile plant and a chip project still being built, and that the evidence still to come is deliveries, qualified suppliers, and skilled employment. A closing question asks what states should publish to show whether the investments are creating "lasting tactical jobs." The word "tactical" is as heard.</p>
+<p>OpenAI's chief scientist is proposing a measurable limit on how far AI development should go before safety methods catch up. A 22 November essay is introduced as Jako Pachi's, later called Poki's, with a further acknowledgment attributed to Bachoki. The essay is about perplexity, also called "Plexity," a measure of how well a language model predicts the next piece of text. Sam Alman calls it OpenAI's most important publication in a while. This is a proposal for companies to coordinate. It is not a law, not a global rule, and not an announcement that training has stopped.</p>
+<p>Lower perplexity means better prediction on that particular data. The figures in the essay are loss values, not a universal scale of intelligence. A score on one collection of text cannot be compared automatically with a score on another. Hugging Face's technical notes are cited for the point that tokenization changes the result. The written description instead mentions the performance of "the Hugging Face model," and no such score is given. Poki argues that this family of measurements could let labs set shared thresholds, and that crossing one would depend on a stated improvement in the ability to understand or monitor AI behaviour. He points to possible further capability changes around a loss of 0.68 to 0.70 on OpenAI's own setup. That range is an extrapolation in the essay, not an agreed danger line.</p>
+<p>A separate study published this month looks at how reliably a model's written reasoning can be monitored, including whether a model can solve tasks without showing that reasoning and whether it can control the trace. The researchers see reasons to expect monitoring to get harder as models improve. They call the measures imperfect proxies. They do not show that every capable model will evade supervision. Anthropic's chief executive, named here as Dario Mod, has separately argued for slowing frontier development, with independent evaluators inside labs, coordination among companies, and wider international cooperation. Bachoki acknowledges that perplexity misses gains from reasoning methods and other work after pre-training. An eventual framework could affect Indian developers and companies that rely on foreign models. Questions raised, and not answered, are whether Indian languages are in the evaluations, whether smaller labs can afford the compliance, and who writes the rules. None of that is a restriction already imposed on Indian firms.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>On 21 November in Lucknow, Modi said BrahMos missiles used in Operation Sindhur are now made in Uttar Pradesh, and pointed to a semiconductor factory in the state.</li>
-<li>The missile line is in Lucknow. The chip project is near a place heard as Jawar. New technical courses were part of the same picture.</li>
-<li>The BrahMos plant was inaugurated in May 2025. A first batch was flagged off in October, and that sentence is unfinished.</li>
-<li>Invest UP is cited for about 300 crore rupees, 80 acres, and a design capacity of 80 to 100 missiles a year. That is not a verified delivery count. The Russian partner's name is cut off.</li>
-<li>HCL Group and Foxconn were approved in May 2025 at about 3,706 crore rupees, with a foundation stone in February 2026. The plant is for assembly and test of display-driver chips.</li>
-<li>The chip targets are 20,000 wafers a month and about 3,500 jobs. They are not current output or current employment.</li>
-<li>PM Setu is a national 60,000 crore rupee programme for 1,000 government industrial training institutes, not a Uttar Pradesh-only fund.</li>
-<li>"Lasting tactical jobs" is the wording of the question about what states should publish. "Tactical" is as heard.</li>
+<li>A 22 November essay, introduced as Jako Pachi's and later Poki's, proposes measurable limits tied to safety progress. Bachoki is named in an acknowledgment.</li>
+<li>Sam Alman calls it OpenAI's most important publication in a while. It is a coordination proposal, not a law and not a halt to training.</li>
+<li>The measure is perplexity, also "Plexity." The essay's figures are loss values. A range of 0.68 to 0.70 is an extrapolation on OpenAI's setup, not an agreed danger line.</li>
+<li>No performance figure is given for a Hugging Face model. Tokenization is cited as something that changes the score.</li>
+<li>A study this month finds reasons to expect reasoning monitors to get harder to trust as models improve, and calls the measures imperfect proxies.</li>
+<li>Anthropic's chief executive, named as Dario Mod, has separately argued for pacing frontier work, with independent evaluators in labs.</li>
 </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Front Page lists BrahMos, a data-center tax, and six other subjects</title>
-      <link>https://www.youtube.com/watch?v=f446I6yiVag</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=f446I6yiVag</guid>
-      <pubDate>Mon, 23 Nov 2026 12:19:52 +0000</pubDate>
+      <title>Nvidia has reinstated Jensen Huang, and the probe is still open</title>
+      <link>https://www.youtube.com/watch?v=iNt_olYTGVg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=iNt_olYTGVg</guid>
+      <pubDate>Tue, 24 Nov 2026 11:30:30 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>f446I6yiVag</news:videoId>
-      <news:publishedIst>2026-11-23T17:49:52+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/f446I6yiVag/hqdefault.jpg"/>
+      <news:videoId>iNt_olYTGVg</news:videoId>
+      <news:publishedIst>2026-11-24T17:00:30+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/iNt_olYTGVg/hqdefault.jpg"/>
       <description><![CDATA[
-<p>The Front Page broadcast says Prime Minister Narendra Modi has highlighted Uttar Pradesh's BrahMos production and semiconductor project, and has linked advanced manufacturing with technical training as the state builds defence and electronics capacity. What was said on air beyond that list was not available for this account. The broadcast also says it covers President Trump's threatened tax on overseas data centres and what that could mean for India's cloud investments, an India-EU trade deal that could be signed on 16 December, Pune startup QuPrayog's atomic-clock prototype, a US congressional commission's warning on Chinese supply-chain dependence, a ₹1,500 crore patent case against Apple, Grand Theft Auto VI's $3.79 billion opening-day sales, and a Claude-assisted Riemann hypothesis proof that has passed independent checks.</p>
-<p>A second list in the same account uses slightly different wording: Trump's data-centre tax threat and India's exposure, what the India-EU deal changes for technology, a Pune startup building an atomic-clock prototype, China's supply-chain hold on Indian industry, the ₹1,500 crore patent case against Apple, GTA VI's $3.79 billion opening, and a Claude-assisted Riemann proof that passes independent checks. Those lines are the broadcast's stated subjects. They are not a record of remarks, rulings, or extra figures.</p>
+<p>On 23 November, Nvidia reinstated Jensen Huang as president, chief executive, and a board director. Six days earlier, the chairman told investors the board did not intend to bring him back. That board has now approved the return unanimously. Chairman Harvey C. Jones stays in the chair. Colette Crest, who stepped in as interim chief executive, continues as chief financial officer. The company has said why it believes Huang can lead again. It has not finished the probe into why he left. The written account calls the $115.8 billion figure earnings, and says the board reversed its previous decision after that result. The spoken account calls $115.8 billion revenue.</p>
+<p>Nvidia announced the resignation on 12 November and started a search for a permanent replacement. At the 17 November earnings call, Jones said the resignation followed disclosures of personal behaviour inconsistent with the company's code of conduct, and that the board had accepted it unanimously. The reports concerned Huang's relationships, including one with a woman alleged to have connections to Chinese intelligence. Reuters said it could not independently verify the intelligence allegation. China's foreign ministry rejected it. The allegation is not treated here as an established finding. Nvidia says discussions, with the other party named as Wong, satisfied directors about his candour, the word given as "cander," and his ability to lead. Input from senior US officials informed the board's view that the return poses no national security risk whatsoever. The announcement does not publish that input. President Donald Trump welcomed the decision, called it correct and proper, and said he had intervened with the board. The shares jumped about 33 percent at the US open on 23 November. Lawmakers from both parties criticised the move and demanded answers on export controls.</p>
+<p>On 17 November, Nvidia set up a standing national security and export-control committee. Director Suzanne Norah Johnson is on it with Stephen Calil and John O. Diri. It covers export compliance, national-security policy, and risks from global trade, meets at least quarterly, and can draw on outside experts. Separately, independent directors and outside counsel are still investigating the reports. Huang has reportedly agreed to cooperate. Nvidia is recruiting a chief compliance officer who would report to the nominating and governance committee. That appointment has not been announced. For the quarter ending 25 October, revenue reached $115.8 billion, more than double the year before. Data centres contributed $107.6 billion, about 93 percent. Those results predate the departure, so they do not show the effect of the disruption. The next-quarter forecast assumes no data-centre compute revenue from China. The same report notes that on 23 November, L&amp;T's subsidiary LTN Compute secured a multi-year engagement for more Nvidia B300 GPUs in Chennai, toward a planned 10,000-GPU cluster. Huang's return does not, by itself, change export rules or delivery dates.</p>
 <p><strong>Key points</strong></p>
 <ul>
-<li>The broadcast says Modi highlighted Uttar Pradesh's BrahMos production and semiconductor project, and linked advanced manufacturing with technical training.</li>
-<li>It also lists Trump's threatened tax on overseas data centres, an India-EU deal that could be signed on 16 December, and QuPrayog's atomic-clock prototype.</li>
-<li>It lists a US congressional commission's warning on Chinese supply-chain dependence, a ₹1,500 crore patent case against Apple, GTA VI opening-day sales of $3.79 billion, and a Claude-assisted Riemann proof that has passed independent checks.</li>
-<li>What was said about each subject, beyond this list, was not available. Later reports in this edition are separate accounts and are not folded back into this one.</li>
+<li>On 23 November the board reinstated Jensen Huang as president, chief executive, and a director, after the chairman had said six days earlier that the board did not intend to bring him back.</li>
+<li>Harvey C. Jones remains chairman. Colette Crest, the interim chief executive, continues as chief financial officer.</li>
+<li>The resignation was announced on 12 November. Jones said it followed personal conduct inconsistent with the company code. The probe is not finished.</li>
+<li>Reports included a relationship with a woman alleged to have Chinese-intelligence links. Reuters could not verify that. China's foreign ministry rejected it.</li>
+<li>Trump called the return correct and proper and said he intervened with the board. The shares opened about 33 percent higher. Lawmakers in both parties demanded answers on export controls.</li>
+<li>A national-security and export-control committee includes Suzanne Norah Johnson, Stephen Calil, and John O. Diri. A chief compliance officer is being recruited and has not been named.</li>
+<li>Revenue for the quarter ending 25 October was $115.8 billion, more than double a year earlier. Data centres were $107.6 billion, about 93 percent. The written account calls $115.8 billion earnings.</li>
+<li>The next-quarter forecast assumes no data-centre compute revenue from China.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Pomo's chief executive says brands cannot see how AI shopping lists are chosen</title>
+      <link>https://www.youtube.com/watch?v=moYh2vcW8Qs</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=moYh2vcW8Qs</guid>
+      <pubDate>Tue, 24 Nov 2026 10:40:20 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>moYh2vcW8Qs</news:videoId>
+      <news:publishedIst>2026-11-24T16:10:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/moYh2vcW8Qs/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Praneet Dutta, co-founder and chief executive of Pomo, says the company is building marketing software that watches competitors, ad accounts, social posts, and AI-search visibility overnight, drafts a recommendation, and waits for a person to approve it. Sudhi Sachdev, named as the interviewer in the written account, said Dutta is among the authors of Google's Imagen 3 report, worked in machine learning at Google Cloud and Google DeepMind, left DeepMind in August 2025, and co-founded Pomo with Joe Cheuk. Dutta said he spent close to eight years at Google, most of it at DeepMind, led parts of post-training for what he called a "regenerative AI model stack," worked on weather models and on reinforcement learning for cooling industrial systems, and left last year to build from scratch because he expected agents to disrupt many industries.</p>
+<p>Sachdev said the six-person company raised $4.5 million in April, in a seed round led by Kindred Ventures and including Databricks Ventures, SV Angel, and 645 Ventures. The written account states the $4.5 million and does not name the month or the investors. Dutta did not restate the round. He said Pomo is not there to replace marketers. Faster output still fails, he said, if the product is weak or the finding never becomes creative work. He called agentic marketing early, probably a few years from the mainstream, and compared it with coding tools that moved from autocomplete to a prompt that ships. He said consumer chatbots are built to agree. Pomo, he said, is supposed to show its reasoning against purchases, acquisition cost, and return on ad spend, and let the marketer change the recommendation. He would not let a brand hand the whole job to an agent in the short term, because shared image and video models make ads look the same. Pomo starts from a style book of colour, type, and voice taken from the brand's site. He said image generation is usually good without custom training, and that video still gives itself away and can break characters, text, and glyphs. He put usable video at Christmas, earlier than that, or next year.</p>
+<p>On ads, he said Meta's Advantage+ and Google's PMax automate creation so brands spend more on those platforms, and that in his view no platform will tell a brand the money would do better somewhere else. Pomo's aim is the brand's return from above those gardens, including whether to use social before ads and whether to spend on search or on AI-search visibility. Sachdev cited Pew Research: a traditional result was clicked in 8 percent of visits that showed an AI summary, against 15 percent without one. He cited Spark Toro: 600 volunteers put the same questions to ChatGPT, Claude, and Google's AI nearly 3,000 times, and the chance of the same brand list twice was under one in 100. The headline attributes a "flying blind" claim, tied to that one-in-100 repeat, to the Pomo chief executive. Dutta did not repeat the Pew or Spark Toro figures. He did say brands are flying blind, that nobody outside the chat companies knows how a brand gets recommended, and that a brand can only track a relative position that can change weekly. Pomo, he said, builds likely buyer questions from social listening because agencies cannot see the real questions, then repeats them across the major chatbots. He gave no customer count and no price. He said an April wait-list drew companies from Australia, Europe, and the United States within about two weeks, asking for access to "POMA," and that most of them are now on the platform. On India's September rules for labelling AI-made ads, he said he does not know whether every such ad should carry a label. He called click-through rate the most overrated number in marketing, named creative directors as the job safest from software, and said Claude Code currently leads Codex on his team.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Praneet Dutta, co-founder and chief executive, says Pomo drafts marketing recommendations for a person to approve. He says it is not meant to replace marketers.</li>
+<li>Sachdev said Dutta co-wrote Google's Imagen 3 report, left DeepMind in August 2025, and co-founded Pomo with Joe Cheuk. Dutta said he left last year.</li>
+<li>Sachdev said six people raised $4.5 million in April, led by Kindred Ventures, with Databricks Ventures, SV Angel, and 645 Ventures. Dutta did not restate the round.</li>
+<li>The Pew click figures, 8 percent with an AI summary and 15 percent without, and Spark Toro's under-one-in-100 repeat rate, are Sachdev's citations. Dutta did not state them. He did say brands are flying blind.</li>
+<li>Dutta said no ad platform will recommend spending on a rival, that chat-engine ranking is a black box, and that Pomo samples likely questions because the real ones are not visible.</li>
+<li>He gave no customer count or price. He said a wait-list in April drew companies from Australia, Europe, and the United States within about two weeks.</li>
+<li>He does not know whether every AI-made ad should be labelled under India's September rules. He called click-through rate the most overrated marketing number.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Ramgopal Rao says India's quantum papers have not produced the companies</title>
+      <link>https://www.youtube.com/watch?v=lX7MrbG8IxA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=lX7MrbG8IxA</guid>
+      <pubDate>Tue, 24 Nov 2026 09:00:36 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>lX7MrbG8IxA</news:videoId>
+      <news:publishedIst>2026-11-24T14:30:36+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/lX7MrbG8IxA/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>V. Ramgopal Rao, group vice-chancellor of BITS Pilani, told Sudhi Sachdev that India is producing quantum and nanoelectronics research without the facilities or the mission-style targets that turn it into products. Sachdev, citing MIT's quantum index, said India is third in the world for papers in both quantum computing and quantum communications, fifth among the most-cited computing papers, and ninth in communications. The written introduction states the fifth-place computing figure and does not mention ninth. Sachdev said Indian patent filings rose from 226 in 2023 to 2,883 in 2025. Rao said that in a study he did, fewer than 5 percent of today's unicorns are based on intellectual property.</p>
+<p>Rao said he returned from the United States in 1998, that two attempts over about 26 years to bring semiconductor foundries to India failed, and that the third is succeeding, with at least a dozen fabs coming for assembly and test, fabrication, and other components. Sachdev, citing a person he called Mr. Chanduk, said starting with assembly was deliberate, to build trust. Rao said new foundries go to 28 nanometres, enough in his view for sensors, communications, space, and missile seekers, while 2-nanometre and 4-nanometre phone and Nvidia-class chips may stay out of reach for 10 years. Citing surveys, he said the world may need about a trillion IoT sensors a year, which at one dollar each is a trillion-dollar market. He said China spent almost 20 years learning manufacturing and is now competing with the United States, and that India is at the start of a similar path. Spending on Tsinghua and Peking, he said, equals India's entire education-ministry budget. About seven Indian institutions have strong nanoelectronics facilities, still funded below the level he wants.</p>
+<p>NanoSniffer, incubated at IIT Bombay in 2011, took almost 11 years to reach 90 Indian airports. Rao called it the world's first microsensor-based explosive detector, made in India, with patents in the United States and Europe. He said at least five of those years were lost because there was no domestic fab, and that the chips are still made only at IISc Bangalore. A product foundry, he said, can cost 30 crore or 40 crore rupees. Work that takes about five years abroad can take about 10 in India, at about a tenth of the funding. His 10 percent figure for academia is a proposal, not a decision he said had been taken. He would have wanted 10 percent of both semiconductor-mission phases, "like 10,000 crore," for academic startups and their facilities. Sachdev said Semiconductor 2.0 has allocated 1 lakh 27,500 crore rupees. Rao said the first phase gave academia nothing, the second talks about academic funding that has not started, and most of the money was subsidies for large companies. A commercial line such as the delayed Tata plant at Dholera, he said, will run standard processes and will not accept unusual materials.</p>
+<p>He split quantum into layers. India leads, he said, in fundamental science and materials. Devices and qubits still have hardware gaps. Cryogenics, photonics, control electronics, and packaging are open markets. Software and error correction are a strength. Defence, navigation, and quantum-proof security are early and need buyers. He argued for a national mission on the pattern of space, missiles, and nuclear reactors, with a product named five years out and three or four funded groups on each part, rather than a race among states. During COVID, as director of IIT Delhi, he said the institute launched an RT-PCR kit at 600 rupees against prices of 3,000 to 4,000, a 50-rupee antigen kit, more patents than in its earlier history, and about 14 technology transfers, because the problem had been defined. Academics, he said, stop around technology readiness level 3. Selling needs about level 7 or 8. CSIR laboratories, the name unclear in places, can reach about level 6 or 7 and are not set up to start companies. A report he cited ranks India 91st for academia-industry collaboration, down from 82nd two years ago. He wants a share of industry revenue, not only corporate-social-responsibility funds, required for work with universities, and he wants about a thousand Indian doctoral students to spend a year at places such as MIT and Stanford. No one confirmed an Indian missile export to Indonesia. That question was asked and left unanswered.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Sachdev, citing MIT's quantum index, said India is third in quantum-computing and quantum-communications papers, fifth in highly cited computing papers, and ninth in communications. Patent filings rose from 226 in 2023 to 2,883 in 2025.</li>
+<li>Rao said two earlier attempts to bring foundries to India failed and the third is succeeding, with at least a dozen fabs coming. New lines go to 28 nanometres. He said 2-nanometre and 4-nanometre chips may be out of reach for 10 years.</li>
+<li>NanoSniffer, from IIT Bombay in 2011, took about 11 years to reach 90 airports. He said the chips are still made only at IISc Bangalore, and a product foundry can cost 30 or 40 crore rupees.</li>
+<li>His proposal, not a step he said had been taken, is 10 percent of the semiconductor mission, "like 10,000 crore," for academic startups. Sachdev said Semiconductor 2.0 has allocated 1 lakh 27,500 crore rupees. Rao said academic funding under the second phase has not started.</li>
+<li>Fewer than 5 percent of unicorns in a study he did are based on intellectual property. India is 91st, he said, in academia-industry collaboration, down from 82nd.</li>
+<li>He described academics as stuck near readiness level 3 and public labs near level 6 or 7. An export of missiles to Indonesia was asked about and not confirmed.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>WeWork India says revenue rose 31.6 percent and mature centres are at 88 percent</title>
+      <link>https://www.youtube.com/watch?v=OPohipUvO6M</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=OPohipUvO6M</guid>
+      <pubDate>Tue, 24 Nov 2026 07:00:27 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>OPohipUvO6M</news:videoId>
+      <news:publishedIst>2026-11-24T12:30:27+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/OPohipUvO6M/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>WeWork India's chief investment officer, Vinayak Parameswaran, told Antara Gupta that demand is still ahead of new supply and that operating cash is paying for growth. The headline puts the revenue increase at 31 percent. Gupta said Q2 of financial year 2027 revenue rose 31.6 percent and profit after tax rose 67.4 percent, and later said revenue was up 32 percent, EBITDA 38 percent, and profit after tax 67 percent. She said the company has passed 1.45 lakh desks across 13 million square feet. Parameswaran said about 10 million square feet is operating, with letters of intent and leases taking the locked capacity to about 13 million, and another 3 million square feet signed to open over the next couple of years. The company added 11,800 desks in the quarter and about 18,400 in the first half. Member growth was 33 percent year on year, against a 27 percent increase in supply. Gupta said more than 30,000 desks were added year on year. He did not restate that figure.</p>
+<p>He said blended occupancy is 84 percent, centres open more than a year are at 88 percent, and newer centres are at 65 percent. Gupta put break-even at about 55.7 percent. He and the written note put it at about 55 percent. He said both new and mature centres are profitable, and that the gap between 84 and 55 percent occupancy is almost all profit, equal to 28 percent centre-level margins. First-half centre-level margin was about 400 crore rupees. He also described "the first quarter" as about 768 crore rupees of revenue, 163 crore of EBITDA, 66 crore of profit after tax, a 21 percent margin, and about 238 crore of free cash from operations, with about 62 crore left after growth spending. Gupta called the balance sheet negative net debt, meaning more cash than debt. He described a committed-lease figure as "two and a half," without a unit.</p>
+<p>Cash conversion was 1.6 times EBITDA in the quarter, which he tied to a large influx of member deposits. The steady figure he said the company has told investors to expect is 1.1 to 1.2, against about 0.9 in what he called a healthy industry. Return on capital is about 35 percent. Last year about 17,000 desks took about 450 crore rupees of capital spending, against about 585 crore of operating free cash. This year's plan is about 25,000 desks and more than 500 crore of spending. The first half invested about 364 crore and generated about 380 crore. A pipeline he stated as "about 3540,000 desks" can, he said, be funded from internal cash, with debt available at about 8 to 12 percent. At about 10 million square feet, he put the company at about 1 percent of roughly a billion square feet of everyday commercial property. Revenue and capacity have been growing at upwards of 25 to 30 percent because the cash is being reinvested.</p>
+<p>Landlord leases of 9-plus-9 or 10-plus-10 years lock the landlord for the full term and WeWork India for 3 to 5 years, which he called unique to India. Large-enterprise commitments average 32 months, and all customers about 28 months. Renewals are 80 to 85 percent. Revenue already booked is about 3,840 crore rupees, against about 1,420 crore of landlord liabilities, or almost 2.7 rupees of booked revenue per rupee of lease liability. About a quarter of the space is managed offices, which the company defines as full from day one. About two-thirds of customers are international. He said about 41 percent of revenue comes from global capability centres. Gupta said those centres drive 41 percent of third-quarter absorption, that enterprises are over 77 percent of core revenue, and that leases longer than five years have fallen from 40 percent to 8 percent of the enterprise market. He did not restate the 40, 8, or 77 percent figures. Over about the last 12 months, he said Indian companies have taken more space than companies from the Americas, with more than about 45 to 46 percent of growth from Indian firms. He would not call capability centres more profitable than domestic clients. They benefit, he said, from a weaker rupee. Gupta said value-added services grew 35 percent and digital products 46 percent. He said the two together produced close to 110 crore rupees in the quarter, up 38 percent, across 16,000 accounts. Brand recall is 96 percent, against a 51 percent median for other operators. Flex space's share, Gupta said, rose from 12 percent in 2021 to 24 percent. He did not pick a ceiling of 30 or 50 percent. WeWork India holds 26 percent of branded workspace by area and 34 percent of revenue. For the year ending March 2030 he forecast a shift from landlord of desks to a platform with more kinds of revenue. He gave no revenue, desk, or margin target for that year.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Gupta said Q2 FY27 revenue rose 31.6 percent and profit after tax 67.4 percent. The headline says 31 percent. She later said revenue was up 32 percent, EBITDA 38 percent, and profit 67 percent.</li>
+<li>She said the company has more than 1.45 lakh desks across 13 million square feet. Parameswaran said about 10 million square feet is operating, with about 13 million locked and another 3 million signed.</li>
+<li>Occupancy is 84 percent blended, 88 percent in mature centres, and 65 percent in newer ones. Break-even is about 55 percent, and Gupta put it at 55.7 percent.</li>
+<li>He also gave a "first quarter" of about 768 crore rupees of revenue, 163 crore of EBITDA, and 66 crore of profit. Cash conversion was 1.6 times EBITDA in the quarter. The steady rate he cited is 1.1 to 1.2.</li>
+<li>Return on capital is about 35 percent. This year's plan is about 25,000 desks and more than 500 crore rupees of spending. A pipeline stated as "about 3540,000 desks" was not given a clearer number.</li>
+<li>Booked revenue is about 3,840 crore rupees against about 1,420 crore of landlord liabilities. About 41 percent of revenue, he said, comes from global capability centres.</li>
+<li>He gave no numeric target for the year ending March 2030.</li>
 </ul>
       ]]></description>
     </item>
