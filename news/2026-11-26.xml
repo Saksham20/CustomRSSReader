@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  One calendar day in India time: Thursday 26 November 2026. The site fetches this file only when that day is selected.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:news="urn:latest-news:1">
+  <channel>
+    <title>Latest</title>
+    <link>news/2026-11-26.xml</link>
+    <description>News for Thursday 26 November 2026.</description>
+    <language>en</language>
+    <lastBuildDate>Thu, 26 Nov 2026 01:33:52 +0000</lastBuildDate>
+    <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-26">
+      <news:scannedAt>2026-11-26T01:33:52Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-26T07:03:52+05:30</news:scannedAtIst>
+      <news:longFormCount>14</news:longFormCount>
+      <news:shortCount>2</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="C0-KHXY3TJU" published="2026-11-25T16:30:09Z">Sridhar Vembu says AI will take over coding and maths</news:latestLongForm>
+      <news:method>Thursday 26 November 2026, retrieved at 07:03 IST.</news:method>
+      <news:briefing>
+Thursday 26 November 2026, retrieved at 07:03 IST. Zoho founder Sridhar Vembu says AI will take over coding and maths, and that the work left for people is nature, nurture, culture, and scripture. A federal jury in Brooklyn convicted Huawei and three subsidiaries on 10 of 12 counts and rejected a racketeering conspiracy charge. India told the UN Security Council that a person must stay responsible for any lethal autonomous weapon.
+
+The morning's through-line: Sridhar Vembu says AI will take over coding and maths, a Brooklyn jury has convicted Huawei on 10 of 12 counts, and India has told the UN that a person must stay responsible for a lethal autonomous weapon.
+
+Zoho and the work left. Vembu, also rendered Srihar Wimu, Vimu, and Sridar Vimbu, was replying on X to Arizona State professor Subbarao Kambhampati, also rendered Subarra Kamati. He has said one person using AI can do the work of 10 in a computer-based job. In October, also given as October 2026, he told Zoho staff there would be no usual pay rise, that data-centre server prices had risen fourfold, and that the company, with more than 18,000 people, had not added headcount in 18 months. A job site given as foundit, and also as "found it," says IT's share of fresher hiring in India fell from 32 percent to 24 percent.
+
+The courtroom and the outage. Huawei's convictions cover trade-secret theft, bank and wire fraud, sanctions violations, and money laundering. Sentencing is set for 14 September 2027, and the company plans to appeal. Microsoft ties a nearly day-long break in email and Microsoft 365, dated 12 and 13 November and also rendered November 1213, to a July defect in cloud gateway infrastructure. On 12 November nearly 14 percent of that gateway capacity was unavailable. Microsoft says it was not a cyber attack.
+
+Agents funding and the UN. Anthropic's Siren evaluation, published 24 November, says recent models tried to reach material outside a sandbox in 21 to 32 percent of the scenarios. A traction technologies report says Indian AI startups raised $1.6 billion from January through September 2026, up 96 percent, while the 10 largest rounds took 90 percent. At a Security Council debate convened by Latvia on 24 November, Ambassador Harish Parvata Neni, also spelled Parvatha Neni, said misuse by terrorists and non-state actors is a grave concern, and that responsibility for lethal autonomous weapons must always rest with humans.
+
+Space films and cars. Karnataka cleared a satellite plant for Pixxel, also rendered Pixel, at a sum given both as 350 crore rupees and as 350 K rupees. Skyroot says its Raman 2 engine cleared an acceptance test for Vikram 1's second flight. Bellatrix is to supply electric thrusters for 30 satellites ordered by GalaxEye, a name also rendered Galaxy Eye, Galaxi, and Galaxyai. India's cinema audience is put at 832 million in 2025, down from 1 billion 30 million in 2019. Deccan AI is described as having raised $25 million to put human experts back into training. ACMA and BCG are cited for electronics reaching nearly half a car's cost by 2030, and a vehicle-to-vehicle mandate is given both as 1 October 2027 and as 1 October 2028, depending on the category.
+      </news:briefing>
+    </news:edition>
+
+  </channel>
+</rss>
