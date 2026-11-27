@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  One calendar day in India time: Friday 27 November 2026. The site fetches this file only when that day is selected.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:news="urn:latest-news:1">
+  <channel>
+    <title>Latest</title>
+    <link>news/2026-11-27.xml</link>
+    <description>News for Friday 27 November 2026.</description>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Nov 2026 01:35:09 +0000</lastBuildDate>
+    <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-27">
+      <news:scannedAt>2026-11-27T01:35:09.809152+00:00</news:scannedAt>
+      <news:scannedAtIst>2026-11-27T07:05:09+05:30</news:scannedAtIst>
+      <news:longFormCount>12</news:longFormCount>
+      <news:shortCount>5</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="U-K2f2wxlIM" published="2026-11-26T16:30:21Z">Modi proposes a record of every child from the age of three</news:latestLongForm>
+      <news:method>Friday 27 November 2026, retrieved at 07:05 IST.</news:method>
+      <news:briefing>
+Friday 27 November 2026, retrieved at 07:05 IST. Prime Minister Narendra Modi has proposed a record of a child's activities from the age of three, ending in an aptitude certificate by Class 10 or 12. The US Federal Communications Commission has conditionally cleared SpaceX to deploy up to a million satellites for computing in orbit. OpenAI has posted a 111-page manuscript claiming the matrix-multiplication exponent is 2.25, also stated as 9/4, and no independent expert is described as having reviewed it.
+
+The morning's through-line: Narendra Modi wants a childhood record from age three, SpaceX has conditional approval for up to a million orbital compute satellites, and OpenAI's 2.25 matrix-multiplication claim is public before peer review.
+
+Data centers and the tax break. Antara Gupta spoke with Osama Manzar, Amit Chaurasia, and Gaurav Shinh about whether India is building for itself or leasing land, power, and water to global firms. Crisil is cited for 7.5 gigawatts by 2030 and more than 3 lakh crore rupees. A CtrlS project of 10,000 crore rupees in Bihar is tied to 400 direct jobs. Eligible foreign cloud providers have a tax holiday until 2047 if they use Indian data centers. A separate note on the build-out names 6.5-gigawatt projects and new sites in Assam, and does not restate an Airtel plan. The lineup for the day does state an Airtel plan: 1,200 crore rupees for Guwahati, Jorhat, and Silchar, at 40 megawatts combined.
+
+Chips, agents, and the web's past. Entire and Sarvam are bringing coding agents to Indian developers, with Sarvam's models on a platform called Trails and inference kept in India. Former GitHub chief executive Thomas Domke is named as leading Entire. Chariot-1 TTS is described as a multilingual voice model, with the language count given both as 10 and as English plus 10 regional languages. Oracle says Google's tensor processing units arrive on Oracle Cloud in 2027. Perplexity's Time Machine prices a dated copy of the web at 5 dollars per 1,000 searches, going back up to 365 days. Epochal, from three former members of xAI's founding team, says it can replay more than 30 years of the web and puts the funding at 100 million dollars of one founder's money, against a separate 100 billion dollar figure. Andrei Karpathy, also spelled Andre, is credited with a United States map of 524 metro areas drawn by Claude Opus 5.5 from public federal data.
+      </news:briefing>
+    </news:edition>
+
+  </channel>
+</rss>
