@@ -10,148 +10,434 @@
   <channel>
     <title>Latest</title>
     <link>latest-news.xml</link>
-    <description>News of relevance. The 27 November 2026 edition, retrieved at 07:05 IST, covers a proposed record of every child from age three, conditional approval for up to a million orbital compute satellites, and an unreviewed claim that matrix multiplication has reached an exponent of 2.25.</description>
+    <description>News of relevance. The 28 November 2026 edition, retrieved at 07:05 IST, covers a plan for one crore people in AI with no budget found, BharatGen's claim that Patram 1.5 matches models 97 times its size, and Neuralink's pivotal US brain-implant trial.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Nov 2026 01:35:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 01:35:01 +0000</lastBuildDate>
     <generator>Latest news reader</generator>
 
-    <news:edition date="2026-11-27">
-      <news:scannedAt>2026-11-27T01:35:09.809152+00:00</news:scannedAt>
-      <news:scannedAtIst>2026-11-27T07:05:09+05:30</news:scannedAtIst>
-      <news:longFormCount>12</news:longFormCount>
-      <news:shortCount>5</news:shortCount>
+    <news:edition date="2026-11-28">
+      <news:scannedAt>2026-11-28T01:35:01.583122+00:00</news:scannedAt>
+      <news:scannedAtIst>2026-11-28T07:05:01+05:30</news:scannedAtIst>
+      <news:longFormCount>14</news:longFormCount>
+      <news:shortCount>7</news:shortCount>
       <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
       <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
-      <news:latestLongForm videoId="U-K2f2wxlIM" published="2026-11-26T16:30:21Z">Modi proposes a record of every child from the age of three</news:latestLongForm>
-      <news:method>Friday 27 November 2026, retrieved at 07:05 IST.</news:method>
+      <news:latestLongForm videoId="-_h0l9BSFhM" published="2026-11-27T15:00:19Z">India wants one crore people in AI, and no budget has been found</news:latestLongForm>
+      <news:method>Saturday 28 November 2026, retrieved at 07:05 IST.</news:method>
       <news:briefing>
-Friday 27 November 2026, retrieved at 07:05 IST. Prime Minister Narendra Modi has proposed a record of a child's activities from the age of three, ending in an aptitude certificate by Class 10 or 12. The US Federal Communications Commission has conditionally cleared SpaceX to deploy up to a million satellites for computing in orbit. OpenAI has posted a 111-page manuscript claiming the matrix-multiplication exponent is 2.25, also stated as 9/4, and no independent expert is described as having reviewed it.
+Saturday 28 November 2026, retrieved at 07:05 IST. India wants at least one crore people working in artificial intelligence, a figure put at almost double the tech industry, and no official budget or deadline has turned up. BharatGen says Patram 1.5, a 7-billion-parameter document model, matches systems 97 times its size on Indian paperwork. Neuralink says it has clearance for a pivotal US trial of its Link implant in adults with severe paralysis from ALS.
 
-The morning's through-line: Narendra Modi wants a childhood record from age three, SpaceX has conditional approval for up to a million orbital compute satellites, and OpenAI's 2.25 matrix-multiplication claim is public before peer review.
+The morning's through-line: India is aiming for one crore people in AI without a published budget, BharatGen says a compact document model matches systems 97 times larger, and Neuralink has a pivotal US brain-implant trial that is still years from sale.
 
-Data centers and the tax break. Antara Gupta spoke with Osama Manzar, Amit Chaurasia, and Gaurav Shinh about whether India is building for itself or leasing land, power, and water to global firms. Crisil is cited for 7.5 gigawatts by 2030 and more than 3 lakh crore rupees. A CtrlS project of 10,000 crore rupees in Bihar is tied to 400 direct jobs. Eligible foreign cloud providers have a tax holiday until 2047 if they use Indian data centers. A separate note on the build-out names 6.5-gigawatt projects and new sites in Assam, and does not restate an Airtel plan. The lineup for the day does state an Airtel plan: 1,200 crore rupees for Guwahati, Jorhat, and Silchar, at 40 megawatts combined.
+One crore workers. At the Waves Film Bazaar in Goa, the director of India's vocational training council, NCVET, said a national AI talent mission recently launched by the prime minister is meant to bring at least one crore people into AI. Siddhant and Ravi say they have not found a launch date, a budget, or a deadline. Nasscom is cited for about 59.5 lakh people in the tech industry, more than 20 lakh trained in AI last financial year, and only two to three lakh with advanced skills. Foundit is cited for IT companies' share of fresher hiring falling from 32 percent to 24 percent. A shorter account renders that share as ID companies, and renders the skilling scheme as soar.
 
-Chips, agents, and the web's past. Entire and Sarvam are bringing coding agents to Indian developers, with Sarvam's models on a platform called Trails and inference kept in India. Former GitHub chief executive Thomas Domke is named as leading Entire. Chariot-1 TTS is described as a multilingual voice model, with the language count given both as 10 and as English plus 10 regional languages. Oracle says Google's tensor processing units arrive on Oracle Cloud in 2027. Perplexity's Time Machine prices a dated copy of the web at 5 dollars per 1,000 searches, going back up to 365 days. Epochal, from three former members of xAI's founding team, says it can replay more than 30 years of the web and puts the funding at 100 million dollars of one founder's money, against a separate 100 billion dollar figure. Andrei Karpathy, also spelled Andre, is credited with a United States map of 524 metro areas drawn by Claude Opus 5.5 from public federal data.
+Orbital compute and the brain. FCC chairman Brendan Carr called solar-powered orbital computing a "bold new frontier" and wrote that "the Star Mind and competitor constellations" would extend America's lead in superintelligence. A headline names SpaceX and 1 million satellites, and says the approval is conditional. Those figures are not in his remarks. Neuralink announced on Wednesday that the US Food and Drug and Administration cleared a pivotal trial of the N1 implant, inserted by an R1 system, for adults with ALS, with about 24 months of follow-up. The clearance is for testing, not for sale.
+
+Documents, a breach, and a peptide. BharatGen launched Patram 1.5 on 26 November as open weights under Apache 2.0. It claims an overall score of 83 across 49 evaluations. The company is also rendered Bharat Jain, and the model Patra 1.5. FIFA has confirmed that criminals accessed personal and business information and has not said whose. A claim of more than 12 gigabytes is not confirmed. Tencent's AI for life sciences lab published in Nature on 25 November. A peptide spoken as IC dual P three is said to have cut tumor volume 94.2 percent in mice. The results are from mice, not people.
+
+The coast, space, and a neighbour. Karnataka is looking at a 49-acre plot near Tanirbhavi beach in Mangaluru for what Priyank Kharge calls a sustainable coastal data center. Coastal rules leave only about 20 acres for permanent construction. IN-SPACe chairman Pawan Kumar Goenka put private space startup revenue at about 2,000 crore rupees, also heard as "just 12 about 2,000," against a 2033 aim of 44 billion dollars. India is backing Sri Lanka's digital identity project with grant assistance of over 25 billion Sri Lankan rupees.
+
+Voice, farms, and the board. Murf AI's Ankur Edkie describes Finch as speech-to-text built for voice agents. A first-place claim across 11 Indian languages is the interviewer's, on a closed benchmark, and Edkie does not restate it. Wipro's Mindsprint, in the words of Sagar P.V., is taking food and agriculture work to a wider set of customers after Wipro's purchase. The 375 million dollar figure and a claim of 80,000 plantations a month are the interviewer's. Nvidia reinstated Jensen Huang. One account says the board brought him back six days after ruling out his return. The office conversation says 11 days after he resigned.
       </news:briefing>
     </news:edition>
 
     <item>
-      <title>Modi proposes a record of every child from the age of three</title>
-      <link>https://www.youtube.com/watch?v=U-K2f2wxlIM</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=U-K2f2wxlIM</guid>
-      <pubDate>Thu, 26 Nov 2026 16:30:21 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>U-K2f2wxlIM</news:videoId>
-      <news:publishedIst>2026-11-26T22:00:21+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/U-K2f2wxlIM/hqdefault.jpg"/>
-      <description><![CDATA[
-        <p>Prime Minister Narendra Modi has proposed a record of a child's activities from the age of three, ending in an aptitude certificate by Class 10 or 12. He put the idea at the 75th anniversary of IIT Kharagpur, also rendered IIT Karakpur, on a date given both as 21 November and as last week, with no year attached to the November date. Parents, teachers, and even friends would keep adding to the record, so that by Class 10 or 12 it shows what the child is naturally good at. One wording says that by Class 10 the record tells what career the child is made for, and illustrates it with every painting, tantrum, and game. He did not say "AI" or "app." Some reports are described as having called it an AI app. What he described is a data system, likened to a report card that runs through childhood. Siddhanth, also spelled Siddhant, and Ravi walk through the proposal.</p>
-        <p>On cost, Modi is described as saying parents would not have to pay 15,000 to 20,000 rupees to a career counsellor. A second line puts 20,000 rupees on one session of "beta" engineering or medical, and beta is left as spoken. He argues that schools certify the wrong thing: a school leaver gets a character certificate, and, as he put it, people in jail have one too. His point is that talent shows early. A child who breaks a watch open to see what is inside might be an engineer, and today nobody writes that down.</p>
-        <p>Much of the plumbing is described as already there. Under the national education policy, a holistic progress card starts around age three, at a stage rendered Balvatica, and already takes notes from teachers, the child, classmates, and parents. APAAR, also rendered Apar, is described as a 12-digit lifelong student ID, checked with Aadhaar, that follows the student's records. More than 26 crore of those IDs are said to have been created by July, and one account dates that July to 2026. The open privacy questions are who can see a three-year-old's record, who can correct it, whether it can ever be deleted, and whether a label at age five could follow someone for life. Under the DPDP Act anyone under 18 is a child, and using their data needs a parent's verifiable consent. Most of those obligations are said to apply only from May 2027. A line that the rules exempt some schools from that consent for tracking breaks off, so the exemption is not established. The idea is still only a proposal: no plan, no budget, and no agency is named. Supporters say it could find a village child no counsellor would meet. Critics say children change, and a record that never forgets could box them in.</p>
-        <p><strong>Key points</strong></p>
-        <ul>
-        <li>Modi proposed a data record of a child's activities from age three, with an aptitude certificate by Class 10 or 12.</li>
-        <li>The setting is IIT Kharagpur's 75th anniversary, also rendered IIT Karakpur, dated both 21 November and last week.</li>
-        <li>Parents, teachers, and friends would add to the record. He did not say "AI" or "app." Siddhanth, also Siddhant, and Ravi discuss it.</li>
-        <li>Parents are described as paying 15,000 to 20,000 rupees to a career counsellor. A separate line says 20,000 rupees for one session of "beta" engineering or medical.</li>
-        <li>He says a character certificate is the wrong school document, and that a child who takes a watch apart might be an engineer.</li>
-        <li>A holistic progress card from around age three, at a stage rendered Balvatica, and APAAR, also Apar, a 12-digit Aadhaar-linked student ID, are described as already existing.</li>
-        <li>More than 26 crore APAAR IDs are said to have been created by July, dated July 2026 in one account.</li>
-        <li>Under the DPDP Act a person under 18 needs a parent's verifiable consent. Most of those rules are said to apply from May 2027. A school exemption for tracking is cut off and not established.</li>
-        <li>No plan, budget, or agency is named. Supporters and critics disagree on whether a permanent childhood record finds talent or boxes a child in.</li>
-        </ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Modi's childhood record would start at age three and end in an aptitude certificate</title>
-      <link>https://www.youtube.com/watch?v=j9Nbz81y5mk</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=j9Nbz81y5mk</guid>
-      <pubDate>Thu, 26 Nov 2026 16:30:19 +0000</pubDate>
+      <title>India wants one crore people working in AI, with no budget yet</title>
+      <link>https://www.youtube.com/watch?v=z3mzZWrNwCA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=z3mzZWrNwCA</guid>
+      <pubDate>Fri, 27 Nov 2026 16:30:19 +0000</pubDate>
       <category>Short</category>
       <news:format>short_candidate</news:format>
-      <news:videoId>j9Nbz81y5mk</news:videoId>
-      <news:publishedIst>2026-11-26T22:00:19+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/j9Nbz81y5mk/hqdefault.jpg"/>
+      <news:videoId>z3mzZWrNwCA</news:videoId>
+      <news:publishedIst>2026-11-27T22:00:19+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/z3mzZWrNwCA/hqdefault.jpg"/>
       <description><![CDATA[
-        <p>Prime Minister Modi wants a record of every child starting at age three. At IIT Kharagpur last week he proposed a data system that parents, teachers, and friends keep adding to. By Class 10 or 12 it gives an aptitude certificate showing what the child is good at. He said parents would not have to pay 15 to 20,000 rupees to a career counselor. The lower figure is unclear: it may be 15 rupees or 15,000. Much of this is described as already existing, in school progress cards with parent input from age three, and in Apar, a lifelong student ID with over 26 crore created. A speaker whose daughter is three asks who sees that daughter's data. India's data law needs a parent's consent for anyone under 18, and most of it is said to apply only from May 2027. The question of who sees the record is left open.</p>
+        <p>India wants one crore people working in AI, a figure put at almost double its entire tech industry. At the Waves Film Bazaar in Goa, the director of India's vocational training council said a national AI talent mission recently launched by Prime Minister Modi aims to bring at least one crore people into AI. The effort builds on soar, short AI courses for students from class 6 to 12, and he asked companies to hire apprentices. There is no official budget or deadline yet. ID companies' share of fresher hiring has fallen from 32 to 24 percent this year. Whether India can do it is left open.</p>
         <p><strong>Key points</strong></p>
         <ul>
-        <li>Modi proposed a record from age three, added to by parents, teachers, and friends, with an aptitude certificate by Class 10 or 12.</li>
-        <li>The proposal is placed at IIT Kharagpur last week.</li>
-        <li>He said parents would not have to pay 15 to 20,000 rupees to a career counselor. Whether the lower number is 15 or 15,000 is unclear.</li>
-        <li>School progress cards from age three, and Apar, a lifelong student ID with over 26 crore created, are described as already in place.</li>
-        <li>A parent of a three-year-old asks who sees the data. Consent is required under 18, and most of the law is said to apply from May 2027.</li>
+        <li>India wants one crore people working in AI, almost double its entire tech industry.</li>
+        <li>At the Waves Film Bazaar in Goa, the director of India's vocational training council tied that target to a national AI talent mission recently launched by Prime Minister Modi.</li>
+        <li>The effort builds on soar, short AI courses for students from class 6 to 12, and he asked companies to hire apprentices.</li>
+        <li>There is no official budget or deadline yet.</li>
+        <li>ID companies' share of fresher hiring has fallen from 32 to 24 percent this year.</li>
         </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Data-center expansion is put at 6.5 gigawatts, with new sites in Assam</title>
-      <link>https://www.youtube.com/watch?v=t2p4m3lAfvY</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=t2p4m3lAfvY</guid>
-      <pubDate>Thu, 26 Nov 2026 14:30:04 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>t2p4m3lAfvY</news:videoId>
-      <news:publishedIst>2026-11-26T20:00:04+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/t2p4m3lAfvY/hqdefault.jpg"/>
+      <title>Brendan Carr calls solar orbital computing a bold new frontier</title>
+      <link>https://www.youtube.com/watch?v=IOZRNflxQNk</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=IOZRNflxQNk</guid>
+      <pubDate>Fri, 27 Nov 2026 15:30:11 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short_candidate</news:format>
+      <news:videoId>IOZRNflxQNk</news:videoId>
+      <news:publishedIst>2026-11-27T21:00:11+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/IOZRNflxQNk/hqdefault.jpg"/>
       <description><![CDATA[
-        <p>India is described as seeing a surge in data centers as companies build for artificial intelligence. The expansion includes projects of 6.5 gigawatts and new regional facilities in Assam. The builds are said to carry financial strain, and the country is said to face energy-consumption challenges as it tries to become a global technology hub. Who will finance the growth is left open. No financier is named. Economic trade-offs between digital development and local resources, capital requirements, and operational hurdles are named as the subject, and none of those trade-offs, amounts, or hurdles is stated.</p>
-        <p>Airtel, 40 megawatts, three Assam cities, a 2028 deadline, and 164 jobs at two sites are not restated in that account.</p>
+        <p>FCC chairman Brendan Carr hailed solar-powered orbital computing as opening a "bold new frontier" for American leadership under President Donald Trump. In a post on X he said "the Star Mind and competitor constellations will use solar power to extend America's lead in super intelligence." The modules are described as using solar power to process large amounts of data for use back on Earth, aimed at demand for AI and superintelligence computing.</p>
+        <p>A headline names SpaceX and 1 million solar-powered orbital compute satellites. A second line says the plan covers solar-powered compute modules in orbit and that the commission's approval is conditional. The remarks do not give a count of 1 million, do not name SpaceX, and do not say the approval is conditional.</p>
         <p><strong>Key points</strong></p>
         <ul>
-        <li>Data-center construction in India is described as a surge tied to artificial intelligence.</li>
-        <li>The expansion includes 6.5-gigawatt projects and new regional facilities in Assam.</li>
-        <li>Financial strain and energy demand are named. No financier, capital figure, trade-off, or operational hurdle is given.</li>
-        <li>Airtel, 40 megawatts, three cities, 2028, and 164 jobs are not restated in the account of the expansion.</li>
+        <li>Brendan Carr called the move a "bold new frontier" for American leadership under President Donald Trump.</li>
+        <li>His post on X says "the Star Mind and competitor constellations will use solar power to extend America's lead in super intelligence."</li>
+        <li>The modules are described as using solar power to process data on orbit for use on Earth, for AI and superintelligence computing.</li>
+        <li>A headline names SpaceX and 1 million satellites. A second line says approval is conditional. The remarks state none of those three points.</li>
         </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Entire and Sarvam are bringing coding agents to Indian developers</title>
-      <link>https://www.youtube.com/watch?v=_pFqasiAfDk</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=_pFqasiAfDk</guid>
-      <pubDate>Thu, 26 Nov 2026 14:00:21 +0000</pubDate>
+      <title>India wants one crore people in AI, and no budget has been found</title>
+      <link>https://www.youtube.com/watch?v=-_h0l9BSFhM</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=-_h0l9BSFhM</guid>
+      <pubDate>Fri, 27 Nov 2026 15:00:19 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
-      <news:videoId>_pFqasiAfDk</news:videoId>
-      <news:publishedIst>2026-11-26T19:30:21+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/_pFqasiAfDk/hqdefault.jpg"/>
+      <news:videoId>-_h0l9BSFhM</news:videoId>
+      <news:publishedIst>2026-11-27T20:30:19+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/-_h0l9BSFhM/hqdefault.jpg"/>
       <description><![CDATA[
-        <p>Entire and Sarvam have joined to bring AI coding agents to Indian developers. The partnership is described as keeping sensitive software data inside India. Former GitHub chief executive Thomas Domke is spearheading the work through his startup, Entire. Sarvam's models are being integrated into the Trails platform, so enterprises can manage agent sessions and run inference locally. The move is presented as a response to demand for sovereign infrastructure that can hold private codebases. How the agents work in practice, and what they change for Indian software development, is not given as a finding.</p>
-        <p>A figure of 355 pushes per second from India, and a claim that Sarvam's models are entering preview, are not restated in that account.</p>
+        <p>India wants at least one crore people working in artificial intelligence, a number Siddhant and Ravi call almost double the country's entire tech industry. The announcement did not come at a tech summit. At the Waves Film Bazaar in Goa, spelled WAVES in one account, alongside the International Film Festival of India, the director of India's vocational training council, NCVET, said India plans to bring at least one crore people into its AI workforce through a national AI talent mission recently launched by the prime minister. One account names Prime Minister Modi. The spoken account stops at "Prime Minister." Siddhant, also spelled Siddhanth, and Ravi say they have not found an official release with a launch date, a budget, or a deadline. What they have is one large target.</p>
+        <p>They trace the idea to October 2025, when NITI Aayog, with Nasscom and BCG, published a roadmap for jobs in the AI economy. Its recommendation was a national AI talent mission to make India, in the spoken wording, "the AI workforce capital of the," and the phrase cuts off. The three parts they describe are teaching AI in schools and colleges, retraining the millions already in tech, and making India a hub for AI talent from around the world. What has started is given two ways. One account says the SOAR skilling scheme. The spoken account says "The first PCS, it's called SOUL, Skilling for AI Readiness," and later that the director said the new mission started with "soar." Students from class 6 to 12 get short AI courses of about 15 hours each, and teachers get a longer one.</p>
+        <p>Nasscom is cited for about 59.5 lakh people in India's tech industry, covering TCS, Infosys, Wipro, startups, and everyone else, so one crore AI workers is almost double that industry. Nasscom is also cited for more than 20 lakh tech professionals trained in AI last financial year, with only two to three lakh receiving advanced AI skills. The same NITI Aayog roadmap is cited as saying AI could replace some routine tech roles, such as testing and basic support, by 2031, and that up to 40 lakh new jobs could be created in five years. Foundit is cited for IT companies' share of fresher hiring falling from 32 percent last year to 24 percent this year. The NCVET director asked companies to take people on as apprentices learning on the job.</p>
+        <p>On the panel, Biren Ghosh of Astra Studios said they are wondering when they would catch up with the tools. Former Doordarshan chief K. Satish Nambudripad warned that AI tools tend to homogenize: ask five people to write with AI and every one of them will write the same. The line Siddhant and Ravi draw is that the country needs one crore people using AI, and not one crore people writing the same thing. Supporters say India has the young workforce to become the world's AI talent hub. Critics say a target without a budget or a deadline is just a number.</p>
         <p><strong>Key points</strong></p>
         <ul>
-        <li>Entire and Sarvam are bringing AI coding agents to Indian developers, with sensitive software data kept in India.</li>
-        <li>Former GitHub chief executive Thomas Domke is leading the work through Entire.</li>
-        <li>Sarvam's models are being integrated into the Trails platform for local agent sessions and local inference.</li>
-        <li>355 pushes per second, and a claim that Sarvam's models are entering preview, are not restated.</li>
+        <li>India wants at least one crore people working in AI, put at almost double the tech industry.</li>
+        <li>The claim was made at the Waves Film Bazaar in Goa, also spelled WAVES, by the director of NCVET, India's vocational training council.</li>
+        <li>One account says Prime Minister Modi recently launched the mission. The spoken account says the prime minister and does not give the name.</li>
+        <li>Siddhant, also Siddhanth, and Ravi say they have not found a launch date, a budget, or a deadline.</li>
+        <li>The idea is traced to an October 2025 NITI Aayog roadmap with Nasscom and BCG. The spoken aim, "the AI workforce capital of the," is cut off.</li>
+        <li>One account says the skilling scheme is SOAR. The spoken account calls the first piece "SOUL, Skilling for AI Readiness," and later "soar." Courses for classes 6 to 12 are about 15 hours.</li>
+        <li>Nasscom is cited for about 59.5 lakh people in tech, more than 20 lakh trained in AI last financial year, and only two to three lakh with advanced skills.</li>
+        <li>The roadmap is cited for routine roles such as testing and basic support being replaceable by 2031, and for up to 40 lakh new jobs in five years.</li>
+        <li>Foundit is cited for IT firms' share of fresher hiring falling from 32 percent to 24 percent. The director asked companies to take apprentices.</li>
+        <li>Biren Ghosh of Astra Studios and former Doordarshan chief K. Satish Nambudripad are quoted on catching up with the tools and on AI writing that all sounds the same.</li>
         </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Chariot-1 TTS is described as a multilingual voice model</title>
-      <link>https://www.youtube.com/watch?v=fDOljGbSQ9I</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=fDOljGbSQ9I</guid>
-      <pubDate>Thu, 26 Nov 2026 13:15:19 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>fDOljGbSQ9I</news:videoId>
-      <news:publishedIst>2026-11-26T18:45:19+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/fDOljGbSQ9I/hqdefault.jpg"/>
+      <title>Perplexity can search a page as it stood on a chosen date</title>
+      <link>https://www.youtube.com/watch?v=WfBfYfgtcRY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WfBfYfgtcRY</guid>
+      <pubDate>Fri, 27 Nov 2026 15:00:15 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short_candidate</news:format>
+      <news:videoId>WfBfYfgtcRY</news:videoId>
+      <news:publishedIst>2026-11-27T20:30:15+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/WfBfYfgtcRY/hqdefault.jpg"/>
       <description><![CDATA[
-        <p>Chariot-1 TTS is described as here, a multilingual voice model in a field of Indian AI startups. One line says the model handles 10 languages. Another says it supports English and 10 regional languages. Those are not the same count. The account says local firms are competing with global technology companies, and that Indian models are expanding while facing infrastructure challenges. It names no rival, no challenge, and no measured result.</p>
-        <p>A claim of 2.5 times fewer tokens for Indian text, and of 62 percent faster training, is not restated in the account of the launch. The headline names Chariot. The account names Chariot-1 TTS.</p>
+        <p>Perplexity now lets developers ask for a web page as it stood on a chosen date. Every time its crawler visits a page, it saves a dated copy, building a version history for every link. A developer passes a timestamp with a time zone, and search then pulls only pages published or crawled by that cutoff. Even if an article was later updated with the final outcome, Time Machine stops at the older saved version and keeps the original title, date, and snippet. Passing the same timestamp to the Context API lets the model read the full archived text without touching the live web. If no copy existed then, it returns no content.</p>
+        <p>A shorter line says the latest API update lets developers retrieve snapshots as sites appeared on specific dates, bypassing later updates, for more precise tracking in enterprise applications.</p>
         <p><strong>Key points</strong></p>
         <ul>
-        <li>Chariot-1 TTS is described as launched, for multilingual voice.</li>
-        <li>Language support is given both as 10 languages and as English plus 10 regional languages.</li>
-        <li>Competition with global firms and infrastructure challenges are named without a rival, a challenge, or a result.</li>
-        <li>2.5 times fewer tokens and 62 percent faster training are not restated.</li>
+        <li>Perplexity saves a dated copy each time its crawler visits a page.</li>
+        <li>A timestamp with a time zone limits search to pages published or crawled by that cutoff.</li>
+        <li>Time Machine keeps the older title, date, and snippet even if the live article was later updated.</li>
+        <li>The same timestamp on the Context API reads the archived text and does not touch the live web.</li>
+        <li>If no copy existed at that time, the Context API returns no content.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>BharatGen says Patram 1.5 matches models 97 times its size</title>
+      <link>https://www.youtube.com/watch?v=Myk-kqEasHU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Myk-kqEasHU</guid>
+      <pubDate>Fri, 27 Nov 2026 14:30:24 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>Myk-kqEasHU</news:videoId>
+      <news:publishedIst>2026-11-27T20:00:24+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/Myk-kqEasHU/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>BharatGen launched Patram 1.5 on 26 November, a 7-billion-parameter vision-language model released as open weights under Apache 2.0. The company is also rendered Bharat Gen and, later, Bharat Jain. The model is also rendered Patra 1.5. It is described as backed by the Department of Science and Technology and the India AI mission, and as released on Hugging Face and on a place rendered "AI course." It is the latest in a family that began with Patram one in June 2025. It reads documents as images, so tables, signatures, stamps, photographs, charts, and handwritten notes stay with the text. It supports English and English mixed with Indian languages, a 32,000-token context window, and more than one image in a request.</p>
+        <p>One named capability is OCR 3.0: a user asks for exact information in ordinary language and receives JSON, HTML, or markdown. A second capability is named and not finished. If a field is blank or a figure is ineligible, the model is said to flag the problem rather than invent an answer. If it estimates, it adds a warning for a person to check. If several answers are possible, it asks for clarification. Alongside the model, Bharat Gen launched the Bharat Gen Playground, with parsing, extraction, classification, document splitting, and section identification. Digitization, translation, and editing are described as coming soon. Workflows include sorting and cross-checking KYC documents. Chief executive Rishi Bahl is quoted: "A model alone can only take you so far." Professor Ravi Kiran Sarvade Bhatla, of IIIT Hyderabad and the Bharat Gen Consortium, called it a new capability frontier for sovereign vision models.</p>
+        <p>BharatGen says it tested the model across 49 evaluations, 34 public benchmarks and 15 from its own Patra bench, covering 8,773 pages of Indian documents. Patra bench is not on Hugging Face yet and is said to be released there soon. The comparison set is 20 other vision-language models up to 763 billion parameters and seven specialist OCR systems. Bharat Jain claims an overall score of 83, and therefore a match to models 97 times its size, while using 21 times fewer tokens than Quen 3.5 dash 9B with thinking turned on. At 7 billion parameters, the model is said to fit on a single 24-gigabyte GPU, so banks, hospitals, and government departments can run it on their own machines. The wording of what stays off external systems is "sensitive says citizen and financial data," which is garbled, and "external crowds," which is left as spoken. Nearly a third of the 49 tests come from the unreleased Patra bench. The outlet's view is that "best in the world" stays a home claim until outsiders try municipal land records and doctors' prescriptions, and that public-sector banks and departments actually using the model is where most sovereign AI projects stall.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>Patram 1.5, also Patra 1.5, launched on 26 November as a 7-billion-parameter open-weight model under Apache 2.0.</li>
+        <li>The company is BharatGen, also Bharat Gen and later Bharat Jain, described as backed by the Department of Science and Technology and the India AI mission.</li>
+        <li>It reads documents as images, with English and English mixed with Indian languages, a 32,000-token window, and more than one image per request.</li>
+        <li>OCR 3.0 returns JSON, HTML, or markdown. A second capability is named and not finished. Blank or ineligible fields are flagged rather than guessed.</li>
+        <li>Rishi Bahl said "A model alone can only take you so far." Professor Ravi Kiran Sarvade Bhatla of IIIT Hyderabad called it a new frontier for sovereign vision models.</li>
+        <li>The claim is an overall score of 83 on 49 evaluations, matching models 97 times its size and using 21 times fewer tokens than Quen 3.5 dash 9B with thinking on.</li>
+        <li>Nearly a third of those tests are the company's own Patra bench, which is not yet public. The 7-billion-parameter model is said to fit on one 24-gigabyte GPU.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>FIFA confirms a breach and has not said whose data was taken</title>
+      <link>https://www.youtube.com/watch?v=e4C8tKn5Xkg</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=e4C8tKn5Xkg</guid>
+      <pubDate>Fri, 27 Nov 2026 14:00:28 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>e4C8tKn5Xkg</news:videoId>
+      <news:publishedIst>2026-11-27T19:30:28+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/e4C8tKn5Xkg/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>FIFA has confirmed that criminals accessed personal and business information. It has not explained whose information was exposed or what those people should do. In a statement on 26 November, the governing body called the material a limited set of information and said it was working with law enforcement and "other FIFA," and that sentence is unfinished. FIFA condemned the acquisition and publication of private data and warned of consequences. The public account does not say when the intrusion happened, how long the access lasted, or how many people or organizations were affected.</p>
+        <p>A group calling itself the handsome boy hacking club appeared to claim responsibility, and that sentence is unfinished. On 19 November it posted a screenshot on X allegedly showing FIFA files. A headline says hackers claim the breach exceeds 12 gigabytes. Another line says a hacking group put the haul above 12 gigabytes, which FIFA has not confirmed. The fuller account says claims circulating around the breach put the haul at more than 12 gigabytes, including identity, financial, legal, and "internal government governance," and that FIFA has not confirmed that inventory or the volume. Separately, a person with knowledge of the incident put the affected material at less than 0.1 percent of FIFA's total data. That percentage is volume, not a measure of how sensitive the records are, and the sentence on sensitivity is unfinished.</p>
+        <p>A person familiar with the incident said the attackers got in by impersonating staff. FIFA has not published a technical account of how. The reporting points toward social engineering and then stops. Government cybersecurity advisories are cited for cases in which someone poses as an employee and persuades an IT help desk to reset a password or move an authentication method to another device. That example is not established as the account of FIFA's breach. There is currently no confirmed evidence that AI was used. A strong login is described as offering less protection if recovery can be manipulated, and that sentence is unfinished.</p>
+        <p>The breach is set next to FIFA president Gianni Infantino's abandoned plan to bring private investment into its commercial business, and that sentence stops. The proposal aimed to raise up to 4.2 billion dollars by selling a 20 percent stake in a unit running FIFA events, including the World Cup. A person with direct knowledge says documents relating to the project FIFA Forward Enterprise were not, and the sentence breaks off. The two controversies are not to be treated as one leak. People worried about their own information are told to check FIFA's official channel, and that instruction is unfinished. The outlet's view is that FIFA's next disclosure needs to tell people what is known, what is still uncertain, and what they can do, even while investigators are still working.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>FIFA confirmed that criminals accessed personal and business information and has not said whose, or what those people should do.</li>
+        <li>The 26 November statement calls it a limited set of information. When the access happened, how long it lasted, and how many were affected are not stated.</li>
+        <li>A group rendered the handsome boy hacking club posted a screenshot on X on 19 November. A claim of more than 12 gigabytes is not confirmed by FIFA.</li>
+        <li>A person with knowledge of the incident put the affected material at less than 0.1 percent of FIFA's data, a volume figure, not a sensitivity finding.</li>
+        <li>Access is attributed to staff impersonation. No technical account has been published, and there is no confirmed evidence that AI was used.</li>
+        <li>Gianni Infantino's abandoned plan to raise up to 4.2 billion dollars for a 20 percent stake is a separate controversy. FIFA Forward Enterprise documents are mentioned and the sentence breaks off.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Neuralink has a pivotal US trial for its brain implant, not a sale</title>
+      <link>https://www.youtube.com/watch?v=rS7eFD916nY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=rS7eFD916nY</guid>
+      <pubDate>Fri, 27 Nov 2026 13:00:06 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>rS7eFD916nY</news:videoId>
+      <news:publishedIst>2026-11-27T18:30:06+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/rS7eFD916nY/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>Neuralink, described as Elon Musk's brain-chip company, announced on Wednesday that it received approval from the US Food and Drug and Administration for a pivotal trial of its brain-computer implant, named Link. The account calls this the first pivotal trial of an implantable brain-computer interface in the United States. A headline says Neuralink wins that approval. A second line says Neuralink says it has the approval. The study is meant to test the safety and effectiveness of the N1 implant in adults with severe paralysis from amyotrophic lateral sclerosis, or ALS, so they can operate electronic devices with their thoughts. The implant is inserted by Neuralink's "R1 surgical" system, also described as the R1 robot. The trial is the evidence Neuralink needs before it can bring the implants to market. It is a clearance for clinical testing, not for commercial sales.</p>
+        <p>Enrollment is open to eligible adults with ALS in the United States. Each participant receives the implant through the robot and has roughly 24 months of follow-up, some of it remote. Neuralink has not said how many patients it plans to enroll. The 24-month follow-up is why the N1 is described as still years from the market. The clearance follows earlier feasibility trials "across more than 30," and that phrase stops. Early patients controlled cursors and played Counter-Strike 2. Enrollment in the earlier prime feasibility study is closed, with an expected completion of September 2027.</p>
+        <p>On money, the account first says Neuralink closed a 650 million dollar round last year at a 9 billion dollar valuation "according to the Bloomberg Billionaires," and that attribution is unfinished. Later it says the trial is backed by "60 650 million dollars" in fresh capital and a nine-billion-dollar price tag. Those are not the same figure. In the United States, Paradromics put its own brain chip into its first human patient in June. China approved a competing implant called Neo as a class three commercial medical device in March. The first commercial surgery was in July, and the implant is said to have been placed commercially in "12 patients seven provinces." The contrast drawn is that China is already selling implants while the United States is still at a pivotal trial. Neuralink's first human participant had implant threads retract in 2024, and the sentence ends at "from his." The company faced a federal investigation over animal testing in 2022.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>On Wednesday Neuralink announced US approval for a pivotal trial of its Link implant, called the first such implantable brain-computer trial in the United States.</li>
+        <li>The trial tests the N1 implant, inserted by an R1 system, in adults with severe paralysis from ALS. It is testing, not a commercial sale.</li>
+        <li>Follow-up is about 24 months. Neuralink has not said how many patients it will enroll. The earlier prime study is closed, with completion expected in September 2027.</li>
+        <li>Earlier trials are described as "across more than 30," and the phrase stops. Early patients controlled cursors and played Counter-Strike 2.</li>
+        <li>Funding is given both as a 650 million dollar round at a 9 billion dollar valuation and as "60 650 million dollars."</li>
+        <li>Paradromics implanted its first human patient in June. China's Neo was approved as a class three device in March, with a first commercial surgery in July and "12 patients seven provinces."</li>
+        <li>Neuralink's first participant had threads retract in 2024, and the company faced a federal animal-testing investigation in 2022.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>A Tencent peptide is said to have cut mouse tumors by 94.2 percent</title>
+      <link>https://www.youtube.com/watch?v=PV3q9M47nYU</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=PV3q9M47nYU</guid>
+      <pubDate>Fri, 27 Nov 2026 12:30:05 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>PV3q9M47nYU</news:videoId>
+      <news:publishedIst>2026-11-27T18:00:05+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/PV3q9M47nYU/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>Tencent's AI for life sciences lab published a paper in Nature on 25 November. One account calls it the lab's first lead-affiliation paper. Another calls it Tencent's first paper in Nature's flagship journal as the lead affiliation, led by Xinhua Yao with researchers from Shenzhen University of Advanced Technology and Shanghai University of Traditional Chinese, and that second name is unfinished. The model is named ORIDTP. It designs dual-target therapeutic peptides from scratch, using single-target knowledge transfer, dual-target reinforcement learning, and wet-lab feedback. The team has open-sourced the weights and code, and the platform is being deployed on Tencent Health Bionexus.</p>
+        <p>One account says the tests covered GLP-1 and glucagon receptors for obesity, and PD-1 and CTLA-4 for cancer. The spoken metabolic line names the glucagon receptor GCGR, also called GLR, and leaves the first receptor name missing. Six AI-designed peptides surpassed the strongest natural binders of each receptor in bioactivity. The lead metabolic candidate, spoken as GA dual R5 S3, drove substantial weight loss and glycemic improvement in induced obese mice and pronounced anti-diabetic effects in DB diabetic mice, without nausea or aversion. In obese mice it outperformed semaglutide, called the active ingredient in Ozempic, Wegovy, and Mounjaro, at one tenth of the dose.</p>
+        <p>On the immune side, the team ran a zero-shot design for PD-1 and CTLA-4. Of 15 designed peptides, eight blocked what is called "goat checkpoint interactions" at a 53 percent hit rate, and three showed anti-tumor effect in an unfinished phrase, "human checkpoint knocking tumor bearing." The lead peptide, spoken as IC dual P three, cut tumor volume by 94.2 percent relative to controls. That 94.2 percent figure is also the headline. Every result described is from mice. The commentary says many mouse drugs fail in phase one, that unmodified peptides can be broken down by enzymes in minutes in the human bloodstream, and that drugs such as Wegovy are chemically engineered to last. Turning a binder into a medicine is described as still taking years and hundreds of millions, and the unit is unfinished.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>Tencent's AI for life sciences lab published in Nature on 25 November. The model is ORIDTP, led by Xinhua Yao. A partner name, Shanghai University of Traditional Chinese, is unfinished.</li>
+        <li>ORIDTP designs dual-target peptides from scratch. Weights and code are open-sourced, and the platform is going onto Tencent Health Bionexus.</li>
+        <li>One account names GLP-1 and glucagon for obesity, and PD-1 and CTLA-4 for cancer. The spoken metabolic line names GCGR, also GLR, and drops the first receptor.</li>
+        <li>Six peptides beat the strongest natural binders. The lead, spoken as GA dual R5 S3, cut weight in obese mice and beat semaglutide at one tenth of the dose, without nausea or aversion in the mice described.</li>
+        <li>Of 15 immune peptides, eight blocked "goat checkpoint interactions" at a 53 percent hit rate. The lead, spoken as IC dual P three, cut tumor volume 94.2 percent in mice.</li>
+        <li>The results are preclinical mouse studies, not human trials.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>India is backing Sri Lanka's digital ID with more than 25 billion rupees</title>
+      <link>https://www.youtube.com/watch?v=Q_4r43MvPXY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=Q_4r43MvPXY</guid>
+      <pubDate>Fri, 27 Nov 2026 12:00:15 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>Q_4r43MvPXY</news:videoId>
+      <news:publishedIst>2026-11-27T17:30:15+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/Q_4r43MvPXY/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>India's high commissioner, Santosh Jha, laid out a digital roadmap with Sri Lanka at a summit in Colombo rendered "the V on Digital Sri Lanka Summit 2026," and in another line as the Digital Sri Lanka Summit 2026. The centerpiece is Sri Lanka's unique digital identity project, called SLUDI and later spoken as "SLU DI," modeled on Aadhaar, which is said to have issued over 1.44 billion identities. A headline says India is backing that ID with 25 billion rupees in grant assistance. Jha's confirmation, and a second line, say the grant is over 25 billion Sri Lankan rupees. A later commentary says 25 billion Sri Lankan rupees, without the "over." Jha said digital identity is the foundation for welfare, financial inclusion, and public services, and that it opens electronic document management, digital public procurement, and modernized civil registration.</p>
+        <p>India's UPI has been operational in Sri Lanka since February 2024. At home it is said to process over 25 billion transactions a month. Linking UPI with Lanka QR lets Indian visitors scan a merchant code and pay from an Indian bank account, which is described as a possible help to local business and tourism. Cooperation is also expanding into cybersecurity, digital education, disaster management, and training for public officials. India's Center Development of Telematics, or C-DOT, demonstrated a mobile broadcast early-warning system in Sri Lanka in March, with a rollout aimed at the next few months. The partnership includes startups, research institutions, and work on Sinhala-language AI models. Jha is quoted as saying India's vision is for technology "to empower, not dominate," offered as a partnership rather than a rigid template.</p>
+        <p>Sri Lanka is described as long caught between Indian and Chinese influence. China's Ali Pay is also connecting to Lanka QR for tourist spending. The argument made is that the grant, UPI in Sri Lankan retail, and Sinhala AI lock in interoperability across South Asia and make Sri Lanka a test bed for exporting India's digital public infrastructure. The outlet's questions are whether the spending helps Sri Lanka into an AI era or runs into domestic politics, privacy fears, and a cash economy, and whether a biometric ID is plug-and-play. Aadhaar is described as having taken years of political scrutiny. Merchants are said to have pushed back against high QR fees. Sinhala models are called a cultural move that could stay an academic announcement without compute funding and local startup capital.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>Santosh Jha outlined a digital roadmap with Sri Lanka at a Colombo summit in 2026. One rendering of the event name is "the V on Digital Sri Lanka Summit 2026."</li>
+        <li>The project is SLUDI, also "SLU DI," modeled on Aadhaar, which is said to have issued over 1.44 billion identities.</li>
+        <li>The grant is "over 25 billion Sri Lankan rupees" in Jha's account. A headline says 25 billion rupees. A later line drops the "over."</li>
+        <li>UPI has been live in Sri Lanka since February 2024 and is said to handle over 25 billion transactions a month in India. Lanka QR is the link for Indian visitors.</li>
+        <li>C-DOT showed a mobile early-warning system in March, with rollout aimed at the next few months. Sinhala-language AI is part of the partnership.</li>
+        <li>China's Ali Pay is also described as connecting to Lanka QR. Jha's line is that technology should "empower, not dominate."</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Bhargavastra finished Pokhran trials, and the army has not inducted it</title>
+      <link>https://www.youtube.com/watch?v=KVK-XnFrA20</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=KVK-XnFrA20</guid>
+      <pubDate>Fri, 27 Nov 2026 11:30:05 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>KVK-XnFrA20</news:videoId>
+      <news:publishedIst>2026-11-27T17:00:05+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/KVK-XnFrA20/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>Solar Defence and Aerospace says it completed in-house trials of Bhargavastra, a vehicle-mounted counter-swarm drone system, at Pokhran from 20 to 24 November. The company is also rendered Solar Defense and Aerospace Limited, or SDAL. The system is also Bhargav Astra and, later, Bhargava Astra. A headline says the trials were of a 64 micro-missile drone launcher. The trials are progress toward a prototype demonstration, not confirmation that the army has taken the system.</p>
+        <p>Radio-frequency detectors and surveillance radars detect and track incoming drones. Electro-optical equipment supports tracking by day and night. An AI-enabled command system coordinates sensors, tracking, and weapons. Two configurations are described. Version one carries a 64-tube air-defense rocket launcher. Version two carries 64 guided micro missiles with autonomous guidance and infrared seekers. Those 64 figures are launcher capacity, not a demonstrated count of drones destroyed. The equipment sits on three vehicles. SDAL says rockets were fired at actual swarm targets, described as "detected entire tracked" by the integrated system, and that the warheads reached their designated points. Separate tests showed the micro missiles guiding themselves on the final approach. There is no independently verified interception rate and no target-by-target scorecard. Further testing is planned.</p>
+        <p>The army's initial requirement was the rocket version. SDAL says it developed the guided micro-missile configuration on its own as an extra capability. The program follows a project sanction order of 9 July 2024 under the "make to route," which requires industry to fund the prototype. The stated scope is one prototype set and 12 deliverable sets after a successful demonstration, with 31 March 2027 as the expected completion date. Those are milestones, not evidence the sets have been delivered. Earlier this month, Solar Industries managing director and chief executive Munish Nuwal told investors it was too early to give clarity on commercial orders, and he tied commercialization to finishing the trials. SDAL says it owns the intellectual property, including the software and both weapons. The outlet's view is that interception performance, cost per engagement, and the ability to sustain repeated attacks have to work together, and that the next demonstration is what would show that.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>Solar Defence and Aerospace, also SDAL, reports in-house trials of Bhargavastra, also Bhargav Astra and Bhargava Astra, at Pokhran from 20 to 24 November.</li>
+        <li>The trials are a step toward a prototype demonstration, not army induction.</li>
+        <li>Version one is a 64-tube rocket launcher. Version two is 64 guided micro missiles. Those numbers are capacity, not a kill count.</li>
+        <li>The company says rocket warheads reached designated points and that micro missiles showed terminal homing. No independent interception rate is given.</li>
+        <li>A sanction order of 9 July 2024 under the "make to route" sets one prototype and 12 deliverable sets, with completion expected on 31 March 2027. Those sets are not described as delivered.</li>
+        <li>Munish Nuwal said it is too early for clarity on commercial orders.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>A day list pairs Neuralink's trial with the coast, space revenue, and a FIFA breach</title>
+      <link>https://www.youtube.com/watch?v=vWinH_ReERA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=vWinH_ReERA</guid>
+      <pubDate>Fri, 27 Nov 2026 11:02:40 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>vWinH_ReERA</news:videoId>
+      <news:publishedIst>2026-11-27T16:32:40+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/vWinH_ReERA/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>Neuralink has received FDA approval to begin its first pivotal US clinical trial of the N1 brain implant, aimed at people with severe paralysis. The list says the briefing looks at what the approval allows and what it does not yet prove, who the trial is for, and what comes next. It does not give an enrollment count, a follow-up period, or a funding figure.</p>
+        <p>The same list names Karnataka exploring a coastal data center near Mangaluru, IN-SPACe flagging the private space revenue gap, BharatGen launching Patram 1.5 as a 7-billion-parameter document model, Bhargavastra completing trials at Pokhran, India expanding its digital partnership with Sri Lanka, Tencent unveiling ORIDTP as an AI platform for dual-target peptides, and FIFA confirming a cyberattack and what was exposed. The separate FIFA account says the organization has not explained whose information was exposed. Those figures from the separate reports are not added here.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>Neuralink has FDA approval to begin a pivotal US trial of the N1 implant for people with severe paralysis. What the approval does not yet prove is part of the subject, and is not spelled out.</li>
+        <li>Karnataka is exploring a coastal data center near Mangaluru.</li>
+        <li>IN-SPACe is flagging a private space revenue gap, with no figure given here.</li>
+        <li>BharatGen has launched Patram 1.5, described here as a 7-billion-parameter document model.</li>
+        <li>Bhargavastra has completed trials at Pokhran.</li>
+        <li>India is expanding a digital partnership with Sri Lanka. Tencent has unveiled ORIDTP for dual-target peptides.</li>
+        <li>The list says FIFA confirmed a cyberattack and what was exposed. It does not say whose data that was.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>IN-SPACe puts private space revenue near 2,000 crore rupees</title>
+      <link>https://www.youtube.com/watch?v=HbyefwvAbXI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=HbyefwvAbXI</guid>
+      <pubDate>Fri, 27 Nov 2026 11:00:21 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>HbyefwvAbXI</news:videoId>
+      <news:publishedIst>2026-11-27T16:30:21+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/HbyefwvAbXI/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>India has over 440 private space startups. In an interview with Mint, Pawan Kumar Goenka, chairman of the Indian National Space Promotion and Authorization Center, put cumulative revenue across those startups at "just 12 about 2,000 crore rupees," or roughly 215 million dollars, and added "maybe even lesser." A headline says he puts private space revenue near 2,000 crore rupees against a 2033 goal. A second line treats 2,000 crore as the revenue goal itself, and says the sector aims to capture 2 percent of the global space market by 2033. The fuller account compares today's figure with an official target of 4.1 trillion rupees, or 44 billion dollars, in annual revenue by 2033, and calls the distance about a 200-fold gap. Goenka is said to insist India is not off track while admitting the gap.</p>
+        <p>The plan described is to turn the Indian government and the biggest conglomerates into anchor customers for locally built surveillance, communications, and mapping satellites and for homegrown launch vehicles. He "flagged a second urgent," and that sentence breaks off. Young companies are also meant to raise larger rounds from prototype to commercial scale. This is tied to Union minister Jitendra Singh's whole-of-government approach, including space services across railways, agriculture, healthcare, defense, and platforms such as PM Gati Shakti. Since the sector opened in 2020, the account cites the Indian Space Policy 2023, liberalized foreign investment, an unclear phrase "this is to of course private investors as well," 11 foreign-investment proposals worth 1,745 crore rupees by the middle of 2026, and a 1,000 crore rupee venture fund under In Space.</p>
+        <p>India's overall space economy, including ISRO, is put at roughly about 8.4 billion dollars, called just 2 percent of the global market, with a goal to capture 8 percent by 2033, and then "that includes 11 billion dollars in exports." The 2 percent by 2033 in the shorter line and the 8 percent by 2033 in this account are not the same target. Reliance Jio is planning a 1,600-satellite constellation with a test mission in 2027, and is reportedly planning to source at least 400 of those satellites from the United States. The commentary says the 2020 reforms were meant to reduce dependence on government, and that six years later In Space is seeking ministry contracts. It warns that without multi-year contracts and purchases of Indian hardware, startups could become state contractors.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>Pawan Kumar Goenka told Mint that private space startup revenue is "just 12 about 2,000 crore rupees," roughly 215 million dollars, and "maybe even lesser."</li>
+        <li>A headline treats 2,000 crore as revenue against a 2033 goal. A shorter line treats 2,000 crore as the goal and says the aim is 2 percent of the global market by 2033.</li>
+        <li>The fuller account cites 4.1 trillion rupees, or 44 billion dollars, by 2033, and calls the gap about 200-fold.</li>
+        <li>The plan is anchor demand from ministries and large Indian firms. A "second urgent" point is unfinished. A 1,000 crore rupee venture fund and 11 foreign proposals worth 1,745 crore rupees by mid-2026 are cited.</li>
+        <li>The whole economy, including ISRO, is put at about 8.4 billion dollars, called 2 percent of the world market, with a goal of 8 percent by 2033 that "includes 11 billion dollars in exports."</li>
+        <li>Jio's 1,600-satellite plan targets a 2027 test, with at least 400 satellites reportedly to be sourced from the United States.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Karnataka is eyeing a 49-acre coastal data center, with about 20 acres buildable</title>
+      <link>https://www.youtube.com/watch?v=ULKtONrzvcE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ULKtONrzvcE</guid>
+      <pubDate>Fri, 27 Nov 2026 10:35:11 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>ULKtONrzvcE</news:videoId>
+      <news:publishedIst>2026-11-27T16:05:11+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/ULKtONrzvcE/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>After a site inspection near Tanirbhavi Blue Flag Beach in Mangaluru, state IT, BT, and home minister Priyank Kharge said the government is exploring India's first sustainable coastal data center on a 49-acre parcel. The sentence introducing him breaks off before that claim. The facility is described as meant to use renewable energy, advanced cooling, and environmentally responsible infrastructure. It is called the centerpiece of a beyond-Bengaluru strategy, with coastal Karnataka pictured as a base for global capability centers, startups, deep tech, marine biotechnology, and emerging technologies. A headline says only 20 acres can be built on. The fuller account says coastal regulation zone rules allow only about 20 acres of the 49-acre Tanir Bavi plot for permanent construction, with the rest kept for allied infrastructure and ecological buffers. The site is also rendered Bhavi.</p>
+        <p>The proposal is anchored in the Karnataka sustainable data center policy for 2026 to 2031, which received cabinet approval on 18 September this year. The state revoked its previous data center policy after industry consultations exposed the water and power demand of conventional server farms. The new policy ties incentives to power and water efficiency and targets 1 gigawatt of data parks across Bengaluru, Mysuru, and Mangaluru. Kharge is reported as saying growth and environmental sustainability can complement each other. Officials also scouted a second coastal site in Udupi. Preliminary checks suggest that land may fall inside a protected forest. A shorter line names Udupi only as a site under review and does not mention a forest.</p>
+        <p>Karnataka ranks third in operational data center capacity. The fuller figures are 162 megawatts for Karnataka, 214 for Tamil Nadu, and 1,023 for Maharashtra. Andhra Pradesh is described as taking multi-gigawatt AI hub commitments from Renew, Cleanmax, and Google. Mangaluru is being positioned as a low-resource coastal hub that could use future submarine cable landings. The project is at a feasibility assessment. No private investor is on board. Locals are described as worried about heat and water in a coastal city that already faces intense summer heat and seasonal freshwater shortages. Hyperscale data centers are called low-employment facilities that still create jobs in the thousands. Without private capital and closed-loop cooling, the site called Bhavi is said to risk remaining a paper plan, and that sentence is unfinished. The speaker says a personal conversation left him believing Kharge is serious about owing future generations a sustainable environment. A closing question asks whether Bengaluru is about to become a green coastal tech hub, while the site described is the Mangaluru plot.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>Priyank Kharge says Karnataka is exploring a 49-acre sustainable coastal data center near Tanirbhavi beach in Mangaluru, also rendered Tanir Bavi and Bhavi.</li>
+        <li>A headline says only 20 acres can be built on. The fuller account says coastal rules leave about 20 acres for permanent construction.</li>
+        <li>The policy for 2026 to 2031 was approved by the cabinet on 18 September and targets 1 gigawatt across Bengaluru, Mysuru, and Mangaluru. The previous policy was revoked over water and power demand.</li>
+        <li>A second site in Udupi may fall inside a protected forest. A shorter line does not mention a forest.</li>
+        <li>Operational capacity is given as 162 megawatts in Karnataka, 214 in Tamil Nadu, and 1,023 in Maharashtra.</li>
+        <li>The project is at feasibility, with no private investor named. Heat, water, and low employment are the local objections described.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Murf's Finch is built for voice agents, and the ranking claim is the interviewer's</title>
+      <link>https://www.youtube.com/watch?v=ohBW4AAQ0wI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=ohBW4AAQ0wI</guid>
+      <pubDate>Fri, 27 Nov 2026 08:00:20 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>ohBW4AAQ0wI</news:videoId>
+      <news:publishedIst>2026-11-27T13:30:20+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/ohBW4AAQ0wI/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>Sudhi Sachdev spoke with Ankur Edkie, co-founder and chief executive of Murf AI. Near the end Edkie addresses him as "Si." Murf began as a voice-over tool and now sells Falcon for text to speech and Finch for speech to text. A headline says Finch takes on ElevenLabs in India. Sachdev says Finch ranks first across 11 Indian languages on a closed benchmark, and that another unnamed vendor claims first across all 15. Edkie does not restate a first-place ranking. He says a finch is good at listening and a falcon is fast, and that later names will stay with birds. Finch was designed from the start for voice agents, meaning a language model reads the transcript and the next constraint is speed. Transcription and subtitles are other uses.</p>
+        <p>On names such as Bangalore and Bengaluru, Edkie says trainers can force the modern name no matter what was said, or stay closer to what was heard. He says this particular word has not been specifically tested. Classic speech-to-text, in his account, stays verbatim even when the speaker makes grammatical mistakes. Formal repair belongs to dictation. He treats Bangalore and Bengaluru as the same place for a language model, so those spelling differences can come out of a benchmark. Absolute word-error figures, he says, are not comparable on their own. The same model can run from a rate of 1 to about 40 or 50, and some popular open-source models to 100 or 200. What he wants is a relative score on the same unseen set, from an independent party that does not build competing speech systems. Closed clips matter so a model is not tested on audio it may have trained on. He says few third-party benchmarks cover Indian languages, most are still English, and Murf did not publish its own because a model maker cannot easily be independent.</p>
+        <p>Sachdev says Finch returns a final transcript 50 milliseconds after speech ends and roughly halves word error against an unnamed private model. Edkie says the 50 comes from Sakura's benchmark, that not every platform measures latency, and that Murf compared itself with Indian-language providers after a benchmark shortlist, trusting its own private recordings more than public sets. On other voices in the room, he says cancellation aims at the closest speaker using only the audio. Without that step, word error rises about 20 to 30 basis points when other people speak. He says no other speech-to-text provider currently supports this inside the model. Turn-taking, he says, is not yet solved for Indian languages in a way that nails it. He would first keep filler sounds, including "h," so the language model can tell the caller is still thinking.</p>
+        <p>On an Indian bank's audio, Edkie says Murf has data residency in 11 geographies, that data does not cross those borders, and that this audio is not stored and does not leave peripheral memory. Buyers, he says, should check the contract. He would rather open scarce languages than Hindi, Marathi, and the top 10. He credits AI4Bharat and government funding for languages such as Khasi and Garo. Speech-to-text, he says, needs ordinary noisy speech at 16 kHz, not a million hours. After Sachdev suggests "Casio" on Murf, Edkie says that goes on the road map. For Murf's own voice clone, consent is spoken into the microphone and the clone stays in that person's account. He says open source can still make a clip that bypasses checks. He favors teaching people not to trust a call at face value over relying on a hidden Murf fingerprint. Sachdev says the rules he is referring to require an automated call to say it is an AI call.</p>
+        <p>Sachdev says Murf now reports over 10 million users and more than 300 Forbes Global 2000 companies. Edkie calls those figures a moving number he could double-check, and does not confirm them. He says Indian languages moved to the center because conversational use became viable about two years ago, as language models, latency, and GPU cost improved, and because telephone volume in India is much higher than in Western countries. Against ElevenLabs, which Sachdev also calls 11 Labs, Edkie points to staying on voice rather than video, and to customer-specific voices, including less polished radio voices and more next-door voices. He does not claim a permanent lead. On farming tools, he says he has heard that farmers trust traditional knowledge over what he calls "uage knowledge." Asked where Murf should add value, he calls healthcare in India, including mental health, untapped, and says nothing dedicated is in the offing. In short answers he says Tamil is the hardest Indian language to synthesize naturally, he would allow a stranger to clone his voice only with Murf, the benchmark he trusts least is one by Murf's own researchers, the best synthesized Indian accent he names is "kwali," and open-source cloning models should register with the government and prove their controls.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>Sudhi Sachdev interviewed Ankur Edkie of Murf. Edkie later addresses him as "Si."</li>
+        <li>Finch is speech-to-text built for voice agents, beside Falcon text-to-speech. A first-place claim across 11 Indian languages, and a rival claim across 15, are Sachdev's. Edkie does not restate them.</li>
+        <li>Edkie says absolute word error is not comparable: the same model can run from about 1 to 40 or 50, and some open-source models to 100 or 200.</li>
+        <li>The 50-millisecond final transcript is Sachdev's claim. Edkie says that 50 comes from Sakura's benchmark.</li>
+        <li>Without in-model cancellation of other voices, he says word error rises about 20 to 30 basis points. He says no other provider currently does this inside the model.</li>
+        <li>He says audio for an Indian deployment stays inside one of 11 residencies, is not stored, and does not leave peripheral memory.</li>
+        <li>A Murf voice clone requires spoken consent and stays in that person's account. He says open source can still bypass checks.</li>
+        <li>Over 10 million users and more than 300 Forbes Global 2000 companies are Sachdev's figures. Edkie calls them a moving number.</li>
+        <li>Short answers he did give: Tamil is hardest to synthesize, "kwali" is the best Indian accent he names, and open-source cloning models should register with the government.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Mindsprint's Sagar P.V. on robots, farms, and Wipro's purchase</title>
+      <link>https://www.youtube.com/watch?v=pt3_6QCYrzA</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=pt3_6QCYrzA</guid>
+      <pubDate>Fri, 27 Nov 2026 07:00:23 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>pt3_6QCYrzA</news:videoId>
+      <news:publishedIst>2026-11-27T12:30:23+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/pt3_6QCYrzA/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>Sudhi Sachdev spoke with Sagar P.V., president and business head for technology services at Mindsprint. A headline says Wipro's Mindsprint is betting on physical AI after a 375 million dollar deal and 80,000 plantations a month. Both of those figures are the interviewer's. Sagar calls the purchase a critical strategic investment and the plantation scale huge, and he does not restate either number. Sachdev defines physical AI as software that senses the real world and acts on it. He opens with a truck of tomatoes that has about a day left, and with a model that can write a wedding speech in four seconds.</p>
+        <p>Sagar says Mindsprint was born inside the Olam group, headquartered in Singapore, as its technology arm, and served Olam over about 30 years. Olam, he says, started in 1989, rendered "'89," selling cashew nuts from Nigeria and now has more than 45 commodities, from the first mile to a consumer shelf. The team worked in more than 63 countries. Sachdev separately says Mindsprint has about 3,300 people, does most of its work in Chennai and Bengaluru, supplies more than 50 countries and more than 40 commodities, and works with more than 1,000 farmers and partners. Those counts do not match Sagar's. Sagar says a trading margin is as thin as the gap between wallpaper and the wall, and that firms raise it by moving into farms or toward manufacturing and consumer brands. Non-commodity procurement, he says, can add a 1 or 2 percent margin. He says Mindsprint did this for Olam for close to 20 years, including more than 100 manufacturing plants selling processed goods as a private label. Wipro, in his account, bought the company to enter food, agriculture, manufacturing, and supply chain, and to take that work to customers in North America and Europe while keeping a foothold in Olam.</p>
+        <p>He does not name a single failure when asked. He talks about sustainability rules of the EUDR kind: produce needs traceability to an origin that is not a place of deforestation, child abuse, or child labor. He says people are leaving farms while the population he puts at 8 billion grows, and that statistics put waste at about 60 percent of produce, from late intervention, storage, the supply chain, and the shelf. On the farm, he describes drones and sensors that find the hectare with poor soil or a weak crop and treat that part rather than the whole field. In a mill, he describes weight, torn bags, spills, and wheat-mill temperature watched with a digital twin. In transit, he wants loads such as tomatoes to reach cold storage, which he also calls core storage, faster, with the route and the paperwork ready.</p>
+        <p>On robots, Sachdev first says India has about six robots per 10,000 factory workers and South Korea more than 1,000. He later says South Korea has 1,066, the world average is about 150, and India has about six. He also cites an August 2026 Vigyan Dhara paper figure he states as "5 to 7," says higher figures are "misqued," and says an IFR 2026 world average is 152. He states a semiconductor-mission acceleration of "1 lakh 27,500 K rupees." Sagar calls the gap a head start for economies such as South Korea and China. He says India is almost 25 or 30 years behind and need not wait another 35, because abundant labor weakened the business case for a robot, and a low-cost manufacturing hub plus better connectivity can change that. He says robotic arms and body parts still mostly ship from South Korea or China, that startups Wipro has engaged are changing that, and that India's strength is the data and workflow layer on top of the hardware. He says both have to be funded to grow at what he calls "tech 10x" speed.</p>
+        <p>Asked to fund one of farm, factory, hospital, or road for a year, after Sachdev cites a provisional figure of over "1 lak 70,000" road deaths in 2024, Sagar picks healthcare, including robotic procedures, while saying farms and road safety also need money. On plantations he says the start is to complement workers, not replace them: a person assigned 3 acres can claim the work after two hours, so a human check is matched with drones and sensors. Thermal and acoustic sensors, he says, can limit a hen cull to infected birds. A saving of more than 4 million dollars in a cocoa example is Sachdev's attribution, not a figure Sagar states. Sagar says a better yield or a better coffee grade should show up in bonuses and prices, including for people who are not literate. He describes BakeWell, a free app for bakers in Nigeria and Ghana, where he says most of the women bake and "brave bread" is a staple. It teaches baking and models what they should earn.</p>
+        <p>Sachdev says Mindsprint talks about 64 percent at the early stage of AI adoption. Sagar says finance, procurement, and human resources experiment inside a secured environment, and that even 3,500 people can see what someone built. That 3,500 is his. Staff in places such as Ivory Coast and Congo, including people without a degree, have built apps to drop paper processes. One example cuts an eight-hour task to 20 minutes. In short answers he says the biggest myth is that physical AI is only robots, rice is the first Indian crop he would give a robot because grain consumption is huge, knowledge of soil and of what to plant when should stay human, supply chains prove them wrong almost all the time including an unnamed geopolitical hit in a month of April, and he trusts Greek yogurt more because the pack states protein and, on some brands, traceability. On the farmer's share, he cites statistics that of 100 rupees a buyer pays, the farmer gets 40 and 60 goes to aggregators, the supply chain, and the mandis. He says large farmers in India are in a good position and that help should focus on small farmers on one hector or a few acres. His closing example is a plant in Nigeria where counting bags and pulling torn bags, which he also calls "dawn bags," off a conveyor was automated, and workers on six- or eight-hour shifts went home with more energy.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>Sudhi Sachdev interviewed Sagar P.V. of Mindsprint. The 375 million dollar Wipro purchase and 80,000 plantations a month are Sachdev's figures. Sagar does not restate them.</li>
+        <li>Sagar says Mindsprint was Olam's technology arm for about 30 years. Olam began in '89 with Nigerian cashew and now has more than 45 commodities. The team worked in more than 63 countries.</li>
+        <li>Sachdev's separate counts are about 3,300 people, more than 50 countries, more than 40 commodities, and more than 1,000 farmers. Sagar later says sessions reach even 3,500 people, and more than 100 manufacturing plants.</li>
+        <li>He puts trading margins at the gap between wallpaper and the wall, waste at about 60 percent of produce, and non-commodity procurement at a 1 or 2 percent margin.</li>
+        <li>Robot figures from Sachdev are about six per 10,000 workers in India, 1,066 in South Korea, a world average of about 150, and an IFR 2026 figure of 152. A Vigyan Dhara figure is stated as "5 to 7."</li>
+        <li>Sagar says India is 25 to 30 years behind South Korea and China on robots, that hardware still mostly ships from those countries, and that India's strength is the data layer.</li>
+        <li>Forced to pick one sector, he picks healthcare. A road-death figure of over "1 lak 70,000" in 2024 is Sachdev's.</li>
+        <li>A cocoa saving above 4 million dollars is Sachdev's. BakeWell is Sagar's free app for bakers in Nigeria and Ghana. "Brave bread" and "dawn bags" are left as spoken.</li>
+        <li>He cites a split in which a farmer gets 40 rupees of a 100-rupee purchase. Help, he says, should focus on small farmers on one hector or a few acres.</li>
         </ul>
       ]]></description>
     </item>
@@ -160,11 +446,11 @@ Chips, agents, and the web's past. Entire and Sarvam are bringing coding agents 
       <title>A Front Page lineup pairs coding agents with Assam data centers and an orbital constellation</title>
       <link>https://www.youtube.com/watch?v=W3ap2t_AxLU</link>
       <guid isPermaLink="true">https://www.youtube.com/watch?v=W3ap2t_AxLU</guid>
-      <pubDate>Thu, 26 Nov 2026 12:54:10 +0000</pubDate>
+      <pubDate>Fri, 27 Nov 2026 06:01:49 +0000</pubDate>
       <category>Video</category>
       <news:format>video</news:format>
       <news:videoId>W3ap2t_AxLU</news:videoId>
-      <news:publishedIst>2026-11-26T18:24:10+05:30</news:publishedIst>
+      <news:publishedIst>2026-11-27T11:31:49+05:30</news:publishedIst>
       <media:thumbnail url="https://i.ytimg.com/vi/W3ap2t_AxLU/hqdefault.jpg"/>
       <description><![CDATA[
         <p>A Front Page lineup says Sarvam and Entire are bringing AI coding agents to Indian developers, with code and inference hosted locally, while enterprises ask how much software they can safely automate. The same list says Chariot has launched CHARIOT-1 foundation models built around multilingual speech and reasoning. Airtel's plan is given as 1,200 crore rupees for three data centers in Guwahati, Jorhat, and Silchar, with 40 megawatts combined. A shorter line calls it a 1,200 crore rupee bet on Assam data centers.</p>
@@ -183,317 +469,116 @@ Chips, agents, and the web's past. Entire and Sarvam are bringing coding agents 
     </item>
 
     <item>
-      <title>Claude Opus 5.5 is credited with a US map drawn from 31 public data sources</title>
-      <link>https://www.youtube.com/watch?v=NQqADLYK6Dw</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=NQqADLYK6Dw</guid>
-      <pubDate>Thu, 26 Nov 2026 12:45:29 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>NQqADLYK6Dw</news:videoId>
-      <news:publishedIst>2026-11-26T18:15:29+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/NQqADLYK6Dw/hqdefault.jpg"/>
-      <description><![CDATA[
-        <p>Andrei Karpathy, also spelled Andre, has been using Claude Opus 5.5 to build a simulation of the United States without typing the code himself. He is described as a former OpenAI co-founder and Tesla AI chief, as the person who coined "vibe coding," and as someone who joined Anthropic's pre-training team earlier this year. He ran Opus 5.5 on medium effort, with ultra code switched on, inside the Claude Code desktop app, and asked it to fill a civilization-style game map with real US data. The build is dated both to a single afternoon and to seven hours. The line count is 45,000, also worded as 45 thousand lines of codes. No human is said to have typed a line. Claude is also said to have cut its own promotional trailer.</p>
-        <p>Opus 5.5 is said to have downloaded and parsed 31 real public data sources. The organizations named are the US Census Bureau, the Bureau of Economic Analysis, the Bureau of Labor Statistics, the US Energy Information Administration, the National Oceanic and Atmospheric Administration, the US Geological Survey, the Department of Defense, the National Park Service, the Federal Aviation Administration, the Federal Emergency Management Agency, and the Centers for Disease Control and Prevention. That is 11 organizations. The other sources in the count of 31 are not named. The same count is also worded as 31 federal agencies and as 31 federal data sets. The inputs were reconciled as elevation, land cover, GDP, jobs, power plants, mines, ports, airports, military bases, parks, universities, freight flows, and natural disasters. One wording puts them on a 25-kilometer hex grid. Another says a single 25-kilometer hex. Gold yield stands for real GDP. City districts follow real industries: San Jose got a campus, and Detroit is called Motor City. One in four workers in San Jose is an engineer, coder, or scientist, against one in 14 nationally. National parks are ranked by visitors, and universities by research and development spending.</p>
-        <p>The web app is said to carry 19 interactive lenses, from income and degrees to faith and disasters, a city view of 524 metro areas, nine advisors, and an explorer that turns any data column across more than 3,100 counties into a table and a scatter plot linked to the map. The 524 metro areas are not in the written account of the grid. What the nine advisors are is not said. Three weeks earlier, Karpathy is said to have shipped Hacker Tube in two hours with Opus 5.5, and to have said he no longer reads code, writes code, or runs terminal commands. The commentary treats one person turning 31 federal data sets into a 45,000-line platform as a threat to business-intelligence dashboards and data-visualization products. It also says an agent can fail without an error and silently drop a place such as Alaska or Hawaii. That is a warning, not a finding that those states are missing. A conflict of interest is mentioned and not described. A hope that Trump was not "helming affairs" on the platform is unclear and is not a finding about who is involved. The outlet is named both AIM Network and the AM network. "Half a weekly Claude quota" is a condition, not a measured bill.</p>
-        <p><strong>Key points</strong></p>
-        <ul>
-        <li>Andrei Karpathy, also Andre, used Claude Opus 5.5 to build a US simulation of about 45,000 lines without typing the code.</li>
-        <li>He is described as a former OpenAI co-founder and Tesla AI chief who coined vibe coding and joined Anthropic's pre-training team earlier this year.</li>
-        <li>The run used medium effort and ultra code in the Claude Code desktop app. The time is both a single afternoon and seven hours.</li>
-        <li>Thirty-one public sources are claimed. Eleven organizations are named, including the Census Bureau, BEA, BLS, EIA, NOAA, USGS, the Defense Department, the National Park Service, the FAA, FEMA, and the CDC.</li>
-        <li>The map uses a 25-kilometer hex, with GDP as gold yield, San Jose as a campus, and Detroit as Motor City.</li>
-        <li>One in four San Jose workers is described as an engineer, coder, or scientist, against one in 14 nationally.</li>
-        <li>The app has 19 lenses, 524 metro areas, nine unnamed advisors, and coverage of more than 3,100 counties.</li>
-        <li>Hacker Tube is the name given for a two-hour project three weeks earlier. A warning about silently dropping Alaska or Hawaii is not a finding that they are missing.</li>
-        </ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>OpenAI has posted a 111-page claim that matrix multiplication sits at 2.25</title>
-      <link>https://www.youtube.com/watch?v=Ao2NZJ-GJgM</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=Ao2NZJ-GJgM</guid>
-      <pubDate>Thu, 26 Nov 2026 12:15:37 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>Ao2NZJ-GJgM</news:videoId>
-      <news:publishedIst>2026-11-26T17:45:37+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/Ao2NZJ-GJgM/hqdefault.jpg"/>
-      <description><![CDATA[
-        <p>OpenAI has proposed a new matrix-multiplication exponent of 9/4. The same claim is stated as an upper bound of 2.25 over the complex numbers and, across nine manuscripts, a matching lower bound of 2.25 over every field. A 111-page manuscript went on GitHub on Tuesday. Its spoken title is garbled as "the matrix multiplication exponent is nine false," which matches neither 9/4 nor 2.25. The question is ranked 31 on Proof Atlas's top 500 open problems in mathematics, and called arguably second only to P versus NP in algorithms. It asks how many steps it takes to multiply two N by N matrices. The schoolbook method takes N to the power of three. Mathematicians are said to have hunted the true exponent, Omega, for 57 years.</p>
-        <p>In 1969 Volker Strassen beat the exponent three for the first time. A broken sentence associates 2.522 in 1981 with Schönhage, so who reached 2.522 is not cleanly established. Coppersmith and Winograd are said to have hit a mark in 1990, and no number is given for that year. Over the next 36 years, people and tools including Alpha Evolve are said to have shaved off only 0.005. OpenAI researcher Sebastian Bubeck is quoted saying he never thought he would see it in his lifetime. An internal OpenAI model is said to have done the work. The October upper bound is also described as holding over arbitrary fields, which does not match the wording that limits it to the complex numbers.</p>
-        <p>Researchers at LMU Munich, named Mahmoud Levent Dogan, Vladimir Lisikov, Kea Sakabe, and Michael Walter, published an exposition of that October upper bound. They swapped in a Coppersmith-Winograd tensor variant and added a Lean formalization of a term rendered "ASIM totic" tensor rank. Those three name spellings are given only in that form. For the new lower bound, OpenAI is said to argue from a companion paper on tensor geometry that going below 2.25 would compress certain tensor networks. The next sentence is garbled, so the exact compression step is not established. The authors claim that multiplying two N by N matrices requires at least the ceiling of N to the power 2.25, divided by two, in non-scalar multiplications or divisions, for every N of at least 2, even if linear operations are free. Whether the ceiling is applied before or after the division is not fixed. Lean checks division-free polynomial identities and depends on two theorems that link the arithmetic model to Omega. The lower bound for circuits that allow division has not been formalized in Lean.</p>
-        <p>This is not a claim that Nvidia GPUs run faster tomorrow. Nvidia's GEMM documentation is cited for the point that real performance depends on hardware, reuse, and keeping thread blocks busy, not only on the asymptotic exponent. Any claim of cheaper training or inference is said to wait until algorithms are compared with CUDA at production sizes and precisions. A separate exact formula for rectangular multiplication is said to pin a dual exponent at 0.5, so an N by N matrix times an N by the ceiling of N to the power T stays at exponent two for T up to 0.5. The rectangular dimensions are compressed in the wording. No independent expert is described as having peer reviewed the 111-page lower bound. The proof is said to have gone straight into a GitHub repository that now holds 730 "unreferred" items. On 7 October, OpenAI withdrew three manuscripts and revised 14 others after a sign error in an algebraic-geometry paper. Those were not the matrix-multiplication papers. A readme warns that some unformalized results could have an issue. Whether a flood of machine-written papers stalls peer review is left as the open question.</p>
-        <p><strong>Key points</strong></p>
-        <ul>
-        <li>OpenAI has proposed a matrix-multiplication exponent of 9/4, also stated as bounds of 2.25.</li>
-        <li>A 111-page manuscript went on GitHub on Tuesday. Its spoken title, "nine false," is garbled.</li>
-        <li>The problem is ranked 31 on Proof Atlas's top 500 and called arguably second only to P versus NP. Omega has been hunted for 57 years.</li>
-        <li>Strassen beat exponent three in 1969. A 2.522 figure in 1981 is tied to Schönhage in a broken sentence. Coppersmith and Winograd in 1990 have no number. Only 0.005 is said to have come off over the next 36 years, including Alpha Evolve.</li>
-        <li>Sebastian Bubeck says he did not expect to see the result. An internal OpenAI model is credited with the work. The upper bound is worded both over the complex numbers and over arbitrary fields.</li>
-        <li>LMU Munich researchers named Mahmoud Levent Dogan, Vladimir Lisikov, Kea Sakabe, and Michael Walter wrote an exposition of the October upper bound, with a Lean formalization.</li>
-        <li>The lower bound is not fully formalized for circuits that allow division. It is not a claim that Nvidia GPUs are faster tomorrow.</li>
-        <li>No independent peer review is described. On 7 October, three other manuscripts were withdrawn and 14 revised after a sign error. A readme warns that some unformalized results could have an issue.</li>
-        </ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>The FCC has conditionally cleared SpaceX for up to a million orbital compute satellites</title>
-      <link>https://www.youtube.com/watch?v=gBLJYK-js9E</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=gBLJYK-js9E</guid>
-      <pubDate>Thu, 26 Nov 2026 11:45:04 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>gBLJYK-js9E</news:videoId>
-      <news:publishedIst>2026-11-26T17:15:04+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/gBLJYK-js9E/hqdefault.jpg"/>
-      <description><![CDATA[
-        <p>The US Federal Communications Commission has given SpaceX a conditional approval to deploy up to 1 million satellites meant to process data in orbit. The grant is dated Wednesday, and called a first of its kind. One account says the systems are Starlink constellations and that the authorization is for 1 million satellites, so server capacity can move off a planet whose power grids are straining under AI. Another calls the constellation Star Mind, also Star-Mine and Star mine, and says the United States government has given Elon Musk permission to take the servers off the planet. The modules would use solar power to process data for use back on Earth, aimed at demand for AI and what is called super intelligence computing.</p>
-        <p>FCC chairman Brendan Carr called the move a "bold new frontier" for American leadership under President Donald Trump. He wrote that Star Mind and competitor constellations will use solar power to extend America's lead in super intelligence. The commission's own framing is rendered as bringing humanity closer to a "Kardashev to civilization" able to harness the full power of the sun. That phrase is garbled and does not name a Kardashev type. Musk replied, "much appreciated. This will be a great asset to America and the world."</p>
-        <p>SpaceX is cleared to build the network under the FCC's orbital-debris rules. Satellites would use optical links between them, plus radio in the 18.8 to 19.3 GHz downlink and the 28.6 to 29.1 GHz uplink. Radio would also carry backup and emergency telemetry, tracking, and command. SpaceX says a factory in Bastrop, Texas, could start producing the satellites as early as late 2027. Milestones require the first orbital data center by 25 November 2033, 100,000 satellites by 2035, and the full 1 million by 2040. The other account calls 2033 a target for the first center and full deployment a 2040 date, and it does not give 25 November, 100,000 satellites, or 2035. The FCC is already reviewing other firms' orbital data-center proposals and intends to process them quickly. Amazon's Kuiper unit and other rivals had argued that a million satellites could take centuries. Carr is said to have brushed that criticism off in March, with no year given.</p>
-        <p>The American Astronomical Society opposed the approval. It warned that a million-satellite shell would disrupt night-sky observations, create radio interference, raise collision risk, and add atmospheric pollution from launches and from satellites burning up on reentry. Putting a million compute modules in orbit by 2040 is called roughly 100 times as many satellites as exist now, and no current count is given. Keeping a million high-powered nodes running is called a logistical nightmare even if Starship flew every day. That daily flight rate is a premise, not a stated schedule. A line that chips probably degrade quickly under space radiation, and cannot simply be swapped, is hedged and cut off. The outlet's own view is that the unsolved problem is heat, because a vacuum has no air or water to cool a dense chip and heat has to leave through fragile panels, and that a million-satellite license now is less about imminent orbital data centers than about locking spectrum and orbital slots for American companies. That last sentence is unfinished.</p>
-        <p><strong>Key points</strong></p>
-        <ul>
-        <li>The FCC has conditionally approved up to 1 million SpaceX satellites for orbital computing. The grant is dated Wednesday and called a first of its kind.</li>
-        <li>The constellation is called Starlink in one account and Star Mind, Star-Mine, and Star mine in the other.</li>
-        <li>Brendan Carr tied the decision to American leadership under Donald Trump. Musk said it will be a great asset to America and the world.</li>
-        <li>Links are optical between satellites, with radio at 18.8 to 19.3 GHz down and 28.6 to 29.1 GHz up.</li>
-        <li>A Bastrop, Texas, factory could start production as early as late 2027.</li>
-        <li>Milestones are a first orbital data center on 25 November 2033, 100,000 satellites by 2035, and 1 million by 2040. Another account gives only a 2033 target and full deployment by 2040.</li>
-        <li>Amazon's Kuiper unit had said a million satellites could take centuries. The American Astronomical Society warned of damage to observations, radio, collisions, and the atmosphere.</li>
-        <li>Heat in a vacuum, and a reading of the license as a grab for spectrum and orbital slots, are the outlet's view. A chip-radiation line is cut off.</li>
-        </ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Perplexity prices dated web snapshots at 5 dollars per 1,000 searches</title>
-      <link>https://www.youtube.com/watch?v=vfZNFotGpzo</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=vfZNFotGpzo</guid>
-      <pubDate>Thu, 26 Nov 2026 11:15:02 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>vfZNFotGpzo</news:videoId>
-      <news:publishedIst>2026-11-26T16:45:02+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/vfZNFotGpzo/hqdefault.jpg"/>
-      <description><![CDATA[
-        <p>Perplexity Time Machine is live inside the Perplexity Search and Context APIs. Chief executive Aravind Srinivas, also spelled Arvind Srinivas, announced it on 25 November on X. He is quoted saying the tool shows a model of the web exactly as it was on any chosen date. Developers can post-train agents to predict events going back up to 365 days at launch, because a forecasting test is otherwise easy to cheat by looking up what already happened. Each crawler visit saves a dated copy and builds a version history for every link. A developer passes a timestamp with a time zone. Search returns only pages published or crawled by that cutoff. If an article was updated later, Time Machine is said to stop at the older saved version and keep the original title, date, and snippet. That "stops it" wording does not fully fix the retrieval rule. The same timestamp on the Context API lets a model read the archived full text, without the live web, and returns nothing if no copy existed then.</p>
-        <p>One account says users can post-train agents and predict the future, and that they gain what it calls advanced temporal modeling. It places the product in a race alongside startups "like XAI." The other account names rivals Epochal and Exa, and also an "X.AI startup Epochal," without making clear whether X.AI and Epochal are the same entity. Perplexity is said to have used reinforcement learning to train a model rendered GLM 5.3 flash on "resolve 2026" political questions from PolyMarket. Before that training, the scores were 0.94 on the live web and 0.77 with Time Machine, against PolyMarket's own odds of 0.79. A later line says an internal test scored 0.80 against those odds of 0.79. About 90 percent of live-web training groups taught the model nothing, because it found the answers immediately. Against Exa, on three sets of 1,000 queries covering random topics, news, and prediction markets, Time Machine returned publication dates on 98.8 to 99.5 percent of pages, against Exa's 66.1 to 77.7 percent. In the random test, 0.25 percent of Time Machine pages, across 18 queries, leaked future information. The Exa leak rate, across 62 queries, is missing from the sentence.</p>
-        <p>Perplexity is said to have crossed 1 billion dollars in annual run rate this November, and to be moving from consumer search into developer infrastructure. Time Machine is bundled into the existing APIs with no extra setup and no surcharge, at 5 dollars per 1,000 search requests and 1 dollar per 1,000 context URL fetches. A later line says 5 dollars "a pop." The offer is said to undercut Epochal before that startup opens to the public, and 365 days is called a fraction of a 30-year archive attributed to Epochal. The comparison to Epochal breaks off. The outlet's judgment is that beating market odds of 0.79 with a score of 0.80 is a one-point edge, not proof that agents are about to own Wall Street, and that freezing the search API does not erase 2025 or early 2026 news already sitting in a model's weights. It also says Perplexity is archiving permanent dated snapshots and selling that history, and that media lawyers will have something to say about it. Whose sites those snapshots are is not specified.</p>
-        <p><strong>Key points</strong></p>
-        <ul>
-        <li>Perplexity Time Machine is live in the Search and Context APIs. Aravind Srinivas, also Arvind, announced it on 25 November on X.</li>
-        <li>Developers can lock a model to a past date, up to 365 days back, and each crawl keeps a dated copy.</li>
-        <li>A score before training was 0.94 on the live web and 0.77 with Time Machine, against PolyMarket odds of 0.79. A later internal figure is 0.80.</li>
-        <li>The model trained for that test is rendered GLM 5.3 flash, on questions rendered "resolve 2026" from PolyMarket.</li>
-        <li>On date coverage, Time Machine hit 98.8 to 99.5 percent of pages against Exa's 66.1 to 77.7 percent. A future-leak rate for Exa is missing.</li>
-        <li>The price is 5 dollars per 1,000 searches and 1 dollar per 1,000 context fetches. Perplexity is said to have crossed 1 billion dollars in annual run rate this November.</li>
-        <li>The account says the offer undercuts Epochal, and that a one-point edge over market odds is not proof agents will own markets.</li>
-        </ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Epochal says it can replay 30 years of the web, funded with 100 million dollars</title>
-      <link>https://www.youtube.com/watch?v=IkLZeP_iuvQ</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=IkLZeP_iuvQ</guid>
-      <pubDate>Thu, 26 Nov 2026 10:45:29 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>IkLZeP_iuvQ</news:videoId>
-      <news:publishedIst>2026-11-26T16:15:29+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/IkLZeP_iuvQ/hqdefault.jpg"/>
-      <description><![CDATA[
-        <p>Epochal is described as raising 100 million dollars to build a historical web archive and replay 30 years of the web, including a plan to archive more than a trillion pages. The spoken account names three former members of Elon Musk's xAI founding team, Guo Dong Zhang, Zhi Hang Dai, and Manuel Kroiss, and says they are betting 100 billion dollars on a different problem: models that can explain a crash, a failure, or a leak after the fact, and that fall apart when asked to call the outcome beforehand. It then says Epochal launched on 24 November, with no year, and is funded with 100 million dollars of Zhang's own money. Bloomberg is cited for the point that no outside venture investors are named. The company is said to have assembled people from SpaceX, xAI, Ramp, OpenAI, Anthropic, and Google DeepMind. A quoted thesis says superhuman prediction will redefine almost every industry, because every decision is a prediction.</p>
-        <p>The first product, Time Portal, was built in 90 days. It is described as a time-gated environment of more than one trillion web pages and seven trillion URLs across more than 30 years, with minute-level timestamps on sites that update often. The written account says the trillion pages are still a plan. The spoken account describes them as already in Time Portal. An agent sits in a matching Linux sandbox so it does not know it is in a simulation: the clock, the operating system, the libraries, and the packet sources are rolled back to the chosen date, and web requests are kept on the time-gated path. Two of those sentences are cut off. Developers can test a limited version through Epochal's search, fetch, and sandbox APIs and SDKs.</p>
-        <p>Epochal ran agents on 347 live questions from Prediction Markets, Kalshi, and Polymarket, then replayed those questions weeks later through Time Portal. It is unclear whether "Prediction Markets" is a third source or a label for the other two. The correlation between the original forecast errors and the replayed ones is 0.98, against 0.16 for agents who had the live web after the event was resolved, and 0.49 for agents with no web access. The words after 0.98 are incomplete. The reading offered of 0.98 is that the simulator does not leak the future, and that this has not shown the system is any better at predicting tomorrow. Cutting off the live web cannot remove historical outcomes a model already absorbed in pre-training. Epochal has not said how the archive was assembled, or what licenses covered the pages. Selling three decades of scraped web as an API is described as an invitation to publishers, in a season of copyright lawsuits.</p>
-        <p>Epochal is placed in a wider departure from Musk's AI companies. After a February 2026 merger of xAI with SpaceX, every original xAI co-founder is said to have left. Egor Babushkin is said to have raised 1.1 billion dollars for River AI in August of this year. The commercial target is verifiable forecasting for banks, hedge funds, and supply chains, so a forecast can be graded against what happened and the model retrained. A stumble from "retain" to "retrain," and a phrase "8,000 of times," does not establish a count.</p>
-        <p><strong>Key points</strong></p>
-        <ul>
-        <li>Epochal is described as raising 100 million dollars to replay about 30 years of the web. The founders are also said to be betting 100 billion dollars.</li>
-        <li>The named founders are Guo Dong Zhang, Zhi Hang Dai, and Manuel Kroiss, former members of xAI's founding team. The 100 million dollars is described as Zhang's own money, with no outside investors named, citing Bloomberg.</li>
-        <li>Launch is given as 24 November, with no year. People are said to have come from SpaceX, xAI, Ramp, OpenAI, Anthropic, and Google DeepMind.</li>
-        <li>Time Portal, built in 90 days, is described as more than one trillion pages and seven trillion URLs, inside a Linux sandbox with the clock rolled back.</li>
-        <li>On 347 questions from Prediction Markets, Kalshi, and Polymarket, replayed forecast errors correlated at 0.98, against 0.16 with the live web after the fact and 0.49 with no web.</li>
-        <li>That 0.98 is read as evidence the simulator does not leak, not as evidence of better forecasts. How the archive was licensed is not said.</li>
-        <li>After the February 2026 xAI-SpaceX merger, every original xAI co-founder is said to have left. Egor Babushkin is said to have raised 1.1 billion dollars for River AI in August.</li>
-        </ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>A 10,000 crore rupee data-center project is tied to 400 direct jobs as a tax break runs to 2047</title>
-      <link>https://www.youtube.com/watch?v=uXs8yWWFKH8</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=uXs8yWWFKH8</guid>
-      <pubDate>Thu, 26 Nov 2026 09:00:23 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>uXs8yWWFKH8</news:videoId>
-      <news:publishedIst>2026-11-26T14:30:23+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/uXs8yWWFKH8/hqdefault.jpg"/>
-      <description><![CDATA[
-        <p>Antara Gupta hosted Osama Manzar, Amit Chaurasia, and Gaurav Shinh on whether India's data-center boom is for the country's own digital future or a lease of land, power, and water to global technology companies. Manzar is founder and director of the Digital Empowerment Foundation. Chaurasia is founder and chief executive of Dataneers, described as building storage and cloud systems. Shinh is founder of SciKiq in one introduction and founder and chief executive of SciKiq in the other. Gupta cited Crisil for a five-fold jump in India's data-center capacity, to 7.5 gigawatts by 2030, drawing more than 3 lakh crore rupees. She also said Crisil puts three-quarters of an upcoming 6 gigawatts in Visakhapatnam, Mumbai, and Hyderabad. Shinh referred to a figure he called "1 uh five" before returning to the 7.5 gigawatts. She said residents in Thane are protesting a 420-megawatt AWS facility next to their homes, later called a "420 megawatt AWS side," over the risk of power cuts. Citizen groups in Visakhapatnam are questioning a 20-year water guarantee for a Google-Adani project she called "15 billion," with no currency, in a city she said already has a daily water deficit.</p>
-        <p>CtrlS, she said, has signed a 10,000 crore rupee deal in Bihar projected to create 400 direct jobs. She later said the commitment is a 150-megawatt center, that she believes the site is 100 acres, and that only 100 of the 400 jobs are on site. The 100 acres is her belief, not a confirmed area. Manzar treated the jobs line as already answering the question. He said data taken without consent, and land and water that belong to the community, are being given away on promise, and that the people asking are mostly outsiders seeking profit. Nothing, he said, should move without consent. Shinh said he was not speaking for the government, that companies are there because government gave permission, and that renting racks to Amazon, AWS, or Google, with the model free to sit anywhere, is not value capture. He wants India self-sufficient in the infrastructure, and he wants the argument kept neutral between competitors. Chaurasia said both views hold in their own frame. He said the power sector is now distributed enough for small capacity additions, that states have to offer tax benefits because the return on capital is probably three, four, or five years out, and that the cities lead because the talent is there. He credited Mumbai's older business role, Chandrababu Naidu and the Andhra government, and Bangalore, and he would rather see centers spread across India.</p>
-        <p>Pressed on households and farms, Manzar said a line that "70 percent of all the planned data centers are already said no to us," after an election in which Democrats gained seats. That sentence is garbled and does not establish a country or a count. He said mega centers serve a compulsion to archive what he called garbage on social media, and that the constant energy they need is not sustainable. He expects a shift to small, local models. Shinh said centers also serve cars, which he rendered "lactic," healthcare and "teley medicine," robotics, aerospace, and manufacturing, and he asked whether India would accept the same centers sitting in China, Peru, or the United States. He favors treating water and using it more carefully, not only opposing the plants. Chaurasia called the resource problem global, said people whose land is taken should share the value rather than remain salaried labor, and said opposition should be separated from a habit of opposing projects such as the bullet train and Vande Bharat. Manzar rejected a return-to-the-bullock-cart framing. He said Bangalore still takes him 30 minutes to drive 3 kilometers, that more than half of Indians do not use the internet after 30 years of it, since 1995, and that calling those people backward is arrogance. A data center, he said, is useful only if it serves that larger population, and he does not see the projects doing so.</p>
-        <p>On Union Budget 2026-27, Gupta said eligible foreign cloud providers were given a tax holiday until 2047 if they use Indian data centers. She called it both a 21-year break and a two-decade break. A claim that Indian rentals are already 30 to 35 percent cheaper, and that the beneficiary is "say a trillion dollar" company, is her supposition. Shinh said the hyperscalers would have come anyway, and he opposes the holiday if it kills people building infrastructure in India. He said GPU time in India is already far cheaper, and that India has the cheapest telecom plans. Gupta said Crisil projects hyperscalers will control 75 to 80 percent of India's "lease" data-center capacity by 2030. "Lease" may be a garbled "leased." Chaurasia said he completely disagrees with tax holidays for hyperscalers. He said 25 or 26 years of India's technology story were application work for foreign firms, and he recalled a student in Pune last year being told that a software superpower is a myth. He said almost 100 percent of data-center technology, the operating system, the network gear, and the storage, will be imported, and he compared the pattern to the East India Company. Manzar said the holiday spends taxpayers' resources, that India can build the centers and import only what it must, and that real-time service to people does not require one central hall. He recalled 1995, when mail to a neighbor was routed through the United States.</p>
-        <p>In a round where each guest defended an assigned position, Manzar argued for pausing new centers until a project can show better digital access, real local jobs, and a measurable gain for the host community, because the data is people's data. Shinh asked who speaks for a population he put at 1.4 billion, and said a street protest is not a vote of the whole country. Manzar said elected members and civil-society groups are the representatives, and that people come onto the street when they are not heard. Chaurasia said the claim that about half the country does not use the internet is factually wrong, in a sentence that also garbles who redefined that half as people without a meaningful connection. He cited TRAI for nearly 78 percent of Indians on mobile or other internet, and said UPI is used by only 25 percent, a figure he joined to "rural India" and to a rural population of 980 million, so the base of the 25 percent is not clear. He said UPI has surpassed Mastercard and Visa, and that India has started exporting payment-gateway technology. On a copper smelter in Tamil Nadu, spoken as a "co copper" plant and planned by Sterlite Industries, he said a protest stopped the factory and India is now a net copper importer. His population figure was "1.4 4 billion."</p>
-        <p>Defending priority power and water for data centers, Chaurasia said a car is now electronics and software, and that a fridge, a phone, and a gas line already throw off data, so the centers have to be widespread. Manzar called a great deal of technological development anti-human, and said a digital-only rule for a pension took three decades to reach a 50-year-old in a village. He also objected to an attendance app made mandatory for workers he called "narga" and "ng." Chaurasia answered with a 1980s prime minister's line that only 10 or 15 paise of every budgeted rupee reached the poor, and with direct benefit transfer, Aadhaar, and a vaccination app he called "co." Shinh said a Western template does not fit India, and he asked which sector loses electricity today. Chaurasia's example of chip costs and data-transfer costs falling 50 to 60 percent is a hypothetical, not a reported result. Shinh said those gains are 10 to 15 years away, while the megawatts have to be paid for now.</p>
-        <p>Asked to defend welcoming global hyperscalers even if Indian cloud companies lose, Shinh said that is the opposite of his own view, that markets should decide, and that he would subsidize neither foreign hyperscalers nor local firms that do not innovate. A buyer spending 5 dollars, or 5 rupees, should look at the return. Chaurasia said there is still no level field against hyperscalers flush with cash, while Indian deep-technology companies cannot find patient capital. He said engineering centers in Bangalore, Pune, Hyderabad, Mumbai, and a place he called "Gura" are run by foreign companies. "Gura" is not resolved. Shinh said the fair comparison is AWS and Google with Adani and Ambani, rendered "andan adanis and ammanis," not with small "mom and shop pop" centers. Manzar said about 50 years of capitalism has been creating oligarchs, that micro, small, and medium enterprises are 85 percent of nano and micro entrepreneurs, and that the centers were agreed with government while people were bypassed. Shinh said a decentralized center is a good theory he has not seen work unless small sites can feed a larger grid. The closest case he offered is China, where data generated on one coast is processed on another, spoken as "other post," near the resources. He wants an Indian template rather than a copy. Gupta closed on a question neither side answered: whether India is building a foundation for Indian AI, or giving away too much land, power, and tax revenue.</p>
-        <p><strong>Key points</strong></p>
-        <ul>
-        <li>Antara Gupta spoke with Osama Manzar of the Digital Empowerment Foundation, Amit Chaurasia of Dataneers, and Gaurav Shinh of SciKiq.</li>
-        <li>Crisil is cited for 7.5 gigawatts by 2030 and more than 3 lakh crore rupees, and also for three-quarters of an upcoming 6 gigawatts in Visakhapatnam, Mumbai, and Hyderabad.</li>
-        <li>Thane residents are protesting a 420-megawatt AWS site. Visakhapatnam's water objection is tied to a Google-Adani project called "15 billion," with no currency.</li>
-        <li>CtrlS is tied to 10,000 crore rupees in Bihar, 400 direct jobs, and a later line of 150 megawatts with 100 jobs on site. The 100 acres is the host's "I believe."</li>
-        <li>Manzar wants community consent. Shinh says renting space to Amazon or Google is not value capture. Chaurasia says talent and a three-to-five-year payback explain why the big cities lead.</li>
-        <li>A tax holiday for eligible foreign cloud providers runs until 2047. Shinh and Chaurasia oppose it. Crisil is cited for hyperscalers holding 75 to 80 percent of "lease" capacity by 2030.</li>
-        <li>Internet use is more than half offline in Manzar's account and nearly 78 percent online in Chaurasia's TRAI citation. A 25 percent UPI figure is tied unclearly to 980 million rural residents.</li>
-        <li>Chip-cost cuts of 50 to 60 percent are a hypothetical. "Gura," "1.4 4 billion," and a 70 percent refusal tied to Democrats are unresolved wordings.</li>
-        </ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Oracle says Google's AI chips arrive on its cloud in 2027</title>
-      <link>https://www.youtube.com/watch?v=RKQkekxso9U</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=RKQkekxso9U</guid>
-      <pubDate>Thu, 26 Nov 2026 07:30:01 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>RKQkekxso9U</news:videoId>
-      <news:publishedIst>2026-11-26T13:00:01+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/RKQkekxso9U/hqdefault.jpg"/>
-      <description><![CDATA[
-        <p>Google's tensor processing units are coming to Oracle Cloud Infrastructure in 2027. Amit Raja Naik spoke with Christopher G. Chelliah, also called Chris Chelliah, senior vice president for technology and customer strategy in JAPAC at Oracle, at Oracle AI World in Las Vegas. The conversation is placed both "just last month" and on the third day of the event, with the chip news called "yesterday." No event date is established. Oracle already runs its database services on Amazon Web Services, Microsoft Azure, and Google Cloud. Starting in 2027 the Google partnership is described as running both ways, and Oracle Cloud is described as set to become the first hyperscale cloud outside Google to offer Google's TPUs, alongside GPUs, for training and running models. That "first" is the framing of the account. Chelliah does not say it. A line that Oracle "bought" its database into the cloud is not confirmed as a purchase.</p>
-        <p>Chelliah said customers have moved past experiments and want business outcomes, without walled gardens of context. AI, he said, needs data that is available, and inference depends on the chip. Oracle's multicloud lesson was to make the same data available in every cloud. Uptake, he said, was phenomenal, and the company is opening the same kind of choice for AI. Asked whether the saving is the accelerator or the fact that data does not have to move, he said both. Data has piled up for decades and is scattered, and an AI result has to be grounded in it. He also said customers want a choice of inference chips because that is how they get price performance. He gave no count, cost, or test duration for moving a workload from GPUs to TPUs. Most customers, he said, already have a test harness and a router that picks a model to save tokens. Oracle would let them keep that harness, bring their own model, and run each model on the chip where it does better. He said the company already helps people compare chips, through always-free Oracle Cloud accounts, starter credits, and the ability to flip models and chips without other changes. A caption line, "they're going at that minute gravity," is unclear.</p>
-        <p>Naik said there are close to 75 agents already built, and about 25 Fusion Cloud applications. Chelliah did not repeat either number. He said Fusion and industry applications can deliver an outcome out of the box: hospitality, healthcare, and a manufacturing supply chain were his examples. An outcome is set in English, and the agents work in the background. Oracle ships those agents and the toolkit, so a customer can extend them or build their own. An AI data platform, he said, can reach enterprise data on premises, on Oracle's cloud, or on the other hyperscale clouds. On security, he said protection has to sit in what he called the atomic layer, not get wrapped on at the end. Over the coming years the largest new flow of data will be machines and agents, not people, so identity, access, governance, and provenance have to travel with every step. His example is a banking agent that holds a micro-credential, also called a subcredential, allowing an inquiry but not a transaction. He said that pattern holds on Oracle's cloud and in the multicloud setup.</p>
-        <p>Naik said Google reports up to 80 percent better performance per dollar for low-latency serving, and asked how much of that customers should expect when the TPUs arrive in 2027. Chelliah did not confirm 80 percent or any share of it. He said every model has its own token and performance shape, and compared a car, a bus, and a truck: each gets there, and the right one depends on the question. Naik also raised a Cerebras partnership and Nvidia's position, and asked whether other clouds' chips would be offered the same way. Chelliah did not name Cerebras or Nvidia and did not confirm those chips. He said Oracle removes barriers to adoption, has been taking technology to customers for almost five decades, and will keep adding to the platform. He did not say whether aligning rival platforms or the people behind them is harder. He called the relationship co-opetition, and said customers should not have to change what he called their "religion" to reach an outcome. His advice to CIOs and CISOs is to start from wherever the company already is: ready-made agents inside applications, trusted use of data it already holds, or the best price for inference. Banking, manufacturing, hospitality, and retail, he said, are covered by hundreds if not thousands of use cases. Oracle, he said, can take an outcome a customer wants and show it working in one to two weeks.</p>
-        <p><strong>Key points</strong></p>
-        <ul>
-        <li>Google TPUs are coming to Oracle Cloud Infrastructure in 2027. Christopher G. Chelliah, also Chris Chelliah, described the partnership at Oracle AI World in Las Vegas.</li>
-        <li>Amit Raja Naik conducted the interview. The timing is both "last month" and the third day of the event.</li>
-        <li>Oracle already runs database services on AWS, Azure, and Google Cloud. OCI is described as set to be the first hyperscale cloud outside Google to offer the TPUs. Chelliah does not say "first."</li>
-        <li>He said the gain is both the chip and not having to move data, and he gave no cost or test time for a GPU-to-TPU switch.</li>
-        <li>Close to 75 agents and about 25 Fusion applications are Naik's figures. Chelliah did not restate them.</li>
-        <li>Security, he said, belongs in the atomic layer, with short-lived identity. A banking micro-credential could allow an inquiry and block a transaction.</li>
-        <li>Up to 80 percent better performance per dollar is Naik's citation of Google. Chelliah did not adopt it. Cerebras and Nvidia are likewise unconfirmed by him.</li>
-        <li>His advice is to start from the company's current AI use. He said a customer outcome can be shown working in one to two weeks.</li>
-        </ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>India warned the UN on terrorist misuse of AI, alongside seven other developments</title>
-      <link>https://www.youtube.com/watch?v=gG7WSXSAvCo</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=gG7WSXSAvCo</guid>
-      <pubDate>Thu, 26 Nov 2026 05:39:54 +0000</pubDate>
-      <category>Video</category>
-      <news:format>video</news:format>
-      <news:videoId>gG7WSXSAvCo</news:videoId>
-      <news:publishedIst>2026-11-26T11:09:54+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/gG7WSXSAvCo/hqdefault.jpg"/>
-      <description><![CDATA[
-<p>India has warned the United Nations that terrorists could misuse AI, and has urged human oversight, stronger cybersecurity, and a greater role for developing countries in writing the rules. The same list says Skyroot's Raman-2 engine cleared its acceptance test for Vikram-1's second flight, and that GalaxEye ordered electric propulsion from Bellatrix for 30 Drishti Gen-II satellites, also described as a business-to-business order. Karnataka approved Pixxel's GigaPixxel satellite factory. Indian AI startups raised $1.6 billion in the first nine months of 2026, according to Tracxn, with funding up 96 percent and startup deals plunging. Anthropic's Siren test asks whether AI agents misuse files and credentials, and is also described as a trap set for those agents. Microsoft called an internal Code Red after a major outage, with the question of why recovery took so long left as the subject rather than an answer. Huawei was convicted on 10 of 12 US counts.</p>
-<p>Those are the claims as listed. The figures and names above are the ones that list states, and it does not add a further count, date, or quotation.</p>
-<p><strong>Key points</strong></p>
-<ul>
-<li>India warned the UN that terrorists could misuse AI, and urged human oversight, stronger cybersecurity, and a larger role for developing countries.</li>
-<li>The list says Raman-2 cleared its test for Vikram-1's second flight, GalaxEye ordered Bellatrix propulsion for 30 Drishti Gen-II satellites, and Karnataka approved Pixxel's GigaPixxel factory.</li>
-<li>It says Indian AI startups raised $1.6 billion in the first nine months of 2026, according to Tracxn, with funding up 96 percent and deals plunging.</li>
-<li>It names Anthropic's Siren test, Microsoft's Code Red, and Huawei's conviction on 10 of 12 counts, without adding counts or dates beyond that.</li>
-</ul>
-      ]]></description>
-    </item>
-
-    <item>
-      <title>Anupam Sidhant says a century of artists will not roll over for AI</title>
-      <link>https://www.youtube.com/watch?v=yaRJjvye1-k</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=yaRJjvye1-k</guid>
-      <pubDate>Thu, 26 Nov 2026 05:30:20 +0000</pubDate>
+      <title>A Chariot co-founder says chained voice models lose tone and emotion</title>
+      <link>https://www.youtube.com/watch?v=zZvA_dT__CE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=zZvA_dT__CE</guid>
+      <pubDate>Fri, 27 Nov 2026 05:00:23 +0000</pubDate>
       <category>Short</category>
       <news:format>short_candidate</news:format>
-      <news:videoId>yaRJjvye1-k</news:videoId>
-      <news:publishedIst>2026-11-26T11:00:20+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/yaRJjvye1-k/hqdefault.jpg"/>
+      <news:videoId>zZvA_dT__CE</news:videoId>
+      <news:publishedIst>2026-11-27T10:30:23+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/zZvA_dT__CE/hqdefault.jpg"/>
       <description><![CDATA[
-        <p>Anupam Sidhant, co-founder of Bombay Locale, pushes back on daily claims that design, story, cinema, and music are dead. In the exchange those claims are placed on Twitter, as a funeral a day. He asks why a good technology product would mean artists simply quit. The written line says artists who have lasted a century will not roll over. The spoken line says artists who have been around for the last 100 years, and been through everything, will not roll over and ask what their work is for. He says the narrative around AI is terrible, and that AI has one chance to fix it, because the technology is essentially good. The spoken sentence breaks off at "essentially a good." He compares that chance with Web 3 crypto, which had one chance, then uses an unfinished "They it up," after which he says nobody talks about crypto anymore. He says India had that kind of movement, and that AI has it now, and he asks whether stories can make the narrative better.</p>
+        <p>A Chariot co-founder, who is not named, argues that chained voice models lose tone and emotion. A second line says speech AI is still pre-GPT because voice systems chain separate models together, and that Chariot wants models that reason directly through speech. The loss of tone and emotion is not in that second line. The pre-GPT claim and the wish to reason directly through speech are not in the first. Nothing further is established about how the models work or what they have measured.</p>
         <p><strong>Key points</strong></p>
         <ul>
-        <li>Anupam Sidhant, co-founder of Bombay Locale, rejects daily claims that design, story, cinema, and music are dead.</li>
-        <li>He says artists who have lasted a century, also "the last 100 years," will not give up their work because a technology product arrived.</li>
-        <li>He says AI has one chance to fix a terrible narrative, and that the technology is essentially good. The spoken sentence breaks off.</li>
-        <li>Web 3 crypto is his comparison for a chance that was missed. "They it up" does not say what was done with that chance.</li>
+        <li>An unnamed Chariot co-founder is said to argue that chained voice models lose tone and emotion.</li>
+        <li>A second line says speech AI is still pre-GPT because systems chain separate models, and that Chariot wants models that reason directly through speech.</li>
+        <li>The two lines do not carry each other's claims. No measurement is given.</li>
         </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Anupam Sidhant tells filmmakers to ask whether a task needs AI at all</title>
-      <link>https://www.youtube.com/watch?v=J48O9f22MAQ</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=J48O9f22MAQ</guid>
-      <pubDate>Thu, 26 Nov 2026 04:30:35 +0000</pubDate>
+      <title>Sarvam's models are in preview on Entire, with private code kept in India</title>
+      <link>https://www.youtube.com/watch?v=0ee7QgZzdqQ</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=0ee7QgZzdqQ</guid>
+      <pubDate>Fri, 27 Nov 2026 04:30:24 +0000</pubDate>
       <category>Short</category>
       <news:format>short_candidate</news:format>
-      <news:videoId>J48O9f22MAQ</news:videoId>
-      <news:publishedIst>2026-11-26T10:00:35+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/J48O9f22MAQ/hqdefault.jpg"/>
+      <news:videoId>0ee7QgZzdqQ</news:videoId>
+      <news:publishedIst>2026-11-27T10:00:24+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/0ee7QgZzdqQ/hqdefault.jpg"/>
       <description><![CDATA[
-        <p>Anupam Sidhant, co-founder of Bombay Locale and described as an IIT Bombay alumnus, was asked how he answers filmmakers who say AI is shortchanging the craft and that critical thinking is leaving the room. The questioner called him a pedigree of IIT Bombay. Sidhant said there is some truth in that complaint, including inside his own team. A common warning, which he calls fair, is that people should not let AI do their thinking. He said the overall IQ of the world is going to dumb down because of that, and that this is certain. He looks at the work of people who are 18 and 19 and asks them, each time they use AI, whether the task needed it. He asks himself the same question. Many tasks, he said, do not. Some of that use makes his own process more annoying rather than faster. The sentence is garbled at "we just happen," so what exactly becomes annoying is the use, not a second claim. A question about whether he wanted his IIT Bombay background as an edge is not answered in the exchange. The co-founder title and the surname Sidhant come from the report's identification of him. The exchange itself addresses him as Anupam.</p>
+        <p>Sarvam's models are now in preview on Entire. Private repositories can be hosted in India. That is aimed at regulated sectors that need code to stay in the country. Nothing further is said about how the preview works, who can use it, or what it changes for a developer.</p>
         <p><strong>Key points</strong></p>
         <ul>
-        <li>Anupam Sidhant, identified as co-founder of Bombay Locale and an IIT Bombay alumnus, was asked about AI shortchanging filmmaking.</li>
-        <li>He said there is some truth in that, including on his own team.</li>
-        <li>He calls it fair that people should not let AI do their thinking, and he said the world's IQ will dumb down because of it.</li>
-        <li>He asks 18- and 19-year-olds, and himself, whether a task even needs AI. Many tasks, he said, do not.</li>
-        <li>Some of that use makes his process more annoying. His answer on using an IIT background as an edge is not in the exchange.</li>
+        <li>Sarvam's models are in preview on Entire.</li>
+        <li>Private repositories can be hosted in India.</li>
+        <li>The stated reason is regulated sectors that need code to stay in the country.</li>
         </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Bombay Locale's co-founder expects AI to cost jobs and says people are cheaper in India</title>
-      <link>https://www.youtube.com/watch?v=if25yVZQPm4</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=if25yVZQPm4</guid>
-      <pubDate>Thu, 26 Nov 2026 03:30:27 +0000</pubDate>
-      <category>Short</category>
-      <news:format>short_candidate</news:format>
-      <news:videoId>if25yVZQPm4</news:videoId>
-      <news:publishedIst>2026-11-26T09:00:27+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/if25yVZQPm4/hqdefault.jpg"/>
+      <title>Nvidia brought Jensen Huang back, six days in one account and 11 in another</title>
+      <link>https://www.youtube.com/watch?v=lOWDXDlbOnE</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=lOWDXDlbOnE</guid>
+      <pubDate>Fri, 27 Nov 2026 04:00:38 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>lOWDXDlbOnE</news:videoId>
+      <news:publishedIst>2026-11-27T09:30:38+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/lOWDXDlbOnE/hqdefault.jpg"/>
       <description><![CDATA[
-        <p>Anupam Sidhant, co-founder of Bombay Locale, is the person named on this exchange. The exchange itself does not attach each line to a name. Asked whether this leads to a loss of jobs, one speaker says "Of course it will," because the models will change and the work will change, and compares it to an e-rickshaw arriving and the hand rickshaw going. Another speaker agrees. The same stretch says the creative opportunity, or the creative ability, is not going to shrink, worded in the written account as the creative ability of people. A speaker wants to empower "my 10 HODs with AI," and the sentence breaks off, then calls the problem specific to India. "HOD" is not expanded. Another line, "But it is indelicate," is unclear. People, the exchange agrees, are cheaper than AI. "We throw 10 people at a problem. We don't throw AI." In a country like the United States, a western country, the exchange says they will use AI to minimize things. "In India, you can't."</p>
+        <p>Nvidia reinstated Jensen Huang as chief executive. A headline says the board brought him back six days after ruling out his return. Antara's opening, and a second line, say the return came 11 days after his resignation, and the opening places him back in the chief executive's office. Antara says he resigned over an affair with a suspected Chinese intelligence operative, that President Trump personally lobbied the board "and so he claims," and that the episode drew a rare bipartisan backlash from lawmakers on Capitol Hill, outside the Beltway, and in the boardroom. Disha Chatterjee asked colleagues at the office what they make of the return.</p>
+        <p>Ramya, from the business-development team, calls Huang an exceptional and consequential leader and says no one is above consequences. She felt the resignation may have been the right move and is not sure the return should have happened. She says the board made a decision and did not stick to it, which she calls a question for the board's authority. She expects Nvidia to bet bigger and show it is still the top player in what she calls the AI war. Shweta says Huang is treated as bigger than the brand, that she is happy he came back, and that a brand which can crash because of one person has something wrong with it. She says the industry can still point to only three or four people it depends on. She says corporate rules have been bending for some time, and that she recently read that every Thanksgiving the technology industry forgives a chief executive, which she thinks happened this year as well.</p>
+        <p>Shamit says Huang used the break to finish a GTA 6 speedrun and came back with a fresh mind. He says he does not think Huang addressed his wife, "whom he actually did the affair too," and that saying Huang will be a good chief executive is not the same as saying he will be a good husband. Shamit says he does not have much hope. Disha says GTA 6 made record revenue while Nvidia's stock went down and came up on a random Monday or Wednesday. Shamit says people who bought while the stock was falling have a really good goal ahead, and that he is not sure what Nvidia's own goal looks like. An unnamed colleague who says they have met Huang calls the return great for Nvidia and the wider field, says there is no Nvidia without Jensen and no Jensen without Nvidia, and calls him the chief executive of the entire AI ecosystem. That colleague says momentum paused by the decision, a supply-chain issue, and the deal pipeline can resume around open source, Nemotron, a Hugging Face deal, RTX personal computers, Isaac and Omniverse simulations, physical AI, data centers, and next-generation GPUs "by end of early 2027." A shorter line says those GPUs are due in 2027. Antara closes by calling the comeback a stress test for corporate governance and asking whether it is a pragmatic move or a dangerous precedent.</p>
         <p><strong>Key points</strong></p>
         <ul>
-        <li>The report names Anupam Sidhant, co-founder of Bombay Locale. The exchange does not label which lines are his.</li>
-        <li>Jobs will be lost as the models and the work change. The comparison is an e-rickshaw replacing a hand rickshaw.</li>
-        <li>Creative ability is said not to shrink.</li>
-        <li>A wish to empower "10 HODs" with AI is cut off.</li>
-        <li>People are cheaper than AI. The line is that India throws 10 people at a problem, while a western country uses AI to minimize things.</li>
+        <li>A headline says Huang returned six days after the board ruled his return out. Antara and a second line say 11 days after the resignation.</li>
+        <li>Antara says he resigned over an affair with a suspected Chinese intelligence operative, and that Trump lobbied the board, "and so he claims."</li>
+        <li>Ramya questions the board reversing itself. Shweta says rules already bend for a few AI leaders, and cites a Thanksgiving-forgiveness line she read.</li>
+        <li>Shamit says Huang finished a GTA 6 speedrun and did not, in Shamit's view, address his wife. The affair wording is Shamit's: "whom he actually did the affair too."</li>
+        <li>An unnamed colleague expects Nemotron, a Hugging Face deal, RTX PCs, Isaac and Omniverse, and GPUs "by end of early 2027." A shorter line says the GPUs are due in 2027.</li>
+        <li>Antara calls the return a stress test for corporate governance and leaves open whether it is pragmatic or a dangerous precedent.</li>
         </ul>
       ]]></description>
     </item>
 
     <item>
-      <title>Anupam Sidhant tells film students to pick a tool and get the story out</title>
-      <link>https://www.youtube.com/watch?v=jhF03avP2X0</link>
-      <guid isPermaLink="true">https://www.youtube.com/watch?v=jhF03avP2X0</guid>
-      <pubDate>Thu, 26 Nov 2026 02:30:31 +0000</pubDate>
+      <title>A US map built with Claude puts one in four San Jose workers in technical jobs</title>
+      <link>https://www.youtube.com/watch?v=y8VGqbltZto</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=y8VGqbltZto</guid>
+      <pubDate>Fri, 27 Nov 2026 04:00:33 +0000</pubDate>
       <category>Short</category>
       <news:format>short_candidate</news:format>
-      <news:videoId>jhF03avP2X0</news:videoId>
-      <news:publishedIst>2026-11-26T08:00:31+05:30</news:publishedIst>
-      <media:thumbnail url="https://i.ytimg.com/vi/jhF03avP2X0/hqdefault.jpg"/>
+      <news:videoId>y8VGqbltZto</news:videoId>
+      <news:publishedIst>2026-11-27T09:30:33+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/y8VGqbltZto/hqdefault.jpg"/>
       <description><![CDATA[
-        <p>Anupam Sidhant, co-founder of Bombay Locale, was asked what he tells a film student. The exchange addresses him as Anupam. He said cinema has always been problem solving and nothing else. Students should use whatever tool they have, pick the one they want, and get the story out. That, he said, is the only way to make films. It has always been the same, and nobody will ever hand them a chance. He told them not to listen to the old folks or to anyone, not to be idealistic, not to be a puritan, and not to be a Luddite. A garbled stretch says Werner Herzog will teach documentaries his own way, that the speaker loves Herzog and loves Del Toro, and that students should not listen to him. The day a student can afford it, he said, they can be like Tarantino and refuse a technology. Until then they should not reject anything. The sentence ends unfinished at "that's going to hurt."</p>
-        <p>Another speaker called the remarks a summary of the whole discussion. A later turn, whose speaker is not named, ties the point to early friends at TVF. When those videos were being made, everybody looked at the makers as if they were stupid and asked why anyone would watch, and the present argument sounds the same. The written account says few believed the videos would find an audience, and it attributes that memory to Sidhant. The spoken line says everybody treated the makers as stupid. Neither line states a job title at TVF.</p>
+        <p>A game map built with Claude Opus 5.5 turns federal data into 524 US metro areas. A headline says one in four San Jose workers is an engineer. A second line says one in four is an engineer, against one in 14 elsewhere. The fuller account says Plot turned federal spreadsheets into civilization-game mechanics, with gold yield standing for real GDP. A city's districts follow its industries, so San Jose got a campus and Detroit is called Motor City. Citizens mirror the real workforce: in San Jose, one in four workers is an engineer, coder, or scientist, compared with one in 14 nationally. That is a wider job group, and a national comparison, than the headline's engineers and the second line's "elsewhere."</p>
+        <p>Wonders follow published rules, including national parks ranked by visitors and universities ranked by research and development spending. The web app has 19 lenses, from income and degrees to faith and disasters, a city view of 524 metro areas, nine advisors, and an explorer that turns any data column across more than 3,100 counties into a table and a scatter plot linked to the map. What the nine advisors are is not said.</p>
         <p><strong>Key points</strong></p>
         <ul>
-        <li>Anupam Sidhant tells film students that cinema has always been problem solving, and that they should pick a tool and get the story out.</li>
-        <li>He says not to be a puritan or a Luddite, and not to reject a technology until they can afford to, a position he ties to Tarantino.</li>
-        <li>Werner Herzog and Del Toro are named. The sentence joining them to "don't listen" is garbled.</li>
-        <li>Early TVF videos are the comparison: everybody is said to have asked why anyone would watch. A written line says few believed they would find an audience.</li>
+        <li>A map built with Claude Opus 5.5 covers 524 US metro areas from federal data.</li>
+        <li>A headline says one in four San Jose workers is an engineer, against one in 14 elsewhere in a second line.</li>
+        <li>The fuller account says one in four is an engineer, coder, or scientist, against one in 14 nationally.</li>
+        <li>Gold yield stands for real GDP. San Jose is given a campus district. Detroit is called Motor City.</li>
+        <li>The app has 19 lenses, nine advisors, and a tool across more than 3,100 counties. The advisors are not described.</li>
+        </ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Epochal's Time Portal rolls an agent's clock back so it cannot use hindsight</title>
+      <link>https://www.youtube.com/watch?v=kBWkpQULaDI</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=kBWkpQULaDI</guid>
+      <pubDate>Fri, 27 Nov 2026 02:30:39 +0000</pubDate>
+      <category>Short</category>
+      <news:format>short_candidate</news:format>
+      <news:videoId>kBWkpQULaDI</news:videoId>
+      <news:publishedIst>2026-11-27T08:00:39+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/kBWkpQULaDI/hqdefault.jpg"/>
+      <description><![CDATA[
+        <p>The problem with training an AI to forecast is usually hindsight. Models trained on years of internet history already know how the story ends, so it is hard to tell a genuine pattern from a future the model memorized. Epochal's first product, Time Portal, was built in 90 days to take an agent back in time. It is described as a time-gated environment covering more than 1 trillion web pages and 7 trillion URLs across more than 30 years, with minute-level timestamps on sites that update often. A shorter line says the tool stops models memorizing historical outcomes and forces them to read the data as if it were happening now.</p>
+        <p>To stop an agent realizing it is in a simulation, Time Portal wraps it in a matching Linux sandbox. The system clock, the operating system, the software libraries, and the packet sources are rolled back to the chosen date, and every web request is rooted strictly through the time-gated environment. The account stops mid-sentence there.</p>
+        <p><strong>Key points</strong></p>
+        <ul>
+        <li>Epochal's Time Portal is meant to stop forecast models using hindsight from internet history.</li>
+        <li>It is the company's first product and was built in 90 days.</li>
+        <li>The environment covers more than 1 trillion web pages and 7 trillion URLs across more than 30 years, with minute-level timestamps on frequently updated sites.</li>
+        <li>A Linux sandbox rolls back the clock, the operating system, libraries, and packet sources. The account of how web requests are routed stops mid-sentence.</li>
         </ul>
       ]]></description>
     </item>
