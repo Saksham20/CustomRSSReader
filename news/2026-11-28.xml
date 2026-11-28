@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  One calendar day in India time: Saturday 28 November 2026. The site fetches this file only when that day is selected.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:news="urn:latest-news:1">
+  <channel>
+    <title>Latest</title>
+    <link>news/2026-11-28.xml</link>
+    <description>News for Saturday 28 November 2026.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 28 Nov 2026 01:35:01 +0000</lastBuildDate>
+    <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-28">
+      <news:scannedAt>2026-11-28T01:35:01.583122+00:00</news:scannedAt>
+      <news:scannedAtIst>2026-11-28T07:05:01+05:30</news:scannedAtIst>
+      <news:longFormCount>14</news:longFormCount>
+      <news:shortCount>7</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="-_h0l9BSFhM" published="2026-11-27T15:00:19Z">India wants one crore people in AI, and no budget has been found</news:latestLongForm>
+      <news:method>Saturday 28 November 2026, retrieved at 07:05 IST.</news:method>
+      <news:briefing>
+Saturday 28 November 2026, retrieved at 07:05 IST. India wants at least one crore people working in artificial intelligence, a figure put at almost double the tech industry, and no official budget or deadline has turned up. BharatGen says Patram 1.5, a 7-billion-parameter document model, matches systems 97 times its size on Indian paperwork. Neuralink says it has clearance for a pivotal US trial of its Link implant in adults with severe paralysis from ALS.
+
+The morning's through-line: India is aiming for one crore people in AI without a published budget, BharatGen says a compact document model matches systems 97 times larger, and Neuralink has a pivotal US brain-implant trial that is still years from sale.
+
+One crore workers. At the Waves Film Bazaar in Goa, the director of India's vocational training council, NCVET, said a national AI talent mission recently launched by the prime minister is meant to bring at least one crore people into AI. Siddhant and Ravi say they have not found a launch date, a budget, or a deadline. Nasscom is cited for about 59.5 lakh people in the tech industry, more than 20 lakh trained in AI last financial year, and only two to three lakh with advanced skills. Foundit is cited for IT companies' share of fresher hiring falling from 32 percent to 24 percent. A shorter account renders that share as ID companies, and renders the skilling scheme as soar.
+
+Orbital compute and the brain. FCC chairman Brendan Carr called solar-powered orbital computing a "bold new frontier" and wrote that "the Star Mind and competitor constellations" would extend America's lead in superintelligence. A headline names SpaceX and 1 million satellites, and says the approval is conditional. Those figures are not in his remarks. Neuralink announced on Wednesday that the US Food and Drug and Administration cleared a pivotal trial of the N1 implant, inserted by an R1 system, for adults with ALS, with about 24 months of follow-up. The clearance is for testing, not for sale.
+
+Documents, a breach, and a peptide. BharatGen launched Patram 1.5 on 26 November as open weights under Apache 2.0. It claims an overall score of 83 across 49 evaluations. The company is also rendered Bharat Jain, and the model Patra 1.5. FIFA has confirmed that criminals accessed personal and business information and has not said whose. A claim of more than 12 gigabytes is not confirmed. Tencent's AI for life sciences lab published in Nature on 25 November. A peptide spoken as IC dual P three is said to have cut tumor volume 94.2 percent in mice. The results are from mice, not people.
+
+The coast, space, and a neighbour. Karnataka is looking at a 49-acre plot near Tanirbhavi beach in Mangaluru for what Priyank Kharge calls a sustainable coastal data center. Coastal rules leave only about 20 acres for permanent construction. IN-SPACe chairman Pawan Kumar Goenka put private space startup revenue at about 2,000 crore rupees, also heard as "just 12 about 2,000," against a 2033 aim of 44 billion dollars. India is backing Sri Lanka's digital identity project with grant assistance of over 25 billion Sri Lankan rupees.
+
+Voice, farms, and the board. Murf AI's Ankur Edkie describes Finch as speech-to-text built for voice agents. A first-place claim across 11 Indian languages is the interviewer's, on a closed benchmark, and Edkie does not restate it. Wipro's Mindsprint, in the words of Sagar P.V., is taking food and agriculture work to a wider set of customers after Wipro's purchase. The 375 million dollar figure and a claim of 80,000 plantations a month are the interviewer's. Nvidia reinstated Jensen Huang. One account says the board brought him back six days after ruling out his return. The office conversation says 11 days after he resigned.
+      </news:briefing>
+    </news:edition>
+
+  </channel>
+</rss>

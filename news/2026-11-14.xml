@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  One calendar day in India time: Saturday 14 November 2026. The site fetches this file only when that day is selected.
+-->
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:news="urn:latest-news:1">
+  <channel>
+    <title>Latest</title>
+    <link>news/2026-11-14.xml</link>
+    <description>News for Saturday 14 November 2026.</description>
+    <language>en</language>
+    <lastBuildDate>Sat, 14 Nov 2026 01:31:46 +0000</lastBuildDate>
+    <generator>Latest news reader</generator>
+
+    <news:edition date="2026-11-14">
+      <news:scannedAt>2026-11-14T01:31:46Z</news:scannedAt>
+      <news:scannedAtIst>2026-11-14T07:01:46+05:30</news:scannedAtIst>
+      <news:longFormCount>9</news:longFormCount>
+      <news:shortCount>0</news:shortCount>
+      <news:videosTab>https://www.youtube.com/@aimmediahouse/videos</news:videosTab>
+      <news:shortsTab>https://www.youtube.com/@aimmediahouse/shorts</news:shortsTab>
+      <news:latestLongForm videoId="mRGi_vO9hug" published="2026-11-13T15:30:30Z">JPMorgan forecast puts 400,000 humanoid robots into US factories and logistics</news:latestLongForm>
+      <news:method>Retrieved at 07:01 IST on 14 November 2026. The window is the 24 hours ending 01:31 UTC. Eleven uploads came back with titles, descriptions, and publication times. The spoken wording did not come back, so this edition uses those published accounts and does not add anything that would have required hearing them. Two of the eleven were already in this file. The other nine are here, newest first. All nine run past the three-minute line used only to sort short items from longer ones.</news:method>
+      <news:briefing>
+Saturday 14 November 2026, retrieved at 07:01 IST. JPMorgan's forecast puts 400,000 humanoid robots into US manufacturing and logistics as the industry moves from demos to commercial deployment. CleanMax and Blackstone-backed Neysa plan a 2-gigawatt compute factory in Kurnool at 8,000 crore rupees. A later account says Jensen Huang has stepped down after an independent board probe. An earlier account said a removal was not a decision already taken, and another said the board still had full confidence in him.
+
+The morning's through-line: JPMorgan sees 400,000 humanoid robots filling US factory and logistics jobs, Kurnool is the site of a planned 2-gigawatt compute factory, and a later account says Jensen Huang has stepped down after a board probe that earlier accounts do not treat as a departure.
+
+The robot forecast. JPMorgan has released a forecast that humanoid robots are moving from viral demos to commercial deployment. The United States is preparing for 400,000 robots to fill severe labor shortages in manufacturing and logistics. Hardware costs are dropping to a level that rivals human wages. The larger change is in software. The latest AI brain models from Google DeepMind and Nvidia are described as solving the main robotic bottleneck and setting up a large factory transformation. No year is given for the 400,000 figure.
+
+The California suit. A coalition of nonprofits has filed a lawsuit to block companies including OpenAI, Google, Meta, and Anthropic from building frontier AI models. The suit uses California public nuisance law. The plaintiffs use the executives' own apocalyptic warnings and demand a total freeze on development. The account asks whether a California judge could stop work toward artificial superintelligence. It does not report a ruling. It looks at the US industry as it contends with state-level injunctions while trying to stay ahead of China. The plaintiffs are not named.
+
+The glasses. Google and Samsung have launched Intelligent Eyewear, starting at 395 dollars. The glasses weigh 41 grams, run on the Android XR platform, and include Hey Gemini conversational AI. They are aimed at Meta's Ray-Ban glasses. Privacy safeguards are described as a way to avoid the stigma the account calls Glasshole. Whether this walled-garden hardware wins the wearable market is left open. No on-sale date and no country are given.
+
+The leadership account. This account says Nvidia co-founder Jensen Huang has stepped down after an independent board probe, and it calls the situation a political and corporate firestorm. It describes him as the person who built the hardware layer of the AI revolution. It says the investigation centers on an alleged affair with a businesswoman suspected by US intelligence of acting as a Chinese asset. She is not named. It says US lawmakers are demanding aggressive export controls and that Commerce Secretary Howard Lutnick is facing heavy scrutiny, and it calls the situation a leadership crisis for the semiconductor industry. Huang, the board, and Lutnick are not quoted. An earlier account said shares fell more than 8 percent on reports of a possible removal, with results due on 17 November, and that a removal was not a decision already taken. A still earlier account said the board maintained full confidence in Huang while searching for successors. This account is a different claim. It does not say Nvidia has confirmed a departure.
+
+The voice model. Chariot, founded by former Google DeepMind and Meta researchers, has launched a text-to-speech model for 11 Indian languages. The account places that launch in New Delhi. The model mixes more than one language inside a single sentence, which the account calls code-mixing, and it uses contextual reasoning to settle pronunciation. Chariot is backed by the IndiaAI Mission, given as 10,372 crore rupees. Whether the company can challenge ElevenLabs and OpenAI in the enterprise market is left open. The founders are not named.
+
+The satellites. Bengaluru-based Astrome Technologies has secured 64.05 crore rupees from the Technology Development Board. The money is for what the account calls India's first sovereign, AI-powered electronic-intelligence satellite constellation. The 50-kilogram microsatellites are to operate in low Earth orbit, use links between satellites and AI software on the ground, and intercept and process electronic signals for persistent defense surveillance. No launch date and no number of satellites are given.
+
+The Kurnool factory. The account calls electricity one of the biggest bottlenecks in AI. CleanMax and Blackstone-backed Neysa have partnered on a 2-gigawatt AI compute factory in Kurnool, Andhra Pradesh, at 8,000 crore rupees. The 600-acre site is scheduled for completion in March 2028. It aims to power high-density GPUs on a net-zero renewable grid. The account says the factory could threaten hyperscale providers such as AWS and Azure. That is a possibility it raises, not a result.
+
+The quantum ranking. The account says the National Quantum Mission is paying off. The MIT Quantum Index Report 2026 ranks India third in producing quantum computing and communications research, behind China and the United States. Quantum patent filings in India have nearly quadrupled in two years. Those two years are not dated, and no filing count is given. Whether Indian telecom and finance companies commercialise the work, or firms in Silicon Valley license it, is left open.
+
+The evening list. The Front Page list for the afternoon briefing names eight subjects. Jensen Huang steps down amid a national-security and espionage probe. Nonprofits file a California lawsuit to block OpenAI, Meta, and Google from building frontier models. Google and Samsung launch 395-dollar Gemini eyewear aimed at Meta. JPMorgan expects 400,000 humanoid robots in US factories, alongside AI brain models from Google and Nvidia. Patent filings are rising and India ranks third in quantum research volume. Blackstone-backed Neysa and CleanMax are building a net-zero compute factory in Andhra Pradesh at 8,000 crore rupees. Astrome in Bengaluru has funding for what the list calls a private AI orbital defence network. Former DeepMind researchers launch Chariot, a voice model that code-mixes 11 Indian languages. The list does not name Anthropic, Kurnool, the 64.05 crore rupee figure, the alleged affair, or Howard Lutnick. Those details are only in the separate accounts. What was said beyond this list is not established.
+      </news:briefing>
+    </news:edition>
+
+    <item>
+      <title>Kaynes Semicon packages chips at a new Sanand plant</title>
+      <link>https://www.youtube.com/watch?v=jbauM1N77rw</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=jbauM1N77rw</guid>
+      <pubDate>Sat, 14 Nov 2026 12:00:23 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>jbauM1N77rw</news:videoId>
+      <news:publishedIst>2026-11-14T17:30:23+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/jbauM1N77rw/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Kaynes Semicon has a new semiconductor plant in Sanand, Gujarat, described as one of India's approved OSAT facilities under the India Semiconductor Mission. Sanjana Gupta tours the plant with Raghu Panicker, chief executive of Kaynes SemiCon. The account covers the change from barren land to a working unit, and the work inside the clean room. Chips are packaged and tested from wafer saw through final testing. The steps named are wafer mount, die attach, wire bonding, moulding, and testing. The special economic zone is described as speeding up customs clearance. The plant cleared around 35 licenses in eight months. Reliability and failure analysis are described as keeping chip quality near 100 percent. Panicker is not quoted. No production volume and no opening date are given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Kaynes Semicon has a new semiconductor plant in Sanand, Gujarat.</li>
+<li>The plant is described as one of India's approved OSAT facilities under the India Semiconductor Mission.</li>
+<li>Sanjana Gupta tours the plant with Raghu Panicker, chief executive of Kaynes SemiCon.</li>
+<li>The account covers the change from barren land to a working unit and the work inside the clean room.</li>
+<li>Chips are packaged and tested from wafer saw through final testing.</li>
+<li>The steps named are wafer mount, die attach, wire bonding, moulding, and testing.</li>
+<li>The special economic zone is described as speeding up customs clearance.</li>
+<li>The plant cleared around 35 licenses in eight months.</li>
+<li>Reliability and failure analysis are described as keeping chip quality near 100 percent.</li>
+<li>Panicker is not quoted. No production volume and no opening date are given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>Point Break asks if 45,000 GPUs still explain India's AI lag</title>
+      <link>https://www.youtube.com/watch?v=WOfqxXjc2ak</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=WOfqxXjc2ak</guid>
+      <pubDate>Sat, 14 Nov 2026 07:30:17 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>WOfqxXjc2ak</news:videoId>
+      <news:publishedIst>2026-11-14T13:00:17+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/WOfqxXjc2ak/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Point Break host Antara Gupta asks whether a GPU shortage still explains India lagging in the global AI race. The account says hardware has been the usual excuse, and that the excuse is running out of time because the government has scaled the IndiaAI Mission to over 45,000 GPUs and is subsidising compute for startups. The title calls that 45,000 figure a myth and asks whether Indian AI startups are stuck in a subsidy trap. The question put to the guests is whether a lack of servers is being blamed for deeper problems in fundamental research, funding, and talent pipelines. The guests are Amit Sheth, chief executive of IAIRO; Vishnu Subramaniam, founder of Jarvislabs.ai; and Ramesh Pudhucode, tech advisor at Primerica. Their answers are not given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Antara Gupta hosts Point Break on whether a GPU shortage still explains India lagging in the global AI race.</li>
+<li>The account says the government has scaled the IndiaAI Mission to over 45,000 GPUs and is subsidising compute for startups.</li>
+<li>It says the hardware excuse is running out of time.</li>
+<li>The title calls the 45,000 figure a myth and asks whether Indian AI startups are stuck in a subsidy trap.</li>
+<li>The open question is whether a lack of servers is being blamed for deeper problems in fundamental research, funding, and talent pipelines.</li>
+<li>The guests are Amit Sheth, chief executive of IAIRO; Vishnu Subramaniam, founder of Jarvislabs.ai; and Ramesh Pudhucode, tech advisor at Primerica.</li>
+<li>Their answers are not given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+    <item>
+      <title>ZenteiQ's Dhīr is built to answer without an internet connection</title>
+      <link>https://www.youtube.com/watch?v=bh1k8G0qgIY</link>
+      <guid isPermaLink="true">https://www.youtube.com/watch?v=bh1k8G0qgIY</guid>
+      <pubDate>Sat, 14 Nov 2026 05:30:13 +0000</pubDate>
+      <category>Video</category>
+      <news:format>video</news:format>
+      <news:videoId>bh1k8G0qgIY</news:videoId>
+      <news:publishedIst>2026-11-14T11:00:13+05:30</news:publishedIst>
+      <media:thumbnail url="https://i.ytimg.com/vi/bh1k8G0qgIY/hqdefault.jpg"/>
+      <description><![CDATA[
+<p>Dhīr is a small open-source language model from ZenteiQ that the account says runs entirely offline. The example is a phone in aeroplane mode asked a question in Odia. Familiar systems wait for a signal, and Dhīr is presented as working without one. It is built to support English and ten Indian languages, and it aims to put sovereign AI on local servers and mobile devices. The account says India has announced sovereign AI before, and that many of those announcements are still waiting for a first customer. Whether Dhīr is a working product or another theoretical launch inside the IndiaAI Mission, given as 10,371 crore rupees, is left open. Professor Sashikumaar Ganesan of the Indian Institute of Science, founder of ZenteiQ, is the person the account sits down with to test the claims. No finding from that conversation is given.</p>
+<p><strong>Key points</strong></p>
+<ul>
+<li>Dhīr is a small open-source language model from ZenteiQ that the account says runs entirely offline.</li>
+<li>The example is a question in Odia asked on a phone in aeroplane mode.</li>
+<li>It is built to support English and ten Indian languages.</li>
+<li>It aims to put sovereign AI on local servers and mobile devices.</li>
+<li>The account says earlier Indian sovereign-AI announcements are still waiting for a first customer.</li>
+<li>Whether Dhīr is a working product or another theoretical launch inside the IndiaAI Mission, given as 10,371 crore rupees, is left open.</li>
+<li>Professor Sashikumaar Ganesan of the Indian Institute of Science, founder of ZenteiQ, is the guest. No finding from him is given.</li>
+</ul>
+      ]]></description>
+    </item>
+
+  </channel>
+</rss>
